@@ -1,6 +1,6 @@
 module.exports = {
   title: 'BEYOND THE GRAVE',
-  base: 'https://beyondthegrave.netlify.app/',
+  publicPath: 'https://beyondthegrave.netlify.app/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
