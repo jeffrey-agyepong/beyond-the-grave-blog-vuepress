@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Mediumish',
-  base: '/vuepress-theme-mediumish/',
+  title: 'BEYOND THE GRAVE',
+  base: '/beyond-the-grave-blog-vuepressh/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
