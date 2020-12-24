@@ -1,7 +1,7 @@
 ---
 title: "New Release: A Secret Ending - Deliverance [EP]"
 date: "2020-12-21"
-featuredimg: https://images.unsplash.com/photo-1523978591478-c753949ff840?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMzk2fQ&auto=format&fit=crop&w=1350&q=80
+featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 ---
 
 **Release Date:** December 20, 2020
@@ -12,8 +12,15 @@ featuredimg: https://images.unsplash.com/photo-1523978591478-c753949ff840?ixlib=
 
 * * *
 
-\[bandcamp width=350 height=470 album=4127081188 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+1. Fraudulent Heart 03:09
+2. God Has Control 03:32
+3. Rewrite Tomorrow 02:51
+4. Will to Rebel 02:59
+
+***
+
+<iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=4127081188/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://asecretending.bandcamp.com/album/deliverance-ep">Deliverance [EP] by A Secret Ending</a></iframe>
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=0anWYDd2zGk&w=560&h=315\]
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/0anWYDd2zGk?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="https://www.smartmenus.org/">Ultimate Web traffic</a></small></div></iframe>
