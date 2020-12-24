@@ -33,8 +33,8 @@ Record Label: Independent
 
 ---
 
-#### [iTunes](https://music.apple.com/ca/album/twisted-reality/1543915062)
+## [iTunes](https://music.apple.com/ca/album/twisted-reality/1543915062)
 
 ---
 
-https://open.spotify.com/album/57QDutFAhzn0U6SZeNFmpM
+<iframe src="https://open.spotify.com/embed/album/57QDutFAhzn0U6SZeNFmpM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
