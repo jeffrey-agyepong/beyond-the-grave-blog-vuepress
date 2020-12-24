@@ -1,7 +1,7 @@
 ---
 title: "Review: Sombre Holiday - The Failed Sun"
 date: "2020-12-14"
-coverImage: "sombre-holiday.jpg"
+featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 ---
 
 **Band:** Sombre Holiday
@@ -18,7 +18,18 @@ coverImage: "sombre-holiday.jpg"
 
 **Track List:**
 
-1\. The Second Son 04:08 2. Man of the Earth 04:29 3. Masterpiece 07:57 4. New Darkness 06:20 5. That Picture of You 05:28 6. The Burning Sky 06:19 7. This Present Absence 07:13 8. The Failed Sun 05:42 9. The Death of Death 06:45 10. A Passing Shadow 05:29 11. Man of the Sky 05:29 12. The Last of All Things 04:33
+1. The Second Son 04:08 
+2. Man of the Earth 04:29 
+3. Masterpiece 07:57 
+4. New Darkness 06:20
+5. That Picture of You 05:28 
+6. The Burning Sky 06:19 
+7. This Present Absence 07:13 
+8. The Failed Sun 05:42 
+9. The Death of Death 06:45 
+10. A Passing Shadow 05:29 
+11. Man of the Sky 05:29 
+12. The Last of All Things 04:33
 
 * * *
 
@@ -42,14 +53,16 @@ The cover art is also amazingly beautiful and detailed, moving and it just makes
 
 Even though this album was a bit out of my comfort sound, it sincerely opened my ears to different styles and forms of worship. This a beautiful, emotive, comforting, and charming Progressive masterpiece, a sound of light full with lyrics of light, and lots of thoughtful musicality, and lots of love to make such varied musical textures, that are deeply soulful. The amount of effort and talent behind this album is unbelievable and deserves recognition, simply admirable.
 
-**Rating:** 8.5/10
+###<p style="text-align:center;">**Rating:** 8.5/10</p>
 
 **Favorite Tracks:** Masterpiece, The Death of Death, This Present Absence, and The Burning Sky.
 
-**WRITTEN BY:** [Gorship777](https://www.instagram.com/gorship777/)
+<p style="text-align:center;">**WRITTEN BY:** [Gorship777](https://www.instagram.com/gorship777/)</p>
 
 * * *
 
-\[bandcamp width=350 height=470 album=2688863757 size=large bgcol=ffffff linkcol=0687f5 tracklist=false\]
+
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2688863757/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sombreholiday.bandcamp.com/album/the-failed-sun">The Failed Sun by Sombre Holiday</a></iframe>
+
 
 * * *
