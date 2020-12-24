@@ -1,8 +1,7 @@
 ---
-title: "New Release: Northern Flame - Twisted Reality"
-date: "2020-12-21"
-featuredimg: https://images.unsplash.com/photo-1568318526744-88e81ebaf78f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
-
+title: 'New Release: Northern Flame - Twisted Reality'
+date: '2020-12-21'
+featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
 
 Genre: Melodic/Power Metal
@@ -13,18 +12,29 @@ Album Length: 1 hour 6 Minutes
 
 Record Label: Independent
 
-* * *
+---
 
-1\. Twisted Reality 03:25 2. Sanctification of the World 04:52 3. To the Throne 05:34 4. Shimmering Solstice 05:08 5. Glowing Flower 05:22 6. Broken Soul 05:58 7. Stone Of Grace 03:59 8. Fuel My Heart 05:19 9. Heaven & Hell 06:15 10. Starfall on a Cold Winter's Night 05:44 11. Beautiful 05:05 12. Paradise 08:28
+1. Twisted Reality 03:25
+2. Sanctification of the World 04:52 
+3. To the Throne 05:34 
+4. Shimmering Solstice 05:08 
+5. Glowing Flower 05:22 
+6. Broken Soul 05:58 
+7. Stone Of Grace 03:59 
+8. Fuel My Heart 05:19 
+9. Heaven & Hell 06:15 
+10. Starfall on a Cold Winter's Night 05:44 
+11. Beautiful 05:05 
+12. Paradise 08:28
 
-* * *
+---
 
-https://www.youtube.com/watch?v=bSEMF3ztsHs
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/bSEMF3ztsHs?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="http://www.chkrootkit.org/">buy high converting traffic</a></small></div></iframe>
 
-* * *
+---
 
 #### [iTunes](https://music.apple.com/ca/album/twisted-reality/1543915062)
 
-* * *
+---
 
 https://open.spotify.com/album/57QDutFAhzn0U6SZeNFmpM
