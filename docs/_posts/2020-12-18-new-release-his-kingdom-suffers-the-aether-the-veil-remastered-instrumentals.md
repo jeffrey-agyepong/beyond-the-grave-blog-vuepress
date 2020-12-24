@@ -1,6 +1,11 @@
 ---
 title: "New Release: His Kingdom Suffers - The Aether & The Veil (Remastered & Instrumentals)"
 date: "2020-12-18"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+author: Jeffrey A
 featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---
 

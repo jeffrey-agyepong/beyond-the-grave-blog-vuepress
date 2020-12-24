@@ -1,6 +1,11 @@
 ---
 title: "Review: Sombre Holiday - The Failed Sun"
 date: "2020-12-14"
+tags: 
+- Progressive metal
+- Rock
+- Christian metal
+author: Gabriel
 featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 ---
 
@@ -52,12 +57,12 @@ Lyrics are well written, interconnecting many songs between them, cohesively rel
 The cover art is also amazingly beautiful and detailed, moving and it just makes you want to have a wall flag of it at home.
 
 Even though this album was a bit out of my comfort sound, it sincerely opened my ears to different styles and forms of worship. This a beautiful, emotive, comforting, and charming Progressive masterpiece, a sound of light full with lyrics of light, and lots of thoughtful musicality, and lots of love to make such varied musical textures, that are deeply soulful. The amount of effort and talent behind this album is unbelievable and deserves recognition, simply admirable.
+***
 
-###<p style="text-align:center;">**Rating:** 8.5/10</p>
+<h5 style="text-align:center;">Favorite Tracks: Masterpiece, The Death of Death, This Present Absence, and The Burning Sky. </h5>
+ <h2 style="text-align:center;">Rating: 8.5/10</h2>
 
-**Favorite Tracks:** Masterpiece, The Death of Death, This Present Absence, and The Burning Sky.
 
-<p style="text-align:center;">**WRITTEN BY:** [Gorship777](https://www.instagram.com/gorship777/)</p>
 
 * * *
 

@@ -1,6 +1,11 @@
 ---
-title: "New Release: A Secret Ending - Deliverance [EP]"
+title: "New Release: A Secret Ending - Deliverance (EP)"
 date: "2020-12-21"
+tags:
+- Christian metal
+- Melodic metal
+- Symphonic metal
+author: Jeffrey A
 featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 ---
 

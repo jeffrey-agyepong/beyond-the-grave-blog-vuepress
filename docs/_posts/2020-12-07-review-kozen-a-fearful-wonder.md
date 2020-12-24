@@ -1,7 +1,12 @@
 ---
 title: "Review: Kozen - A Fearful Wonder"
 date: "2020-12-07"
-coverImage: "kozen.jpg"
+tags:
+- Christian metal
+- progressive metal
+- metal
+author: Zachary 
+featuredimg: https://i.ibb.co/4jd68z2/kozen.jpg
 ---
 
 **Genre:** Progressive Metal

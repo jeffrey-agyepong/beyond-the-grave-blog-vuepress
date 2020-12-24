@@ -1,7 +1,7 @@
 ---
 title: "New Release: Diamonds to Dust - Decisions [EP]"
 date: "2020-12-01"
-coverImage: "diamonds-to-dust-decisions.jpg"
+featuredimg: https://i.ibb.co/HB64fYW/diamonds-to-dust-decisions.jpg
 ---
 
 **Record Label:** Manifest Records
@@ -20,11 +20,11 @@ coverImage: "diamonds-to-dust-decisions.jpg"
 
 * * *
 
-\[bandcamp width=350 height=470 album=4102972938 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+\<iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4102972938/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://diamondstodust.bandcamp.com/album/decisions-ep">Decisions Ep by Diamonds to Dust</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=jQ0eJr8n3d0
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/jQ0eJr8n3d0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode es</a></small></div><div><small><a href="https://www.hostsearch.com/">ultimate Web traffic</a></small></div></iframe>
 
 * * *
 

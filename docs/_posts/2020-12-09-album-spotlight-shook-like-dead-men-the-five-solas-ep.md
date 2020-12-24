@@ -1,7 +1,12 @@
 ---
 title: "Album Spotlight: Shook Like Dead Men - The Five Solas Ep"
 date: "2020-12-09"
-coverImage: "shook-like-dead-men.jpg"
+tags:
+- Christian hardcore
+- hardcore
+- melodic hardcore
+author: Jeffrey A
+featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 ---
 
 **Release Date:** March 4, 2014

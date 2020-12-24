@@ -1,7 +1,7 @@
 ---
 title: "New Release: Within Thy Wounds/daygraves - Nocturns (Split)"
 date: "2020-12-05"
-coverImage: "within-thy-wounds-daygraves.jpg"
+featuredimg: https://i.ibb.co/CwCJFKr/within-thy-wounds-daygraves.jpg
 ---
 
 **Record Label:** Independent

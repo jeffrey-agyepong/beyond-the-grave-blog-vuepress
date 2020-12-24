@@ -7,17 +7,48 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: 'Jeffrey A',
       avatar: '/assets/img/sal.jpg',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
       {
-        name: 'John Doe',
+        name: 'Gabriel',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
+	    {
+        name: 'Nick P',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Jeremy P',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Ton R',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Zachary',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Hezekiah',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      }
+	  
     ],
     footer: {
       contact: [

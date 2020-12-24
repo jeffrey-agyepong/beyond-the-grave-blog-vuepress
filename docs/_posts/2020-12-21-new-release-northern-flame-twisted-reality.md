@@ -1,6 +1,11 @@
 ---
 title: 'New Release: Northern Flame - Twisted Reality'
 date: '2020-12-21'
+tags:
+- Christian metal
+- Melodic metal
+- Power metal
+author: Jeffrey A
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
 

@@ -1,6 +1,12 @@
 ---
 title: "Review: Brotality – Prisoners of the Abyss (EP)"
 date: "2020-12-19"
+tags: 
+- Christian metal
+- thrash metal
+- Groove metal
+- Rottweiler Records
+author: Nick P
 featuredimg: https://i.ibb.co/MMYnShv/brotality.jpg
 ---
 
