@@ -1,7 +1,7 @@
 ---
 title: "New Release: Amongst the Ruin - My Dear, My Love"
 date: "2020-09-28"
-coverImage: "81fnbjfignl._ss500_.jpg"
+featuredimg: https://i.ibb.co/Hqzw3mc/81fnbjfignl-ss500.jpg
 ---
 
 **Record Label:** Independent

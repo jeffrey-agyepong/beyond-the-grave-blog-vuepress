@@ -1,7 +1,7 @@
 ---
 title: "New Release: Then It Ends - Restored"
 date: "2020-10-03"
-coverImage: "restored.jpg"
+featuredimg: https://i.ibb.co/k5SJnZw/restored.jpg
 ---
 
 **Release Date:** October 2, 2020  

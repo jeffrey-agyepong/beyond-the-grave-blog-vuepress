@@ -1,7 +1,7 @@
 ---
 title: "Review: Ever Eden - Illumine [EP]"
 date: "2020-09-16"
-coverImage: "ever-eden-illumine.jpg"
+featuredimg: https://i.ibb.co/YLPfkfM/ever-eden-illumine.jpg
 ---
 
 **Genre:** Metalcore

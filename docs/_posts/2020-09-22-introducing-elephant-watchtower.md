@@ -1,7 +1,7 @@
 ---
 title: "Introducing: Elephant Watchtower"
 date: "2020-09-22"
-coverImage: "elephant-watcher2.jpg"
+featuredimg: https://i.ibb.co/z5y5mq6/elephant-watcher2.jpg
 ---
 
 **Formed:** 2019

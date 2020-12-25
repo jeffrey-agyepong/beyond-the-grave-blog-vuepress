@@ -1,7 +1,7 @@
 ---
 title: "New Release: Earth Groans - Prettiest Of Things"
 date: "2020-03-06"
-coverImage: "earth-groans.jpg"
+featuredimg: https://i.ibb.co/rGjmZMw/137140-Earth-Groans-Prettiest-of-Things.jpg
 ---
 
 **Release Date:** March 6, 2020 **Record Label:** Solid State Records

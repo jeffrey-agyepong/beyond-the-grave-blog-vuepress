@@ -1,7 +1,7 @@
 ---
 title: "Review: Righteous Vendetta - Not Dead Yet (A Rejected Record)"
 date: "2020-09-25"
-coverImage: "righteousvendetta.jpg"
+featuredimg: https://i.ibb.co/12dqnJV/righteousvendetta.jpg
 ---
 
 **Record Label:** Independent **Release Date:** 2015

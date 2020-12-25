@@ -8,12 +8,16 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/mSq0jBZ/eism.png
 ---
 
-**Release Date:** October 16, 2020 **Record Label:** Facedown Records
+**Release Date:** October 16, 2020 
 
-**Genre:** Post-Hardcore/Post-Rock **Album length:** 43 minutes
+**Record Label:** Facedown Records
+
+**Genre:** Post-Hardcore/Post-Rock
+
+ **Album length:** 43 minutes
 
 **Tracklist:**
 

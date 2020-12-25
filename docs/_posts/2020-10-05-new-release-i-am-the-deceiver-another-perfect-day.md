@@ -1,7 +1,7 @@
 ---
 title: "New Release: I Am The Deceiver - Another Perfect Day"
 date: "2020-10-05"
-coverImage: "another-perfect-day.jpg"
+featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg
 ---
 
 **Release Date:** October 2, 2020

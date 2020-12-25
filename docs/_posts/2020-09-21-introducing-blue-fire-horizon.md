@@ -8,6 +8,7 @@ tags:
 - metal
 - Blue Fire Horizon
 author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/pZZTFmj/blue-fire-horizon2.jpg
 ---
 
 **Formed:** 2020
