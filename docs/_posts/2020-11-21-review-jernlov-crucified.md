@@ -7,8 +7,8 @@ tags:
 - deathcore
 - metal
 - Searching Sernity
-author: Ton R
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+author: Ton Ringenier
+featuredimg: https://i.ibb.co/HtHB3TP/34503-jernlov-crucified-cd.jpg
 ---
 
 **Band:** Jernlov

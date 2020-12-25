@@ -7,7 +7,7 @@ tags:
 - deathcore
 - metal
 - Searching Sernity
-author: Ton Ringenier, Hezekiah Rose
+author: Ton Ringenier
 featuredimg: https://i.ibb.co/Db35RDf/dawnbreaker.jpg
 ---
 

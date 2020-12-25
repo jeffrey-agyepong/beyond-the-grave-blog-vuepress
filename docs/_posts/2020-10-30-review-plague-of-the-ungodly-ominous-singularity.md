@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/YZW0RVC/plague-of-the-ungodly-ominus-singularity.jpg
 ---
 
 **Band:** Plague of the Ungodly

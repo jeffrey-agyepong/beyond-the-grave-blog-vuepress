@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/wS6c8St/kata.jpg
 ---
 
 **Release Date:** November 11, 2020

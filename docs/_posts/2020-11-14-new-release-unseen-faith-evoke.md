@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
 ---
 
 **Release Date:** November 13, 2020 **Genre:** Deathcore/Progressive Metalcore **Record label:** Independent **Origin:** Aarhus, Denmark

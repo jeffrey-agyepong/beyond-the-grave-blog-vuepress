@@ -32,6 +32,10 @@ I also want to share three favorite lyric passages from the album. Without menti
 > 
 > Our Father in Heaven Hallowed be your name Your Kingdom come Your will be done
 
+<hr>
+
+<h3 style="text-align:center;"> </h3>
+
 ### Rating: 9.5/10
 
 _The explanation is simple, its almost a perfect release. A big shout out to Jani, he can be proud of this phenomenal work. And Alfred Fridhagen nailed it on the drums!_

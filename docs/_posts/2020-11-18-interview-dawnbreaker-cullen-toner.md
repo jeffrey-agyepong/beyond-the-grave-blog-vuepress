@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/rpkjMxX/dawnbreaker-1.jpg
 ---
 
 _Cullen Toner_, the sole member of the black metal project, **Dawnbreaker** returns to discuss his new album **Vanquished Horrible Night.** Enjoy!

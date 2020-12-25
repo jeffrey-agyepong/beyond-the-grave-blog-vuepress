@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/8PryP7B/the-reversalist.jpg
 ---
 
 **Band:** The Reversalist (Jason Wisdom of Death Therapy, ex. Becoming The Archetype) **Song:** Falling Embers **Released:** November 21, 2020 **Genre:** Metalcore/Hardcore

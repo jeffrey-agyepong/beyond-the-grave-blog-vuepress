@@ -8,7 +8,7 @@ tags:
 - metal
 - Searching Sernity
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/DDkTPgt/every-knee-shall-bowremixed-remastered.jpg
 ---
 
 **Band:** Tortured Conscience
