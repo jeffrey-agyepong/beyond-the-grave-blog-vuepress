@@ -5,7 +5,10 @@ tags:
 - Christian hardcore
 - hardcore
 - melodic hardcore
-author: Jeffrey A
+- Shook Like Dead Men
+- Five Solas
+- Reformation
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 ---
 

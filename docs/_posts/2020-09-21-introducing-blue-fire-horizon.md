@@ -1,7 +1,13 @@
 ---
 title: "Introducing: Blue Fire Horizon"
 date: "2020-09-21"
-coverImage: "blue-fire-horizon2.jpg"
+tags:
+- Christian metal
+- Christian metalcote
+- metalcore
+- metal
+- Blue Fire Horizon
+author: Jeffrey Agyepong
 ---
 
 **Formed:** 2020

@@ -1,7 +1,7 @@
 ---
 title: "Review: Luther's Hammer - Strength to Stand [EP]"
 date: "2020-10-06"
-coverImage: "strength-to-stand.jpg"
+featuredimg: "strength-to-stand.jpg"
 ---
 
 **Band:** Luther's Hammer

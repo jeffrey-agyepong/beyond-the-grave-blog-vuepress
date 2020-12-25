@@ -1,49 +1,61 @@
 module.exports = {
   title: 'BEYOND THE GRAVE',
   publicPath: 'https://beyondthegrave.netlify.app/',
-  description: 'Blog example for Mediumish theme with VuePress',
+  description: 'Christian Metal/Hardcore Online Ministry',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
       {
-      name: 'Jeffrey A',
+      name: 'Jeffrey Agyepong',
       avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
+      link: 'https://linktr.ee/jeffrey_a',
       linktext: 'Follow',
       },
       {
-        name: 'Gabriel',
+        name: 'Gabriel Mesones',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://www.instagram.com/gorship777/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Nick Ptak',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
 	    {
-        name: 'Nick P',
+        name: 'Jeremy Prince',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
 	    {
-        name: 'Jeremy P',
+        name: 'Ton Ringenier',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://web.facebook.com/ChristianmetalHorde/',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Zachary Tyler Van Dyke',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://www.youtube.com/channel/UCPtHnXMx7APZGv91ItLaLEw',
+        linktext: 'Follow',
+      },
+	    {
+        name: 'Hezekiah Rose',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://www.instagram.com/hezekiahrose001/',
+        linktext: 'Follow',
+      },
+	  {
+        name: 'Christianmetalreviewer777',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
-	    {
-        name: 'Ton R',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
-	    {
-        name: 'Zachary',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
-	    {
-        name: 'Hezekiah',
+	  {
+        name: 'Erik Morgan',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
@@ -58,19 +70,15 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://web.facebook.com/Beyondthegrave777',
         },
         {
           type: 'github',
           link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
         },
         {
-          type: 'gitlab',
-          link: '#',
-        },
-        {
           type: 'instagram',
-          link: '#',
+          link: 'https://www.instagram.com/beyond_the_grave777/',
         },
         {
           type: 'linkedin',
@@ -90,7 +98,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/Beyond_grave777',
         },
         {
           type: 'web',
@@ -99,7 +107,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
+          text: 'Copyright Beyond The Grave 2021',
           link: 'https://bootstrapstarter.com/license/',
         },
         {

@@ -1,7 +1,7 @@
 ---
 title: "Review: True American Black Metal (Movie)"
 date: "2020-10-06"
-coverImage: "tabm.jpg"
+featuredimg: "tabm.jpg"
 ---
 
 **True American Black Metal**

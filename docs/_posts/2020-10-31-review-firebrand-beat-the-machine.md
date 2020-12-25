@@ -1,7 +1,14 @@
 ---
 title: "Review: FireBrand - Beat the Machine"
 date: "2020-10-31"
-coverImage: "firebrand.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Record Label:** Independent
@@ -20,7 +27,9 @@ coverImage: "firebrand.jpg"
 
 **Overall:** This is a pretty good listen, the lyrics are impactful as well as the sounds of the music. It is well produced. One can easily go into spiritual warfare ( with God as their banner ) while listening to this track.
 
-**Rating:** 9.5/10
+<hr>
+
+<h3 style="text-align:center;">Rating: 9.5/10</h3>
 
 * * *
 

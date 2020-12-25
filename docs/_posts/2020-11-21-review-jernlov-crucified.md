@@ -1,7 +1,14 @@
 ---
 title: "Review: Jernlov - Crucified"
 date: "2020-11-21"
-coverImage: "jernlov-1.png"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Ton R
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Band:** Jernlov

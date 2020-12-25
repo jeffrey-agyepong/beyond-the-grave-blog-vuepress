@@ -1,7 +1,7 @@
 ---
 title: "Review: Zhakiah - Where The Light Will Thread"
 date: "2020-10-14"
-coverImage: "zhakiah.jpg"
+featuredimg: "zhakiah.jpg"
 ---
 
 **Release Date:** September 25, 2020

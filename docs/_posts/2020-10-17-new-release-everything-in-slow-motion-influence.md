@@ -1,7 +1,14 @@
 ---
 title: "New Release: Everything In Slow Motion - Influence"
 date: "2020-10-17"
-coverImage: "eism.png"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** October 16, 2020 **Record Label:** Facedown Records

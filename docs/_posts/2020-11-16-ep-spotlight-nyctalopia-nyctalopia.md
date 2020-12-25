@@ -1,7 +1,14 @@
 ---
 title: "Album Spotlight: Nyctalopia - Nyctalopia"
 date: "2020-11-16"
-coverImage: "a4114459735_10.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Band:** Nyctalopia

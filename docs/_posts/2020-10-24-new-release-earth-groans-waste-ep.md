@@ -1,7 +1,14 @@
 ---
 title: "New Release: Earth Groans - Waste EP"
 date: "2020-10-24"
-coverImage: "earth-groans.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** October 23, 2020

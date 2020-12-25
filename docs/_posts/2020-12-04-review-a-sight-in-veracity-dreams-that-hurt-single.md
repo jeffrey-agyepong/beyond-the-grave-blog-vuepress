@@ -1,6 +1,12 @@
 ---
 title: "Review: A Sight in Veracity - Dreams That Hurt (Single)"
 date: "2020-12-04"
+tags:
+- A Sight in Veracity
+- Christian Metalcore
+- Metalcore
+- Australia
+author: Erik Morgan
 featuredimg: https://i.ibb.co/X7Fk53D/image0.jpg
 ---
 
@@ -24,28 +30,24 @@ There must be something in the water because every band that I have heard from A
 
 **Final Thoughts and Rating:** I didn’t talk about it much in the main portion of this review, but the breakdown of this song hits at just the right time, complete with a “bleh,” which is always welcome! It lingers just long enough for appreciation but also left me wanting to hear even more of what _A Sight in Veracity_ has to offer. This song has a very emotional, raw, and angst-ridden feel to it throughout, from the soft strums of the intro and the first verse, down to the very musically catchy chorus.
 
-### Rating: 8/10
+<hr>
+<h3 style="text-align: center">Rating: 8/10</h3>
 
-**Reason:** This song is great, but there are a couple of things that need some polish in the mix. It is echoey and this is mainly heard in the vocals. However, from the lyrics to the instrumentation, this is an all-around banger!
+<p style="text-align: center"><span style="font-weight: bold">Reason:</span> This song is great, but there are a couple of things that need some polish in the mix. It is echoey and this is mainly heard in the vocals. However, from the lyrics to the instrumentation, this is an all-around banger!</p>
 
-**Written by:** Erik Morgan
-
-* * *
-
-#### [Facebook](https://m.facebook.com/asightinveracity/)
-
-#### [Instagram](https://www.instagram.com/asightinveracity/)
 
 * * *
 
-https://www.youtube.com/watch?v=KDyr08GFoEI
+<h4 style="text-align:center"><a href="https://m.facebook.com/asightinveracity/" alt="Facebook">Facebook</a></h4>
+
+#### <h4 style="text-align:center"><a href="https://www.instagram.com/asightinveracity/" alt="Instagram">Instagram</a></h4>
 
 * * *
+
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/KDyr08GFoEI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://tr3ndygirl.com/">Ultimate web Traffic</a></small></div></iframe>
 
 Nostalgia stares me in the eye I’m in your vision on repeat Fond of the reminiscence Sometimes we’re out of sorts Caught myself up on details Now weak and threadbare But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Adding up It’s a sin Close my eyes Upright Insight But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Take my dreams Feels like we’ve only got minutes I hope this goes on forever But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Take my dreams You can have them I don’t like them Tonight I won’t dream
 
 * * *
 
-https://open.spotify.com/artist/766tMT7gzeXdwTCMSoN68M?si=gz7YbY\_kTqGJYJuu5xgmEA
-
-* * *
+<iframe src="https://open.spotify.com/embed/artist/766tMT7gzeXdwTCMSoN68M" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

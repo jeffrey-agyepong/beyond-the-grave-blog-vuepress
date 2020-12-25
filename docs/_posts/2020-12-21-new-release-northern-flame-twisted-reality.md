@@ -5,17 +5,16 @@ tags:
 - Christian metal
 - Melodic metal
 - Power metal
-author: Jeffrey A
+- Northern Flame
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
 
-Genre: Melodic/Power Metal
+**Genre:** Melodic/Power Metal
+**Release Date:** December 18, 2020
+**Album Length:** 1 hour 6 Minutes
+**Record Label: **Independent
 
-Release Date: December 18, 2020
-
-Album Length: 1 hour 6 Minutes
-
-Record Label: Independent
 
 ---
 
@@ -38,7 +37,7 @@ Record Label: Independent
 
 ---
 
-## [iTunes](https://music.apple.com/ca/album/twisted-reality/1543915062)
+<h4 style="text-align:center;"><a href="https://music.apple.com/ca/album/twisted-reality/1543915062" alt="iTunes">iTunes</a></h4>
 
 ---
 

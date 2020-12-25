@@ -1,7 +1,14 @@
 ---
 title: "Interview: Dawnbreaker (Cullen Toner)"
 date: "2020-11-18"
-coverImage: "dawnbreaker-1.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 _Cullen Toner_, the sole member of the black metal project, **Dawnbreaker** returns to discuss his new album **Vanquished Horrible Night.** Enjoy!

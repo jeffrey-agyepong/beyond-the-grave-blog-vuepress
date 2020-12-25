@@ -1,7 +1,14 @@
 ---
 title: "New Release: Sombre Holiday - The Failed Sun"
 date: "2020-11-17"
-coverImage: "sombre-holiday.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** November 13, 2020

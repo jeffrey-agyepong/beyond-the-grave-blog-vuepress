@@ -1,7 +1,14 @@
 ---
 title: "New Release: Kata - Proskuneo"
 date: "2020-11-12"
-coverImage: "kata.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** November 11, 2020

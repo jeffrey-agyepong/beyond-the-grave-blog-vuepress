@@ -1,7 +1,14 @@
 ---
 title: "Introducing: Jernlov"
 date: "2020-11-13"
-coverImage: "jernlov.png"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Formed:** 2020

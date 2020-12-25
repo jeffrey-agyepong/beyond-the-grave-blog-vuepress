@@ -1,7 +1,14 @@
 ---
 title: "New Release: Unseen Faith - Evoke"
 date: "2020-11-14"
-coverImage: "unseen-faith.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** November 13, 2020 **Genre:** Deathcore/Progressive Metalcore **Record label:** Independent **Origin:** Aarhus, Denmark

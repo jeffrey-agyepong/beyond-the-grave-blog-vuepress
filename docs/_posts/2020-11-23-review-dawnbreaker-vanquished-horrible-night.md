@@ -1,7 +1,14 @@
 ---
 title: "REVIEW: Dawnbreaker - Vanquished Horrible Night"
 date: "2020-11-23"
-coverImage: "dawnbreaker.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Ton Ringenier, Hezekiah Rose
+featuredimg: https://i.ibb.co/Db35RDf/dawnbreaker.jpg
 ---
 
 **Band:** Dawnbreaker

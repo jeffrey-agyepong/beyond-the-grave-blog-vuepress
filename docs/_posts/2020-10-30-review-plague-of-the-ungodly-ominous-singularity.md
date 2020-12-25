@@ -1,7 +1,14 @@
 ---
 title: "Review: Plague of the Ungodly - Ominous Singularity"
 date: "2020-10-30"
-coverImage: "plague-of-the-ungodly-ominus-singularity.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Band:** Plague of the Ungodly
@@ -37,11 +44,11 @@ Released in May earlier this year, **Ominous Singularity** by **Plague of the
 
 **Overall**, the album sets the tone early on and carries this through to the end. Some of the songs break into lighter elements, and **Ethereal Tides** even starts with the melody before delving into the characteristically heavier sections. The instrumental track **Interstate Epitaph** includes an interesting midpoint break with what almost sounds like cars passing by. The following track **Infestation** builds the weight again, with the final track a great combination of speed and deep vocals that almost border on 90s punk (but still very much metal). I’m not musically trained; just someone who knows what he likes. Having experienced secular 90s metal as it unfolded (with a healthy dose of industrial on the side), this album has been in heavy rotation for me over the past week. Definitely excited for future releases!
 
-**Favorite tracks:** The entire album. Short enough to enjoy in a single sitting.
+<hr>
 
-#### Rating: **9/10**
+<h3 style="text-align:center;"> </h3>**Favorite tracks:** The entire album. Short enough to enjoy in a single sitting.
 
-**Written by** [Hezekiah Rose](https://www.instagram.com/hezekiahrose001/) 
+#### <h3 style="text-align:center;">Rating: 9/10</h3>
 
 * * *
 

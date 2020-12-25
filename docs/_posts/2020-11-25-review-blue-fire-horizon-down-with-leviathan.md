@@ -1,7 +1,14 @@
 ---
 title: "Review: Blue Fire Horizon - Down With Leviathan"
 date: "2020-11-25"
-coverImage: "bfh-ep-cover-artwork.jpg"
+tags:
+- Christian metal
+- Christian metalcote
+- metalcore
+- metal
+- Blue Fire Horizon
+author: Gabriel Mesones
+featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
 ---
 
 **Band:** Blue Fire Horizon
@@ -19,15 +26,15 @@ coverImage: "bfh-ep-cover-artwork.jpg"
 **Track List:**
 
 1. The War Is Everything
-    
+   
 2. Made To Suffer (feat. Ryan Thomas)
-    
+   
 3. Prosperity
-    
+   
 4. Blood Of The Innocent
-    
+   
 5. Down With Leviathan
-    
+   
 
 * * *
 
@@ -47,7 +54,7 @@ This is a crazily good EP for a debut album, I’m extremely excited for what th
 
 **Favorite Tracks:** Prosperity, Down With Leviathan and Blood Of The Innocent.
 
-**WRITTEN BY:**  Gabriel of [Gorship777](https://www.instagram.com/gorship777/)
+
 
 * * *
 
@@ -55,7 +62,9 @@ https://youtu.be/2HTR2YzmODo
 
 * * *
 
-### [Amazon Music](https://music.amazon.com/albums/B08CSWG3SX) [iTunes](https://music.apple.com/ca/album/down-with-leviathan-ep/1523178138) [Spotify](https://open.spotify.com/artist/3150qHs3W53gLQJ25jK3HJ)
+### [Amazon Music](https://music.amazon.com/albums/B08CSWG3SX) [iTunes
+
+### [](https://music.apple.com/ca/album/down-with-leviathan-ep/1523178138) [Spotify](https://open.spotify.com/artist/3150qHs3W53gLQJ25jK3HJ)
 
 * * *
 

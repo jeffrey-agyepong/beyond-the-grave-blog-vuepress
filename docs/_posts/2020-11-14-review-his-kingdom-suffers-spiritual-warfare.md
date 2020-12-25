@@ -1,7 +1,14 @@
 ---
 title: "Review: His Kingdom Suffers - Spiritual Warfare"
 date: "2020-11-14"
-coverImage: "his-kingdom-suffers.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Band:** His Kingdom Suffers

@@ -5,7 +5,7 @@ tags:
 - Christian metal
 - Christian deathcore
 - deathcore
-author: Jeffrey A
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---
 

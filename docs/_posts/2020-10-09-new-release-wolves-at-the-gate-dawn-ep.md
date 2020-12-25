@@ -1,7 +1,7 @@
 ---
 title: "New Release: Wolves At the Gate - Dawn EP"
 date: "2020-10-09"
-coverImage: "dawn.jpg"
+featuredimg: "dawn.jpg"
 ---
 
 **Release Date:** October 9, 2020 **Record Label:** Solidstate Records

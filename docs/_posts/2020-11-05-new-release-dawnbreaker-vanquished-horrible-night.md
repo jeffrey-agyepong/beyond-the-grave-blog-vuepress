@@ -1,7 +1,14 @@
 ---
 title: "New Release: Dawnbreaker - Vanquished Horrible Night"
 date: "2020-11-05"
-coverImage: "dawnbreaker.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Release Date:** October 31, 2020

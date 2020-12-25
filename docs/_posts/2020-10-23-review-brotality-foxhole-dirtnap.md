@@ -1,7 +1,14 @@
 ---
 title: "Review: Brotality - Foxhole & Dirtnap"
 date: "2020-10-23"
-coverImage: "fox-holes.jpg"
+tags:
+- Christian metal
+- Christian deathcore
+- deathcore
+- metal
+- Searching Sernity
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 
 **Record Label:** Rottweiler Records
@@ -24,6 +31,10 @@ The song then declares for people to follow the Truth and find meaning. The lyri
 
 **Overall:** Though this band is new to the scene, Brotality once again shows that they have what it takes. The song is very listenable and has depth (in heaviness and emotion).
 
+<hr>
+
+<h3 style="text-align:center;"> </h3>
+
 #### **Rating:** 8.5/10
 
 * * *
@@ -39,6 +50,10 @@ The story of this song definitely is powerful.
 **Sonically:** Dirtnap starts with a smooth drum solo, then rolls with catchy guitar work. I really like how the drums are placed in this song. The spiraling riffs work to create an imaginative ground for the listener, as well as the vocals that range from balanced, clean singing to a more gruff tone.
 
 **Overall:** Brotality has continued to show that they have a solid ground in the scene. I can easily see people moshing to this song being played live. Well done.
+
+<hr>
+
+<h3 style="text-align:center;"> </h3>
 
 #### Rating: 8.5/10
 

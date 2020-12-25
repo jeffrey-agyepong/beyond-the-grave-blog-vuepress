@@ -5,7 +5,8 @@ tags:
 - Christian metal
 - Melodic metal
 - Symphonic metal
-author: Jeffrey A
+- A Secret Ending
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 ---
 
