@@ -3,6 +3,8 @@ title: "Album Spotlight: Shook Like Dead Men - The Five Solas Ep"
 date: "2020-12-09"
 tags:
 - Album Spotlight
+- Melodic Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 ---
 

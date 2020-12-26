@@ -3,6 +3,7 @@ title: "New Release: Irgalom -  The Path Of The Wind [EP]"
 date: "2020-11-26"
 tags:
 - New Release
+- Black Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nQMg9fS/irgalom.jpg
 ---

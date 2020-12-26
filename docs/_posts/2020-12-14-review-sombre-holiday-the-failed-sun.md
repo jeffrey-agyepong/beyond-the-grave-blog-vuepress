@@ -3,6 +3,7 @@ title: "Review: Sombre Holiday - The Failed Sun"
 date: "2020-12-14"
 tags: 
 - Review
+- Progressive Metal
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 ---
@@ -59,8 +60,6 @@ Even though this album was a bit out of my comfort sound, it sincerely opened my
 
 <p style="text-align:center;"><span style="font-weight:bold;">Favorite Tracks:</span> Masterpiece, The Death of Death, This Present Absence, and The Burning Sky. </p>
 <h3 style="text-align:center;">Rating: 8.5/10</h3>
-
-
 
 * * *
 

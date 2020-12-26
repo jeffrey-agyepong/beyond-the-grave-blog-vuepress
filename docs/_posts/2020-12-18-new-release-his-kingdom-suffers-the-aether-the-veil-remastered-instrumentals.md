@@ -3,6 +3,7 @@ title: "New Release: His Kingdom Suffers - The Aether & The Veil (Remastered & I
 date: "2020-12-18"
 tags:
 - New Release
+- Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---

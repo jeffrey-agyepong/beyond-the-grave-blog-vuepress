@@ -3,6 +3,7 @@ title: "Review: Blue Fire Horizon - Down With Leviathan"
 date: "2020-11-25"
 tags:
 - Review
+- Metalcore
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
 ---
@@ -17,7 +18,7 @@ featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
 
 **EP Length:** 21 Minutes
 
-**Genre:** Metalcore
+**Genre:** Metalcore/Alternative Metal
 
 **Track List:**
 
@@ -47,25 +48,31 @@ The second part of this album starts with **Prosperity**, a song against “Pro
 This is a crazily good EP for a debut album, I’m extremely excited for what this band can become in the future, if they received more recognition and get a label that fully understands their vision this band could turn pretty influential and big for the current Metalcore scene, because of their creativity and versatile sound. Extremely talented guys! God bless them!
 
 <hr>
+**Favorite Tracks:** Prosperity, Down With Leviathan and Blood Of The Innocent.
 
 <h3 style="text-align: center">Rating: 8.9/10
 
-**Favorite Tracks:** Prosperity, Down With Leviathan and Blood Of The Innocent.
-
-
-
 * * *
 
-https://youtu.be/2HTR2YzmODo
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/2HTR2YzmODo" width="560" height="315" frameborder="0"></iframe>
+</div>
 
-* * *
+<hr>
 
-### [Amazon Music](https://music.amazon.com/albums/B08CSWG3SX) [iTunes
+<h5 style="text-align:center;">
+  <a href="https://music.amazon.com/albums/B08CSWG3SX">Amazon Music</a>   
+</h5>
+<h5 style="text-align:center;">
+    <a href="https://music.apple.com/ca/album/down-with-leviathan-ep/1523178138">iTunes</a> 
+</h5>
+<hr>
 
-### [](https://music.apple.com/ca/album/down-with-leviathan-ep/1523178138) [Spotify](https://open.spotify.com/artist/3150qHs3W53gLQJ25jK3HJ)
+<iframe src="https://open.spotify.com/embed/artist/3150qHs3W53gLQJ25jK3HJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-* * *
+<hr>
+<h5 style="text-align:center;"><a href="https://www.facebook.com/bluefirehorizonband">Facebook</a></h5>
+<h5 style="text-align:center;"><a href="https://www.instagram.com/bluefirehorizon_band">Instagram</a></h5>
+<h5 style="text-align:center;"><a href="https://www.youtube.com/channel/UCeWTgLKsEUjJRbUSdhCeFyA">Youtube</a></h5>
+<hr>
 
-### [Facebook ](https://www.facebook.com/bluefirehorizonband) [Instagram ](https://www.instagram.com/bluefirehorizon_band) [Youtube](https://www.youtube.com/channel/UCeWTgLKsEUjJRbUSdhCeFyA)
-
-* * *

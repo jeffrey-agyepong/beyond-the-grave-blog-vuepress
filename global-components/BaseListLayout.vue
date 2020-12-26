@@ -17,7 +17,7 @@
         <div class="entry card h-100">
           <div class="card-header-image">
             <NavLink :link="page.path">
-              <img :src="page.frontmatter.featuredimg" />
+              <img v-lazy="page.frontmatter.featuredimg" />
             </NavLink>
           </div>
 
@@ -94,6 +94,8 @@
 <script>
 /* global THEME_BLOG_PAGINATION_COMPONENT */
 
+import VueLazyload from 'vue-lazyload'
+Vue.use(VueLazyload)
 import Vue from 'vue'
 import dayjs from 'dayjs'
 import {

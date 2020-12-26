@@ -3,6 +3,7 @@ title: "New Release: Diamonds to Dust - Decisions [EP]"
 date: "2020-12-01"
 tags:
 - New Release
+- Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/HB64fYW/diamonds-to-dust-decisions.jpg
 ---
