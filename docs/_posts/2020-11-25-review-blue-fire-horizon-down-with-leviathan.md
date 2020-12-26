@@ -48,7 +48,7 @@ This is a crazily good EP for a debut album, I’m extremely excited for what th
 
 <hr>
 
-<h3 style="text-align: center">**Rating:** 8.9/10
+<h3 style="text-align: center">Rating: 8.9/10
 
 **Favorite Tracks:** Prosperity, Down With Leviathan and Blood Of The Innocent.
 
