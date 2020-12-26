@@ -1,9 +1,3 @@
-<script>
-import Vue from 'vue'
-import VueLazyload from 'vue-lazyload'
-
-Vue.use(VueLazyload)
-</script>
 <template>
   <div id="">
     <div
@@ -103,6 +97,8 @@ Vue.use(VueLazyload)
 /* global THEME_BLOG_PAGINATION_COMPONENT */
 
 import Vue from 'vue'
+import VueLazyload from 'vue-lazyload'
+Vue.use(VueLazyload)
 import dayjs from 'dayjs'
 import {
   Pagination,
