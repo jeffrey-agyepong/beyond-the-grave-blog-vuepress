@@ -45,11 +45,11 @@ Label: Independent
 26. The Veil (Instrumental) 07:32 
 27. Spiritual Warfare (Instrumental) 04:32
 
-#####_FFO:  In the Midst of Lions, Saving Grace, Abated Mass of Flesh, Impending Doom_
+##### FFO:  In the Midst of Lions, Saving Grace, Abated Mass of Flesh, Impending Doom
 
 * * *
 
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=491218250/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://hiskingdomsuffers1.bandcamp.com/album/the-aether-the-veil-remastered-instrumentals-2">The Aether &amp; The Veil (Remastered &amp; Instrumentals) by His Kingdom Suffers</a></iframe>
+<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=491218250/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://hiskingdomsuffers1.bandcamp.com/album/the-aether-the-veil-remastered-instrumentals-2">The Aether &amp; The Veil (Remastered &amp; Instrumentals) by His Kingdom Suffers</a></iframe>
 
 
 * * *

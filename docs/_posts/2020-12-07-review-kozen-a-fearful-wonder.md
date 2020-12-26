@@ -87,7 +87,7 @@ Consider us a little late in really diving into this album - but, as the adage g
 
 * * *
 
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=510048190/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kozen.bandcamp.com/album/a-fearful-wonder">A Fearful Wonder by KOZEN</a></iframe>
+<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=510048190/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kozen.bandcamp.com/album/a-fearful-wonder">A Fearful Wonder by KOZEN</a></iframe>
 
 * * *
 

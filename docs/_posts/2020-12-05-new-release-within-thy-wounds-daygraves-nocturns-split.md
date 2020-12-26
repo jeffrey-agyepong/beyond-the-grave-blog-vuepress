@@ -25,6 +25,6 @@ featuredimg: https://i.ibb.co/CwCJFKr/within-thy-wounds-daygraves.jpg
 
 * * *
 
-<iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2276977147/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://daygraves.bandcamp.com/album/nocturns-split">Nocturns (Split) by daygraves</a></iframe>
+<iframe style="border: 0; width: 350px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2276977147/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://daygraves.bandcamp.com/album/nocturns-split">Nocturns (Split) by daygraves</a></iframe>
 
 * * *

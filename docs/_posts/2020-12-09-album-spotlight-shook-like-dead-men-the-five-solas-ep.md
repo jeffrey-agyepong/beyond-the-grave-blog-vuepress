@@ -30,7 +30,7 @@ featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 
 * * *
 
-<iframe style="border: 0; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
+<iframe style="border: 0; width: 350px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
 
 * * *
 <div class=video-container>

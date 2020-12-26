@@ -68,7 +68,7 @@ Even though this album was a bit out of my comfort sound, it sincerely opened my
 * * *
 
 
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2688863757/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sombreholiday.bandcamp.com/album/the-failed-sun">The Failed Sun by Sombre Holiday</a></iframe>
+<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2688863757/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sombreholiday.bandcamp.com/album/the-failed-sun">The Failed Sun by Sombre Holiday</a></iframe>
 
 
 * * *

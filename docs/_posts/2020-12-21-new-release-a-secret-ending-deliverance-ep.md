@@ -24,9 +24,9 @@ featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 4. Will to Rebel 02:59
 
 ***
-<div class="video-container">
-<iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=4127081188/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://asecretending.bandcamp.com/album/deliverance-ep">Deliverance [EP] by A Secret Ending</a></iframe>
-</div>
+
+<iframe style="border: 0; width: 350px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=4127081188/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://asecretending.bandcamp.com/album/deliverance-ep">Deliverance [EP] by A Secret Ending</a></iframe>
+
 <hr>
 
 <div class="video-container">
