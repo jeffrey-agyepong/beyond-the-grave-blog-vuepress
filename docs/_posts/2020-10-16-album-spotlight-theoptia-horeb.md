@@ -1,7 +1,7 @@
 ---
 title: "Album Spotlight: Theoptia - Horeb"
 date: "2020-10-16"
-featuredimg: "https://i.ibb.co/xsg32KR/horeb-1.jpg
+featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 ---
 
 **Release Date:** October 21, 2017

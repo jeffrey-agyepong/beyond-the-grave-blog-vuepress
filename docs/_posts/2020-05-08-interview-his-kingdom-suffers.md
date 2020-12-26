@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: HIS KINGDOM SUFFERS"
 date: "2020-05-08"
-coverImage: "13312670_283298248683463_3107257987652417679_n.jpg"
+featuredimg: https://i.ibb.co/JQPFQWR/his-kingdom-suffers-2.jpg
 ---
 
 Here's an interview with the brain behind His Kingdom Suffers, enjoy!

@@ -1,7 +1,7 @@
 ---
 title: "New Release: Abated Mass of Flesh - The Dead Will Never Forgive Us [EP]"
 date: "2020-09-04"
-coverImage: "abated.jpg"
+featuredimg: https://i.ibb.co/LSh1yHM/abated.jpg
 ---
 
 **Release Date:** September 4, 2020 **Genre:** Brutal Death Metal/Deathcore

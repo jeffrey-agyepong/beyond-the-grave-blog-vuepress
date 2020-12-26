@@ -10,13 +10,37 @@ module.exports = themeConfig => {
     logo: '/assets/img/logo.png',
     nav: themeConfig.nav || [
       {
-        text: 'Blog',
+        text: 'Bands',
         link: '/',
       },
       {
+        text: 'Interviews',
+        link: '/',
+      },
+      {
+        text: 'Albums',
+        link: '/',
+      },
+      {
+        text: 'Reviews',
+        link: '/',
+      },
+      {
+        text: 'Submit Music',
+        link: '/',
+      },
+      {
+        text: 'About',
+        link: '/',
+      },
+      {
+        text: 'Contact',
+        link: '/',
+      },
+      /*{
         text: 'Tags',
         link: '/tag/',
-      },
+      },*/
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
@@ -45,7 +69,7 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 6,
+      lengthPerPage: 12,
     },
   }
 

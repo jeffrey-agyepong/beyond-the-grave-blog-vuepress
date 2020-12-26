@@ -1,7 +1,7 @@
 ---
 title: "Review: Your Hands Write History -  L U N A & T E R R A (Solar Paradigm Triunity - EP trilogy)"
 date: "2020-09-07"
-coverImage: "imageonline-co-merged-image.png"
+featuredimg: https://i.ibb.co/XbRLrtp/imageonline-co-merged-image.png
 ---
 
 **Band:** Your Hands Write History

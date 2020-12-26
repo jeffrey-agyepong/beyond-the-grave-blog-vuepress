@@ -1,7 +1,7 @@
 ---
 title: "Album Spotlight: Separatist - Closure [FREE DOWNLOAD]"
 date: "2020-09-10"
-coverImage: "closure.jpg"
+featuredimg: https://i.ibb.co/qs1m3vP/closure.jpg
 ---
 
 **Release Date:** February 7, 2014 **Record Label:** Independent

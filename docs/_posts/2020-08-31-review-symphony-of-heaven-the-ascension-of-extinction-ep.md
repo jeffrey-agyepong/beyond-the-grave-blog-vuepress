@@ -1,7 +1,7 @@
 ---
 title: "Review: Symphony of Heaven - The Ascension Of Extinction [EP]"
 date: "2020-08-31"
-coverImage: "copy-of-theascensionofextinctionart_final_wlogo.png"
+featuredimg: "copy-of-theascensionofextinctionart_final_wlogo.png"
 ---
 
 **Band:** Symphony of Heaven
@@ -14,7 +14,9 @@ coverImage: "copy-of-theascensionofextinctionart_final_wlogo.png"
 
 **Genre:**  Melodic Blackened Death Metal
 
-**Track List:   ** 1) You Shall Be As Gods
+**Track List:   ** 
+
+1) You Shall Be As Gods
 
                         2) The Ascension Of Extinction
 
@@ -58,7 +60,7 @@ Many people will look forward to a full-length release. Can we expect some durat
 
 ### **Rating**: 9/10
 
-  
+
 **Written by:** Ton of **[Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)**
 
 * * *

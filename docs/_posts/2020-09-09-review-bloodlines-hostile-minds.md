@@ -1,7 +1,7 @@
 ---
 title: "Review: Bloodlines - Hostile Minds"
 date: "2020-09-09"
-coverImage: "bloodlines.jpg"
+featuredimg: https://i.ibb.co/XFy1Gmn/bloodlines.jpg
 ---
 
 **Genre:** Deathcore/Metalcore

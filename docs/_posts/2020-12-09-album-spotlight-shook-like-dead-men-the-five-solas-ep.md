@@ -22,16 +22,18 @@ featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 
 **Tracklist:**
 
-1\. Slave < Master (Solo Christo)  02:32 2. Tetelestai (Sola Fide)  02:24 3. This Is How We Starve  02:01 4. Soli Deo Gloria (Feat. Caleb Hickerson)  06:12 5. B.G.Y.A.S. (Feat. Nick Detty) 03:57
+1. Slave < Master (Solo Christo)  02:32 
+2. Tetelestai (Sola Fide)  02:24 
+3. This Is How We Starve  02:01
+4. Soli Deo Gloria (Feat. Caleb Hickerson)  06:12 
+5. B.G.Y.A.S. (Feat. Nick Detty) 03:57
 
 * * *
 
-[\[bandcamp width=350 height=470 album=211969466 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]](https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep)
-
-(FREE DOWNLOAD)
+<iframe style="border: 0; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
 
 * * *
-
-https://www.youtube.com/watch?v=WM3P9Rjjn-I
-
+<div class=video-container>
+<iframe src="https://www.youtube.com/embed/WM3P9Rjjn-I" width="560" height="315" frameborder="0"></iframe>
+</div>
 * * *

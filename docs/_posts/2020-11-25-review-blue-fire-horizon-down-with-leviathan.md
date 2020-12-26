@@ -3,7 +3,7 @@ title: "Review: Blue Fire Horizon - Down With Leviathan"
 date: "2020-11-25"
 tags:
 - Christian metal
-- Christian metalcote
+- Christian metalcore
 - metalcore
 - metal
 - Blue Fire Horizon

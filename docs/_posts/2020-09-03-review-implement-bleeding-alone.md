@@ -1,7 +1,7 @@
 ---
 title: "Review: Implement - Bleeding Alone"
 date: "2020-09-03"
-coverImage: "implement__bleeding_alone_1.png"
+featuredimg: https://i.ibb.co/k2VbWvN/implement-bleeding-alone-1.png
 ---
 
 **Band:** Implement

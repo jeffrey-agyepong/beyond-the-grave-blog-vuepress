@@ -1,7 +1,7 @@
 ---
 title: "New Release: Start Anew - Joined Together"
 date: "2020-09-03"
-coverImage: "start-anew.jpg"
+featuredimg: https://i.ibb.co/n35QZ0k/start-anew.jpg
 ---
 
 **Release Date:** September 2, 2020 **Record Label:** Abran Records

@@ -1,7 +1,7 @@
 ---
 title: "Introducing: Jesus Wannabeez"
 date: "2020-09-02"
-coverImage: "jw.png"
+featuredimg: https://i.ibb.co/F6jr4Bd/jw.png
 ---
 
 **Formed:** 2019

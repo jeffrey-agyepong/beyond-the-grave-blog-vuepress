@@ -3,7 +3,7 @@ title: "Introducing: Blue Fire Horizon"
 date: "2020-09-21"
 tags:
 - Christian metal
-- Christian metalcote
+- Christian metalcore
 - metalcore
 - metal
 - Blue Fire Horizon

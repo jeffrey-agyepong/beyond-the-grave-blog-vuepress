@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: THEODY"
 date: "2020-03-18"
-coverImage: "dsc00803.jpg"
+featuredimg: https://i.ibb.co/FxBHr14/dsc00818.jpg
 
 ---
 

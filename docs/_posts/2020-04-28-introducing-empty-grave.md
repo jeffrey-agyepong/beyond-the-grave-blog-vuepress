@@ -1,7 +1,7 @@
 ---
 title: "Introducing: Empty Grave"
 date: "2020-04-28"
-coverImage: "0010854651_10.jpg"
+featuredimg: https://i.ibb.co/gyGSfZc/0010854651-10.jpg
 ---
 
 ### Empty Grave is a two-man deathgrind project from East Germany.
@@ -22,6 +22,4 @@ Releases:
 
 https://www.youtube.com/watch?v=QNYjtoFSLag
 
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+ 

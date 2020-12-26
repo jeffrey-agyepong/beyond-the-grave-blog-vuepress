@@ -27,9 +27,9 @@ featuredimg: https://i.ibb.co/HB64fYW/diamonds-to-dust-decisions.jpg
 * * *
 
 <iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4102972938/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://diamondstodust.bandcamp.com/album/decisions-ep">Decisions Ep by Diamonds to Dust</a></iframe>
-
+<div class="video-container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/jQ0eJr8n3d0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode es</a></small></div><div><small><a href="https://www.hostsearch.com/">ultimate Web traffic</a></small></div></iframe>
-
+</div>
 * * *
 <p style="text-align:center;">
 Seven trumpets will mark the judgment of the living on earth</br>
@@ -54,9 +54,9 @@ Et accepto calice gratias egit et dixit accipite et dividite inter vos</br>
 et accepto pane gratias egit et fregit et dedit eis dicens hoc est enum corpus meum quod pro vobis datur hoc facite in meam commemorationem. (Luke 22:17-19 is the translation)</br></p>
 
 * * *
-
+<div class="video-container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/bAppBhXrboU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://tr3ndygirl.com/">Ultimate web Traffic</a></small></div></iframe>
-
+</div>
 * * *
 <p style="text-align:center;">
 I have gained the wisdom to understand </br>

@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: SEARCHING SERENITY"
 date: "2020-04-24"
-coverImage: "94612547_947320375684479_383327209852502016_n.jpg"
+featuredimg: https://i.ibb.co/5Mtkvpn/94612547-947320375684479-383327209852502016-n.jpg
 ---
 
 _Searching Serenity is a Christian melodic deathcore band/project from Jacksonville in Florida. Here's the interview I did with the man behind the project._

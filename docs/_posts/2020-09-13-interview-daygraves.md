@@ -1,7 +1,7 @@
 ---
 title: "INTERVIEW: DAYGRAVES"
 date: "2020-09-13"
-coverImage: "silver-1.jpg"
+featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 ---
 
 **Daygraves** is a Christian Blackgaze band, strongly based on Post – Black Metal, Post- Rock, and Shoegaze.

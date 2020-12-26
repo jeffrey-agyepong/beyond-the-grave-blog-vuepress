@@ -32,9 +32,9 @@ featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 12. Paradise 08:28
 
 ---
-
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/bSEMF3ztsHs?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="http://www.chkrootkit.org/">buy high converting traffic</a></small></div></iframe>
-
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bSEMF3ztsHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 <h4 style="text-align:center;"><a href="https://music.apple.com/ca/album/twisted-reality/1543915062" alt="iTunes">iTunes</a></h4>
