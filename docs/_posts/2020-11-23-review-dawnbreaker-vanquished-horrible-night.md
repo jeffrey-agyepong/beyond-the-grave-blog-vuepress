@@ -49,15 +49,15 @@ You may already be used to this from me but I will not discuss every track. For 
 
  **Overall** this is a quality release, great to see some new Christian bands and artists who are playing an extreme genre. I know it’s about personal taste, but I very much like this new approach to giving the music a more melodic black metal feeling, the vocals and riffs are sounding better than before.
 
+<hr>
+
 ### *<h3 style="text-align: center">*Rating:** 8.9/10
 
 **Reason:** There is still plenty of room for improvement. I would like to add that I am sure the quality will increase in every album. Cullen is a very talented guy.
 
-**Written by:** Ton of [Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)
-
 * * *
 
-#### BTG Staff's Second Opinion
+<h4 style="text-align:center;"">BTG Staff's Second Opinion </h4>
 
 As a new release by a well-established artist _(Cullen Toner)_, this album builds on previous symphonic metal releases. Personally, I feel this album is better balanced than the previous albums _**Dues Vult**_ and _**Total Depravity**_. _**Vanquished Horrible Night**_ carries through a strong Christian narrative with the speed and heaviness characteristic of black metal.
 
