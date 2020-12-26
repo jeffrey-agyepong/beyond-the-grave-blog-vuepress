@@ -2,10 +2,7 @@
 title: 'New Release: Northern Flame - Twisted Reality'
 date: '2020-12-21'
 tags:
-- Christian metal
-- Melodic metal
-- Power metal
-- Northern Flame
+- New Release
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
@@ -42,3 +39,5 @@ featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
 
 <iframe src="https://open.spotify.com/embed/album/57QDutFAhzn0U6SZeNFmpM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

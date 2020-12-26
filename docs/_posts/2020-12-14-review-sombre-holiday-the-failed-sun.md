@@ -2,10 +2,7 @@
 title: "Review: Sombre Holiday - The Failed Sun"
 date: "2020-12-14"
 tags: 
-- Progressive metal
-- Rock
-- Christian metal
-- Sombre Holiday
+- Review
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 ---
@@ -28,7 +25,7 @@ featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 2. Man of the Earth 04:29 
 3. Masterpiece 07:57 
 4. New Darkness 06:20
-5. That Picture of You 05:28 
+5. <iframe style="border: 0; width: 340px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
 6. The Burning Sky 06:19 
 7. This Present Absence 07:13 
 8. The Failed Sun 05:42 
@@ -67,8 +64,7 @@ Even though this album was a bit out of my comfort sound, it sincerely opened my
 
 * * *
 
-
-<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2688863757/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sombreholiday.bandcamp.com/album/the-failed-sun">The Failed Sun by Sombre Holiday</a></iframe>
+<iframe style="border: 0; width: 340px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2688863757/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sombreholiday.bandcamp.com/album/the-failed-sun">The Failed Sun by Sombre Holiday</a></iframe>
 
 
 * * *

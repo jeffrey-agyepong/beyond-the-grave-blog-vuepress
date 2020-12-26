@@ -2,13 +2,7 @@
 title: "Album Spotlight: Shook Like Dead Men - The Five Solas Ep"
 date: "2020-12-09"
 tags:
-- Christian hardcore
-- hardcore
-- melodic hardcore
-- Shook Like Dead Men
-- Five Solas
-- Reformation
-author: Jeffrey Agyepong
+- Album Spotlight
 featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 ---
 
@@ -30,7 +24,7 @@ featuredimg: https://i.ibb.co/2tW9Cyx/shook-like-dead-men.jpg
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
+<iframe style="border: 0; width: 340px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
 
 * * *
 <div class=video-container>

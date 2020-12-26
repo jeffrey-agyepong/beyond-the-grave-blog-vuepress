@@ -52,7 +52,7 @@ You may already be used to this from me but I will not discuss every track. For 
 
  **Overall** this is a quality release, great to see some new Christian bands and artists who are playing an extreme genre. I know it’s about personal taste, but I very much like this new approach to giving the music a more melodic black metal feeling, the vocals and riffs are sounding better than before.
 
-### **Rating:** 8.9/10
+### *<h3 style="text-align: center">*Rating:** 8.9/10
 
 **Reason:** There is still plenty of room for improvement. I would like to add that I am sure the quality will increase in every album. Cullen is a very talented guy.
 

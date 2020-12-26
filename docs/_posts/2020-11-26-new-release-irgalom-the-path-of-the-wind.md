@@ -2,10 +2,7 @@
 title: "New Release: Irgalom -  The Path Of The Wind [EP]"
 date: "2020-11-26"
 tags:
-- Christian metal
-- Black metal
-- Irgalom
-- metal
+- New Release
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nQMg9fS/irgalom.jpg
 ---
@@ -27,6 +24,6 @@ featuredimg: https://i.ibb.co/nQMg9fS/irgalom.jpg
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3050171965/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://abran.bandcamp.com/album/the-path-of-the-wind-2">The Path Of The Wind by Irgalom</a></iframe>
+<iframe style="border: 0; width: 340px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3050171965/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://abran.bandcamp.com/album/the-path-of-the-wind-2">The Path Of The Wind by Irgalom</a></iframe>
 
 * * *

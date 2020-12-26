@@ -50,7 +50,7 @@ It’s quite funny if you have read the names of the vocalists you can get quite
 
 So, in the end, we have here one of the best Christian extreme metal releases in the last year without a doubt. Great melodic extreme metal, amazing song structures, and some of the best Christian extreme metal vocalists out there. A must buy by any means. This is an amazing debut album. Looking forward to the new material.
 
-**Rating:** 9.5/10
+<h3 style="text-align: center">**Rating:** 9.5/10
 
 **Written by:** Ton of **[Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)**
 

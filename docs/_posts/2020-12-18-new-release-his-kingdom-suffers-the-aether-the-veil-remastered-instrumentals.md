@@ -2,20 +2,18 @@
 title: "New Release: His Kingdom Suffers - The Aether & The Veil (Remastered & Instrumentals)"
 date: "2020-12-18"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
+- New Release
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---
 
-Genre: Progressive Deathcore
+**Genre:** Progressive Deathcore
 
-Release Date: December 25, 2020
+**Release Date:** December 25, 2020
 
-Album Length: 2 hour 14 Minutes
+**Album Length:** 2 hour 14 Minutes
 
-Label: Independent
+**Label:** Independent
 
 1. The Aether (Remastered) 05:12 
 2. Indoctrination Stations (Remastered) 05:45 
@@ -49,10 +47,12 @@ Label: Independent
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=491218250/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://hiskingdomsuffers1.bandcamp.com/album/the-aether-the-veil-remastered-instrumentals-2">The Aether &amp; The Veil (Remastered &amp; Instrumentals) by His Kingdom Suffers</a></iframe>
+<iframe style="border: 0; width: 340px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=491218250/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://hiskingdomsuffers1.bandcamp.com/album/the-aether-the-veil-remastered-instrumentals-2">The Aether &amp; The Veil (Remastered &amp; Instrumentals) by His Kingdom Suffers</a></iframe>
 
 
 * * *
 <div class="video-container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/rsC95fTHczU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://www.jubler.org/">buy bulk traffic</a></small></div></iframe>
 </div>
+
+<hr>

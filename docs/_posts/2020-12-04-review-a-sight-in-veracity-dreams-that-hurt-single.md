@@ -2,10 +2,7 @@
 title: "Review: A Sight in Veracity - Dreams That Hurt (Single)"
 date: "2020-12-04"
 tags:
-- A Sight in Veracity
-- Christian Metalcore
-- Metalcore
-- Australia
+- Review
 author: Erik Morgan
 featuredimg: https://i.ibb.co/X7Fk53D/image0.jpg
 ---
@@ -50,3 +47,5 @@ Nostalgia stares me in the eye I’m in your vision on repeat Fond of the remini
 * * *
 
 <iframe src="https://open.spotify.com/embed/artist/766tMT7gzeXdwTCMSoN68M" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

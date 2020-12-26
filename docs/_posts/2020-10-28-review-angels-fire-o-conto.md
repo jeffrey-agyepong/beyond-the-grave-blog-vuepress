@@ -63,14 +63,9 @@ André Lima - Drums
 **Final Thoughts:** Overall, I had a lot of fun listening to **Angel’s Fire**’s album “**O Conto**”. It was impressed by their musical talents in a variety of instruments and the vocal abilities of Priscila. The soothing vocals along with the amazing choir and orchestra really brought a theatrical presence that isn’t heard much in the Christian Metal scene much. I would definitely recommend this album to those who enjoy metal and symphony in general.
 
 <hr>
+<h3 style="text-align: center">Rating: 8.5/10
+<hr>
 
-<h3 style="text-align:center;"> </h3>
-
-**Rating:** 8.5/10
-
-**Written by:** Nick Ptak 
-
-* * *
 
 #### [iTunes](https://music.apple.com/ca/album/o-conto/1348813326)
 

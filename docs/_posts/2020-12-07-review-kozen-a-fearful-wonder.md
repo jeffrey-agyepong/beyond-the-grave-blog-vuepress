@@ -2,10 +2,7 @@
 title: "Review: Kozen - A Fearful Wonder"
 date: "2020-12-07"
 tags:
-- Christian metal
-- progressive metal
-- metal
-- Kozen
+- Review
 author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/4jd68z2/kozen.jpg
 ---
@@ -87,8 +84,10 @@ Consider us a little late in really diving into this album - but, as the adage g
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=510048190/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kozen.bandcamp.com/album/a-fearful-wonder">A Fearful Wonder by KOZEN</a></iframe>
+<iframe style="border: 0; width: 340px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=510048190/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kozen.bandcamp.com/album/a-fearful-wonder">A Fearful Wonder by KOZEN</a></iframe>
 
 * * *
 
 <iframe src="https://open.spotify.com/embed/artist/3fDI0eYdPsyGgnuADgs0ET" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

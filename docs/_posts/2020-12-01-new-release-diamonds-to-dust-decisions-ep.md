@@ -2,11 +2,7 @@
 title: "New Release: Diamonds to Dust - Decisions [EP]"
 date: "2020-12-01"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Diamonds to Dust
+- New Release
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/HB64fYW/diamonds-to-dust-decisions.jpg
 ---
@@ -26,7 +22,7 @@ featuredimg: https://i.ibb.co/HB64fYW/diamonds-to-dust-decisions.jpg
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4102972938/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://diamondstodust.bandcamp.com/album/decisions-ep">Decisions Ep by Diamonds to Dust</a></iframe>
+<iframe style="border: 0; width: 340px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4102972938/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://diamondstodust.bandcamp.com/album/decisions-ep">Decisions Ep by Diamonds to Dust</a></iframe>
 <div class="video-container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/jQ0eJr8n3d0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode es</a></small></div><div><small><a href="https://www.hostsearch.com/">ultimate Web traffic</a></small></div></iframe>
 </div>

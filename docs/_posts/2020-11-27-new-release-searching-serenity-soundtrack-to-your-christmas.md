@@ -2,11 +2,7 @@
 title: "New Release: Searching Serenity -  Soundtrack To Your Christmas[EP]"
 date: "2020-11-27"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- New Release
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
@@ -26,7 +22,7 @@ featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 
 * * *
 
-<iframe style="border: 0; width: 350px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2878421984/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://searchingserenity.bandcamp.com/album/soundtrack-to-your-christmas">Soundtrack To Your Christmas by Searching Serenity</a></iframe>
+<iframe style="border: 0; width: 340px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2878421984/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://searchingserenity.bandcamp.com/album/soundtrack-to-your-christmas">Soundtrack To Your Christmas by Searching Serenity</a></iframe>
 
 * * *
 <div class="video-container">
