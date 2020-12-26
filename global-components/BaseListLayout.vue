@@ -1,3 +1,9 @@
+<script>
+import Vue from 'vue'
+import VueLazyload from 'vue-lazyload'
+
+Vue.use(VueLazyload)
+</script>
 <template>
   <div id="">
     <div
@@ -17,7 +23,7 @@
         <div class="entry card h-100">
           <div class="card-header-image">
             <NavLink :link="page.path">
-              <img :src="page.frontmatter.featuredimg" />
+              <img v-lazy="page.frontmatter.featuredimg" />
             </NavLink>
           </div>
 
@@ -42,9 +48,9 @@
                 page.title
               }}</NavLink>
             </h2>
-            <p itemprop="description">
+            <!--<p itemprop="description">
               {{ page.frontmatter.summary || page.summary }}
-            </p>
+            </p>-->
           </div>
           <div class="meta-bottom mt-auto">
             <div v-if="$themeConfig.authors">
