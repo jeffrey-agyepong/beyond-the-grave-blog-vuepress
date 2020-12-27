@@ -25,6 +25,18 @@
             <Feed />
           </li>
         </ul>
+        <ul v-if="$theme.nav" class="mobile-nav">
+          <li
+            v-for="item in $theme.nav"
+            :key="item.text"
+            class="mobile-nav-item"
+          >
+            <NavLink :link="item.link">{{ item.text }}</NavLink>
+          </li>
+          <li class="mobile-nav-item">
+            <Feed />
+          </li>
+        </ul>
       </div>
     </div>
   </div>

@@ -21,6 +21,8 @@
             </button>
             <div id="navbarsExampleDefault" class="collapse navbar-collapse">
               <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
+                <ejs-dropdownbutton :items="items">Bands</ejs-dropdownbutton>
+                <ejs-dropdownbutton :items="items2">Albums</ejs-dropdownbutton>
                 <li
                   v-for="item in $themeConfig.nav"
                   :key="item.text"
@@ -30,6 +32,7 @@
                     item.text
                   }}</NavLink>
                 </li>
+
                 <SearchBox />
               </ul>
             </div>
@@ -41,10 +44,39 @@
 </template>
 
 <script>
+import Vue from 'vue'
+import { DropDownButtonPlugin } from '@syncfusion/ej2-vue-splitbuttons'
+import { enableRipple } from '@syncfusion/ej2-base'
 import SearchBox from '@SearchBox'
 
+enableRipple(true)
+Vue.use(DropDownButtonPlugin)
 export default {
   components: { SearchBox },
+  data() {
+    return {
+      items: [
+        {
+          text: 'Introducing',
+          url: '/tag/Introducing/',
+        },
+        {
+          text: 'Bands Spotlight',
+          url: '/tag/Introducing/',
+        },
+      ],
+      items2: [
+        {
+          text: 'New Releases',
+          url: '/tag/New_Releases/',
+        },
+        {
+          text: 'Bands Spotlight',
+          url: '/tag/Introducing/',
+        },
+      ],
+    }
+  },
 }
 </script>
 
@@ -106,7 +138,6 @@ export default {
 
           &.focused
             color $accentColor
-
 @media (max-width: $MQMobile)
   #header
     display none
@@ -116,4 +147,8 @@ export default {
 
     .header-right-wrap
       display none
+@import '../node_modules/@syncfusion/ej2-base/styles/material.css'
+@import '../node_modules/@syncfusion/ej2-buttons/styles/material.css'
+@import '../node_modules/@syncfusion/ej2-popups/styles/material.css'
+@import '../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css'
 </style>

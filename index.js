@@ -11,17 +11,13 @@ module.exports = themeConfig => {
     logo: '/assets/img/logo.png',
     nav: themeConfig.nav || [
       {
-        text: 'Bands',
-        link: '/tag/Introducing/',
-      },
-      {
         text: 'Interviews',
         link: '/tag/Interviews/',
       },
-      {
+      /*{
         text: 'Albums',
         link: '/',
-      },
+      },*/
       {
         text: 'Reviews',
         link: '/tag/Reviews/',

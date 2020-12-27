@@ -48,6 +48,8 @@
     ]
   },
   "dependencies": {
+    "@syncfusion/ej2-vue-grids": "*",
+    "@syncfusion/ej2-vue-splitbuttons": "^18.4.31",
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-medium-zoom": "1.0.0",
     "@vuepress/plugin-nprogress": "1.0.0",
