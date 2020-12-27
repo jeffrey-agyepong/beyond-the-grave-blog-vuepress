@@ -14,10 +14,6 @@ module.exports = themeConfig => {
         text: 'Interviews',
         link: '/tag/Interviews/',
       },
-      /*{
-        text: 'Albums',
-        link: '/',
-      },*/
       {
         text: 'Reviews',
         link: '/tag/Reviews/',
@@ -34,10 +30,10 @@ module.exports = themeConfig => {
         text: 'Contact',
         link: '/',
       },
-      {
+      /*{
         text: 'Tags',
         link: '/tag/',
-      },
+      },*/
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
