@@ -2,11 +2,8 @@
 title: "Review: Tortured Conscience - Every Knee Shall Bow [Remixed & Remastered]"
 date: "2020-11-18"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- Reviews
+- Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/DDkTPgt/every-knee-shall-bowremixed-remastered.jpg
 ---

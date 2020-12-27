@@ -1,7 +1,7 @@
 ---
 title: "Review: Collapse//Revive - Collapse//Revive EP"
 date: "2020-09-07"
-featureimg: https://i.ibb.co/Gpf5Rvk/collapse.jpg
+featuredimg: https://i.ibb.co/Gpf5Rvk/collapse.jpg
 ---
 
 **Band:** Collapse//Revive **Album:** Self-Titled (EP)

@@ -2,12 +2,9 @@
 title: "Review: Plague of the Ungodly - Ominous Singularity"
 date: "2020-10-30"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
-author: Jeffrey Agyepong
+- Reviews
+- Death Metal
+author: Hezekiah Rose
 featuredimg: https://i.ibb.co/YZW0RVC/plague-of-the-ungodly-ominus-singularity.jpg
 ---
 

@@ -5,7 +5,8 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
           <div class="container">
             <NavLink link="/" class="navbar-brand"
-              ><img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}
+              ><!--<img :src="$withBase($themeConfig.logo)" />-->
+              {{ $site.title }}
             </NavLink>
             <button
               class="navbar-toggler"
@@ -83,7 +84,7 @@ export default {
           transition color 0.3s
 
     .search-box
-      margin-left 20px
+      margin-left 10px
 
       input
         border-radius 5px

@@ -2,7 +2,7 @@
 title: "Review: Kozen - A Fearful Wonder"
 date: "2020-12-07"
 tags:
-- Review
+- Reviews
 - Progressive Metal
 author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/4jd68z2/kozen.jpg

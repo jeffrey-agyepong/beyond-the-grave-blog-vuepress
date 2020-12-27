@@ -2,11 +2,8 @@
 title: "Review: Jernlov - Crucified"
 date: "2020-11-21"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- Reviews
+- Black Metal
 author: Ton Ringenier
 featuredimg: https://i.ibb.co/HtHB3TP/34503-jernlov-crucified-cd.jpg
 ---

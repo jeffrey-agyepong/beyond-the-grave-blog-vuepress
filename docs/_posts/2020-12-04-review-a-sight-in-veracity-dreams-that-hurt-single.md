@@ -2,7 +2,7 @@
 title: "Review: A Sight in Veracity - Dreams That Hurt (Single)"
 date: "2020-12-04"
 tags:
-- Review
+- Reviews
 - Metalcore
 author: Erik Morgan
 featuredimg: https://i.ibb.co/X7Fk53D/image0.jpg

@@ -2,7 +2,7 @@
 title: "Review: Brotality – Prisoners of the Abyss (EP)"
 date: "2020-12-19"
 tags: 
-- Review
+- Reviews
 - Thrash Metal
 author: Nick Ptak
 featuredimg: https://i.ibb.co/MMYnShv/brotality.jpg

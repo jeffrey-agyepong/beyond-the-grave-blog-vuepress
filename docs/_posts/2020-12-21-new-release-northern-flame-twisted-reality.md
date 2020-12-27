@@ -2,10 +2,10 @@
 title: 'New Release: Northern Flame - Twisted Reality'
 date: '2020-12-21'
 tags:
-- New Release
+- New Releases
 - Power Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
+featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg 
 ---
 
 **Genre:** Melodic/Power Metal

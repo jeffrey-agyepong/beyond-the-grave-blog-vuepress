@@ -2,7 +2,7 @@
 title: "Review: Blue Fire Horizon - Down With Leviathan"
 date: "2020-11-25"
 tags:
-- Review
+- Reviews
 - Metalcore
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
@@ -48,9 +48,10 @@ The second part of this album starts with **Prosperity**, a song against “Pro
 This is a crazily good EP for a debut album, I’m extremely excited for what this band can become in the future, if they received more recognition and get a label that fully understands their vision this band could turn pretty influential and big for the current Metalcore scene, because of their creativity and versatile sound. Extremely talented guys! God bless them!
 
 <hr>
-**Favorite Tracks:** Prosperity, Down With Leviathan and Blood Of The Innocent.
+Favorite Tracks: Prosperity, Down With Leviathan and Blood Of The Innocent.
 
-<h3 style="text-align: center">Rating: 8.9/10
+
+<h3 style="text-align: center">Rating: 8.9/10</h3>
 
 * * *
 

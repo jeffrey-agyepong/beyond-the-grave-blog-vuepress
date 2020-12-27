@@ -1,6 +1,7 @@
 const removeMd = require('remove-markdown')
 const path = require('path')
 const pick = require('lodash/pick')
+const { TestScheduler } = require('jest')
 
 module.exports = themeConfig => {
   /**
@@ -11,11 +12,11 @@ module.exports = themeConfig => {
     nav: themeConfig.nav || [
       {
         text: 'Bands',
-        link: '/',
+        link: '/tag/Introducing/',
       },
       {
         text: 'Interviews',
-        link: '/',
+        link: '/tag/Interviews/',
       },
       {
         text: 'Albums',
@@ -23,7 +24,7 @@ module.exports = themeConfig => {
       },
       {
         text: 'Reviews',
-        link: '/',
+        link: '/tag/Reviews/',
       },
       {
         text: 'Submit Music',
@@ -37,10 +38,10 @@ module.exports = themeConfig => {
         text: 'Contact',
         link: '/',
       },
-      /*{
+      {
         text: 'Tags',
         link: '/tag/',
-      },*/
+      },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:

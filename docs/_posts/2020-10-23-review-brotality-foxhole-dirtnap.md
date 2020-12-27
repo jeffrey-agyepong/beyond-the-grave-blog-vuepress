@@ -2,12 +2,9 @@
 title: "Review: Brotality - Foxhole & Dirtnap"
 date: "2020-10-23"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
-author: Jeffrey Agyepong
+- Reviews
+- Thrash Metal
+author: Christianmetalreviewer777
 featuredimg: https://i.ibb.co/48WS6VR/fox-holes.jpg
 ---
 
@@ -17,7 +14,7 @@ featuredimg: https://i.ibb.co/48WS6VR/fox-holes.jpg
 
 **EP length:** 9 Minutes
 
-**Genre:** Heavy Metal
+**Genre:** Thrash Metal
 
 **Brotality** is an old school Thrash Metal band new to the scene. Their members are Bryce (guitar and vocals ), Reece (bass and vocals), and Liam (drums and vocals). **Foxhole** was released through Rottweiler Records on October 16, 2020.
 
@@ -33,9 +30,7 @@ The song then declares for people to follow the Truth and find meaning. The lyri
 
 <hr>
 
-<h3 style="text-align:center;"> </h3>
-
-#### **Rating:** 8.5/10
+<h3 style="text-align:center;"> Rating: 8.5/10</h3>
 
 * * *
 
@@ -52,10 +47,7 @@ The story of this song definitely is powerful.
 **Overall:** Brotality has continued to show that they have a solid ground in the scene. I can easily see people moshing to this song being played live. Well done.
 
 <hr>
-
-<h3 style="text-align:center;"> </h3>
-
-#### Rating: 8.5/10
+<h3 style="text-align:center;"> Rating: 8.5/10</h3>
 
 * * *
 

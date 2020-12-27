@@ -2,18 +2,30 @@
 title: "New Release: Unseen Faith - Evoke"
 date: "2020-11-14"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- New Releases 
+- Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
 ---
 
-**Release Date:** November 13, 2020 **Genre:** Deathcore/Progressive Metalcore **Record label:** Independent **Origin:** Aarhus, Denmark
+**Release Date:** November 13, 2020
 
-1\. Downfall 03:31 2. New Era 03:34 3. Hardwired 03:33 4. Wrath 03:03 5. Ode To Heresy 04:33 6. Out Of The Dark (feat. Daniel McWhorter) 03:13 7. Heart In A Prison 03:49 8. The Perfect Human (feat. Andreas Bjulver) 03:52 9. The Greatest Threat (feat. Benjamin Ganzhorn) 04:13 10. Wither 03:45
+ **Genre:** Deathcore/Progressive Metalcore 
+
+**Record label:** Independent 
+
+**Origin:** Aarhus, Denmark
+
+1. Downfall 03:31 
+2. New Era 03:34 
+3. Hardwired 03:33 
+4. Wrath 03:03 
+5. Ode To Heresy 04:33 
+6. Out Of The Dark (feat. Daniel McWhorter) 03:13 
+7. Heart In A Prison 03:49 
+8. The Perfect Human (feat. Andreas Bjulver) 03:52 
+9. The Greatest Threat (feat. Benjamin Ganzhorn) 04:13 
+10. Wither 03:45
 
 * * *
 

@@ -2,12 +2,9 @@
 title: "Review: FireBrand - Beat the Machine"
 date: "2020-10-31"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
-author: Jeffrey Agyepong
+- Reviews
+- Industrial Metal 
+author: Christianmetalreviewer777
 featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 ---
 

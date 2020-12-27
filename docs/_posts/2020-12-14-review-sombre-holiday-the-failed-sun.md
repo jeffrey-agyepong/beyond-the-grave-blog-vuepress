@@ -2,7 +2,7 @@
 title: "Review: Sombre Holiday - The Failed Sun"
 date: "2020-12-14"
 tags: 
-- Review
+- Reviews
 - Progressive Metal
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg

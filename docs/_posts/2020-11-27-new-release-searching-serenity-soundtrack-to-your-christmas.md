@@ -2,7 +2,7 @@
 title: "New Release: Searching Serenity -  Soundtrack To Your Christmas[EP]"
 date: "2020-11-27"
 tags:
-- New Release
+- New Releases
 - Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg

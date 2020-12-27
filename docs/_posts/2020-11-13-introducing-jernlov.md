@@ -2,11 +2,8 @@
 title: "Introducing: Jernlov"
 date: "2020-11-13"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- Introducing
+- Black Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/LvGrtMJ/jernlov.png
 ---

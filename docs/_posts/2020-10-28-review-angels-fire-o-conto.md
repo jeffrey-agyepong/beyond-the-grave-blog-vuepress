@@ -2,12 +2,9 @@
 title: "Review: Angel's Fire - O Conto"
 date: "2020-10-28"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
-author: Jeffrey Agyepong
+- Reviews
+- Symphonic Metal
+author: Nick Ptak
 featuredimg: https://i.ibb.co/5szHnDn/capa-frente-angels-fire.jpg
 ---
 

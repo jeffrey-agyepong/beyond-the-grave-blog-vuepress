@@ -8,7 +8,7 @@ module.exports = {
   authors: [
       {
       name: 'Jeffrey Agyepong',
-      avatar: '/assets/img/sal.jpg',
+      avatar: '/assets/img/jeff.jpg',
       link: 'https://linktr.ee/jeffrey_a',
       linktext: 'Follow',
       },
@@ -65,17 +65,10 @@ module.exports = {
     footer: {
       contact: [
         {
-          type: 'codepen',
-          link: '#',
-        },
-        {
           type: 'facebook',
           link: 'https://web.facebook.com/Beyondthegrave777',
         },
-        {
-          type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
-        },
+
         {
           type: 'instagram',
           link: 'https://www.instagram.com/beyond_the_grave777/',

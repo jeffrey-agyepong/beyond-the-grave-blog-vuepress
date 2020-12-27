@@ -2,11 +2,8 @@
 title: "Album Spotlight: Nyctalopia - Nyctalopia"
 date: "2020-11-16"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- Album Spotlight
+- Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/qjF7FWW/a4114459735-10.jpg
 ---

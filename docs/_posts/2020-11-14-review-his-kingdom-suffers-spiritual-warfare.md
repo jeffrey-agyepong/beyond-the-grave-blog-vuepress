@@ -2,12 +2,9 @@
 title: "Review: His Kingdom Suffers - Spiritual Warfare"
 date: "2020-11-14"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
-author: Jeffrey Agyepong
+- Reviews
+- Deathcore
+author: Jeremy Prince
 featuredimg: https://i.ibb.co/tJQv59n/his-kingdom-suffers.jpg
 ---
 
