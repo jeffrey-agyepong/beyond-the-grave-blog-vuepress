@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Empty Grave"
 date: "2020-04-28"
+tags:
+- New Releases
+- Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gyGSfZc/0010854651-10.jpg
 ---
 

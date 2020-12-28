@@ -1,8 +1,11 @@
 ---
 title: "INTERVIEW: THEODY"
 date: "2020-03-18"
+tags:
+- New Releases
+- Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/FxBHr14/dsc00818.jpg
-
 ---
 
 Beyond the Grave is joined by Theody's vocalist, Lauren Kinder.

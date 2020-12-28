@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: SEARCHING SERENITY"
 date: "2020-04-24"
+tags:
+- New Releases
+- Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5Mtkvpn/94612547-947320375684479-383327209852502016-n.jpg
 ---
 
