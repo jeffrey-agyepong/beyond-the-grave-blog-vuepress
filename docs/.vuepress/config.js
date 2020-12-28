@@ -3,26 +3,21 @@ module.exports = {
   publicPath: 'https://beyondthegrave.netlify.app/',
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
-  plugins:[ [
-    '@vuepress/google-analytics',
-    {
-      'ga': '' // UA-00000000-0
-    }
-  ],
-  {
-    siteTitle: (_, $site) => $site.title,
-    title: $page => $page.title,
-    description: $page => $page.frontmatter.description,
-    author: (_, $site) => $site.themeConfig.author,
-    tags: $page => $page.frontmatter.tags,
-    twitterCard: _ => 'summary_large_image',
-    type: $page => ['articles', 'posts', 'blog'].some(folder => $page.regularPath.startsWith('/' + folder)) ? 'article' : 'website',
-    url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
-    image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain && !$page.frontmatter.image.startsWith('http') || '') + $page.frontmatter.image),
-    publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
-    modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
-}
-],
+  plugins:{
+    'seo':{
+      siteTitle: (_, $site) => $site.title,
+      title: $page => $page.title,
+      description: $page => $page.frontmatter.description,
+      author: (_, $site) => $site.themeConfig.author,
+      tags: $page => $page.frontmatter.tags,
+      twitterCard: _ => 'summary_large_image',
+      type: $page => ['articles', 'posts', 'blog'].some(folder => $page.regularPath.startsWith('/' + folder)) ? 'article' : 'website',
+      url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
+      image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain && !$page.frontmatter.image.startsWith('http') || '') + $page.frontmatter.image),
+      publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
+      modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
+  }
+  },
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
