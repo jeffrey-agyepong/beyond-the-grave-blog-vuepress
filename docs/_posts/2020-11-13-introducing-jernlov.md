@@ -22,7 +22,9 @@ featuredimg: https://i.ibb.co/LvGrtMJ/jernlov.png
 
 **Band Members:**
 
-Alf Petter Engeset - Guitars, Bass, Synth Zuriel - Drums
+Alf Petter Engeset - Guitars, Bass, Synth 
+
+Zuriel - Drums
 
 * * *
 

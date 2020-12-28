@@ -7,12 +7,10 @@ tags:
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg 
 ---
-
-**Genre:** Melodic/Power Metal
-**Release Date:** December 18, 2020
-**Album Length:** 1 hour 6 Minutes
-**Record Label: **Independent
-
+Genre: Melodic/Power Metal <br>
+Release Date: December 18, 2020<br>
+Album Length: 1 hour 6 Minutes<br>
+Record Label: Independent<br>
 
 ---
 

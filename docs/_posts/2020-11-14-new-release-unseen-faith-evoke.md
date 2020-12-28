@@ -29,11 +29,7 @@ featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
 
 * * *
 
-\[bandcamp width=350 height=470 album=1106968356 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
-
-* * *
-
-### [Facebook](https://www.facebook.com/UnseenFaith/) [Instagram](https://instagram.com/unseenfaithband/) [Twitter](https://twitter.com/UnseenFaithband)
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=1106968356/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://unseenfaith.bandcamp.com/album/evoke">Evoke by Unseen Faith</a></iframe>
 
 * * *
 
@@ -47,4 +43,6 @@ featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
 
 * * *
 
-https://www.youtube.com/playlist?list=PLGunlonOW3sijd7D2XBSBN83XzAknr-nu
+<iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLGunlonOW3sijd7D2XBSBN83XzAknr-nu" width="560" height="315" frameborder="0"></iframe>
+
+<hr>

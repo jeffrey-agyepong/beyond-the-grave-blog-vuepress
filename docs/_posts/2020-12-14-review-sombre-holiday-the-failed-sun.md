@@ -26,7 +26,7 @@ featuredimg: https://i.ibb.co/4tv52zw/sombre-holiday.jpg
 2. Man of the Earth 04:29 
 3. Masterpiece 07:57 
 4. New Darkness 06:20
-5. <iframe style="border: 0; width: 340px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=211969466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://shooklikedeadmen.bandcamp.com/album/the-five-solas-ep">The Five Solas EP by Shook Like Dead Men</a></iframe>
+5. The Picture of You
 6. The Burning Sky 06:19 
 7. This Present Absence 07:13 
 8. The Failed Sun 05:42 

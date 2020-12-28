@@ -8,11 +8,9 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 ---
 
-**Release Date:** December 20, 2020
-
-**Genre:** Melodic/Symphonic Metal
-
-**Record label:** Independent
+**Release Date:** December 20, 2020<br>
+**Genre:** Melodic/Symphonic Metal<br>
+**Record label:** Independent<br>
 
 * * *
 

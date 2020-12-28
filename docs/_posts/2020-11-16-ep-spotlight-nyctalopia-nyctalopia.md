@@ -22,16 +22,18 @@ featuredimg: https://i.ibb.co/qjF7FWW/a4114459735-10.jpg
 
 **Tracklist:**
 
-1\. Hell (01:04) 2. Gutted Body (01:57) 3. Searching (02:08) 4. Lost Souls (02:51) 5. FEAR (03:52)
+1. Hell (01:04)
+2. Gutted Body (01:57)
+3. Searching (02:08)
+4. Lost Souls (02:51) 
+5. FEAR (03:52)
 
 * * *
 
-https://www.youtube.com/watch?v=RZ0arIDzM5M
-
- 
+<iframe src="https://www.youtube.com/embed/RZ0arIDzM5M" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-\[bandcamp width=350 height=470 album=17693816 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=17693816/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://nyctalopia.bandcamp.com/album/nyctalopia">Nyctalopia by Nyctalopia</a></iframe>
 
 * * *

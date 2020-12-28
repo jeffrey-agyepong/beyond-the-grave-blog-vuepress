@@ -23,15 +23,10 @@ featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
 **Track List:**
 
 1. The War Is Everything
-   
 2. Made To Suffer (feat. Ryan Thomas)
-   
 3. Prosperity
-   
 4. Blood Of The Innocent
-   
 5. Down With Leviathan
-   
 
 * * *
 

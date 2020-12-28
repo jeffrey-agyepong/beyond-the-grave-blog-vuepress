@@ -30,8 +30,15 @@ I did go and listen to their other recent single **Suffering of the Mind** and f
 
 **Rating:** I’m not sure what to go with here. I think I’ll wait to hear more and hear it in context. Just know that it is a great song.
 
-**Written by:** Jeremy Prince
+<hr>
 
-#### **[Apple Music](https://music.apple.com/nz/album/spiritual-warfare-single/1539228657)**
+<iframe src="https://www.youtube.com/embed/rsC95fTHczU" width="560" height="315" frameborder="0"></iframe>
 
-https://youtu.be/rsC95fTHczU
+<hr>
+
+<iframe style="border: 0; width: 340px; height: 432px;" src="https://bandcamp.com/EmbeddedPlayer/track=3762919385/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hiskingdomsuffers1.bandcamp.com/track/spiritual-warfare">Spiritual Warfare by His Kingdom Suffers</a></iframe>
+
+<hr>
+
+
+
