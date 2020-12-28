@@ -3,6 +3,7 @@ title: "Interview: Dawnbreaker (Cullen Toner)"
 date: "2020-11-18"
 tags:
 - Interviews
+- Black Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rpkjMxX/dawnbreaker-1.jpg
 ---

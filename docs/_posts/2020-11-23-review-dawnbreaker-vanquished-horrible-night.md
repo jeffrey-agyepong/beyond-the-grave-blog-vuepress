@@ -49,9 +49,10 @@ You may already be used to this from me but I will not discuss every track. For 
 
  **Overall** this is a quality release, great to see some new Christian bands and artists who are playing an extreme genre. I know it’s about personal taste, but I very much like this new approach to giving the music a more melodic black metal feeling, the vocals and riffs are sounding better than before.
 <hr>
-### *<h3 style="text-align: center">Rating: 8.9/10</h3>
-**Reason:** There is still plenty of room for improvement. I would like to add that I am sure the quality will increase in every album. Cullen is a very talented guy.
+<h3 style="text-align: center">Rating: 8.9/10</h3>
+Reason: There is still plenty of room for improvement. I would like to add that I am sure the quality will increase in every album. Cullen is a very talented guy.
 <hr>
+
 
 <h4 style="text-align:center;"">BTG Staff's Second Opinion </h4>
 
@@ -67,5 +68,10 @@ As a new release by a well-established artist _(Cullen Toner)_, this album build
 <h3 style="text-align: center">Rating: 7/10</h3>
 Favorite tracks: Favorite tracks include Evil’s Bane for the balance of choral, growls, and symphonic elements, with The Virtuous Quest a close second for similar reasons.
 <h3 style="text-align: center"> Written by:<a href="https://www.instagram.com/hezekiahrose001/">Hezekiah Rose</a></h3
+<hr>
+<hr>
+
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=401780549/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dawnbreaker.bandcamp.com/album/vanquished-horrible-night">Vanquished Horrible Night by Dawnbreaker</a></iframe>
+
 <hr>
 

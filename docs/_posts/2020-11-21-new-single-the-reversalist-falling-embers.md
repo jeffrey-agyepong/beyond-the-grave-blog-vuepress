@@ -22,12 +22,15 @@ featuredimg: https://i.ibb.co/8PryP7B/the-reversalist.jpg
 
 * * *
 
-### [Facebook](https://web.facebook.com/thereversalist)
+### <h3 style="text-align:center">[Facebook](https://web.facebook.com/thereversalist)</h3>
 
 * * *
 
-https://www.youtube.com/watch?v=CsjuptUsuHs
+<iframe src="https://www.youtube.com/embed/CsjuptUsuHs" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-### [Stream/Purchase](https://distrokid.com/hyperfollow/thereversalist/falling-embers)
+### <iframe src="https://open.spotify.com/embed/album/5qjWTnV1JKQWJ0HEaoRK5F" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
