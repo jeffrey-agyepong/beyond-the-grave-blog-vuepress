@@ -1,16 +1,3 @@
-<script
-  async
-  src="https://www.googletagmanager.com/gtag/js?id=G-B652H7R518"
-></script>
-<script>
-window.dataLayer = window.dataLayer || []
-function gtag() {
-  dataLayer.push(arguments)
-}
-gtag('js', new Date())
-
-gtag('config', 'G-B652H7R518')
-</script>
 <template>
   <div id="vuepress-theme-blog__global-layout">
     <Header />
