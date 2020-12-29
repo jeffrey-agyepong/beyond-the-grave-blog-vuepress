@@ -4,30 +4,9 @@ module.exports = {
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
   plugins:{ 
-    head: [
-      ['script', {
-          src: 'https://config.metomic.io/config.js?id=prj:79c6192b-4005-4261-89c2-430b39551375', 
-          crossorigin: 'anonymous',
-          charset: 'utf-8'
-      }],
-      ['script', {
-          src: 'https://consent-manager.metomic.io/embed.js', 
-          crossorigin: 'anonymous',
-          charset: 'utf-8'
-      }],
-      ['script', {
-          async: true,
-          src: 'https://www.googletagmanager.com/gtag/js?id=G-B652H7R518'
-      }],
-      ['script', {}, `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-      
-          gtag('config', 'G-B652H7R518');
-      `],
-      
-  ],
+    '@vuepress/google-analytics': {
+      ga: 'G-B652H7R518',
+    },
     'seo':{
       siteTitle: (_, $site) => $site.title,
       title: $page => $page.title,
