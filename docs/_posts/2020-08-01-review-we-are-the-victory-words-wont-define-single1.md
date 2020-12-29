@@ -1,6 +1,10 @@
 ---
 title: "Review: We Are Victory - Words Won't Define (Single)"
 date: "2020-08-01"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "wearevictory_o.jpg"
 ---
 

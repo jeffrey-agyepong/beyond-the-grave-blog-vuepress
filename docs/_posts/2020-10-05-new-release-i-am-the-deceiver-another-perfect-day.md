@@ -1,6 +1,10 @@
 ---
 title: "New Release: I Am The Deceiver - Another Perfect Day"
 date: "2020-10-05"
+tags:
+- New Releases
+- Deathcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg
 ---
 
@@ -15,8 +19,16 @@ featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg
 **Album length:** 36 minutes
 
 * * *
-
-1\. The Call of Abram 2. Paradigm 3. Retrieval 4. White Roses 5. For Charity's Sake 6. Constant Faith 7. Soulless Grave 8. Reflection 9. Ananias 10. Falling Empire
+1. The Call of Abram 
+2. Paradigm 
+3. Retrieval 
+4. White Roses 
+5. For Charity's Sake
+6. Constant Faith 
+7. Soulless Grave 
+8. Reflection 
+9. Ananias 
+10. Falling Empire
 
 * * *
 
@@ -28,12 +40,6 @@ featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=LrMJfxKjK4M&w=560&h=315\]
-
-* * *
-
-I don’t like you, go away, With the strange opinions, that you claim! I don’t like you, go away, don’t touch me with your sinful hands! We need assimilation more than diversity! The indoctrination is purging your belief. Sufferance is the only reason, why you still breathe.“ Pluralism, multiculturalism are human‘s achievements, that we would be missin‘ proselytization and fascism result in the question: How can I fit in?“
-
-Tolerance is based on identity and empathy Tolerance is the key to a society, that pursuits of the peacekeeping, we were bleeding for. Let us end the everlasting wars. Accept each other for charity’s sake! We want the structures of hate to break! Accept each other for charity’s sake! We want sympathy and love to awake.
+<iframe src="https://www.youtube.com/embed/LrMJfxKjK4M" width="560" height="315" frameborder="0"></iframe>
 
 * * *

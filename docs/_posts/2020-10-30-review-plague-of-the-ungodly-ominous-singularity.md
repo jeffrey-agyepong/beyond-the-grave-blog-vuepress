@@ -8,30 +8,25 @@ author: Hezekiah Rose
 featuredimg: https://i.ibb.co/YZW0RVC/plague-of-the-ungodly-ominus-singularity.jpg
 ---
 
-**Band:** Plague of the Ungodly
-
-**Album:** Ominous Singularity
-
-**Record label:** Independent
-
-**Release date:** May 31, 2020
-
-**Album length:** 30:35
-
+**Band:** Plague of the Ungodly<br>
+**Album:** Ominous Singularity<br>
+**Record label:** Independent<br>
+**Release date:** May 31, 2020<br>
+**Album length:** 30:35<br>
 **Genre:** Death Metal
 
-**Tracklisting:** 
-
-1. Inner Cranial Enigma 01:43
-2. Demonic Addiction 03:41
-3. Ethereal Tides 03:14
-4. Golgotha 04:31
-5. Lost 02:38
-6. Abstract Logic of the Subconscious Mind 01:36
-7. Projection 04:16
-8. Interstate Epitaph 03:38
-9. Infestation 03:28
-10. Cope 03:50
+**Tracklisting:** <br>
+1\. Inner Cranial Enigma 01:43<br>
+2\. Demonic Addiction 03:41<br>
+3\. Ethereal Tides 03:14<br>
+4\. Golgotha 04:31<br>
+5\. Lost 02:38<br>
+6\. Abstract Logic of the Subconscious Mind 01:36<br>
+7\. Projection 04:16<br>
+8\. Interstate Epitaph 03:38<br>
+9\. Infestation 03:28<br>
+10\. Cope 03:50<br>
+<hr>
 
 Released in May earlier this year, **Ominous Singularity** by **Plague of the Ungodly** firmly establishes the band’s position in the genre of Death Metal. A heavy bass line sets the narrative, with fast-paced drums and growling vocals carrying the weight. The band’s [Instagram](https://www.instagram.com/p/CA5bKNkHYan/) tags the genre as ‘90's deathmetal’ and ‘one-man-band’. For a one-man project, there is an incredible amount of talent displayed on this album.
 
@@ -42,27 +37,16 @@ Released in May earlier this year, **Ominous Singularity** by **Plague of the
 **Overall**, the album sets the tone early on and carries this through to the end. Some of the songs break into lighter elements, and **Ethereal Tides** even starts with the melody before delving into the characteristically heavier sections. The instrumental track **Interstate Epitaph** includes an interesting midpoint break with what almost sounds like cars passing by. The following track **Infestation** builds the weight again, with the final track a great combination of speed and deep vocals that almost border on 90s punk (but still very much metal). I’m not musically trained; just someone who knows what he likes. Having experienced secular 90s metal as it unfolded (with a healthy dose of industrial on the side), this album has been in heavy rotation for me over the past week. Definitely excited for future releases!
 
 <hr>
-
-<h3 style="text-align:center;"> </h3>**Favorite tracks:** The entire album. Short enough to enjoy in a single sitting.
-
-#### <h3 style="text-align:center;">Rating: 9/10</h3>
+Favorite tracks: The entire album. Short enough to enjoy in a single sitting.
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
 * * *
-
-\[bandcamp width=350 height=470 album=1328616161 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=1328616161/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://plagueoftheungodly.bandcamp.com/album/ominous-singularity">Ominous Singularity by Plague of the Ungodly</a></iframe>
 
 * * *
 
 #### [Apple Music](https://music.apple.com/us/album/ominous-singularity/1519057330)
 
 #### [Amazon](https://www.amazon.com/Ominous-Singularity-Plague-Ungodly/dp/B088ZQW59X)
-
-* * *
-
-\[soundcloud url="https://api.soundcloud.com/playlists/1064410408" params="color=#ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&show\_teaser=true" width="100%" height="450" iframe="true" /\]
-
-* * *
-
-https://www.youtube.com/playlist?list=PLV7jmF2yahY\_3yevHzC\_57YDVw9A-EBhZ
 
 * * *

@@ -1,6 +1,10 @@
 ---
 title: "New Release: Incarnate Deity - Theodicy"
 date: "2020-08-22"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "theodicy.jpg"
 ---
 

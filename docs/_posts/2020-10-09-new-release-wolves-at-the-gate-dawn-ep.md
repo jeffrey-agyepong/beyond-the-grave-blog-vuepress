@@ -1,16 +1,26 @@
 ---
 title: "New Release: Wolves At the Gate - Dawn EP"
 date: "2020-10-09"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 ---
 
-**Release Date:** October 9, 2020 **Record Label:** Solidstate Records
-
-**Genre:** Acoustic/Singer-songwriter **Album length:** 26 minutes
+**Release Date:** October 9, 2020<br>
+**Record Label:** Solidstate Records<br>
+**Genre:** Acoustic/Singer-songwriter<br>
+**Album length:** 26 minutes
 
 **Tracklist:**
 
-1\. The Cure (Redux) 4:00 2. Counterfeit (Redux) 3:18 3. A Voice in the Violence (Redux) 4:52 4. Face to Face (Redux) 3:53 5. Drifter (Redux) 5:19 6. Alone (live from Quarantine)
+1. The Cure (Redux) 4:00
+2. Counterfeit (Redux) 3:18
+3. A Voice in the Violence (Redux) 4:52
+4. Face to Face (Redux) 3:53
+5. Drifter (Redux) 5:19
+6. Alone (live from Quarantine)
 
 * * *
 
@@ -20,20 +30,22 @@ featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 
 * * *
 
-https://www.youtube.com/watch?v=L3Abhb-aOn8
+<iframe src="https://www.youtube.com/embed/L3Abhb-aOn8" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=U7frdZF8F4Y
+<iframe src="https://www.youtube.com/embed/U7frdZF8F4Y" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=lANfiHn4Hy4
+<iframe src="https://www.youtube.com/embed/lANfiHn4Hy4" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=jN-nfjQA1sg
+<iframe src="https://www.youtube.com/embed/jN-nfjQA1sg" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=zy3CNPFfkCE
+<iframe src="https://www.youtube.com/embed/zy3CNPFfkCE" width="560" height="315" frameborder="0"></iframe>
+
+<hr>

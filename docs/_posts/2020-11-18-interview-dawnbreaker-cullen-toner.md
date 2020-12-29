@@ -66,22 +66,11 @@ _\--I really liked Within Thy Wounds’s latest album, Skald in Veum’s full le
 
 * * *
 
-\[bandcamp width=350 height=470 album=401780549 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=401780549/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dawnbreaker.bandcamp.com/album/vanquished-horrible-night">Vanquished Horrible Night by Dawnbreaker</a></iframe>
 
 * * *
 
-### [Amazon](https://www.amazon.com/Vanquished-Horrible-Night-Dawnbreaker/dp/B08HZJDWXB/ref=sr_1_9?dchild=1&keywords=Dawnbreaker&qid=1604538714&s=dmusic&search-type=ss&sr=1-9)
-
-### [Vision of God Records Website](https://visionofgodrecords.com/product/dawnbreaker-vanquished-horrible-night-cd/)
+<iframe src="https://www.youtube.com/embed/NBpcIjqqwJ0" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=NBpcIjqqwJ0&w=567&h=319\]
-
-* * *
-
-\[youtube https://www.youtube.com/watch?v=qNKB\_TyKU60&w=567&h=319\]
-
-* * *
-
-https://open.spotify.com/album/59sE2jTpVJpY8lm0FdkI4P

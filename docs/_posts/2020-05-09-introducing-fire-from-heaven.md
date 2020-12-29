@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Fire From Heaven"
 date: "2020-05-09"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/NYLkLxG/0017393412-10.jpg
 ---
 

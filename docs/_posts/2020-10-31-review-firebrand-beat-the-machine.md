@@ -5,7 +5,7 @@ tags:
 - Reviews
 - Industrial Metal 
 author: Christianmetalreviewer777
-featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
+featuredimg: https://i.ibb.co/T1c0t3z/firebrand.jpg
 ---
 
 **Record Label:** Independent
@@ -15,6 +15,8 @@ featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 **Song length:** 4 Minutes
 
 **Genre:** Industrial Metal/Electronic rock
+
+<hr>
 
 **Firebrand** is a Metalcore/Industrial project lead by Josiah Brand. This is what Josiah has said about the origin of the project, " I had already had an idea of doing an industrial project but was occupied mostly with a thrashcore project that was in full swing at the time named **Placate the Masses**. When life started getting busier for all of us in PTM and activity became spotty, I saw that as the perfect time to try to bring to life a lot of the ideas, I had swimming around in my head. I got the minimal gear necessary to record with and began writing songs for the Overcomer album I released in 2019 and the rest is history ". Beat the Machine was released on October 18, 2020. The single was written and recorded by Josiah Brand, produced by Asche Relesser, and mixed and mastered by Dave Pataconi.
 
@@ -30,10 +32,10 @@ featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 
 * * *
 
-\[bandcamp width=350 height=442 track=4235090917 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 432px;" src="https://bandcamp.com/EmbeddedPlayer/track=4235090917/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://firebrandmusic.bandcamp.com/track/beat-the-machine-3">Beat the Machine by FireBrand</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=jR70CCBXvDc&authuser=0
+<iframe src="https://www.youtube.com/embed/jR70CCBXvDc" width="560" height="315" frameborder="0"></iframe>
 
 * * *

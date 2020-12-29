@@ -1,6 +1,10 @@
 ---
 title: "Review: Zhakiah - Where The Light Will Thread"
 date: "2020-10-14"
+tags:
+- Reviews
+- Post Hardcore
+author: Ton Ringenier  
 featuredimg: https://i.ibb.co/Tcshzw4/zhakiah.jpg
 ---
 
@@ -12,11 +16,19 @@ featuredimg: https://i.ibb.co/Tcshzw4/zhakiah.jpg
 
 **Album length:** 28 minutes
 
-1\. Gethsemane (01:36) 2. Spirit´s Perfection (03:06) 3. Dominium Aeternum (04:29) 4. Where The Light Will Thread (03:04) 5. This Side Of Eden (00:45) 6. Ancient Of Days (04:28) 7. The Scepter Of The Rulers (03:26) 8. Black Void Of Old (03:57) 9. The Encasing Of Ashes (03:17)
+1. Gethsemane (01:36) 
+2. Spirit´s Perfection (03:06) 
+3. Dominium Aeternum (04:29) 
+4. Where The Light Will Thread (03:04) 
+5. This Side Of Eden (00:45) 
+6. Ancient Of Days (04:28) 
+7. The Scepter Of The Rulers (03:26)
+8. Black Void Of Old (03:57) 
+9. The Encasing Of Ashes (03:17)
 
 * * *
 
-**Zhakiah** is a melodic death metal band from Finland. All the instruments are played by _Jani Stefanovic_, besides the drums, they are handled by Alfred Fridhagen. It’s his first solo album that has seen the light of day. _Jani Stefanovic_ is known for acts like Renascent, Miseration, Solution 45, Divinefire, The Waymaker, and some more. The title of the album is **Where The Light Will Thread**.  _Zhakiah_ means pure and bright in Hebrew.
+**Zhakiah** is a melodic death metal band from Finland. All the instruments are played by Jani Stefanovic, besides the drums, they are handled by Alfred Fridhagen. It’s his first solo album that has seen the light of day. _Jani Stefanovic_ is known for acts like Renascent, Miseration, Solution 45, Divinefire, The Waymaker, and some more. The title of the album is **Where The Light Will Thread**.  Zhakiah means pure and bright in Hebrew.
 
 The album starts with the calm **Gethsemane**, and it sets the mood for the album. Later on the album, we have a similar song called **This Side of Eden**. Then we start at full speed with **Spirit’s Perfection**. What an awesome song to start with. It immediately shows what a talent this man has. And how cool that he uses his talent to honor Him who is the bringer of light and peace. Praise also goes out to his vocals. It reminds me a bit of Barry Haldan, the first vocalist of Renascent. But with some more variation in the type of vocals, he also added some more low-pitched vocals. **Dominium Aeternum** is the next track on this album. Which is more focused on melody and contains a slightly slower tempo.
 
@@ -34,17 +46,13 @@ I also want to share three favorite lyric passages from the album. Without menti
 
 <hr>
 
-<h3 style="text-align:center;"> </h3>
+<h3 style="text-align:center;">Rating: 9.5/10 </h3>
 
-### Rating: 9.5/10
-
-_The explanation is simple, its almost a perfect release. A big shout out to Jani, he can be proud of this phenomenal work. And Alfred Fridhagen nailed it on the drums!_
-
-**Written by:** Ton of [Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)
+Reason: The explanation is simple, its almost a perfect release. A big shout out to Jani, he can be proud of this phenomenal work. And Alfred Fridhagen nailed it on the drums!
 
 * * *
 
-\[bandcamp width=350 height=470 album=103296796 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 743px;" src="https://bandcamp.com/EmbeddedPlayer/album=103296796/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://zhakiah.bandcamp.com/album/where-the-light-will-thread">Where The Light Will Thread by Zhakiah</a></iframe>
 
 * * *
 
@@ -54,6 +62,6 @@ _The explanation is simple, its almost a perfect release. A big shout out to Jan
 
 * * *
 
-https://youtu.be/5NZW2O3FW5w
+<iframe src="https://www.youtube.com/embed/5NZW2O3FW5w" width="560" height="315" frameborder="0"></iframe>
 
 * * *

@@ -16,7 +16,8 @@ module.exports = {
       image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain && !$page.frontmatter.image.startsWith('http') || '') + $page.frontmatter.image),
       publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
       modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
-  }
+  },
+  
   },
   theme: require.resolve('../../'),
   themeConfig: {
@@ -73,6 +74,12 @@ module.exports = {
         name: 'Erik Morgan',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Alberto',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://www.instagram.com/knights_in_darkness/?hl=en/',
         linktext: 'Follow',
       }
 	  

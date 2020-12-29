@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: HIS KINGDOM SUFFERS"
 date: "2020-05-08"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/JQPFQWR/his-kingdom-suffers-2.jpg
 ---
 

@@ -36,22 +36,22 @@ featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg
 
 * * *
 
-https://www.youtube.com/watch?v=N0L9k-\_EGUE
+<iframe src="https://www.youtube.com/embed/N0L9k-_EGUE" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=wj19z-NhgUk
+<iframe src="https://www.youtube.com/embed/wj19z-NhgUk" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=dRgR2xyas2I
+<iframe src="https://www.youtube.com/embed/dRgR2xyas2I" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=QjLXyviW95w
+<iframe src="https://www.youtube.com/embed/QjLXyviW95w" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=4VLgMjXXIGU
+<iframe src="https://www.youtube.com/embed/4VLgMjXXIGU" width="560" height="315" frameborder="0"></iframe>
 
 * * *

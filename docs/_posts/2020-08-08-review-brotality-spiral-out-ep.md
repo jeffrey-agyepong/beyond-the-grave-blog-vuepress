@@ -1,6 +1,10 @@
 ---
 title: "Review: Brotality - Spiral Out [EP]"
 date: "2020-08-08"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "brotality.jpg"
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "New Release:  HARD LOOK - The Great Tribulation"
 date: "2020-08-19"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "a1132292348_16.jpg"
 ---
 

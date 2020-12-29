@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Elephant Watchtower"
 date: "2020-09-22"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/z5y5mq6/elephant-watcher2.jpg
 ---
 
@@ -38,18 +42,14 @@ Peter Watson - All instruments + Vocals
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=nsftaOApdxg&w=560&h=315\]
+<iframe src="https://www.youtube.com/embed/nsftaOApdxg" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-\[bandcamp width=350 height=470 album=1492144694 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 545px;" src="https://bandcamp.com/EmbeddedPlayer/album=1492144694/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://elephantwatchtower.bandcamp.com/album/the-church-is-at-fault">The Church Is At Fault by Elephant Watchtower</a></iframe>
 
 * * *
 
-\[bandcamp width=350 height=442 track=2827901719 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
-
-* * *
-
-https://open.spotify.com/artist/7HxLzHyH5Yoy2a8T7PZQSo
+<iframe src="https://open.spotify.com/embed/artist/7HxLzHyH5Yoy2a8T7PZQSo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * * *

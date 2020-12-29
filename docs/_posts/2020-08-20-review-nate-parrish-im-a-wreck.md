@@ -1,6 +1,10 @@
 ---
 title: "Review: Nate Parrish - I'm a Wreck"
 date: "2020-08-20"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "im-a-wreck.jpg"
 ---
 

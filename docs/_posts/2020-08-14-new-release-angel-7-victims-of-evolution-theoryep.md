@@ -1,6 +1,10 @@
 ---
 title: "New Release: Angel 7 - Victims of Evolution Theory[EP]"
 date: "2020-08-14"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "angel-7.jpg"
 ---
 

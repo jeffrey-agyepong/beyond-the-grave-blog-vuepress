@@ -1,6 +1,10 @@
 ---
 title: "Review: True American Black Metal (Movie)"
 date: "2020-10-06"
+tags:
+- Reviews
+- Movie
+author: Nick Ptak
 featuredimg: https://i.ibb.co/f4P2zsb/tabm.jpg
 ---
 
@@ -56,4 +60,4 @@ The documentary “True American Black Metal” did overall an excellent job of 
 
 ### **Rating:** 9/10
 
-**Written by: Nick Ptak**
+<hr>

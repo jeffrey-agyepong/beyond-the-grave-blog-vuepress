@@ -1,6 +1,10 @@
 ---
 title: "Album Spotlight: The Death in Me - An Appeal to Heaven"
 date: "2020-08-03"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "the-death-in-me-an-appeal-to-heaven.jpg"
 ---
 

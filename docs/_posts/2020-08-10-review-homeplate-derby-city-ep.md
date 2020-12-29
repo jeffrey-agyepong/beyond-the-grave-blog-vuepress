@@ -1,6 +1,10 @@
 ---
 title: "Review: Homeplate - Derby City EP"
 date: "2020-08-10"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "homeplate.jpg"
 ---
 

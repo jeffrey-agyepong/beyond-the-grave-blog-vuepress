@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Crowned in Sorrow"
 date: "2020-05-14"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/1nhVBQw/0017962442-10.jpg
 ---
 

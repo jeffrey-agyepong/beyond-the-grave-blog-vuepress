@@ -1,6 +1,10 @@
 ---
 title: "Review: Death Requisite - Threnody"
 date: "2020-05-20"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "itunes_death-requisite_threnody-cover.jpg"
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "Review: Luther's Hammer - Strength to Stand [EP]"
 date: "2020-10-06"
+tags:
+- Reviews
+- Hardcore
+author: Alberto
 featuredimg: https://i.ibb.co/4d092s9/strength-to-stand.jpg
 ---
 
@@ -18,7 +22,11 @@ featuredimg: https://i.ibb.co/4d092s9/strength-to-stand.jpg
 
 **Tracklisting:**
 
-1\. Luther's Intro (00:25) 2. Yahweh Saves (02:47) 3. Strength to Stand (02:10) 4. Trust in the Lord (02:06) 5. Repent & Believe (03:03)
+1. Luther's Intro (00:25)
+2. Yahweh Saves (02:47)
+3. Strength to Stand (02:10)
+4. Trust in the Lord (02:06)
+5. Repent & Believe (03:03)
 
 * * *
 
@@ -36,11 +44,11 @@ This EP has 4 songs and an intro. The length of the songs is short as with most 
 
 **Overall** this is a solid EP, _terrific_ but short. It has a very melodic and aggressive sound with straight-forward Christ-centered lyrics that drive the songs and will keep you moving. As someone who’s not super into this genre, I was thoroughly impressed and have listened to it several times. If you are Christian, then you will love this EP because of the amazing and true lyrics, if not still a very good listen.
 
-### **8.5/10**
+<hr>
 
 **Favorite Tracks:** Strength to Stand, Repent & Believe.
 
- **WRITTEN BY:** ALBERTO FROM [KNIGHTS IN DARKNESS](https://www.instagram.com/knights_in_darkness/?hl=en)
+<h3 style="text-align:center;">Rating: 8.5/10</h3>
 
 * * *
 
@@ -50,14 +58,14 @@ This EP has 4 songs and an intro. The length of the songs is short as with most 
 
 * * *
 
-\[bandcamp width=350 height=470 album=842424550 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=842424550/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://luthershammer.bandcamp.com/album/strength-to-stand">Strength to Stand by Luther&#39;s Hammer</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=iPP2jEge0SU
+<iframe src="https://www.youtube.com/embed/iPP2jEge0SU" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 
-https://open.spotify.com/album/6ZO36HM45BpWgQU749m3kG
+<iframe src="https://open.spotify.com/embed/album/6ZO36HM45BpWgQU749m3kG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * * *

@@ -1,6 +1,10 @@
 ---
 title: "Review: Heliocentric - Perpetual Felicity"
 date: "2020-09-19"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/d6Q3tLM/perpetual-felicity.jpg
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "Album Spotlight: Theoptia - Horeb"
 date: "2020-10-16"
+tags:
+- Album Spotlight
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 ---
 
@@ -16,9 +20,17 @@ featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 
 **Tracklist:**
 
-1\. Desert (03:03) 2. Get Up (03:55) 3. Forty (05:04) 4. The Only Survivor (04:25) 5. Silence (02:08) 6. Storm (04:40) 7. Quake (04:34) 8. Fire (05:12) 9. A Gentle Whisper (03:13)
+1. Desert (03:03) 
+2. Get Up (03:55) 
+3. Forty (05:04) 
+4. The Only Survivor (04:25)
+5. Silence (02:08)
+6. Storm (04:40) 
+7. Quake (04:34)
+8. Fire (05:12)
+9. A Gentle Whisper (03:13)
 
-* * *
+<hr>
 
 > “Horeb” is a short, heavy, melancholic, dramatic and sometimes foreign sounding concept album about the biblical figure Elijah. Big lyrical themes are suicidal thoughts, depression and an unexplainable, transcending and epic encounter with a cosmic, almighty God. Sound wise it contains complex odd-meters and some experimental native instruments, but it still keeps a headband worthy groove and sometimes even an impressive speed.
 
@@ -30,11 +42,11 @@ featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 
 * * *
 
-\[bandcamp width=350 height=470 album=2895668823 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 743px;" src="https://bandcamp.com/EmbeddedPlayer/album=2895668823/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://theoptiamusic.bandcamp.com/album/horeb">Horeb by Theoptia</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=i1fiIdfN-0U
+<iframe src="https://www.youtube.com/embed/i1fiIdfN-0U" width="560" height="315" frameborder="0"></iframe>
 
 * * *
 

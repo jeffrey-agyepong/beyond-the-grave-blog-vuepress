@@ -46,11 +46,12 @@ It’s quite funny if you have read the names of the vocalists you can get quite
 **In Trials and Temptations** is a song with a middle tempo with an increase in speed towards the end of the song. We again hear the vocals from Eero. I come to a point where it is unnecessary to highlight each track, yes I know I am a little bit predictable and it’s not because I am lazy. It’s because of the fact the remaining songs continue to please the ears. Just a few more highlights. **The Crown of Life** has the most _Vaakevandring/earlier Antestor_ sounding intro ever and I love this song so much. Probably my favorite track on the album. Also some special attention to the contribution of Rita in the last track **The Evil of Mankind**. Alf Petter knows how to experiment. What a catchy but still a brutal track. And let’s not forget the vocal skills from Siervo in this song.
 
 So, in the end, we have here one of the best Christian extreme metal releases in the last year without a doubt. Great melodic extreme metal, amazing song structures, and some of the best Christian extreme metal vocalists out there. A must buy by any means. This is an amazing debut album. Looking forward to the new material.
+<hr>
+<h3 style="text-align: center">Rating: 9.5/10</h3>
+<hr>
 
-<h3 style="text-align: center">Rating: 9.5/10
-* * *
 
 #### [Purchase CD](https://www.nordicmission.net/en/products/jernlov-crucified-cd-pre-order)
 
-* * *
+<hr>
 

@@ -1,6 +1,10 @@
 ---
 title: "Review: daygraves - Silver"
 date: "2020-08-19"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "silver-1.jpg"
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "New Release: Then It Ends - Restored"
 date: "2020-10-03"
+tags:
+- New Releases
+- Metalcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/k5SJnZw/restored.jpg
 ---
 
@@ -24,17 +28,17 @@ featuredimg: https://i.ibb.co/k5SJnZw/restored.jpg
 
 * * *
 
-\[bandcamp width=350 height=470 album=206848654 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=206848654/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://thenitends.bandcamp.com/album/restored">Restored by Then It Ends</a></iframe>
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=qi-aoUkBVO8&w=560&h=315\]
+<iframe src="https://www.youtube.com/embed/qi-aoUkBVO8" width="560" height="315" frameborder="0"></iframe>
 
-[](https://www.youtube.com/watch?v=qi-aoUkBVO8&list=PLMzmqTuwMkTOx6T3ZTnPm4cP8jOuqisVb&index=4)
+<hr>
+
+<iframe src="https://www.youtube.com/embed/qi-aoUkBVO8" width="560" height="315" frameborder="0"></iframe>
 
 * * *
-
-[](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ?si=FBtoCk6ZReaF1_-TSmaF9A)
 
 ### [Itunes](https://music.apple.com/ca/album/restored/1525598403)
 

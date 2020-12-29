@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Collapse//Revive"
 date: "2020-08-03"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "collapse-revive.jpg"
 ---
 

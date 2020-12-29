@@ -1,6 +1,10 @@
 ---
 title: "Review: Taking The Head of Goliath - Taking The Head of Goliath [EP]"
 date: "2020-05-21"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "27655284_1593424970693392_6601658974050778898_n.jpg"
 ---
 

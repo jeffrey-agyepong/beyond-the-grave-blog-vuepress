@@ -1,18 +1,22 @@
 ---
 title: "Review: Righteous Vendetta - Not Dead Yet (A Rejected Record)"
 date: "2020-09-25"
+tags:
+- Reviews
+- Hard Rock
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/12dqnJV/righteousvendetta.jpg
 ---
 
-**Record Label:** Independent **Release Date:** 2015
+**Record Label:** Independent 
+
+**Release Date:** 2015
 
 **Album-length:** 54 Minutes
 
 **Genre:** Hard Rock/Nu-Metal
 
-**Track-list****:**
-
-1\. Fully Alive (03:59) 2. Kill the Lights (02:51) 3. Gunpowder (03:37) 4. Not Dead Yet (03:22) 5. Take My Hand (03:29) 6. Step Back (04:09) 7. Love Sick (03:27) 8. The System (03:27) 9. Bite the Bullet (03:04) 10. Like Poison (feat. Trevor McNevan) (03:01) 11. Here With Nothing (03:39) 12. Product (03:19) 13. The Way It Goes (03:24) 14. Revolution (03:11) 15. The Answer (03:28) 16. Listen to Me (03:08)
+<hr>
 
 A little back story. Back when **Righteous Vendetta** was signed to a record label, they sent in a batch of songs for approval, and everyone got rejected. They were told in no uncertain terms that the music was garbage. A direct quote is taken from frontman Ryan Hayes’ Facebook page: “The album deemed _‘the worst batch of songs ever written,’ ‘completely unlistenable,’ and ‘a band that completely lost its way.’_ This blows my mind, and I can give a few reasons why: _number 1_, this is one of the best albums I have heard in the last 10 years, and no, I’m not exaggerating. It’s that good. _Number 2_, these are some of the best songs this band has ever released – songs like Kill the Lights (the band’s first independent song to hit 1 million streams on Spotify), Like Poison (one of my absolute favorite songs of all time), and Gunpowder. _Number 3_, there aren’t bands around that I am aware of that sound like Righteous Vendetta, and that is what helps set them apart. Now, I will try to be as impartial as I can, but Lord knows how much this album, for as brief a time as I’ve had it, has impressed me. With that out of the way, let’s dive into our track by track review. Quick disclaimer – this is mostly going to be about the music.
 

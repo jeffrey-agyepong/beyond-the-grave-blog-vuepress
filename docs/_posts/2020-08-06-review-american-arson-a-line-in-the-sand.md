@@ -1,6 +1,10 @@
 ---
 title: "Review: American Arson - A Line in the Sand"
 date: "2020-08-06"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "alineinthesand.jpg"
 ---
 

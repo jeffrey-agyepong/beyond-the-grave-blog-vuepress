@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: CONTEXT"
 date: "2020-08-22"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "copy-of-img_2809.jpg"
 ---
 

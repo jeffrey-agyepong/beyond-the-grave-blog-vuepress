@@ -1,6 +1,10 @@
 ---
 title: "Review: Red - Declaration"
 date: "2020-08-06"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "reddeclaration.jpg"
 ---
 

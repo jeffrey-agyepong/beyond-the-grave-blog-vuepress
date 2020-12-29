@@ -2,11 +2,8 @@
 title: "New Release: Everything In Slow Motion - Influence"
 date: "2020-10-17"
 tags:
-- Christian metal
-- Christian deathcore
-- deathcore
-- metal
-- Searching Sernity
+- New Releases
+- Post Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/mSq0jBZ/eism.png
 ---
@@ -20,9 +17,16 @@ featuredimg: https://i.ibb.co/mSq0jBZ/eism.png
  **Album length:** 43 minutes
 
 **Tracklist:**
-
-1\. Apollo 2. Influence (feat. Aaron Stone of My Epic) 3. Satellite 4. Choke 5. Something I Can Feel (feat. Crystal Rose) 6. Clementine 7. Taking Turns 8. Tired Eyes 9. Penny Wish 10. End of My Rope (feat. Ric Todd)
-
+1. Apollo 
+2. Influence (feat. Aaron Stone of My Epic) 
+3. Satellite 
+4. Choke 
+5. Something I Can Feel (feat. Crystal Rose) 
+6. Clementine 
+7. Taking Turns 
+8. Tired Eyes 
+9. Penny Wish 
+10. End of My Rope (feat. Ric Todd)
 * * *
 
 #### [Facebook](http://www.facebook.com/eismmusic)
@@ -47,4 +51,5 @@ featuredimg: https://i.ibb.co/mSq0jBZ/eism.png
 
 * * *
 
-https://www.youtube.com/watch?v=IqbTOEiHBYc&feature=youtu.be
+<iframe src="https://www.youtube.com/embed/IqbTOEiHBYc" width="560" height="315" frameborder="0"></iframe>
+<hr>

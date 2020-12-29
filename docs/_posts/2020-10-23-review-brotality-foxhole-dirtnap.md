@@ -51,7 +51,7 @@ The story of this song definitely is powerful.
 
 * * *
 
-\[bandcamp width=350 height=470 album=1383113830 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=1383113830/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://brotality.bandcamp.com/album/foxhole">Foxhole by Brotality</a></iframe>
 
 * * *
 
@@ -71,10 +71,6 @@ The story of this song definitely is powerful.
 
 * * *
 
-\[soundcloud url="https://api.soundcloud.com/playlists/1146487420" params="color=#ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&show\_teaser=true" width="100%" height="450" iframe="true" /\]
-
-* * *
-
-https://youtu.be/k3sWbqwOdEU
+<iframe src="https://www.youtube.com/embed/k3sWbqwOdEU" width="560" height="315" frameborder="0"></iframe>
 
 * * *

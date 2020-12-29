@@ -1,6 +1,10 @@
 ---
 title: "New Release: Relent - Heart Attack(Nu-metal)[Re-release]"
 date: "2020-05-22"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "relent.jpg"
 ---
 

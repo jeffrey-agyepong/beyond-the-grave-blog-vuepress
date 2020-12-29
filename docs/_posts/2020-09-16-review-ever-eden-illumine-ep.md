@@ -1,6 +1,10 @@
 ---
 title: "Review: Ever Eden - Illumine [EP]"
 date: "2020-09-16"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/YLPfkfM/ever-eden-illumine.jpg
 ---
 

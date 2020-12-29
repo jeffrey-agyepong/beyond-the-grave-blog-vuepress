@@ -1,6 +1,10 @@
 ---
 title: "Review: Dawnbreaker - Total Depravity"
 date: "2020-08-14"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "dawnbreaker.jpg"
 ---
 

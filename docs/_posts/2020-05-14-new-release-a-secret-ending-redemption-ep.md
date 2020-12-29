@@ -1,6 +1,10 @@
 ---
 title: "New Release: A Secret Ending - Redemption EP"
 date: "2020-05-14"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "a2118468763_16.jpg"
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "New Release: TIMŌRĀTUS – My Life in a Mediocre Metal Band"
 date: "2020-07-29"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "timoratus.jpg"
 ---
 

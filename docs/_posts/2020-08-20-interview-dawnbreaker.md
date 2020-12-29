@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: DAWNBREAKER"
 date: "2020-08-20"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "dawnbreaker-1.jpg"
 ---
 

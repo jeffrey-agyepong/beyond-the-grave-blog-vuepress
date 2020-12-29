@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Diatheke"
 date: "2020-05-27"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "0020006123_21-1.jpg"
 ---
 

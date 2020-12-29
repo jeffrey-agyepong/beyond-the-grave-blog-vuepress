@@ -1,6 +1,10 @@
 ---
 title: "Review: Deathbreaker - Isolate"
 date: "2020-08-06"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "download-3.jpg"
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: CULTIST"
 date: "2020-05-01"
+tags:
+- New Releases
+- Post Hardcore
+author: Jeffrey Agyepong
 coverImage: "48336010_1998693656879534_7650906036441710592_o.jpg"
 ---
 
