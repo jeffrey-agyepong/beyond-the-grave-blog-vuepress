@@ -17,7 +17,7 @@ module.exports = {
       }],
       ['script', {
           async: true,
-          src: 'https://www.googletagmanager.com/gtag/js?id=G-B652H7R518"'
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-B652H7R518'
       }],
       ['script', {}, `
           window.dataLayer = window.dataLayer || [];
