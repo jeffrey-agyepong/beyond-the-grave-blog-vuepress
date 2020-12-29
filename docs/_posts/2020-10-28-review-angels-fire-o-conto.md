@@ -39,14 +39,18 @@ Saymo Robert - Bass
 André Lima - Drums
 <hr>
 **Angel’s Fire** is a relatively Symphonic Metal band from Brazil. The band formed in 2004 and had many demos and EPs, but never had their first full-length album until their 2018’s “**O Conto**”. With being one of the few Christian Symphonic Metal bands around, **Angel’s Fire** is great to listen to for those who enjoy the subgenre.
-
 **Lyrically:** It is neat to hear a Christian Symphonic Metal album recorded in Portuguese, it brings a different atmosphere to the song that one doesn’t normally hear in metal, especially in symphonic metal. The songs “**Tonight**” and “**Angel’s Fire**”, however, are sung in English. But with that said, I am impressed with the authenticity of their lyrics. Many of their songs such as “**Guardiao**”, “**Meu Desejo**”, “**Novo Reino**” and “**Pensamentos emu ma Lindo Noite**” speak about how in difficult times the God is there with us and we have nothing to fear. In a time where there is much chaos around, it is good to have Christian bands to remind us that even though our times of despair that God is right there with us. Other songs such as “Sacrificio” speak about God’s love for us and how much He sacrificed. Each song is written with such strong feelings and emotions overall, which I really appreciate in a band.
+
+<hr>
 
 <h3 style="text-align:center;"> </h3>**Favorite tracks:** The entire album. Short enough to enjoy in a single sitting.
 
 **Favorite Tracks:** Anjo de Luz, Guardiao, Pensamentos emu ma Lindo Noite
 
-**Final Thoughts:** Overall, I had a lot of fun listening to **Angel’s Fire**’s album “**O Conto**”. It was impressed by their musical talents in a variety of instruments and the vocal abilities of Priscila. The soothing vocals along with the amazing choir and orchestra really brought a theatrical presence that isn’t heard much in the Christian Metal scene much. I would definitely recommend this album to those who enjoy metal and symphony in general.
+<hr>
+<a href="https://www.facebook.com/bluefirehorizonband" alt="facebook">Facebook</a><br>
+<a href="https://www.instagram.com/bluefirehorizon_band" alt="Instagram">Instagram</a><br>
+<a href="https://www.youtube.com/channel/UCeWTgLKsEUjJRbUSdhCeFyA" alt="Youtube">Youtube</a><br>
 
 <hr>
 <h3 style="text-align: center">Rating: 8.5/10</h3>

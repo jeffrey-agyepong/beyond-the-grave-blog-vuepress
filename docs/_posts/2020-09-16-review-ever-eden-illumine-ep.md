@@ -2,19 +2,19 @@
 title: "Review: Ever Eden - Illumine [EP]"
 date: "2020-09-16"
 tags:
-- New Releases
-- Post Hardcore
-author: Jeffrey Agyepong
+- Reviews
+- Metalcore
+author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/YLPfkfM/ever-eden-illumine.jpg
 ---
-
-**Genre:** Metalcore
 
 **Record-Label:** Independent
 
 **Album-Length:** 16 minutes, 40 seconds
 
 **Release Date:** May 1, 2020
+
+**Genre:** Metalcore
 
 **Tracklist:**
 
@@ -40,24 +40,23 @@ featuredimg: https://i.ibb.co/YLPfkfM/ever-eden-illumine.jpg
 
 All in all, I think Ever Eden is a welcome addition to the metalcore scene. Every bit as thought-provoking as My Epic, as musically engaging as Oh, Sleeper, and with a structure similar to Silent Planet, if they continue on this route, they are in for a massive future. This band is one that, with their honesty and willingness to ask difficult questions (and grapple with the criticism they likely receive because they ask), we need. The music is phenomenal, and the way the point their questions and challenges back to Christ, is something very few bands (a notable exception would be Wolves at the Gate) pull off well anymore.
 
-High Point: “Delirium”
+<hr>
 
-Low Point: There really isn’t one, but I’ll go with “Latent World”.
+**High Point:** “Delirium”
 
-Personal Favorite: Tie between “Delirium” and “Illumine”
+**Low Point:** There really isn’t one, but I’ll go with “Latent World”.
 
-### **Rating:** 9/10
+**Favorite tracks:** Tie between “Delirium” and “Illumine”
 
-**Written By:** Zachary of [Lyrical Resonance](https://www.youtube.com/channel/UCPtHnXMx7APZGv91ItLaLEw)
+ <h3 style="text-align:center;"> Rating: 9/10</h3>
 
-* * *
+<hr>
 
 ### [iTunes](https://music.apple.com/us/album/illumine-ep/1507118730?app=itunes&at=10ldoD)
 
 ### [Amazon](https://www.amazon.com/Illumine-Ever-Eden/dp/B086X8H95D/ref=sr_1_1?dchild=1&keywords=ever+eden+illumine&qid=1589256130&s=dmusic&sr=1-1)
 
 * * *
-
-\[youtube https://www.youtube.com/watch?v=videoseries?list=PLkxtQuL3N4j7Dfjb\_bYyUTGOCRZSib2v5&w=560&h=315\]
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLkxtQuL3N4j7Dfjb_bYyUTGOCRZSib2v5" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *

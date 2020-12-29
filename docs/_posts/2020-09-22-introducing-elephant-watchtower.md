@@ -42,7 +42,7 @@ Peter Watson - All instruments + Vocals
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/nsftaOApdxg" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/nsftaOApdxg" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

@@ -4,7 +4,7 @@ date: "2020-08-20"
 tags:
 - New Releases
 - Post Hardcore
-author: Jeffrey Agyepong
+author: Zachary Tyler Van Dyke
 coverImage: "im-a-wreck.jpg"
 ---
 

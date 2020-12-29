@@ -28,7 +28,8 @@ featuredimg: https://i.ibb.co/Hqzw3mc/81fnbjfignl-ss500.jpg
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/TFNLIcA2ESE" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/TFNLIcA2ESE" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

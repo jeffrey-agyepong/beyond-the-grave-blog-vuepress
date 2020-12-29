@@ -2,11 +2,8 @@
 title: "Introducing: Blue Fire Horizon"
 date: "2020-09-21"
 tags:
-- Christian metal
-- Christian metalcore
-- metalcore
-- metal
-- Blue Fire Horizon
+- Introducing
+- Metalcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/pZZTFmj/blue-fire-horizon2.jpg
 ---
@@ -35,16 +32,17 @@ Zachariah Turnage - lead vocals, lyricist Keagan Lee - lead guitar, composer, ba
 
 <h3 style="text-align:center;"><a href="https://www.youtube.com/watch?v=2HTR2YzmODo" alt="Youtube">Down With Leviathan (EP) [2020]</a></h3>
 
-* * *
+<hr>
+<a href="https://www.facebook.com/bluefirehorizonband" alt="facebook">Facebook</a><br>
+<a href="https://www.facebook.com/bluefirehorizonband" alt="facebook">Instagram</a><br>
+<a href="https://www.facebook.com/bluefirehorizonband" alt="facebook">Youtube</a><br>
 
-### [Facebook ](https://www.facebook.com/bluefirehorizonband) [Instagram ](https://www.instagram.com/bluefirehorizon_band) [Youtube](https://www.youtube.com/channel/UCeWTgLKsEUjJRbUSdhCeFyA)
+<hr>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/2HTR2YzmODo" width="560" height="315" frameborder="0"></iframe>
+</div>
+<hr>
 
-* * *
 
-https://www.youtube.com/watch?v=2HTR2YzmODo
 
-* * *
 
-### [Amazon Music](https://music.amazon.com/albums/B08CSWG3SX) [iTunes](https://music.apple.com/ca/album/down-with-leviathan-ep/1523178138) [Spotify](https://open.spotify.com/artist/3150qHs3W53gLQJ25jK3HJ)
-
-* * *

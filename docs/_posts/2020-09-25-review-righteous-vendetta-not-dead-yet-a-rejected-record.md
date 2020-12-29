@@ -42,7 +42,7 @@ A little back story. Back when **Righteous Vendetta** was signed to a record l
 
 **“Here With Nothing”** is the defacto ballad of the album, and it is beautiful and broken. This is the most subdued song I have ever heard from them and it’s so good. Ryan’s voice reaches some amazingly powerful melodies. Goggins drumming is effortlessly in the pocket – it sounds just fantastic. Throw in the orchestra behind them, and this is one of the more unique songs in Righteous Vendetta’s catalog. Minor-key songs are some of my favorites, and this song hits me so hard. “Can you even see that my heart is tearing at the seams? I’m bleeding out I’m left in pieces, so pick me up; don’t leave me here with nothing.” What powerful words! How often do we do this to ourselves – outside we appear just fine, but inside we’re desperately begging for someone to notice how much we are hurting. This is an incredible message and one that so many can connect with. This earned its spot on my ballady and sad playlist. So good.
 
-**“Product”** has such a crunchy opening riff. If RV is good at anything, it is their ability to write ridiculously huge riffs that pack a massive punch – this is one of them. It is hard to pick which song on this album is the heaviest of them because they all pack a weight behind them in their own way, but in terms of aggression, I have to give the nod to this track. It honestly feels like everyone was mad when they recorded this – the drums are brash and purposeful, the guitars are blazing and fast, and the vocals are aggressive and visceral. And paired with the lyrics, all of this makes sense as this is, possibly, the most defiant “in-your-face” song on the record. “You can’t tell me that I am a product of all that you want me to be… I’m not a product of something that I don’t believe.” Everyone writes narratives about the people they interact with. Sometimes those narratives are pretty close to reality – but a lot of times, people write narratives about others that are just wrong. This song spits in the face of that habit, defying the intended target to get past their assumptions and take the time to get to know the true story or to be okay with being cut-off and ignored. It’s an interesting concept that works perfectly with the music behind it.
+<div class="video-container"><iframe src="https://www.youtube.com/embed/nsftaOApdxg" width="560" height="315" frameborder="0"></iframe></div>
 
 **“The Way It Goes”** was on Reignite: The Fire Inside, so I’ve heard it before, but I enjoy it all the same. The chorus of this song has some of the highest notes I think I have ever heard Hayes reach. In my mind, there’s some musical dissonance between the intensity of the verses with the, for lack of better phrasing, airiness of the choruses. I like the way they changed the rhythm in the second verse, too – it gives a good separation and, in a way, slows the pace of that verse to match the chorus a little better. The chorus is incredibly catchy and, it too gets stuck in my head for hours after I’ve listened to this song. I don’t have a lot to say about this song, lyrically. It’s not bad, but as far as the lyrics go, they don’t stand out to me too much in the context of the rest of the album. The song is good, the pre-chorus is especially memorable, but the lyrics just don’t hit me like some of the others on this record.
 
@@ -54,6 +54,8 @@ A little back story. Back when **Righteous Vendetta** was signed to a record l
 
 **All in all**, the fact that this was a rejected album will never not make me scratch my head. This album is such a blinding light in what can be an incredibly stale genre of music. I can’t imagine anyone legitimately listening to this and saying, “This sucks – these are the worst group of songs I’ve ever heard.” I’m calling shenanigans. This album is, without exaggerating, in my top five of the last 10 years. There is enough variety here to keep your attention through the whole thing without feeling like you’re hearing the same thing the whole time. A few tracks stand above the rest, such as: Like Poison, Step Back, The Answer, and Here With Nothing. Righteous Vendetta is a band that deserves way more recognition than they get because they are truly one of the most ingenious bands around – producing better original music than most bands around right now. I can’t help but wonder how things might be different if this album was greenlit 5 years ago – not just for them and their carrier, but for their music. Honestly, given that they are independent and doing what they want musically now, maybe the fact that this steaming pile of garbage music got snubbed was the best thing that could have happened. Consider me a man of terrible music taste, because I love everything about this album.
 
+<hr>
+
 **High Point:** The Answer
 
 **Low Point:** Lovesick
@@ -61,8 +63,6 @@ A little back story. Back when **Righteous Vendetta** was signed to a record l
 **Favorite Tracks:** Like Poison and Step Back
 
 ### Rating: 10/10
-
-**Written By:** Zachary of [Lyrical Resonance](https://www.youtube.com/channel/UCPtHnXMx7APZGv91ItLaLEw)
 
 * * *
 
@@ -72,4 +72,4 @@ A little back story. Back when **Righteous Vendetta** was signed to a record l
 
 * * *
 
-https://open.spotify.com/album/5OYcRCAqRs1WqRABC3u9AW
+<iframe src="https://open.spotify.com/embed/album/5OYcRCAqRs1WqRABC3u9AW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

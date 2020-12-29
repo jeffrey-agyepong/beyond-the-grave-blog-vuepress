@@ -2,9 +2,9 @@
 title: "Review: Heliocentric - Perpetual Felicity"
 date: "2020-09-19"
 tags:
-- New Releases
-- Post Hardcore
-author: Jeffrey Agyepong
+- Reviews
+- Metalcore
+author: Gabriel Mesones
 featuredimg: https://i.ibb.co/d6Q3tLM/perpetual-felicity.jpg
 ---
 
@@ -37,7 +37,7 @@ featuredimg: https://i.ibb.co/d6Q3tLM/perpetual-felicity.jpg
 
 * * *
 
-**Heliocentric** is a Christian Metalcore band full of progressive and atmospheric elements.
+**Heliocentric** is a Metalcore band full of progressive and atmospheric elements.
 
 Heliocentric is a band that has a lot of potentials, not only because of their talent to write and structure incredible songs, but because of how conceptually elaborated and carefully touchable lyrics, and how they bath the whole sound of their music in a heartbreaking atmosphere, that propriates worshiping the Lord.
 
@@ -55,15 +55,14 @@ Lyrics are very powerful, strongly based on the bible and in the life of the fir
 
 This album is wonderful and is a great input to what this band can become. I think some things could have been done better, probably most of them are production-related, and that’s why I won’t rate this album with a ten over because honestly, I think this won´t be their best album. I´m pretty excited about what these guys are doing next, my expectation is pretty high for their upcoming projects, because the amount of talent here is amazing, and I’m pretty sure their next material will be better and totally amazing.
 
+<hr>
+
 **Favorite Tracks:** Rome, God of Apathy, God of Empathy, Perpetual, and Flicker.
 
-**Rating:** 9/10
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
-**WRITTEN BY:  [Gorship777](https://www.instagram.com/gorship777/)**
-
-* * *
-
-#### BTG Alternative Opinion
+<hr>
+<h3 style="text-align:center;">BTG Alternative Opinion</h3>
 
 **Heliocentric** dropped a new album at the end of 2019. This came on my radar as a call to review the album came in. I thought progressive metalcore, yup I'm down for that. So here we are, many weeks later (life happens…) and I have to say this album takes you on quite the journey.
 
@@ -72,11 +71,10 @@ Let’s get the obvious comparison out of the way right here at the start. This 
 Vocally this album is quite diverse. As mentioned above there is a sound reminiscent of Micah’s, and this is the primary style throughout, but they are not afraid to experiment. There is an amazing use of death like gutturals sprinkled all over the album. Occasionally those gutturals get a bit muddied, as in **To Those Who Found Rest** and **Felicity**, which I find a bit disappointing. It may be done on purpose for effect, but I just want to hear them better. This may be why songs such as **Phrygia** (not to mention the higher-pitched black style vocals that appear here), **God of Empathy**, and **Flicker** stand out so much for me. There are a couple of instances of the spoken word as well, and they are so varied that they never feel excessive or overused. **God of Apathy** mixes a traditional spoken word with passionate screaming. **Phrygia** mixes in what sounds like Latin prayers that have a sinister sound, and **Felicity** adds a female voice for its foray into the spoken word. Now we move into my main critique of the album. I just don’t like the cleans on the first couple of songs when they appear. **Pray for the Emperor** stands out for this. They are very jarring in the context of the song and really fell flat and unemotional. I was concerned about that being something that would bother me throughout the album but later appearances of the cleans work much better for the songs, **God of Apathy**, and even become a highlight of the song, **Flicker**. I’m not sure why the later clean vocals suddenly have so much more passion and suit the song better but I’m very glad they do. **Lyrically** this album has a ton of depth. It’s a concept album set during the time of the early Christian Martyrs. Jared (the only member of the band) has done his work putting these songs together. Looking through the lyric sheet provided we find that everything in the songs is researched and footnoted. Beyond the obvious use of the bible, we see references to early church father’s writing, **_Clement, Polycarp, Tertullian,_** _and_ **_Ignatius_** to name some. _Jared_ also refers to more modern biblical scholarship and even throws in a reference to a My Epic song (admittedly that reference made me chuckle as it really stands out). Coming back to the concept, the album tells a consistent story and breaks up each section with the musical interludes I mentioned before. We start from the physical present, questioning why there is persecution for the crime of faith (**Pray for the Emperor** and **Rome**) “What other crime is punished so incongruently? Sentence us for our confession While denial is cursed with acquittal”. From here we move to the struggles of the believers at the time, from dealing with heresy and deception amidst the struggles (**Phrygia**) to questioning the persecution on a more spiritual level (**God of Apathy** and **God of Empathy**). The rest of the album is the transition from questioning to understanding and accepting the call on their lives, as hard and consequence-filled as it may be. Perpetual stands out in this regard as it expresses and acceptance but questions how this martyrdom will affect others, particularly family and friends. It also has one of the most poignant sets of lyrics “Am I a masochist Shrouded in the guise of a saint? Today I will be fathered by God while I leave my child a dismal orphan”. When I’ve read historical accounts of martyrs, I’ve always had a nagging wonder at their motivations. This song goes a long way to helping to understand the thought process, the personal challenge it must have been for them to make some decisions and sacrifices they did.
 
 There is so much depth to this album. I do question a little whether this would have a mass appeal with its very specific concept and story. On the other hand, it does serve amazingly well as a refresher on early Christian faith that speaks to the struggles we have as believers today. While we are not being killed for our faith, we can look to this true story for encouragement. It’s also wonderful that the inner turmoil and struggle aren’t glossed over. It’s uplifting to think that the past heroes of our faith never had it easy and that in their struggle we can find hope (obviously never forgetting Jesus!).
+<hr>
+<h3 style="text-align:center;">Rating: 8/10</h3>
 
-### Rating: 8/10
-
-Written by: Jeremy Prince
-
+**Written by:**  Jeremy Prince
 * * *
 
 #### [Amazon](https://www.amazon.com/Perpetual-Felicity-Heliocentric/dp/B07ZXKZN58)
@@ -85,4 +83,4 @@ Written by: Jeremy Prince
 
 * * *
 
-https://open.spotify.com/album/0CA9kpHlv7kgF0Sov0RSZ8
+

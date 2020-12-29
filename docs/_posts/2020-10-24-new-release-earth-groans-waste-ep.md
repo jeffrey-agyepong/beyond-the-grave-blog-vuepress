@@ -45,11 +45,8 @@ featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg
 </div>
 <hr>
 <div class="video-container">
-
-</div>
-
 <iframe src="https://www.youtube.com/embed/dRgR2xyas2I" width="560" height="315" frameborder="0"></iframe>
-
+</div>
 <hr>
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/QjLXyviW95w" width="560" height="315" frameborder="0"></iframe>
