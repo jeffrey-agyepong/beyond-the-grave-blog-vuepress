@@ -1,6 +1,10 @@
 ---
 title: "INTERVIEW: DAYGRAVES"
 date: "2020-09-13"
+tags:
+- Interviews
+- Black Metal
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 ---
 

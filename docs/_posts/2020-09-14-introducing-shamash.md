@@ -30,6 +30,6 @@ Alexaander J. Martin - Guitars Darren Teh - Bass
 
 * * *
 
-\[bandcamp width=350 height=470 album=2445691029 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=3274432154/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://shamashrr.bandcamp.com/album/suffering-servant">Suffering Servant by Shamash</a></iframe>
 
 * * *
