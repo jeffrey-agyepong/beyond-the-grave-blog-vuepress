@@ -18,19 +18,15 @@ featuredimg: https://i.ibb.co/B6SFX5s/context2.jpg
 
 * * *
 
- [Facebook](https://www.facebook.com/cntxtband/) 
+[Facebook](https://www.facebook.com/cntxtband/) <br>
 
-### [Instagram](https://www.instagram.com/cntxtband/) 
+[Instagram](https://www.instagram.com/cntxtband/)  <br>
 
-### [Youtube]
+[Youtube][(https://www.youtube.com/channel/UCuy3VfYPSf4j3AdpTdG6rDw) <br>
 
-### [(https://www.youtube.com/channel/UCuy3VfYPSf4j3AdpTdG6rDw) 
+[iTunes](https://music.apple.com/ca/artist/context/1403617967)  <br>
 
-### [Bandcamp](https://cntxt.bandcamp.com/)
-
-###  [iTunes ](https://music.apple.com/ca/artist/context/1403617967) 
-
-### [Spotify](https://open.spotify.com/artist/38KzCuzSKjB0BXPf7vxfqi)
+[Spotify](https://open.spotify.com/artist/38KzCuzSKjB0BXPf7vxfqi) <br>
 
 <hr>
 
