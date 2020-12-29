@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: jeffrey-agyepong/beyond-the-grave-blog-vuepress
   branch: main
 media_folder: ".vuepress/public/"
