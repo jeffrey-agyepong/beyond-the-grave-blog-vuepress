@@ -12,14 +12,20 @@ featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 
 * * *
 
-https://www.youtube.com/watch?v=TQNkF1wrAwg
+<div class="container">
+    <iframe src="https://www.youtube.com/embed/TQNkF1wrAwg" width="560" height="315" frameborder="0"></iframe>
+</div>
+
+
 
 * * *
 
-\[bandcamp width=350 height=470 album=3105864023 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=3105864023/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://daygraves.bandcamp.com/album/silver">Silver by daygraves</a></iframe>
 
 * * *
 
-https://youtu.be/6W28HbAQAYg
+<div class="container">
+    <iframe src="https://www.youtube.com/embed/6W28HbAQAYg" width="560" height="315" frameborder="0"></iframe>
+</div>
 
 * * *
