@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: jeffrey-agyepong/beyond-the-grave-blog-vuepress
-  branch: master
+  name: git-gateway
+  branch: main
 media_folder: ".vuepress/public/"
 public_folder: "../../"
 display_url: https://beyondthegrave.netlify.app/
