@@ -3,7 +3,31 @@ module.exports = {
   publicPath: 'https://beyondthegrave.netlify.app/',
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
-  plugins:{
+  plugins:{ 
+    head: [
+      ['script', {
+          src: 'https://config.metomic.io/config.js?id=prj:xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx', 
+          crossorigin: 'anonymous',
+          charset: 'utf-8'
+      }],
+      ['script', {
+          src: 'https://consent-manager.metomic.io/embed.js', 
+          crossorigin: 'anonymous',
+          charset: 'utf-8'
+      }],
+      ['script', {
+          async: true,
+          src: 'https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X'
+      }],
+      ['script', {}, `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+      
+          gtag('config', 'UA-XXXXXXXXX-X');
+      `],
+      
+  ],
     'seo':{
       siteTitle: (_, $site) => $site.title,
       title: $page => $page.title,
@@ -17,7 +41,6 @@ module.exports = {
       publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
       modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
   },
-  
   },
   theme: require.resolve('../../'),
   themeConfig: {
