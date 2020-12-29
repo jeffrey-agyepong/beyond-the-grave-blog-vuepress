@@ -62,7 +62,9 @@ This EP has 4 songs and an intro. The length of the songs is short as with most 
 
 * * *
 
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/iPP2jEge0SU" width="560" height="315" frameborder="0"></iframe>
+</div>
 
 * * *
 

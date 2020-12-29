@@ -58,7 +58,7 @@ André Lima - Drums
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLiotQ-kAsVcbQ2WDOot_ZYbS7_M6PT1_B" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLiotQ-kAsVcbQ2WDOot_ZYbS7_M6PT1_B" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

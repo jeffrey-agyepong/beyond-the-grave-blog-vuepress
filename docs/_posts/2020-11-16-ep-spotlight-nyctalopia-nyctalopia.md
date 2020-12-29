@@ -29,11 +29,8 @@ featuredimg: https://i.ibb.co/qjF7FWW/a4114459735-10.jpg
 5. FEAR (03:52)
 
 * * *
-
-<iframe src="https://www.youtube.com/embed/RZ0arIDzM5M" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/RZ0arIDzM5M" width="560" height="315" frameborder="0"></iframe></div>
+<hr>
 <iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=17693816/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://nyctalopia.bandcamp.com/album/nyctalopia">Nyctalopia by Nyctalopia</a></iframe>
+<hr>
 
-* * *

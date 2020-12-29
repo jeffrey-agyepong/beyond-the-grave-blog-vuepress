@@ -43,6 +43,7 @@ featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLGunlonOW3sijd7D2XBSBN83XzAknr-nu" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLGunlonOW3sijd7D2XBSBN83XzAknr-nu" width="560" height="315" frameborder="0"></iframe></div>
 
 <hr>

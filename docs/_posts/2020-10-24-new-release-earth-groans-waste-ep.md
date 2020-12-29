@@ -34,24 +34,28 @@ featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg
 
 #### [Spotify](https://api.ffm.to/sl/e/c/waste?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuMTAyIFlhQnJvd3Nlci8yMC45LjIuMTAyIFlvd3Nlci8yLjUgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXIiOnsibmFtZSI6IllhbmRleCIsInZlcnNpb24iOiIyMC45LjIuMTAyIiwibWFqb3IiOiIyMCJ9LCJlbmdpbmUiOnsibmFtZSI6IkJsaW5rIiwidmVyc2lvbiI6Ijg1LjAuNDE4My4xMDIifSwib3MiOnsibmFtZSI6IldpbmRvd3MiLCJ2ZXJzaW9uIjoiMTAifSwiZGV2aWNlIjp7fSwiY3B1Ijp7ImFyY2hpdGVjdHVyZSI6ImFtZDY0In19LCJjbGllbnQiOnsicmlkIjoiZmY4ZTBmMzktMTI0ZS00YzZjLThjYWYtZmZjMWFhMDUxNWNhIiwic2lkIjoiYjI1YzZkZWItM2EzNy00MGU5LWI0MjktNDE3MTA0MjU2NDQwIiwiaXAiOiIxNTQuMTYwLjkuMTY0IiwicmVmIjoiIiwiaG9zdCI6ImVhcnRoZ3JvYW5zLmZmbS50byIsImxhbmciOiJlbi1VUyIsImlwQ291bnRyeSI6IkdIIn0sImlzRnJvbUVVIjpmYWxzZSwiY291bnRyeUNvZGUiOiJHSCIsImlkIjoiNWY2YTQxZGYzZDAwMDA1NDBiZjM5NDEzIiwidHpvIjo0MjAsImNoIjpudWxsLCJhbiI6bnVsbCwiZGVzdFVybCI6Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9hbGJ1bS82ZFVQZ3NWN0tXRGZBZ0NtUzZrTmJ0IiwidmlkIjoiZWM5NWZjYTMtODQ4YS00Yzk3LWE5MTEtOTMzODMxOGFlMDAxIiwic3J2YyI6InNwb3RpZnkiLCJwcm9kdWN0Ijoic21hcnRsaW5rIiwic2hvcnRJZCI6Indhc3RlIiwiaXNBdXRob3JpemF0aW9uUmVxdWlyZWQiOmZhbHNlLCJvd25lciI6IjVjZGRjMDViMTMwMDAwZjg1ODA0MjA5ZSIsImFyIjoiNWUzODljZTcyNzAwMDAxMWIyOGI4ZDc2IiwiaXNTaG9ydExpbmsiOmZhbHNlfQ)
 
-* * *
+<hr>
 
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/N0L9k-_EGUE" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/wj19z-NhgUk" width="560" height="315" frameborder="0"></iframe>
+</div>
+<hr>
+<div class="video-container">
 
-* * *
+</div>
 
 <iframe src="https://www.youtube.com/embed/dRgR2xyas2I" width="560" height="315" frameborder="0"></iframe>
 
-* * *
-
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/QjLXyviW95w" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/4VLgMjXXIGU" width="560" height="315" frameborder="0"></iframe>
-
-* * *
+</div>
+<hr>

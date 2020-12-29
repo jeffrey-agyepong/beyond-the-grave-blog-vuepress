@@ -2,8 +2,8 @@
 title: "Introducing: Elephant Watchtower"
 date: "2020-09-22"
 tags:
-- New Releases
-- Post Hardcore
+- Introducing
+- Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/z5y5mq6/elephant-watcher2.jpg
 ---
@@ -28,9 +28,9 @@ Peter Watson - All instruments + Vocals
 
 **Discography:**
 
-#### [The Church Is At Fault (EP)\[2019\]](https://elephantwatchtower.bandcamp.com/album/the-church-is-at-fault)
+<h3 style="text-align:center;"><a href="https://elephantwatchtower.bandcamp.com/album/the-church-is-at-fault" alt="bandcamp">The Church Is At Fault (EP) [2019]</a></h3>
 
-#### [That Which Defiles(Single)\[2020\]](https://elephantwatchtower.bandcamp.com/track/that-which-defiles)
+<h3 style="text-align:center;"><a href="https://elephantwatchtower.bandcamp.com/track/that-which-defiles" alt="bandcamp">That Which Defiles(Single) [2020]</a></h3>
 
 * * *
 

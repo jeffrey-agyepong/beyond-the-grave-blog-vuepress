@@ -16,7 +16,7 @@ featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 **Tracklist:**
 
 1. The Cure (Redux) 4:00
-2. Counterfeit (Redux) 3:18
+2. Counterfeit (Redux)
 3. A Voice in the Violence (Redux) 4:52
 4. Face to Face (Redux) 3:53
 5. Drifter (Redux) 5:19
@@ -29,23 +29,23 @@ featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 #### [iTunes](https://music.apple.com/gh/album/dawn-ep/1527156923?uo=4&app=music)
 
 * * *
-
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/L3Abhb-aOn8" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/U7frdZF8F4Y" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/lANfiHn4Hy4" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/jN-nfjQA1sg" width="560" height="315" frameborder="0"></iframe>
-
-* * *
-
+</div>
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/zy3CNPFfkCE" width="560" height="315" frameborder="0"></iframe>
-
+</div>
 <hr>

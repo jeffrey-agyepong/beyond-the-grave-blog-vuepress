@@ -71,6 +71,6 @@ The story of this song definitely is powerful.
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/k3sWbqwOdEU" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/k3sWbqwOdEU" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *

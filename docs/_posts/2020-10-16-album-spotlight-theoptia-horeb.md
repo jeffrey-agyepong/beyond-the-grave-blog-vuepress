@@ -46,7 +46,9 @@ featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 
 * * *
 
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/i1fiIdfN-0U" width="560" height="315" frameborder="0"></iframe>
+</div>
 
 * * *
 

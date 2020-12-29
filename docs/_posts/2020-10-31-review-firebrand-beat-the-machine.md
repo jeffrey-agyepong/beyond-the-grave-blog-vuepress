@@ -36,6 +36,6 @@ featuredimg: https://i.ibb.co/T1c0t3z/firebrand.jpg
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/jR70CCBXvDc" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/jR70CCBXvDc" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *

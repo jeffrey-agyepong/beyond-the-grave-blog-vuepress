@@ -31,8 +31,7 @@ I did go and listen to their other recent single **Suffering of the Mind** and f
 **Rating:** I’m not sure what to go with here. I think I’ll wait to hear more and hear it in context. Just know that it is a great song.
 
 <hr>
-
-<iframe src="https://www.youtube.com/embed/rsC95fTHczU" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/rsC95fTHczU" width="560" height="315" frameborder="0"></iframe></div>
 
 <hr>
 

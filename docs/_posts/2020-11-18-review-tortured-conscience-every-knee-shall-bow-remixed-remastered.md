@@ -53,8 +53,9 @@ Remastered from the original 2006 release of **_Every Knee Shall Bow_**, **Tortu
 
 ### [CD (Pre-order)](https://battlefrost.com/product/every-knee-shall-bow-cd/)
 
-* * *
-
+<hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/tCOp4dP3peY" width="560" height="315" frameborder="0"></iframe>
+</div>
+<hr>
 
-* * *

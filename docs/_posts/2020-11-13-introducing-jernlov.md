@@ -40,7 +40,11 @@ Ronny Hanssen\[_**Antestor, Sylvan Fortress**_\] - Vocals (lead, tracks 1-2, 8)
 
 Eero Tertsunen\[_**Renascent, Symphony of Heaven, The Slave Eye**_\] - Vocals (lead, tracks 3, 7, 9), Guitars (track 3), Lyrics (tracks 3, 7)
 
-Niclas Buss\[_**Parakletos/Hilastherion**_\] - Vocals (lead, tracks 4, 6), Synth (track 4)
+<div class="video-container">
+
+</div>
+
+<iframe src="https://www.youtube.com/embed/nvJwk7ML__4" width="560" height="315" frameborder="0"></iframe>
 
 David Sandvik\[_**Roots of Tragedy**_\] - Vocals (lead, track 5) 
 
@@ -53,5 +57,4 @@ Siervo\[_**The Slave Eye**_\] - Vocals (lead, track 10) Rita O. E - Vocals (lead
 #### [Instagram](https://www.instagram.com/jernlov.band/)
 
 * * *
-
-<iframe src="https://www.youtube.com/embed/ssvjfYQVcwI" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ssvjfYQVcwI" width="560" height="315" frameborder="0"></iframe></div>

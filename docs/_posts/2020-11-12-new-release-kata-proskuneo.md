@@ -24,7 +24,7 @@ featuredimg: https://i.ibb.co/wS6c8St/kata.jpg
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/nvJwk7ML__4" width="560" height="315" frameborder="0"></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/nvJwk7ML__4" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

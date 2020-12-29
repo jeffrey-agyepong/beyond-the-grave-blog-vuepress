@@ -23,7 +23,9 @@ featuredimg: https://i.ibb.co/8PryP7B/the-reversalist.jpg
 <hr>
 <h3 style="text-align:center"> <a href="https://web.facebook.com/thereversalist" alt="Facebook">Facebook</a></h3>
 <hr>
+<div class="video-container">
 <iframe src="https://www.youtube.com/embed/CsjuptUsuHs" width="560" height="315" frameborder="0"></iframe>
+</div>
 <hr>
 <iframe src="https://open.spotify.com/embed/album/5qjWTnV1JKQWJ0HEaoRK5F" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <hr>

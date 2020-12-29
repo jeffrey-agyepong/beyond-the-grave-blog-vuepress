@@ -33,7 +33,7 @@ Zachariah Turnage - lead vocals, lyricist Keagan Lee - lead guitar, composer, ba
 
 **Discography:**
 
-### [Down With Leviathan (EP)\[2020\]](https://www.youtube.com/watch?v=2HTR2YzmODo)
+<h3 style="text-align:center;"><a href="https://www.youtube.com/watch?v=2HTR2YzmODo" alt="Youtube">Down With Leviathan (EP) [2020]</a></h3>
 
 * * *
 
