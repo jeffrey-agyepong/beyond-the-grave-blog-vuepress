@@ -6,7 +6,7 @@ module.exports = {
   plugins:{ 
     head: [
       ['script', {
-          src: 'https://config.metomic.io/config.js?id=prj:xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx', 
+          src: 'https://config.metomic.io/config.js?id=prj:79c6192b-4005-4261-89c2-430b39551375', 
           crossorigin: 'anonymous',
           charset: 'utf-8'
       }],
@@ -17,14 +17,14 @@ module.exports = {
       }],
       ['script', {
           async: true,
-          src: 'https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X'
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-B652H7R518"'
       }],
       ['script', {}, `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
       
-          gtag('config', 'UA-XXXXXXXXX-X');
+          gtag('config', 'G-B652H7R518');
       `],
       
   ],
