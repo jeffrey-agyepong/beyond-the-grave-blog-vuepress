@@ -1,6 +1,9 @@
 ---
 title: "Introducing: Shamash"
 date: "2020-09-14"
+tags: 
+- Introducing
+- Melodic Metal
 featuredimg: https://i.ibb.co/wd8Mtvq/0021583578-21-1.jpg
 ---
 

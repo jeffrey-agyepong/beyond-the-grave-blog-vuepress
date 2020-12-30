@@ -24,6 +24,8 @@ coverImage: "a1132292348_16.jpg"
 
 **Rating:** 9/10
 
+<h3 style="text-align:center;"></h3>
+
 * * *
 
 \[bandcamp width=350 height=470 album=2260605743 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]

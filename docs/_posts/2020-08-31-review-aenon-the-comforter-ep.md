@@ -32,6 +32,8 @@ There have been a handful of instances in life where I have sat down and listene
 
 ### **Rating:** 9/10
 
+<h3 style="text-align:center;"></h3>
+
 **Reason:** There is plenty to love during this EP’s short runtime, but some more synthy elements would have been nice to hear, and some songs could’ve been just a tad bit longer. 
 
 **Written by:** Erik M.

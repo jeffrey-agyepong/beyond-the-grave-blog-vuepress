@@ -38,6 +38,8 @@ featuredimg: "copy-of-theascensionofextinctionart_final_wlogo.png"
 
 ### **Rating:** 9/10
 
+<h3 style="text-align:center;"></h3>
+
 **Written By:** Nick Ptak
 
 * * *
@@ -59,6 +61,10 @@ I had the privilege to read the lyrics already and I am pretty impressed with th
 Many people will look forward to a full-length release. Can we expect some duration between the 50 and 60 minutes of this epicness?
 
 ### **Rating**: 9/10
+
+<h3 style="text-align:center;"></h3>
+
+<h3 style="text-align:center;"></h3>
 
 
 **Written by:** Ton of **[Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)**
