@@ -5,7 +5,7 @@ tags:
 - New Releases
 - Post Hardcore
 author: Jeffrey Agyepong
-coverImage: "48336010_1998693656879534_7650906036441710592_o.jpg"
+featuredimg: 
 ---
 
 Here's an interview I did with the deathcore band Cultist.

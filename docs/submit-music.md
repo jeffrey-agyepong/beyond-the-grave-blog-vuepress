@@ -1,6 +1,6 @@
-# Submit Music
+ <h1>Submit Music</h1>
 
-## **Review/Promotion Request**
+<h2>Review/Promotion Request</h2>
 
 Want us to review/promote your new EP/album?
 
@@ -12,8 +12,7 @@ Want us to review/promote your new EP/album?
 - *A high quality photo of the album cover*
 - *And, most importantly, send us the album to download.*
 
-------
 
-#### Email: beyondthegrave777@gmail.com
+Email: beyondthegrave777@gmail.com
 
 <hr>

@@ -28,6 +28,6 @@ https://www.youtube.com/watch?v=rZxmekJbPZY
 
 \[bandcamp width=350 height=470 album=3171474175 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
 
-NAME-YOUR-PRICE
+<div class="video-container"></div>
 
 * * *

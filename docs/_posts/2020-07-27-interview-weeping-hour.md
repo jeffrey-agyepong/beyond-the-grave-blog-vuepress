@@ -1,7 +1,11 @@
 ---
 title: "INTERVIEW: WEEPING HOUR"
 date: "2020-07-27"
-coverImage: "weeping-hour.jpg"
+tags:
+- Interviews
+- Metalcore
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/zHmYVMf/weeping-hour.jpg
 ---
 
 [Weeping Hour](https://web.facebook.com/WeepingHour) is a 5 piece progressive metalcore band from Monroe, Louisana. They recently released the [deluxe edition](https://music.apple.com/ca/album/hunger-thirst-deluxe-edition/1510713404) of their 2019 debut album "[In Hunger and Thirst](https://music.apple.com/ca/album/hunger-thirst/1468407654)". Let’s have a chat with their frontman.
@@ -110,4 +114,6 @@ We all have our side outlets and all try to stay creative/busy with music-relate
 
 * * *
 
-https://www.youtube.com/playlist?list=PLaf42reShFFt6ca\_YhxoQ3LjufRuTwQft
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLtW5b8m-XLD1ntp47rQLf48qBTooxXAbC" width="560" height="315" frameborder="0"></iframe></div>
+
+<hr>

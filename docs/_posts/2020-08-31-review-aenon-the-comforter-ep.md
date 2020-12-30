@@ -5,7 +5,7 @@ tags:
 - Reviews
 - Metalcore
 author: Erik Morgan
-featuredimg: "aenon.jpg"
+featuredimg: https://i.ibb.co/Th9yvfw/aenon.jpg
 ---
 
 **Band:** ÆNON
