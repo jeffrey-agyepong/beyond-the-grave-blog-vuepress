@@ -28,9 +28,9 @@ Peter Watson - All instruments + Vocals
 
 **Discography:**
 
-<h3 style="text-align:center;"><a href="https://elephantwatchtower.bandcamp.com/album/the-church-is-at-fault" alt="bandcamp">The Church Is At Fault (EP) [2019]</a></h3>
+<a href="https://elephantwatchtower.bandcamp.com/album/the-church-is-at-fault" alt="bandcamp">The Church Is At Fault (EP) [2019]</a>
 
-<h3 style="text-align:center;"><a href="https://elephantwatchtower.bandcamp.com/track/that-which-defiles" alt="bandcamp">That Which Defiles(Single) [2020]</a></h3>
+<a href="https://elephantwatchtower.bandcamp.com/track/that-which-defiles" alt="bandcamp">That Which Defiles(Single) [2020]</a>
 
 * * *
 
