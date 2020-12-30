@@ -1,5 +1,13 @@
-## This is just a [demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) for Mediumish Vuepress blogging theme.
-
-Its REPO is here: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
-
-![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
+---
+home: true
+actionText: Get Started →
+actionLink: /custom-components/
+features:
+- title: Admonitions and Tables
+  details: Uses google material icons and sortable tables
+- title: Charts and Math
+  details: Leverage chartjs and katex 
+- title: Diagramming tools
+  details: Integrated with mermaid and plantuml
+footer: MIT Licensed | Copyright © 2019-present David Li
+---

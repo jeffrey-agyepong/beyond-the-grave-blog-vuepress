@@ -1,7 +1,11 @@
 ---
 title: "Review: ÆNON - The Comforter [EP]"
 date: "2020-08-31"
-coverImage: "aenon.jpg"
+tags:
+- Reviews
+- Metalcore
+author: Erik Morgan
+featuredimg: "aenon.jpg"
 ---
 
 **Band:** ÆNON
@@ -30,17 +34,13 @@ There have been a handful of instances in life where I have sat down and listene
 
 **Final Thoughts and Rating: ÆNON** are a special type of metalcore band that honestly made me think of beauty while listening to this EP. Through the fast, heavy, and technical instrumentation, that was my first thought. This instantly sets them apart from the pack because there are plenty of heavy bands, there aren’t enough heavy and beautiful bands. It should be noted that while there are melodic elements on this record, **ÆNON** doesn’t seem to let that be the main focus of their songs here, but rather having that driving force of rhythm mixed with the technical picking lead the way, with vocals conforming to the instrumentation. Every song on this EP is a standout, but if I had to pick two “**Korczak”** and “**The Comforter**” would be those two.
 
-### **Rating:** 9/10
-
-<h3 style="text-align:center;"></h3>
+<hr>
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
 **Reason:** There is plenty to love during this EP’s short runtime, but some more synthy elements would have been nice to hear, and some songs could’ve been just a tad bit longer. 
 
-**Written by:** Erik M.
-
 * * *
-
-\[bandcamp width=350 height=470 album=2028710676 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=2028710676/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://aenon.bandcamp.com/album/the-comforter">The Comforter by ÆNON</a></iframe>
 
 * * *
 
@@ -52,10 +52,11 @@ There have been a handful of instances in life where I have sat down and listene
 
 ### [YouTube](https://www.youtube.com/channel/UCmjFlNac8hpgdnQr1Iw4z2Q)
 
-* * *
+<hr>
 
- 
 
-https://open.spotify.com/artist/1xljsDpuKCC0Ks7DW4lwJ8?si=0fj58sE9RP2Gqx0qZuAf8Q
 
-* * *
+<iframe src="https://open.spotify.com/embed/artist/1xljsDpuKCC0Ks7DW4lwJ8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
