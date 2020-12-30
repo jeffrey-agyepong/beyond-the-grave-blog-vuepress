@@ -1,6 +1,10 @@
 ---
 title: "Introducing: Jesus Wannabeez"
 date: "2020-09-02"
+tags:
+- Introducing 
+- Nu Metal
+author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/F6jr4Bd/jw.png
 ---
 
@@ -50,14 +54,10 @@ Sovereign Love("Reckless Love" cover)-\[2019\]
 
 * * *
 
-\[bandcamp width=350 height=442 track=2534000547 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 432px;" src="https://bandcamp.com/EmbeddedPlayer/track=2534000547/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://jesuswannabeez.bandcamp.com/track/just-christ-ephesians-2">Just Christ (Ephesians 2) by Jesus Wannabeez</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=ps4MzpqDLco
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ps4MzpqDLco" width="560" height="315" frameborder="0"></iframe></div>
+<hr>
 
-* * *
-
-https://www.youtube.com/watch?v=RA-gZ5nShDo
-
-* * *

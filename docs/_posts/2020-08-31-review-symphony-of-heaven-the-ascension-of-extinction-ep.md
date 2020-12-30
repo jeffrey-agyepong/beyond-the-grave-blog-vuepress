@@ -1,7 +1,11 @@
 ---
 title: "Review: Symphony of Heaven - The Ascension Of Extinction [EP]"
 date: "2020-08-31"
-featuredimg: "copy-of-theascensionofextinctionart_final_wlogo.png"
+tags:
+- Reviews
+- Death Metal
+author: Nick Ptak
+featuredimg: https://f4.bcbits.com/img/a2433952082_10.jpg
 ---
 
 **Band:** Symphony of Heaven
@@ -14,15 +18,12 @@ featuredimg: "copy-of-theascensionofextinctionart_final_wlogo.png"
 
 **Genre:**  Melodic Blackened Death Metal
 
-**Track List:   ** 
+**Track List:** 
 
-1) You Shall Be As Gods
-
-                        2) The Ascension Of Extinction
-
-                        3) DeathMarch
-
-                        4) Mountain of Man’s Ignorance
+1. You Shall Be As Gods
+2. The Ascension Of Extinction
+3. DeathMarch
+4. Mountain of Man’s Ignorance
 
 * * *
 
@@ -35,16 +36,16 @@ featuredimg: "copy-of-theascensionofextinctionart_final_wlogo.png"
 **Favorite Track:** DeathMarch
 
 **Final Thoughts:** Overall, I really enjoyed listening to Symphony of Heaven’s new EP.  I am impressed by their God-given musical talents and songwriting abilities.  Their usage of growls, screams, narratives, and harmonies was incorporated very well.  I look forward to what Symphony of Heaven will produce in the years to come.
+<br>
 
-### **Rating:** 9/10
+<h3 style="text-align:center;"> Rating:  9/10</h3>
 
-<h3 style="text-align:center;"></h3>
 
-**Written By:** Nick Ptak
+<p style="text-align:center;">Written By: Nick Ptak</p>
 
 * * *
 
-#### BTG Alternative Opinion
+<h3 style="text-align:center;"> BTG Alternative Opinion</h3>
 
 **Symphony of Heaven** is a blackened death metal band from the USA. The members are involved in several other projects like [Renascent](https://renascent.bandcamp.com/), [Timōrātus.](https://timoratus.bandcamp.com/) [Rottweiler Records](https://rottweilerrecords.bandcamp.com) has picked up this band recently, and so here we have the EP called **The Ascension of Extinction**.  
 The album starts with You Shall Be As Gods, a very great song it has a kind of black and roll vibe. In the middle of the song, we have a moment of spoken words a nice addition to the song it brings some extra atmosphere.
@@ -60,17 +61,15 @@ I had the privilege to read the lyrics already and I am pretty impressed with th
 
 Many people will look forward to a full-length release. Can we expect some duration between the 50 and 60 minutes of this epicness?
 
-### **Rating**: 9/10
+<hr>
 
-<h3 style="text-align:center;"></h3>
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
-<h3 style="text-align:center;"></h3>
+<h3 style="text-align:center;">Written by: Ton Ringenier</h3>
 
-
-**Written by:** Ton of **[Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)**
 
 * * *
 
-\[bandcamp width=350 height=470 album=2743149168 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 578px;" src="https://bandcamp.com/EmbeddedPlayer/album=2743149168/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://symphonyofheavenrr.bandcamp.com/album/the-ascension-of-extinction">The Ascension of Extinction by Symphony Of Heaven</a></iframe>
 
 * * *

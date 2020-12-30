@@ -20,11 +20,11 @@ module.exports = themeConfig => {
       },
       {
         text: 'Submit Music',
-        link: '/',
+        link: '/submit-music/',
       },
       {
         text: 'About',
-        link: '/',
+        link: '/about/',
       },
       {
         text: 'Contact',
