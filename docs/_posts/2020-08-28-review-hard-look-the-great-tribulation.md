@@ -1,14 +1,26 @@
 ---
 title: "Review: Hard Look - The Great Tribulation"
 date: "2020-08-28"
-coverImage: "a1132292348_16.jpg"
+tags:
+- Reviews
+- Industrial Metal
+author: Christianmetalreviewer777
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
-**Release Date:** August 18, 2020 **Record Label:** Independent
+**Release Date:** August 18, 2020 
+**Record Label:** Independent
+**Genre:** Industrial Metal/Metalcore 
+**Album length:** 26 minutes
 
-**Genre:** Industrial Metal/Metalcore **Album length:** 26 minutes
-
-1\. Prelude (01:06) 2. Genesis (04:32) 3. The Great Tribulation (03:26) 4. Digital Dystopia (03:20) 5. Trepidation (03:37) 6. Quarantine (03:06) 7. Baptized by Fire (03:20) 8. Light of the World (03:19
+1. Prelude (01:06) 
+2. Genesis (04:32) 
+3. The Great Tribulation (03:26) 
+4. Digital Dystopia (03:20) 
+5. Trepidation (03:37) 
+6. Quarantine (03:06) 
+7. Baptized by Fire (03:20) 
+8. Light of the World (03:19
 
 * * *
 
@@ -22,13 +34,13 @@ coverImage: "a1132292348_16.jpg"
 
 **Overall:** This is a fantastic release, I highly recommend you looking further into it!
 
-**Rating:** 9/10
+<hr>
 
-<h3 style="text-align:center;"></h3>
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
 * * *
 
-\[bandcamp width=350 height=470 album=2260605743 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 710px;" src="https://bandcamp.com/EmbeddedPlayer/album=2260605743/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://hardlook.bandcamp.com/album/the-great-tribulation">The Great Tribulation by HARD LOOK</a></iframe>
 
 * * *
 
@@ -40,6 +52,6 @@ coverImage: "a1132292348_16.jpg"
 
 * * *
 
-https://www.youtube.com/watch?v=umtGZSrm2wQ <div class="video-container"></div>
+ <div class="video-container"><iframe src="https://www.youtube.com/embed/umtGZSrm2wQ" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *

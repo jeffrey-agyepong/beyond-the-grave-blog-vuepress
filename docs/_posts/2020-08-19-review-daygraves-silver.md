@@ -2,10 +2,10 @@
 title: "Review: daygraves - Silver"
 date: "2020-08-19"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "silver-1.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Band:** Daygraves

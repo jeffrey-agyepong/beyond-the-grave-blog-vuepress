@@ -2,10 +2,10 @@
 title: "INTERVIEW: DAWNBREAKER"
 date: "2020-08-20"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "dawnbreaker-1.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Dawnbreaker** is a crusader metal solo project formed by Cullen Toner who's based out of New York, New York. Let's have a chat with him.

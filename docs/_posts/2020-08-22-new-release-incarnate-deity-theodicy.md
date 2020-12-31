@@ -2,10 +2,10 @@
 title: "New Release: Incarnate Deity - Theodicy"
 date: "2020-08-22"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "theodicy.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
  

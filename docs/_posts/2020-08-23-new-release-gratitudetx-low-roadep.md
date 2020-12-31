@@ -3,14 +3,18 @@ title: "New Release: GratitudeTX - Low Road(EP)"
 date: "2020-08-23"
 tags:
 - New Releases
-- Post Hardcore
+- Hardcore
 author: Jeffrey Agyepong
-coverImage: "gratitudetx.jpg"
+featuredimg: https://i.ibb.co/rHyRP0c/gratitudetx.jpg
 ---
 
-**Release Date:** August 21, 2020 **Record Label:** Independent
+**Release Date:** August 21, 2020 
 
-**Genre:** Hardcore **Album length:** 14 minutes
+**Record Label:** Independent
+
+**Genre:** Hardcore 
+
+**Album length:** 14 minutes
 
 **Tracklist:**
 
@@ -26,9 +30,7 @@ coverImage: "gratitudetx.jpg"
 
 * * *
 
-https://youtu.be/ydkjUCldEkQ
-
- <div class="video-container"></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ydkjUCldEkQ" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

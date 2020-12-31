@@ -2,10 +2,10 @@
 title: "Review: Deathbreaker - Isolate"
 date: "2020-08-06"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "download-3.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Band:** Deathbreaker

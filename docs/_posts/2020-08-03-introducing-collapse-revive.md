@@ -2,10 +2,10 @@
 title: "Introducing: Collapse//Revive"
 date: "2020-08-03"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "collapse-revive.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Formed:** 2019

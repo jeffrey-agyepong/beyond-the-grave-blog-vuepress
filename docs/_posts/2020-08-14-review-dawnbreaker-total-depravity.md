@@ -2,10 +2,10 @@
 title: "Review: Dawnbreaker - Total Depravity"
 date: "2020-08-14"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "dawnbreaker.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Record Label:** Christian Metal Underground Records

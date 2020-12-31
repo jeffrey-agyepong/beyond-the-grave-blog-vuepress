@@ -2,10 +2,10 @@
 title: "Review: Homeplate - Derby City EP"
 date: "2020-08-10"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "homeplate.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Record Label:** Indie Vision Music

@@ -2,10 +2,10 @@
 title: "Review: Nate Parrish - I'm a Wreck"
 date: "2020-08-20"
 tags:
-- New Releases
-- Post Hardcore
-author: Zachary Tyler Van Dyke
-coverImage: "im-a-wreck.jpg"
+- Interviews
+- Metal
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Band:** Nate Parrish

@@ -2,10 +2,10 @@
 title: "Review: Diatheke - Magnify[Single]"
 date: "2020-08-10"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Metal
 author: Jeffrey Agyepong
-coverImage: "a2476737048_16.jpg"
+featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---
 
 **Record Label:** Independent
