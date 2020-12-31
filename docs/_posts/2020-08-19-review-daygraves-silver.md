@@ -4,7 +4,7 @@ date: "2020-08-19"
 tags:
 - Reviews
 - Black Metal
-author: Jeffrey Agyepong
+author: Nick Ptak
 featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 ---
 

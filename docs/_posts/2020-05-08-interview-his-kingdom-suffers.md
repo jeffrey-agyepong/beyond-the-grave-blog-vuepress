@@ -2,8 +2,8 @@
 title: "INTERVIEW: HIS KINGDOM SUFFERS"
 date: "2020-05-08"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/JQPFQWR/his-kingdom-suffers-2.jpg
 ---
@@ -69,11 +69,8 @@ I would love to get a band together in the near future, but till then, expect mo
  **Thanks for taking the time to do this interview, any final words?**
 
 I want to thank Jeffrey for interviewing me and all else for checking the band out, it means a lot! If you have any questions, feel free to ask on the bands [Facebook](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjmvvT8z6DpAhVRUcAKHfAfDWMQFjAAegQIBBAB&url=https%3A%2F%2Fwww.facebook.com%2FHKSisForGod%2F&usg=AOvVaw16dA4cgtZPRIFgSmyGNH2i) or our [Instagram.](https://www.instagram.com/hiskingdomsuffers/)
+<hr>
 
-https://youtu.be/QflHaqqgfW8
+<div class="video-container"><iframe src="https://www.youtube.com/embed/QflHaqqgfW8" width="560" height="315" frameborder="0"></iframe></div>
 
- 
-
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+ <hr>

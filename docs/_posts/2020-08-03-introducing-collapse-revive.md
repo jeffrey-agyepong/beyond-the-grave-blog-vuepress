@@ -2,8 +2,8 @@
 title: "Introducing: Collapse//Revive"
 date: "2020-08-03"
 tags:
-- Interviews
-- Metal
+- Introducing
+- Metalcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---

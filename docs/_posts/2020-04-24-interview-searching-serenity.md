@@ -2,8 +2,8 @@
 title: "INTERVIEW: SEARCHING SERENITY"
 date: "2020-04-24"
 tags:
-- New Releases
-- Hardcore
+- Interviews
+- Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5Mtkvpn/94612547-947320375684479-383327209852502016-n.jpg
 ---
@@ -76,6 +76,8 @@ We've come to the end of the interview, thanks for your time. Any final thoughts
 
 I’d ultimately just like to say thank you so much for even interviewing me and giving me your time! I am extremely thankful to God for the inspiration He continuously gives me when it comes to writing music and love getting to use the gifts He has given me for His glory. Thank you again so much and God bless you and your family during these crazy times, He is still here and will never abandon us!
 
+<hr>
+
 [Facebook](https://www.facebook.com/SearchingSerenityfl/)
 
 [Instagram](https://www.instagram.com/searching_serenity/)
@@ -84,8 +86,8 @@ I’d ultimately just like to say thank you so much for even interviewing me and
 
 [Twitter](https://twitter.com/isearchserenity?lang=en)
 
-https://www.youtube.com/watch?v=dU9vPCw1A6U
+<hr>
 
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
+<div class="video-container"><iframe src="https://www.youtube.com/embed/dU9vPCw1A6U" width="560" height="315" frameborder="0"></iframe></div>
 
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+#### <hr>

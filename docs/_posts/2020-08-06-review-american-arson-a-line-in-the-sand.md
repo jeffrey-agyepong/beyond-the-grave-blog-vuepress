@@ -2,8 +2,8 @@
 title: "Review: American Arson - A Line in the Sand"
 date: "2020-08-06"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Rock
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---

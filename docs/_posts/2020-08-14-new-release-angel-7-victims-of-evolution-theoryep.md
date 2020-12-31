@@ -2,10 +2,10 @@
 title: "New Release: Angel 7 - Victims of Evolution Theory[EP]"
 date: "2020-08-14"
 tags:
-- Interviews
-- Metal
+- New Releases
+- Death Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/z2LgDns/angel-7.jpg
 ---
 
 **Release Date:** August 13, 2020 **Record Label:** Vision of God Records

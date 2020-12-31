@@ -2,13 +2,13 @@
 title: "INTERVIEW: CULTIST"
 date: "2020-05-01"
 tags:
-- New Releases
-- Post Hardcore
+- Interviews
+- Deathcore
 author: Jeffrey Agyepong
-featuredimg: 
+featuredimg: https://i.ibb.co/g7Sx6nD/cultist.jpg
 ---
 
-Here's an interview I did with the deathcore band Cultist.
+Here's an interview I did with the deathcore band [Cultist](https://web.facebook.com/cvltistband).
 
 **Hey, I hope you're doing well, despite the current pandemic. Let's get things going by telling us your name and role in the band?** Yeah, I’m doing well, I’m still working. Hey, I’m Jon, Cultist is my solo project, meaning I write the songs, the lyrics and I do the vocals myself.
 
@@ -36,10 +36,9 @@ Here's an interview I did with the deathcore band Cultist.
 
 **We've come to the end of our interview, any final words?** Thanks for interviewing me I appreciate it, and I appreciate all the people that enjoy my music. I don’t have a set date for the album yet due to the whole virus thing, but I’m working on it.
 
-https://www.youtube.com/watch?v=Nu\_S8Kz25XI
+<hr>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/VysFQ7jSXh0" width="560" height="315" frameborder="0"></iframe></div>
 
- 
+<hr>
 
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+##### <hr>

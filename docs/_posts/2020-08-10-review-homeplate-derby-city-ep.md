@@ -2,10 +2,10 @@
 title: "Review: Homeplate - Derby City EP"
 date: "2020-08-10"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Pop Punk
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/0jjtYzQ/homeplate.jpg
 ---
 
 **Record Label:** Indie Vision Music
@@ -18,10 +18,10 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 
 **Track List:**
 
-1\. Broken Youth (Ft. Eric Knighton of Brave Days)  
-2\. Time Stands Still  
-3\. Expectations (Ft. Phil Carper of At The Wayside)  
-4\. I Need Grace (Ft. New Heights Worship)  
+1\. Broken Youth (Ft. Eric Knighton of Brave Days) 
+2\. Time Stands Still 
+3\. Expectations (Ft. Phil Carper of At The Wayside) 
+4\. I Need Grace (Ft. New Heights Worship) 
 5\. Long Ago
 
 Who would have thought that 2020 would introduce a brand new pop-punk/easycore band from Derby City? Definitely not me, but Indie Vision Music saw something worth investing in the two-person group, **Homeplate**. Their debut EP, titled **Derby City**, is set to launch on 08/14/2020, and if you’re fond of bands like old-school Hawk Nelson, In Her Own Words, MXPX, or The Wonder Years, may I suggest you start paying attention to Homeplate. I’ve listened through their EP a few times now, and let me start this review by saying that they open up with the bases loaded and are swinging for the fences – will they get the grand slam, or will they fall short (yup, baseball metaphors)? Let’s dive into the track by track review to find out.

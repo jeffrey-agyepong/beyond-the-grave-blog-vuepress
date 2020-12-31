@@ -2,8 +2,8 @@
 title: "Review: Red - Declaration"
 date: "2020-08-06"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Post Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---

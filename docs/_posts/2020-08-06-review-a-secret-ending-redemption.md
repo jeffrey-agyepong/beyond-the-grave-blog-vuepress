@@ -2,8 +2,8 @@
 title: "Review: A Secret Ending - Redemption EP"
 date: "2020-08-06"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 ---

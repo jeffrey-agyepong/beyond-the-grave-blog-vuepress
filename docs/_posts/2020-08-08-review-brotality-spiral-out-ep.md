@@ -2,10 +2,10 @@
 title: "Review: Brotality - Spiral Out [EP]"
 date: "2020-08-08"
 tags:
-- Interviews
-- Metal
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+- Reviews
+- Trash Metal
+author: Christianmetalreviewer777
+featuredimg: https://i.ibb.co/8MwnRpb/brotality.jpg
 ---
 
 **Band:** Brotality

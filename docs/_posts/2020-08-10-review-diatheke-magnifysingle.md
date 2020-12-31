@@ -2,10 +2,10 @@
 title: "Review: Diatheke - Magnify[Single]"
 date: "2020-08-10"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Progressive Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/3Stq5t2/diatheke2.jpg
 ---
 
 **Record Label:** Independent
@@ -34,7 +34,7 @@ I have to admit I was a bit disappointed when the vocals kicked in. It’s initi
 
 \[bandcamp width=350 height=470 album=3061758305 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
 
-### FREE DOWNLOAD
+
 
 * * *
 
