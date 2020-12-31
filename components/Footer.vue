@@ -90,8 +90,15 @@ export default {
   methods: {
     getIconComponentName(contactType) {
       switch (contactType) {
-        case 'github':
-          return 'GithubIcon'
+        case 'facebook':
+          return 'FacebookIcon'
+          break
+        case 'instagram':
+          return 'InstagramIcon'
+          break
+        case 'twitter':
+          return 'TwitterIcon'
+          break
       }
     },
   },

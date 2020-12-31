@@ -71,7 +71,7 @@ export default {
           url: '/tag/New_Releases/',
         },
         {
-          text: 'Bands Spotlight',
+          text: 'Album Spotlight',
           url: '/tag/Introducing/',
         },
       ],

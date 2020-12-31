@@ -14,6 +14,18 @@
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
         <hr class="menu-divider" />
         <ul v-if="$themeConfig.nav" class="mobile-nav">
+          <li :items="items" class="mobile-nav-item">
+            <NavLink :link="items.url">{{ items.text }}</NavLink>
+          </li>
+          <li :items="items2" class="mobile-nav-item">
+            <NavLink :link="items2.url">{{ items2.text }}</NavLink>
+          </li>
+          <li :items="items3" class="mobile-nav-item">
+            <NavLink :link="items3.url">{{ items3.text }}</NavLink>
+          </li>
+          <li :items="items4" class="mobile-nav-item">
+            <NavLink :link="items4.url">{{ items4.text }}</NavLink>
+          </li>
           <li
             v-for="item in $themeConfig.nav"
             :key="item.text"
@@ -21,9 +33,9 @@
           >
             <NavLink :link="item.link">{{ item.text }}</NavLink>
           </li>
-          <li class="mobile-nav-item">
+          <!--<li class="mobile-nav-item">
             <Feed />
-          </li>
+          </li>-->
         </ul>
       </div>
     </div>
@@ -31,6 +43,7 @@
 </template>
 
 <script>
+import Vue from 'vue'
 import { MenuIcon, XIcon } from 'vue-feather-icons'
 import Feed from './Feed'
 export default {
@@ -44,6 +57,27 @@ export default {
       type: Boolean,
       required: true,
     },
+  },
+  data() {
+    return {
+      items: {
+        text: 'Introducing',
+        url: '/tag/Introducing/',
+      },
+      items2: {
+        text: 'Bands Spotlight',
+        url: '/tag/Introducing/',
+      },
+
+      items3: {
+        text: 'New Releases',
+        url: '/tag/New_Releases/',
+      },
+      items4: {
+        text: 'Album Spotlight',
+        url: '/tag/Introducing/',
+      },
+    }
   },
 }
 </script>
@@ -72,8 +106,15 @@ export default {
       color inherit
 
 .mobile-nav-item
+  font-family: fantasy;
+  font-size: 20px;
   padding 10px 0
   list-style none
+  border: solid #fff
+  border-radius: 25px
+  text-align: center
+  width: 250px;
+  margin: auto;
 
   a
     text-decoration none
@@ -88,7 +129,7 @@ export default {
   background-color $headerBgColor
 
 .mobile-menu-wrapper.open
-  max-height 450px
+  max-height 500px
   transition 0.3s ease
 
 @media (min-width: $MQMobile)

@@ -35,6 +35,7 @@ module.exports = themeConfig => {
         link: '/tag/',
       },*/
     ],
+
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
       typeof themeConfig.summaryLength === 'number'
@@ -62,7 +63,7 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 12,
+      lengthPerPage: 9,
     },
   }
 

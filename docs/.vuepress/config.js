@@ -91,6 +91,7 @@ module.exports = {
         {
           type: 'facebook',
           link: 'https://web.facebook.com/Beyondthegrave777',
+          logo: './assets/img/logo.png',
         },
 
         {
@@ -120,6 +121,10 @@ module.exports = {
         {
           type: 'web',
           link: '#',
+        },
+        {
+          type: 'youtube',
+          link: '#',
         }
       ],
       copyright: [
@@ -135,7 +140,7 @@ module.exports = {
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://beyondthegrave.netlify.app/'
     },
     comment: {
       service: 'disqus',
@@ -145,7 +150,7 @@ module.exports = {
       endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://beyondthegrave.netlify.app/',
     },
     smoothScroll: true
   },
