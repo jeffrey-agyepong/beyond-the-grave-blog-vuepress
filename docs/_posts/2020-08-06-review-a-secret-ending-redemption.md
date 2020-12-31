@@ -4,8 +4,8 @@ date: "2020-08-06"
 tags:
 - Reviews
 - Death Metal
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+author: Nick Ptak
+featuredimg: https://i.ibb.co/74B7LFC/asecretending.jpg
 ---
 
 **Record Label:** Independent

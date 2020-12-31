@@ -5,7 +5,7 @@ tags:
 - Introducing
 - Metalcore
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/N2gjCQZ/collapse2.jpg
 ---
 
 **Formed:** 2019

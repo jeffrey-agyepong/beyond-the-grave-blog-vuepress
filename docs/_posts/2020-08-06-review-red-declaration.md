@@ -4,8 +4,8 @@ date: "2020-08-06"
 tags:
 - Reviews
 - Post Hardcore
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+author: Christianmetalreviewer777
+featuredimg: https://i.ibb.co/pnmRVV6/reddeclaration.jpg
 ---
 
 **Band:** Red

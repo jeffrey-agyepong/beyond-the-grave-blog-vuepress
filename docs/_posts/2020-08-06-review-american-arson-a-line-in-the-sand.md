@@ -4,8 +4,8 @@ date: "2020-08-06"
 tags:
 - Reviews
 - Rock
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+author: Jeremy Prince
+featuredimg: https://i.ibb.co/5cGy0xx/alineinthesand.jpg
 ---
 
 **Band:** American Arson

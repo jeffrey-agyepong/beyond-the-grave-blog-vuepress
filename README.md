@@ -3,5 +3,7 @@ home: true
 actionText: Get Started →
 actionLink: /custom-components/
 
-footer: MIT Licensed | Copyright © 2019-present David Li
+footer: MIT Licensed | Copyright © 2020-present Beyond The Grave
 ---
+
+<ToggleDarkMode/>

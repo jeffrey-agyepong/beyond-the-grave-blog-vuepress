@@ -4,8 +4,8 @@ date: "2020-08-06"
 tags:
 - Reviews
 - Hardcore
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+author: Erik Morgan
+featuredimg: https://i.ibb.co/6Bryz2W/download-3.jpg
 ---
 
 **Band:** Deathbreaker
@@ -55,7 +55,7 @@ Thankfully, I took the time to follow up and look at every interview, review, an
 
 Ultimately, the album functions like an imprecatory _Psalm_. Psalms (see 69 or 109 for example,) in which the writer is calling down judgment or working through a great deal of anger. Taken as a whole there is still a message of hope to be found in Isolate. The lyrics **“I can hear you in the darkness”** from the song Strangers come to mind. In the end, there is anger to be found, the message is that we can’t judge God's love based on the failings of others and it is healthy to be able to honestly work through that pain and frustration brought on by those failings.
 
-**Written By:** Jeremy Price
+**Written By:** Jeremy Prince
 
 * * *
 
