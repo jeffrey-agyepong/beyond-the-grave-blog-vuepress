@@ -2,10 +2,10 @@
 title: "Review: Nate Parrish - I'm a Wreck"
 date: "2020-08-20"
 tags:
-- Interviews
-- Metal
-author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+- Reviews
+- Punk
+author: Zackary Van D
+featuredimg: https://i.ibb.co/vDCf08d/im-a-wreck.jpg
 ---
 
 **Band:** Nate Parrish
@@ -20,7 +20,16 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 
 **Tracklist:**
 
-1.I'M A WRECK (03:25) 2.MIND MONOPOLY (03:53) 3.LOSERS (03:06) 4.POLITICIANS AND CELEBRITIES (03:58) 5.HOUSE MADE OF MIRRORS (03:14) 6.THINGS MY FATHER TAUGHT ME (03:05) 7.MONSTERS (04:12) 8.EVERYTHING IS OUTRAGE (03:03) 9.PERMANENCE (03:02) 10.HOPE (03:36)
+1. I'M A WRECK (03:25) 
+2. MIND MONOPOLY (03:53) 
+3. LOSERS (03:06) 
+4. POLITICIANS AND CELEBRITIES (03:58)
+5. HOUSE MADE OF MIRRORS (03:14) 
+6. THINGS MY FATHER TAUGHT ME (03:05)
+7. MONSTERS (04:12) 
+8. EVERYTHING IS OUTRAGE (03:03) 
+9. PERMANENCE (03:02) 
+10. HOPE (03:36)
 
 It’s about time **_Nate Parrish_** gets some attention for his solo music, because, dang, is it good! If you don’t know who Nate is, if you’ve listened to Kutless, you know his work. He is one of the guitarists for the band and recently started working on a solo career that, if you’re hoping sounds like Kutless, you won’t find. But, don’t lose heart – his new album, **I’m A Wreck**, is an excellent punk-influenced album that hits a lot of the notes you’d expect from a punk album: self-deprecating lyrics, frantic beats, social and political commentary, and, perhaps unlike punk, a healthy dose of hope. I was pleasantly surprised by this album, and find myself continuing to return to it and humming the songs in my head throughout the day. Now, let’s dive into a track by track review.
 
@@ -46,20 +55,23 @@ It’s about time **_Nate Parrish_** gets some attention for his solo music, b
 
 Overall, I’m A Wreck is an incredibly impressive debut solo outing for Nate Parrish. Given that the music I knew him from falls more into CCM/Hard Rock territory with Kutless, I was happy (and surprised) to hear the music holding a punk rock feel to it. I have very little criticism for the album as a whole; really the only “issues” I could even point out was the production in Everything Is Outrage! and how I felt that the chorus of Losers lacked cohesion. I am absolutely taken aback by the outstanding effort Nate put forward here with this album, and I am greatly looking forward to what he does in the future.
 
+<hr>
+
 **High Point:** Permanent
 
 **Low Point:** Losers
 
  **Favorite tracks:** Tie between Hope, Permanent, and Things My Father Taught Me
 
-### Rating: 8/10
+### <h3 style="text-align:center;">Rating: 8/10</h3>
 
-**Written By:** Zachary of [Lyrical Resonance](https://www.youtube.com/channel/UCPtHnXMx7APZGv91ItLaLEw)
-
-* * *
-
-\[bandcamp width=350 height=470 album=3604576050 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
 
 * * *
 
-https://open.spotify.com/album/0IMrQdfwc97d7zFlxq0V7W?si=OYtHY3fESIqhKBM06KhfDg
+<iframe style="border: 0; width: 340px; height: 460px;" src="https://bandcamp.com/EmbeddedPlayer/album=3604576050/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nateparrish.bandcamp.com/album/im-a-wreck">I&#39;M A WRECK by Nate Parrish</a></iframe>
+
+* * *
+
+<iframe src="https://open.spotify.com/embed/album/0IMrQdfwc97d7zFlxq0V7W" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

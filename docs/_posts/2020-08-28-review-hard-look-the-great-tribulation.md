@@ -5,7 +5,7 @@ tags:
 - Reviews
 - Industrial Metal
 author: Christianmetalreviewer777
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/jfxcfZD/a1132292348-16.jpg
 ---
 
 **Release Date:** August 18, 2020 

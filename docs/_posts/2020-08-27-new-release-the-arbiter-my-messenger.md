@@ -5,7 +5,7 @@ tags:
 - New Releases
 - Black Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/wyK5HKn/thearbiter-the-messenger.jpg
 ---
 
 **Release Date:** July 6, 2020 
@@ -25,8 +25,7 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 8. In The Will (Deliverance cover) 04:50
 
 * * *
-
-### <iframe style="border: 0; width: 340px; height: 710px;" src="https://bandcamp.com/EmbeddedPlayer/album=1397785589/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/my-messenger">My Messenger by The Arbiter</a></iframe>
+<iframe style="border: 0; width: 340px; height: 710px;" src="https://bandcamp.com/EmbeddedPlayer/album=1397785589/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/my-messenger">My Messenger by The Arbiter</a></iframe>
 
 * * *
 

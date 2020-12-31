@@ -3,9 +3,9 @@ title: "INTERVIEW: DAWNBREAKER"
 date: "2020-08-20"
 tags:
 - Interviews
-- Metal
+- Black Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/rpkjMxX/dawnbreaker-1.jpg
 ---
 
 **Dawnbreaker** is a crusader metal solo project formed by Cullen Toner who's based out of New York, New York. Let's have a chat with him.
@@ -32,10 +32,10 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 
 * * *
 
-\[bandcamp width=350 height=470 album=3427870324 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=3427870324/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dawnbreaker.bandcamp.com/album/total-depravity">Total Depravity by Dawnbreaker</a></iframe>
 
 * * *
-
-https://www.youtube.com/watch?v=VL8xj54v5lM
-
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/VL8xj54v5lM" width="560" height="315" frameborder="0"></iframe>
+</div>
 * * *

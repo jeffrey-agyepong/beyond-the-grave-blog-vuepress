@@ -2,10 +2,10 @@
 title: "Review: daygraves - Silver"
 date: "2020-08-19"
 tags:
-- Interviews
-- Metal
+- Reviews
+- Black Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
+featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 ---
 
 **Band:** Daygraves
@@ -18,15 +18,12 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 
 **Genre:**  Blackgaze, Unblack, Post Rock
 
-**Track List:   ** 1) Morning Stars
-
-                        2) The Headache. The Heartache
-
-                        3) So Weep
-
-                        4) Oh, Gates
-
-                        5) Undone
+**Track List:   ** 
+1. Morning Stars
+2. The Headache. The Heartache
+3. So Weep
+4. Oh, Gates
+5. Undone
 
 **Daygraves** is a new one-man Christian Blackgaze project from Austin, Texas.  The songs also incorporate other subgenre elements such as black metal and post-rock.  **Silver**, overall, discusses the vastness of how great and powerful God is and how we are in desperate need of His love and mercy.
 
@@ -37,10 +34,8 @@ featuredimg: https://i.ibb.co/nR7BsvB/ben-dixon.jpg
 **Favorite Track:** Morning Stars
 
 **Final Thoughts:** Overall, I greatly enjoyed listening to all of the songs, and was really moved both musically and lyrically of each song.  One of the greatest aspects of Blackgaze is the atmosphere it brings.  It is very comparable to Atmospheric Black Metal, although there are some slight differences such as the distortions used in Blackgaze.  Each song is like a journey, which is ideal for any Blackgaze song.  This helped elevate the emotions and bring in a deeper meaning to the already inspiring worship lyrics.  The music sonically matched very well with the tone of the songs lyrically.  I am so glad to hear about Christian artists creating Blackgaze music, as it is a relatively new subgenre of music with very few Christian artists.  I really look forward to future EPs and albums from Daygraves.
-
-### **Rating:** 9/10
-
-**Written by:** Nick Ptak
+<hr>
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
 * * *
 
@@ -62,18 +57,19 @@ When a Christian artist gets his music inspired by the Lord and uses it this way
 
 Loved it, caught my attention, and my heart, and left me wanting to listen more daygraves. Perfectly made Blackgaze.
 
-### Rating: 9.5/10
-
+<hr>
 **Favorite Tracks:** The Headache. The Heartache, Morning Stars, and Oh Gates.
 
-**Written by:** [Gorship777](https://www.instagram.com/gorship777/)
+<h3 style="text-align:center;">Rating: 9.5/10</h3> 
+
+**Written by:** Gabriel Mesones ([Gorship777](https://www.instagram.com/gorship777/))
 
 * * *
 
-\[bandcamp width=350 height=470 album=3105864023 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 611px;" src="https://bandcamp.com/EmbeddedPlayer/album=3105864023/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://daygraves.bandcamp.com/album/silver">Silver by daygraves</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=6W28HbAQAYg
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6W28HbAQAYg" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *

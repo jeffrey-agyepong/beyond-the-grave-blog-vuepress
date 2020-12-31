@@ -18,23 +18,14 @@ featuredimg: https://i.ibb.co/4jd68z2/kozen.jpg
 
 **Track list:**  
 1\. With Open Eyes
-
 2\. Rooted In Thin Air
-
 3\. Steel
-
 4\. Waveway
-
 5\. To The Wind
-
 6\. Take The Sky
-
 7\. The Locust Season
-
 8\. Nail
-
 9\. Burning In My Mind
-
 10\. Red Sky
 
 * * *
@@ -50,7 +41,7 @@ Consider us a little late in really diving into this album - but, as the adage g
 **"Waveway"** is a shift in tone, entirely. Coming fresh off the heels of "Steel", it stood out to me how calm this track was. Granted, there's still a bit of aggression in the pre-chorus, but it is still pretty mellow. The piano played throughout this track is fantastic and really adds a nice element of melody. Oddly enough, this is a love song in the sense of the poor handling of relationships in the form of one who lets their passions take control of their behavior. While not always a bad thing, when our passions, or perhaps better phrased, our lusts, take control of our behaviors, we make destructive, stupid decisions. The results of this are palpably felt in the ending of the song: "_Your heart torn through your ribcage, and through skin. I never meant for you to truly let me in._" Unimaginable damage can be caused by desires that are not put in their proper place.
 
 <div class="video-container">
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/jPhg_iAiquw?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div></iframe>
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/jPhg_iAiquw?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"></iframe>
 </div>
 **"To The Wind"** is the first single from this album, and it is a thematically dense song. "It's a metaphorical story about someone who has been deceived into living in a sort of theological Tower of Babel - being trapped in the edifice of their own worldview." That is, unfortunately, a common thing. If we're unwilling to learn - even from those we disagree with - we may never discover where we're wrong or need some refining. Fortunately, in the narrative of the song, there is a desire to allow the Spirit (wind - see John 9) to carry them to firmer foundations for their faith. Once again, Kozen returns to a very Jazz infused structure. This may just be the most cohesive song on the entire album - the musicianship is so tightly written and there is such unity in all the members. Without a doubt, this track shows this band melding their differing backgrounds flawlessly. "To the Wind" is a superb track from start to finish.
 
