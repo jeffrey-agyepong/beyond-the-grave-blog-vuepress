@@ -12,7 +12,7 @@ featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 
 * * *
 
-<div class="container">
+<div class="video-container">
     <iframe src="https://www.youtube.com/embed/TQNkF1wrAwg" width="560" height="315" frameborder="0"></iframe>
 </div>
 
@@ -24,7 +24,7 @@ featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg
 
 * * *
 
-<div class="container">
+<div class="video-container">
     <iframe src="https://www.youtube.com/embed/6W28HbAQAYg" width="560" height="315" frameborder="0"></iframe>
 </div>
 
