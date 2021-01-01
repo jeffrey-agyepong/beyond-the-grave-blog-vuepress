@@ -23,6 +23,8 @@ module.exports = {
   },
   theme: require.resolve('../../'),
   themeConfig: {
+    cover: '/images/cover.jpg',
+    logo: '/assets/img/logo.png',
   authors: [
       {
       name: 'Jeffrey Agyepong',
@@ -67,7 +69,7 @@ module.exports = {
         linktext: 'Follow',
       },
 	  {
-        name: 'Christianmetalreviewer777',
+        name: 'Anonymous',
         avatar: '/assets/img/avatar.png',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',

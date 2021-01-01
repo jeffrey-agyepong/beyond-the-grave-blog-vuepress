@@ -4,7 +4,7 @@ date: "2020-08-08"
 tags:
 - Reviews
 - Trash Metal
-author: Christianmetalreviewer777
+author: Anonymous
 featuredimg: https://i.ibb.co/8MwnRpb/brotality.jpg
 ---
 

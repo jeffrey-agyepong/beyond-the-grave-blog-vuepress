@@ -12,14 +12,15 @@
 $green = #03a87c
 $color_1 = rgba(0, 0, 0, 0.54)
 $color_2 = rgba(0, 0, 0, 0.44)
-$color_3 = rgba(0, 0, 0, 0.8)
+$color_3 = rgba(248, 249, 250, 1)
 $primary_font_family = 'Source Sans Pro'
 $second_font_family = 'Merriweather'
 body
   font-family: $primary_font_family
   padding-top: 120px
   color: $color_3
-  background: #fff
+  background: #383838
+
 .wrapmain
   min-height:600px
 .font-secondary
@@ -43,6 +44,9 @@ nav
   padding: .5rem 1.0rem
   .tagline
     color: $color_2
+.navbar-light .navbar-nav .nav-link 
+    color: rgb(32 32 32);
+
 .bg-white 
     background-color: #f8f9fa !important;
 .nav-link
@@ -75,7 +79,7 @@ nav
 .avatar-image
   width: 40px
   height: 40px
-  display: inline-block
+  display: none
   vertical-align: middle
   border-radius: 100%
 .username
@@ -87,6 +91,17 @@ nav
 .read-time
   color: $color_2
   font-size: 13px
+.card 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #021931;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,0.125);
+    border-radius: 0.25rem;
+
 .card-panel
   display: inline-block
   margin: 30px 0 40px 0

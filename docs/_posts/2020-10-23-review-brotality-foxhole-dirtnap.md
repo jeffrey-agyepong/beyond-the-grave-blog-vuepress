@@ -4,7 +4,7 @@ date: "2020-10-23"
 tags:
 - Reviews
 - Thrash Metal
-author: Christianmetalreviewer777
+author: Anonymous
 featuredimg: https://i.ibb.co/48WS6VR/fox-holes.jpg
 ---
 

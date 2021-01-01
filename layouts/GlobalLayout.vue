@@ -1,5 +1,9 @@
 <template>
   <div id="vuepress-theme-blog__global-layout">
+    <!--<aside class="sidebar">
+    <h1>Reviews</h1>
+    
+    </aside>-->
     <Header />
     <MobileHeader
       :is-open="isMobileHeaderOpen"
@@ -31,7 +35,6 @@ export default {
       isMobileHeaderOpen: false,
     }
   },
-
   mounted() {
     this.$router.afterEach(() => {
       this.isMobileHeaderOpen = false
@@ -44,6 +47,12 @@ export default {
 #vuepress-theme-blog__global-layout
   word-wrap break-word
 
+.sidebar
+ width: 250px
+ padding-left: 15px
+ margin-left: 15px
+ float: right
+ -style: italic
 .content-wrapper
   padding 160px 15px 80px 15px
   min-height calc(100vh - 80px - 60px - 160px)

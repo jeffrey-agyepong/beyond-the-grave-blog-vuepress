@@ -4,7 +4,7 @@ date: "2020-08-28"
 tags:
 - Reviews
 - Industrial Metal
-author: Christianmetalreviewer777
+author: Anonymous
 featuredimg: https://i.ibb.co/jfxcfZD/a1132292348-16.jpg
 ---
 

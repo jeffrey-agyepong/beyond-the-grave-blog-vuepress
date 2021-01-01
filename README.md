@@ -1,5 +1,6 @@
 ---
 home: true
+layout: GlobalLayout
 actionText: Get Started →
 actionLink: /custom-components/
 

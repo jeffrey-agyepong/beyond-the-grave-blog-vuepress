@@ -1,6 +1,7 @@
 ---
 title: 'New Release: Northern Flame - Twisted Reality'
 date: '2020-12-21'
+type: post
 tags:
   - New Releases
   - Power Metal
@@ -43,3 +44,4 @@ Record Label: Independent<br>
 <iframe src="https://open.spotify.com/embed/album/57QDutFAhzn0U6SZeNFmpM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr>
+

@@ -164,7 +164,7 @@ export default {
   border-bottom: 1px solid
   color: $accentColor
 .date
-  margin-left: 50px;
+  margin-left: 150px;
   margin-top: -20px;
 .username
   margin-top:-10px;

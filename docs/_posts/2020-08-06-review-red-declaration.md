@@ -4,7 +4,7 @@ date: "2020-08-06"
 tags:
 - Reviews
 - Post Hardcore
-author: Christianmetalreviewer777
+author: Anonymous
 featuredimg: https://i.ibb.co/pnmRVV6/reddeclaration.jpg
 ---
 

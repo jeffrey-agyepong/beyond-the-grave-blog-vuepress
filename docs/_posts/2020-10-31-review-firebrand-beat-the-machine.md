@@ -4,7 +4,7 @@ date: "2020-10-31"
 tags:
 - Reviews
 - Industrial Metal 
-author: Christianmetalreviewer777
+author: Anonymous
 featuredimg: https://i.ibb.co/T1c0t3z/firebrand.jpg
 ---
 
