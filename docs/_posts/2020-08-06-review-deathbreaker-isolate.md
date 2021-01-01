@@ -1,6 +1,7 @@
 ---
 title: "Review: Deathbreaker - Isolate"
 date: "2020-08-06"
+type: post
 tags:
 - Reviews
 - Hardcore
@@ -41,13 +42,15 @@ featuredimg: https://i.ibb.co/6Bryz2W/download-3.jpg
 
 **Final Thoughts and Highlights**: **Deathbreaker** has created something special here. **Isolate** is an album that should not be missed this year. This is not a soft album, this is for people who are looking for a heavy musical beatdown, complete with screams and breakdowns. Start to finish, **Isolate** is about 34 minutes long, spanning 10 songs. None of the songs drag on or overstay their welcome, they are all paced perfectly and get right to the point. My **standouts tracks** for this record are **“Spite,”** **“Pit Viper,” “Choke,”** and **“Blackout.”** 
 
-### **Rating:** 9/10
+<hr>
+
+<h3 style="text-align:center;">Rating: 9/10</h3>
 
 **Reason:** The only thing holding it back is that it could be a little longer, with maybe one or two more tracks.
 
 * * *
 
-#### BTG Alternative Opinion
+<h2 style="text-align:center;"> BTG Alternative Opinion</h2>
 
 Deathbreaker’s **Isolate** is a furious album. So much so I almost took a pass on this album. While that may sound harsh, I had no idea what to make of the first couple of singles. I loved their previous album, which I found had "we’re struggling but God’s got us" message, while Choke had lyrics like “Choke on every word you spoke. Who’s your leader, your defender, where’s your hope?”
 
@@ -55,7 +58,7 @@ Thankfully, I took the time to follow up and look at every interview, review, an
 
 Ultimately, the album functions like an imprecatory _Psalm_. Psalms (see 69 or 109 for example,) in which the writer is calling down judgment or working through a great deal of anger. Taken as a whole there is still a message of hope to be found in Isolate. The lyrics **“I can hear you in the darkness”** from the song Strangers come to mind. In the end, there is anger to be found, the message is that we can’t judge God's love based on the failings of others and it is healthy to be able to honestly work through that pain and frustration brought on by those failings.
 
-**Written By:** Jeremy Prince
+<h5 style="text-align:center;">Written By: Jeremy Prince</h5>
 
 * * *
 

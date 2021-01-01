@@ -62,17 +62,17 @@ export default {
         },
         {
           text: 'Bands Spotlight',
-          url: '/tag/Introducing/',
+          url: '/tag/Bands Spotlight/',
         },
       ],
       items2: [
         {
           text: 'New Releases',
-          url: '/tag/New_Releases/',
+          url: '/tag/New Releases/',
         },
         {
           text: 'Album Spotlight',
-          url: '/tag/Introducing/',
+          url: '/tag/Album Spotlight/',
         },
       ],
     }

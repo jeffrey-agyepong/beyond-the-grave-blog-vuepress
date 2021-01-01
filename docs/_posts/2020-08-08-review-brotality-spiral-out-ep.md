@@ -1,5 +1,6 @@
 ---
 title: "Review: Brotality - Spiral Out [EP]"
+type: post
 date: "2020-08-08"
 tags:
 - Reviews
@@ -28,7 +29,7 @@ featuredimg: https://i.ibb.co/8MwnRpb/brotality.jpg
 
 **Overall:** I was impressed with how good this track sounded. I do however wish there was more story to the lyrics. With that said this young band has a bright future ahead of them.
 
-### **Rating:** 7/10
+<h3 style="text-align:center;">Rating: 7/10</h3>
 
 * * *
 
@@ -40,18 +41,12 @@ featuredimg: https://i.ibb.co/8MwnRpb/brotality.jpg
 
 **Overall:** This was a good listening experience. The band has proved themselves worthy to be heard. There is just enough dynamic in the instruments to make it listenable, and the vocals are well executed.
 
-### **Rating:** 8/10
+ <h3 style="text-align:center;">Rating: 8/10</h3>
 
 * * *
 
-\[bandcamp width=350 height=470 album=1387372007 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 460px;" src="https://bandcamp.com/EmbeddedPlayer/album=1387372007/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://brotality.bandcamp.com/album/spiral-out">Spiral Out by Brotality</a></iframe>
 
 * * *
 
-https://www.youtube.com/watch?v=zgfkm5PdS\_4
-
-https://www.youtube.com/watch?v=ks46Z5I\_lO4
-
-* * *
-
-https://open.spotify.com/album/1StUhLW1I7v8R15lsJRzv3
+<iframe src="https://open.spotify.com/embed/album/1StUhLW1I7v8R15lsJRzv3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -1,5 +1,6 @@
 ---
 title: "Review: Homeplate - Derby City EP"
+type: post
 date: "2020-08-10"
 tags:
 - Reviews
@@ -18,12 +19,12 @@ featuredimg: https://i.ibb.co/0jjtYzQ/homeplate.jpg
 
 **Track List:**
 
-1\. Broken Youth (Ft. Eric Knighton of Brave Days) 
-2\. Time Stands Still 
-3\. Expectations (Ft. Phil Carper of At The Wayside) 
-4\. I Need Grace (Ft. New Heights Worship) 
-5\. Long Ago
-
+1. Broken Youth (Ft. Eric Knighton of Brave Days) 
+2. Time Stands Still 
+3. Expectations (Ft. Phil Carper of At The Wayside) 
+4. I Need Grace (Ft. New Heights Worship) 
+5. Long Ago
+<hr>
 Who would have thought that 2020 would introduce a brand new pop-punk/easycore band from Derby City? Definitely not me, but Indie Vision Music saw something worth investing in the two-person group, **Homeplate**. Their debut EP, titled **Derby City**, is set to launch on 08/14/2020, and if you’re fond of bands like old-school Hawk Nelson, In Her Own Words, MXPX, or The Wonder Years, may I suggest you start paying attention to Homeplate. I’ve listened through their EP a few times now, and let me start this review by saying that they open up with the bases loaded and are swinging for the fences – will they get the grand slam, or will they fall short (yup, baseball metaphors)? Let’s dive into the track by track review to find out.
 
 **Broken Youth (Ft. Eric Knighton of Brave Days):** Opening tracks always have an air of anticipation about them – we can’t help but wonder what we’re getting into with new music. Fortunately, with this track, it’s immediately a bunch of fun. The opening bassline of this track is infectious. Another comparison I could give to this band, at least vocally, is the French band Chunk! No, Captain Chunk! This song served as the first single for this band on their label, and it makes sense. This song is delightful in so many ways. One thing I’ve always loved about the easycore genre is that there’s a dissonance between the lyrics and the music. Musically, this song is a raucous good time; lyrically, it’s very encouraging, but it also presents it’s positivity from the negative: “Every hero has a grim beginning, maybe this is mine? A broken youth… black eyes are only temporary, wounds don’t stay open forever… step back from regrets you can’t ignore.” Oh, and the bit of ska found after the bridge? Totally unexpected and totally welcome. The instrumentation here if excellent – the guitars are frenetic and the drums clear and crisp. This song is an easy win.
@@ -42,13 +43,11 @@ Who would have thought that 2020 would introduce a brand new pop-punk/easycore b
 **Low Point:** Long Ago  
 **Favorite tracks:** Expectations and I Need Grace
 
-### Rating: 8.5/10
-
-**Written By:** Zachary of [Lyrical Resonance](https://www.youtube.com/channel/UCPtHnXMx7APZGv91ItLaLEw)
+<h3 style=text-align:center;>Rating: 8.5/10</h3>
 
 * * *
 
-#### BTG Alternative Opinion
+<h2 style=text-align:center;>BTG Alternative Opinion</h2>
 
 **Homeplate** is a new Christian Pop Punk band from Derby City, KY. This is a two-piece project. There is a small amount of information given out about the band from what I could dig up, unfortunately.
 
@@ -58,7 +57,7 @@ Who would have thought that 2020 would introduce a brand new pop-punk/easycore b
 
 **Final Thoughts, Highlights, and Rating: Homeplate** have brought something fresh to the table with **Derby City** and I cannot wait to see where they go from here. It should be noted that this EP is very much so for fans of the Pop Punk genre, if you’re looking for something super heavy with growls, this isn’t for you. It is also a by-the-books outing so there are still some spots where I think that improvement is needed, mainly with riffs and drums. This is a very straightforward and basic EP, but it does have moments that really stand out to me that keep me coming back for more, so hopefully, in the future we will see more. Top tracks where “Broken Youth,” “I Need Grace,” and “Expectations.”
 
-### Rating: 7/10
+<h3 style=text-align:center;>Rating: 7/10</h3>
 
 **Reasons:** While I thoroughly enjoyed this, there is room for improvement in the future along with some sonic maturity, but that can only come with time.
 
@@ -68,6 +67,6 @@ Who would have thought that 2020 would introduce a brand new pop-punk/easycore b
 
 * * *
 
-\[bandcamp width=350 height=470 album=2067330864 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 644px;" src="https://bandcamp.com/EmbeddedPlayer/album=2067330864/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://music.indievisionmusic.com/album/derby-city-ep">Derby City EP by Homeplate</a></iframe>
 
 * * *

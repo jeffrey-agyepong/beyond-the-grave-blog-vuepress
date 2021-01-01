@@ -35,12 +35,13 @@ featuredimg: https://i.ibb.co/74B7LFC/asecretending.jpg
 **Favorite Track:** The Ninety-Nine
 
 **Final Thoughts:** Overall, I am really impressed by the musical and lyrical talent. **A Secret Ending** had to offer. The songs had great melodic riffs that were catchy and incorporated a variety of instruments. The placement of using the growls, screams, and harmonic clean vocals was impressive in my opinion. With this being their first EP, I can only imagine how great the future EP’s and albums will be for this artist.
+<hr>
 
-### Rating: 9.5/10
+ <h3 style="text-align:center;">Rating: 9.5/10</h3>
 
 * * *
 
-#### BTG Alternative Opinion
+<h2 style="text-align:center;"> BTG Alternative Opinion</h2>
 
 **A Secret Ending** is a melodic death metal project from Lithuania. It’s nice to have a Christian band from the Baltic states! He has released the **Redemption EP** independently. I have listened to this EP quite a lot. Frankly, I can’t name a band to compare it with. In terms of style, it reminds me the most with _Still Remains_. Fans of _Renascent_ will also like this release.
 
@@ -66,22 +67,20 @@ The lyrics are about the Redemption through Jesus Christ, his suffering on the C
 > 
 > and through faith have I been saved.
 
-### **Rating:** 8.5/10
+<h3 style="text-align:center;">Rating: 8.5/10</h3>
 
 **Reason:** Mainly because I hope that there will be some solos on the new effort.
-
- **Written by:** Ton of [Christian metal horde](https://web.facebook.com/ChristianmetalHorde/)
-
-* * *
-
-\[bandcamp width=350 height=470 album=2190362232 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
-
-### [iTunes](https://music.apple.com/ca/album/redemption-ep/1517148583) 
+<h5 style="text-align:center;">Written by: Ton Ringenier </h5>
 
 * * *
 
-https://www.youtube.com/watch?v=MI23TBrvKa8
+<iframe style="border: 0; width: 340px; height: 578px;" src="https://bandcamp.com/EmbeddedPlayer/album=2190362232/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://asecretending.bandcamp.com/album/redemption-ep">Redemption [EP] by A Secret Ending</a></iframe>
+
+<hr>
+[iTunes](https://music.apple.com/ca/album/redemption-ep/1517148583) 
 
 * * *
 
-https://open.spotify.com/album/762sDpB3DYv8xqxUoEaTNL?si=9YqdfqnlTCancqqo0opqtA
+<iframe src="https://open.spotify.com/embed/album/762sDpB3DYv8xqxUoEaTNL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

@@ -2,10 +2,10 @@
 title: "Album Spotlight: The Death in Me - An Appeal to Heaven"
 date: "2020-08-03"
 tags:
-- New Releases
-- Post Hardcore
+- Album Spotlight
+- Melodic Hardcore
 author: Jeffrey Agyepong
-coverImage: "the-death-in-me-an-appeal-to-heaven.jpg"
+featuredimg: https://i.ibb.co/RyrMkHb/the-death-in-me-an-appeal-to-heaven.jpg
 ---
 
 **Genre:** Melodic Hardcore
@@ -18,7 +18,15 @@ coverImage: "the-death-in-me-an-appeal-to-heaven.jpg"
 
 **Tracklist:**
 
-1.Earth 2.Gloom 3.Atrocities 4.Blackwater 5.Tuqburni 6.Dragging Chains 7.An Appeal To Heaven 8.King of Me 9.Evergreen
+1. Earth 
+2. Gloom 
+3. Atrocities 
+4. Blackwater 
+5. Tuqburni 
+6. Dragging Chains 
+7. An Appeal To Heaven 
+8. King of Me 
+9. Evergreen
 
 **FFO:** Conveyer, Life In Your Way, Lifelong, Close Your Eyes
 
@@ -30,12 +38,15 @@ coverImage: "the-death-in-me-an-appeal-to-heaven.jpg"
 
 * * *
 
-\[bandcamp width=350 height=470 album=542050184 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 743px;" src="https://bandcamp.com/EmbeddedPlayer/album=542050184/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://thedeathinmenc.bandcamp.com/album/an-appeal-to-heaven">An Appeal To Heaven by The Death In Me</a></iframe>
 
 * * *
 
-\[youtube https://www.youtube.com/watch?v=videoseries?list=PLapLgMsz5VY4GhEvcAPou1JtyhreK48Aa&w=560&h=315\]
+<div class="video-container"><iframe src="https://www.youtube.com/embed/2CsAcFXwmo4" width="560" height="315" frameborder="0"></iframe></div>
+
 
 * * *
 
-https://open.spotify.com/album/4jwHGfV2xdk2ZxVbLpxT1t
+<iframe src="https://open.spotify.com/embed/album/4jwHGfV2xdk2ZxVbLpxT1t" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>

@@ -36,12 +36,16 @@ Joshua Nathaniel Racine – Drummer
 
 Collapse​/​/​Revive - EP(2020)
 
+<hr>
+
 [iTunes](https://music.apple.com/ca/album/collapse-revive-ep/1489054406)
 
 * * *
 
-\[bandcamp width=350 height=470 album=1031473307 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
+<iframe style="border: 0; width: 340px; height: 644px;" src="https://bandcamp.com/EmbeddedPlayer/album=1031473307/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://collapserevive.bandcamp.com/album/collapse-revive-ep">Collapse//Revive - EP by Collapse//Revive</a></iframe>
 
 * * *
 
-https://www.youtube.com/playlist?list=PLTZO8Hwv6bDTQpQnDTev\_NScosunJxR75
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLTZO8Hwv6bDTQpQnDTev_NScosunJxR75" width="560" height="315" frameborder="0"></iframe></div>
+
+<hr>
