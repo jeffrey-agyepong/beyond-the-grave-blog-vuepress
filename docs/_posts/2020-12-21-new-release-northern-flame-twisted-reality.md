@@ -13,7 +13,6 @@ Genre: Melodic/Power Metal <br>
 Release Date: December 18, 2020<br>
 Album Length: 1 hour 6 Minutes<br>
 Record Label: Independent<br>
-<ToggleDarkMode />
 
 ---
 
