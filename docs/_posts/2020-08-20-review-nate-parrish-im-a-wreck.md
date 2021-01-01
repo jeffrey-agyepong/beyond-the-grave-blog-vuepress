@@ -4,7 +4,7 @@ date: "2020-08-20"
 tags:
 - Reviews
 - Punk
-author: Zackary Van D
+author: Zachary Van Dyke
 featuredimg: https://i.ibb.co/vDCf08d/im-a-wreck.jpg
 ---
 
