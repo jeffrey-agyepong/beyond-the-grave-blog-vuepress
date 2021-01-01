@@ -103,21 +103,22 @@ export default {
 
     .mobile-home-link
       text-decoration none
-      color inherit
+      color #f8f9fa
 
 .mobile-nav-item
-  font-family: fantasy;
-  font-size: 20px;
+  font-family fantasy
+  font-size 20px
   padding 10px 0
   list-style none
-  border: solid #fff
-  border-radius: 25px
-  text-align: center
-  width: 250px;
-  margin: auto;
+  border solid #fff
+  border-radius 25px
+  text-align center
+  width 250px
+  margin auto
 
   a
     text-decoration none
+    color #f8f9fa
 
 .menu-divider
   margin 0
