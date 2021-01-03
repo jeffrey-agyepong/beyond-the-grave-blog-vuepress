@@ -109,9 +109,4 @@ export default {
 .themefooter {
   background-color: #242424;
 }
-.flex {
-  display: flex;
-  gap: 40px;
-  margin-right: 250px;
-}
 </style>
