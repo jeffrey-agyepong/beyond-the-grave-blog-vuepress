@@ -42,9 +42,9 @@
                 page.title
               }}</NavLink>
             </h2>
-            <p itemprop="description">
+            <!--<p itemprop="description">
               {{ page.frontmatter.summary || page.summary }}
-            </p>
+            </p>-->
           </div>
           <div class="meta-bottom mt-auto">
             <div v-if="$themeConfig.authors">
