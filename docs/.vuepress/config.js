@@ -132,7 +132,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Copyright Beyond The Grave 2021',
+          text: '2021 Beyond The Grave ',
           link: 'https://bootstrapstarter.com/license/',
         },
         /*{
