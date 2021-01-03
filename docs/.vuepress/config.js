@@ -7,7 +7,7 @@ module.exports = {
     '@vuepress/google-analytics': {
       ga: 'G-B652H7R518',
     },
-    'social-share':['social-share'],
+    
     'seo':{
       siteTitle: (_, $site) => $site.title,
       title: $page => $page.title,
@@ -127,7 +127,7 @@ module.exports = {
         },
         {
           type: 'youtube',
-          link: '#',
+          link: 'https://www.youtube.com/channel/UCCXafO-fbIZnTHNoRlx2QWg',
         }
       ],
       copyright: [

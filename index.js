@@ -26,10 +26,10 @@ module.exports = themeConfig => {
         text: 'About',
         link: '/about/',
       },
-      {
+      /*{
         text: 'Contact',
         link: '/contact/',
-      },
+      },*/
       {
         text: 'Tags',
         link: '/tag/',
