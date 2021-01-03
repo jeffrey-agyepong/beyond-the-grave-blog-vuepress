@@ -3,7 +3,7 @@ title: "Review: Zhakiah - Where The Light Will Thread"
 date: "2020-10-14"
 tags:
 - Reviews
-- Post Hardcore
+- Black Metal
 author: Ton Ringenier  
 featuredimg: https://i.ibb.co/Tcshzw4/zhakiah.jpg
 ---
