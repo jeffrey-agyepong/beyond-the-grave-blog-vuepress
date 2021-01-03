@@ -7,6 +7,7 @@ module.exports = {
     '@vuepress/google-analytics': {
       ga: 'G-B652H7R518',
     },
+    'social-share':['social-share'],
     'seo':{
       siteTitle: (_, $site) => $site.title,
       title: $page => $page.title,

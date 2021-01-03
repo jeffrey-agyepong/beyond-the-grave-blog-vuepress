@@ -1,12 +1,11 @@
-<h1> About Us</h1>
-
-Beyond the Grave is a platform for promoting metal/hardcore bands <br>
-with a Christ-centered message/Christian members.
-
-Psalm 150:5 - 
-*Praise Him with loud cymbals;*
-*Praise Him with clashing cymbals!*
-
-*Is there something wrong with a Christian listening to metal? Find out [here](https://www.gotquestions.org/Christian-heavy-metal-music.htmlhttps://www.gotquestions.org/Christian-heavy-metal-music.html).*
-
-NOTE: Any link shared on this site has been approved by the band/label.
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
