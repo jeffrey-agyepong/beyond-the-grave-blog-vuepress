@@ -54,14 +54,14 @@
                 class="nav-item"
               >
                 <div class="d-flex">
-                  <a class="profile-avatar">
+                  <!--<a class="profile-avatar">
                     <img
                       v-if="author.name === page.frontmatter.author"
                       :src="$withBase(author.avatar)"
                       class="avatar-image"
                       :alt="author.name"
                     />
-                  </a>
+                  </a>-->
                   <div class="meta">
                     <div v-if="author.name === page.frontmatter.author">
                       <span class="username">{{ author.name }}</span> &nbsp;
