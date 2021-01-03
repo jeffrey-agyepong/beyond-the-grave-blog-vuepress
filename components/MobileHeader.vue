@@ -17,7 +17,7 @@
           <li :items="items" class="mobile-nav-item">
             <NavLink :link="items.url">{{ items.text }}</NavLink>
           </li>
-          <li :items="items2" class="mobile-nav-item">
+          <!--<li :items="items2" class="mobile-nav-item">
             <NavLink :link="items2.url">{{ items2.text }}</NavLink>
           </li>
           <li :items="items3" class="mobile-nav-item">
@@ -25,7 +25,7 @@
           </li>
           <li :items="items4" class="mobile-nav-item">
             <NavLink :link="items4.url">{{ items4.text }}</NavLink>
-          </li>
+          </li>-->
           <li
             v-for="item in $themeConfig.nav"
             :key="item.text"
@@ -66,16 +66,16 @@ export default {
       },
       items2: {
         text: 'Bands Spotlight',
-        url: '/tag/Introducing/',
+        url: '/tag/Bands Spotlight/',
       },
 
       items3: {
         text: 'New Releases',
-        url: '/tag/New_Releases/',
+        url: '/tag/New Releases/',
       },
       items4: {
         text: 'Album Spotlight',
-        url: '/tag/Introducing/',
+        url: '/tag/Album Spotlight/',
       },
     }
   },
