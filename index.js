@@ -16,6 +16,7 @@ module.exports = themeConfig => {
       {
         text: 'Reviews',
         link: '/tag/Reviews/',
+        permalink: '/slug/',
       },
       {
         text: 'Submit Music',
@@ -29,10 +30,10 @@ module.exports = themeConfig => {
         text: 'Contact',
         link: '/',
       },
-      /*{
+      {
         text: 'Tags',
         link: '/tag/',
-      },*/
+      },
     ],
 
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,

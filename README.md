@@ -2,8 +2,7 @@
 home: true
 layout: GlobalLayout
 actionText: Get Started →
-actionLink: /custom-components/
-
+actionLink: '/'
 footer: MIT Licensed | Copyright © 2020-present Beyond The Grave
 ---
 

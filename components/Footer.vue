@@ -7,8 +7,8 @@
             ><img class="logofooter" :src="$withBase($themeConfig.logo)"
           /></a>
         </div>
-        <div class="col text-right">
-          <ul v-if="contact" class="list-unstyled">
+        <div class="row text-right">
+          <ul v-if="contact" class="list-unstyled flex">
             <li
               v-for="item in contact"
               :key="item.iconComponent"
@@ -104,3 +104,14 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+.themefooter {
+  background-color: #242424;
+}
+.flex {
+  display: flex;
+  gap: 40px;
+  margin-right: 250px;
+}
+</style>

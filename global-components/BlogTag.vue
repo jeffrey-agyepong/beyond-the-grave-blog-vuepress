@@ -25,7 +25,7 @@ export default {
   text-align left
   box-sizing border-box
   transition background-color 0.3s
-  color $darkTextColor
+  color #f8f9fa;
   border 1px solid $darkBorderColor
   text-decoration none
   transition all 0.5s

@@ -21,8 +21,8 @@
             </button>
             <div id="navbarsExampleDefault" class="collapse navbar-collapse">
               <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
-                <ejs-dropdownbutton :items="items">Bands</ejs-dropdownbutton>
-                <ejs-dropdownbutton :items="items2">Albums</ejs-dropdownbutton>
+                <!--<ejs-dropdownbutton :items="items">Bands</ejs-dropdownbutton>
+                <ejs-dropdownbutton :items="items2">Albums</ejs-dropdownbutton>-->
                 <li
                   v-for="item in $themeConfig.nav"
                   :key="item.text"
@@ -68,11 +68,11 @@ export default {
       items2: [
         {
           text: 'New Releases',
-          url: '/tag/New Releases/',
+          url: '/tag/New%20Releases/',
         },
         {
           text: 'Album Spotlight',
-          url: '/tag/Album Spotlight/',
+          url: '/tag/Album%20Spotlight/',
         },
       ],
     }

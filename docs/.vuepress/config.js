@@ -134,10 +134,10 @@ module.exports = {
           text: 'Copyright Beyond The Grave 2021',
           link: 'https://bootstrapstarter.com/license/',
         },
-        {
+        /*{
           text: 'Made with Mediumish - free Vuepress theme',
           link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
-        },
+        },*/
       ],
     },
 
