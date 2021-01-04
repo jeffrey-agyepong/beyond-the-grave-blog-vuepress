@@ -5,7 +5,7 @@ tags:
 - Reviews
 - Experimental Metal
 author: Anonymous
-featuredimg: "timoratus.jpg"
+featuredimg: https://i.ibb.co/cgB2SSD/timoratus.jpg
 ---
 
 **Record Label:** Independent 

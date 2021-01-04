@@ -1,7 +1,7 @@
-<h1> About Us</h1>
+<h1 > About Us</h1>
 
-Beyond the Grave is a platform for promoting metal/hardcore bands <br>
-with a Christ-centered message/Christian members.
+Beyond the Grave is a platform that focuses primarily on underground metal/hardcore bands <br>
+with a Christ-centered message or Christian members.
 
 Psalm 150:5 - 
 *Praise Him with loud cymbals;*

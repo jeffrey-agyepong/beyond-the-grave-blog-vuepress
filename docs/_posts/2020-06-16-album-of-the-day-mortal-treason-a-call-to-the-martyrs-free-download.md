@@ -32,6 +32,4 @@ coverImage: "41szbgxm7ml.jpg"
 
 https://www.youtube.com/watch?v=rPZThR5V8d4&list=PLAEDD4A5CAA2DAEC4
 
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+#### 

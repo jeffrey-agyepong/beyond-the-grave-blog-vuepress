@@ -32,6 +32,4 @@ https://youtu.be/WiqQqK6XWT4
 
 https://open.spotify.com/album/3fW6DsCqdYrHauT7Fchtnw?si=DBUq6PIRSTqPawev99HARA
 
-#### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-## [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+## 

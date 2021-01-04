@@ -18,17 +18,20 @@ _Anthony Panter_
 
 _Jobe Fredericksen_
 
- 
 
+ <hr>
 **Discography:**
+[_Rest / Eternal \(2015\)_](https://yourhandswritehistory.bandcamp.com/album/rest-eternal)
 
-[_Rest / Eternal \[2015\]_](https://yourhandswritehistory.bandcamp.com/album/rest-eternal)
+[The Pentateuch (Redux)\(2017)](https://yourhandswritehistory.bandcamp.com/album/the-pentateuch-redux)
 
-[_The Pentateuch (Redux)\[2017\]_](https://yourhandswritehistory.bandcamp.com/album/the-pentateuch-redux)
+[LUNA \(2017)](https://yourhandswritehistory.bandcamp.com/album/luna)
 
-[_LUNA \[2017\]_](https://yourhandswritehistory.bandcamp.com/album/luna)
+[TERRA (2019)](https://yourhandswritehistory.bandcamp.com/album/terra)
 
-[_TERRA \[2019\]_](https://yourhandswritehistory.bandcamp.com/album/terra)
+
+
+<hr>
 
 https://www.youtube.com/watch?v=x7G3\_3uPFnE
 
@@ -72,6 +75,4 @@ All our fears will be laid to rest in the great expanse of the void’s regress.
 
 * * *
 
-#### Like the coverage of Beyond the Grave? Help keep the website going strong for years to come with a small donation.
-
-## [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+## 

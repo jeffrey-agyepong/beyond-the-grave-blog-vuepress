@@ -26,6 +26,4 @@ Theodicy(Late 2020)
 
 https://www.youtube.com/watch?v=3fgvvjJslic
 
-##### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-#### [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+#### 

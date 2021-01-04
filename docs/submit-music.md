@@ -1,8 +1,8 @@
- <h1>Submit Music</h1>
+<h1 style="font-size: 35px;">Review Request</h1>
 
-<h2>Review/Promotion Request</h2>
 
-Want us to review/promote your new EP/album?
+
+Want us to review your new EP/album?
 
 *Email subject: “Review Request” – “Artist Name” – “Album/EP Name”*
 
@@ -13,6 +13,6 @@ Want us to review/promote your new EP/album?
 - *And, most importantly, send us the album to download.*
 
 
-Email: beyondthegrave777@gmail.com
+<h2 style="font-size: 20px;">Email: beyondthegrave777@gmail.com</h2>
 
 <hr>

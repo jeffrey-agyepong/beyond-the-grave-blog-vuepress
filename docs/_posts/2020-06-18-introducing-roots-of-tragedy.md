@@ -24,6 +24,4 @@ https://www.youtube.com/watch?v=GABz3SU9Ndk
 
 https://www.youtube.com/watch?v=-modmTFNl40
 
-#### Like the coverage of Beyond the Grave? Help us in support to keep the website going strong for years to come with a small donation.
-
-## [Donate](https://paypal.me/beyondthegrave777?locale.x=en_US)
+## 

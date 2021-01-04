@@ -1,7 +1,11 @@
 ---
 title: "INTERVIEW: BAREHEART"
 date: "2020-07-01"
-coverImage: "bareheart-2.jpg"
+tags:
+- Interviews
+- Acoustic
+author: Jeffrey Agyepong
+featuredimg: https://i.ibb.co/sJTMz2g/bareheart-2.jpg
 ---
 
 **Thanks for doing this, I'm a big fan of your work. For the sake of those who've never heard of you before, could you introduce yourself?** Much appreciated, guys! I’m glad you are into my work! So for those of you who don’t know me: Hi. I’m Tyler Collins, aka Bareheart.
