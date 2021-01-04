@@ -77,11 +77,7 @@ The musicianship of TIMŌRĀTUS is obvious, with their ability to play a wide va
 #### **[Spotify](https://spoti.fi/3hMKEev)**
 
 <hr>
-
-#### \[bandcamp width=350 height=470 album=3057457752 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
-
-* * *
-
-https://www.youtube.com/watch?v=9AQ1JJEiVCk
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=3057457752/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://timoratus.bandcamp.com/album/my-life-in-a-mediocre-metal-band">My Life in a Mediocre Metal Band by TIMŌRĀTUS</a></iframe>
 
 * * *
+

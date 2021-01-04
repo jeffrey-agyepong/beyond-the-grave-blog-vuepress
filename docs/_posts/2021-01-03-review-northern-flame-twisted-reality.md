@@ -14,8 +14,12 @@ Release Date: December 18, 2020<br>
 Album Length: 1 hour 6 Minutes<br>
 Record Label: Independent<br>
 
+Lyrical content/themes: Christianity, everyday life, nordic landscapes, nature
+Musical influences: Stratovarius, Narnia, Yngwie Malmsteen, Nightwish
+
 ---
 
+Track list:
 1. Twisted Reality 03:25
 2. Sanctification of the World 04:52
 3. To the Throne 05:34
@@ -55,8 +59,22 @@ Soon the church organs are exchanged for heavy and majestic guitar riffs. Again 
 
 And we all see Jesus, we will sing and shout in victory, Amen!
 
-Rating: 9 / 10. 
+<h3 style="text-align:center;">Rating: 9 / 10</h3>
 Reason: The variety and the duration of this album is really a true highlight. Very much good songs to enjoy. And the production is a big step up! And let's not forget the musicians did an amazing job. Kiitos Northern Flame!
+
+<hr>
+
+#### [iTunes](https://music.apple.com/ca/album/twisted-reality/1543915062)
+
+<hr>
+
+<div class="video-container"><iframe width="560" height="319" src="https://www.youtube.com/embed/bSEMF3ztsHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<hr>
+
+
+
+
 
  
 

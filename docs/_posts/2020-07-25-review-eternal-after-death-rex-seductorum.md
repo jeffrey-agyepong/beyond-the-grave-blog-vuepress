@@ -4,13 +4,33 @@ date: "2020-07-25"
 coverImage: "eternalafterdeath.jpg"
 ---
 
-**Band:** Eternal After Death **Album:** Rex Seductorum \[EP\] **Record Label:** Insanity Death Records **Release Date:** May 30, 2020
+**Record Label:** Insanity Death Records 
+
+**Release Date:** May 30, 2020
 
 **Origin:** Brazil
 
-**Genre:** Brutal/Symphonic Deathcore **Album length:** 8 tracks: 32 minutes
+**Genre:** Brutal/Symphonic Deathcore 
 
-1.Primus (01:38) 2.Falso Rei (04:34) 3.Ambição (04:41) 4.Guerra Fria (03:26) 5.Alma Dilacerada Feat. Maikon Campioni (03:48) 6.Morto Por Dentro (05:28) 7.Inimigo no Espelho (04:15) 8.Finis (03:11)
+**Album length:** 8 tracks: 32 minutes
+
+1.Primus (01:38) 
+
+2.Falso Rei (04:34) 
+
+3.Ambição (04:41) 
+
+4.Guerra Fria (03:26) 
+
+5.Alma Dilacerada Feat. Maikon Campioni (03:48) 
+
+6.Morto Por Dentro (05:28) 
+
+7.Inimigo no Espelho (04:15) 
+
+8.Finis (03:11)
+
+<hr>
 
 **Eternal After Death** is a Brutal Deathcore band hailing from Brazil. They are signed to Insanity Death Records.
 
@@ -35,8 +55,6 @@ coverImage: "eternalafterdeath.jpg"
 * * *
 
 \[bandcamp width=350 height=470 album=1126429460 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
-
-(Avaiable for $1)
 
 * * *
 
