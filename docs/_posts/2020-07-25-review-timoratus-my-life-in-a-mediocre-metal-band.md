@@ -42,11 +42,11 @@ featuredimg: "timoratus.jpg"
 
 **Overall:** I'm very pleased with this album. I think that if you have someone curious about Metal, this is the perfect album for them. Nicely executed tracks.
 
-### <h3 style="text-align:center;">Rating: 9/10<h3>
+ <h3 style="text-align:center;">Rating: 9/10</h3>
 
 * * *
 
-#### <h2 style="text-align:center;">BTG Alternative Opinion</h2>
+<h2 style="text-align:center;">BTG Alternative Opinion</h2>
 
 **Lyrically** the album is entertaining. As a metal enthusiast, some lyrics are very relatable. They're very creative and clever, taking the theme into account. Through the decades, metal has seemed to become synonymous with being stone cold, so it's refreshing to see a band take a laid back approach for a change.
 
@@ -56,7 +56,7 @@ The musicianship of TIMŌRĀTUS is obvious, with their ability to play a wide va
 
 **Favorite tracks:** Chasing Trends, Creative Control, Christmas Present Chaos
 
-### Rating: 8/10
+ <h3 style="text-align:center;">Rating: 8/10</h3>
 
  Written by: [Alberto](https://www.instagram.com/knights_in_darkness/?hl=en) and Jeffrey A.
 
@@ -76,28 +76,12 @@ The musicianship of TIMŌRĀTUS is obvious, with their ability to play a wide va
 
 #### **[Spotify](https://spoti.fi/3hMKEev)**
 
+<hr>
+
 #### \[bandcamp width=350 height=470 album=3057457752 size=large bgcol=333333 linkcol=0f91ff tracklist=false\]
 
 * * *
 
 https://www.youtube.com/watch?v=9AQ1JJEiVCk
-
-* * *
-
-Can I get a hot minute thinkin’ ’bout The Kid Sittin' at the drums ‘bout to make me crazy What would he like to opening on Christmas day Hoping he likes what I get him either way I know that Halo is his favorite gaming FPS Crushing those noobs brings him joy in great excess He may be young and lacking in experience But he's a cool dude despite his clumsiness
-
-Bright lights and the Cheeto dust settles He loves to bring life to all that old metal Late nights and empty soda cans Partied so long he passed out in the van What could he use to cut loose Here's a pop quiz Maybe some cheese whiz What do I get the party guy What do I buy to make him more fly
-
-Place it in a box Tape it all around It’s not like it’s smallpox This should be my playground Complicated Exhilarated Anticipated Nauseated Can’t seem to find the right thing For my friend the drum machine
-
-Style Fashion Trendsetter Rocks that microphone Step to the side Break it all down I'm sure there's something clothes related I can get for her wardrobe
-
-Gotta grind it out Make it loud Crank it up Deer themed underwear Gun related socks What could I get to take hunting I know what I can do I know what I can get Craft supplies and some paper clips Gonna MacGyver something good That he’ll never forget
-
-It’s all doom Light is all gone Missed my window To get them something on Amazon
-
-Why, why is it so hard to buy a gift For a teen with some sick skill I don’t want him to think I forgot Every year it’s something new Just a matter of which who I could get him a decal that says “bands without drummers suck”
-
-He’s a good brother and a friend What could he use to see him through the bitter end We’re at the age of practicality But it must reek of brutality
 
 * * *
