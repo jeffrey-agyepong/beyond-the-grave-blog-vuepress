@@ -3,6 +3,13 @@ module.exports = {
   publicPath: 'https://beyondthegrave.netlify.app/',
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
+  head:[
+    ['link', { rel: "apple-touch-icon", sizes: "57x57", href: 'docs\.vuepress\public\assets\favicons\apple-icon-57x57.png'}],
+    ['link', { rel: "shortcut icon", href: "docs\.vuepress\public\assets\favicons\favicon.ico"}],
+    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
+    ['meta', { name: "msapplication-config", content: "docs\.vuepress\public\assets\favicons\browserconfig.xml"}],
+    ['meta', { name: "theme-color", content: "#ffffff"}],
+  ],
   plugins:{ 
     '@vuepress/google-analytics': {
       ga: 'G-B652H7R518',

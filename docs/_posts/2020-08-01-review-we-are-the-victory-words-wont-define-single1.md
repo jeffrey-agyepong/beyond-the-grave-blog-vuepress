@@ -2,17 +2,23 @@
 title: "Review: We Are Victory - Words Won't Define (Single)"
 date: "2020-08-01"
 tags:
-- New Releases
+- Reviews
 - Post Hardcore
-author: Jeffrey Agyepong
-coverImage: "wearevictory_o.jpg"
+author: Anonymous
+featuredimg: https://i.ibb.co/qy11CQ9/wearevictory-o.jpg
 ---
 
-**Record Label:** Sancrosanct Records **Release Date:** August 7, 2020
+**Record Label:** Sancrosanct Records 
+
+**Release Date:** August 7, 2020
 
 **Origin:** Clarksville, Tennesse(USA)
 
-**Genre:** Hardcore/Metalcore **Song length:** 4 minutes 16 seconds
+**Genre:** Hardcore/Metalcore 
+
+**Song length:** 4 minutes 16 seconds
+
+<hr>
 
 **We Are Victory** is a Hardcore band from Nashville, TN. They are signed to Sancrosanct Records. The members of the band are; Jay Latham - Lead Vocals, Bobby Joe Witt - Guitar, Lael Joubert - Bass, and Jason Henderson - Drums
 
@@ -24,6 +30,15 @@ coverImage: "wearevictory_o.jpg"
 
 **Overall:** We Are Victory has proved themselves to be a force to be reckoned with, with this stomp worthy single. I'm very excited to see what We Are Victory has to offer us in the future.
 
-### [Pre-save/Pre-release](https://distrokid.com/hyperfollow/wearevictory1/words-wont-define?fbclid=IwAR17SxAE28DWZpi8aUcwg7CrT_wtgvWSKG34GJiKImeQ9PR86fLrocU64sc)
+<hr>
 
 #### [Facebook](https://web.facebook.com/WeAreVictoryMusic)
+
+<hr>
+
+<div class=video-container>
+    <iframe src="https://www.youtube.com/embed/6arZJzwKVmE" width="560" height="315" frameborder="0"></iframe>
+</div>
+
+<hr>
+

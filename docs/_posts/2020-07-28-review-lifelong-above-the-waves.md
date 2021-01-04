@@ -1,18 +1,40 @@
 ---
 title: "Review: Lifelong - Above the Waves"
 date: "2020-07-28"
-coverImage: "lifelongabovethewaves.jpg"
+tags:
+- Reviews
+- Pop Punk
+author: Jeremy Prince
+featuredimg: https://i.ibb.co/zRDRTYb/lifelongabovethewaves.jpg
 ---
 
-**Band:** Lifelong **Album:** Above the Waves (Full-length) **Record Label:** Solid State Records **Release Date:** July 10, 2020
+**Band:** Lifelong 
+
+**Album:** Above the Waves (Full-length) 
+
+**Record Label:** Solid State Records 
+
+**Release Date:** July 10, 2020
 
 **Album-length:** 41 Minutes
 
 **Genre:** Melodic Hardcore/Pop-punk
 
-**Track-list****:**
+**Track-list:**
 
-1 Black Friday 3:02 2 No Regrets 2:20 3 Attention 2:48 4 Drifting 2:56 5 Something Left to Give 4:33 6 Freedom 2:43 7 Above the Waves 3:24 8 Lives in Me 3:03 9 Iron Gates 2:32 10 Memories 3:05 11 Empty Roads 2:59 12 Death to Life 3:19 13 Not the Same 1:11
+1. Black Friday 3:02 
+2. No Regrets 2:20 
+3. Attention 2:48
+4. Drifting 2:56 
+5. Something Left to Give 4:33 
+6. Freedom 2:43 
+7. Above the Waves 3:24 
+8. Lives in Me 3:03 
+9. Iron Gates 2:32 
+10. Memories 3:05 
+11. Empty Roads 2:59 
+12. Death to Life 3:19 
+13. Not the Same 1:11
 
 I came to Lifelong late. They released their debut EP Revive the Masses back in 2018 but it was only over the past few months that I took the time to give it a listen. I enjoyed what I heard and was very excited to learn that a full length was on its way! Well, here we are Lifelong’s debut full length **Above the Waves** released on Solid State Records. Boy, is there a lot to say. 
 
@@ -22,7 +44,9 @@ I, unfortunately, don’t have a copy of the lyrics and cannot delve as deeply i
 
 Lifelong’s Above the Waves is a fantastic album. It marries hardcore and pop-punk freshly and excitingly while being the positive and uplifting album I truly believe we need right now. It boldly asks us to look above where our help comes from.
 
-### Rating: 8/10
+<h3 style="text-align:center;">Rating: 8/10 </h3
+
+<hr>
 
 [Apple Music](https://api.ffm.to/sl/e/c/above?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84MS4wLjQwNDQuMTM4IFlhQnJvd3Nlci8yMC42LjEuMTQ4IFlvd3Nlci8yLjUgWXB0cC8xLjIzIFNhZmFyaS81MzcuMzYiLCJicm93c2VyIjp7Im5hbWUiOiJZYW5kZXgiLCJ2ZXJzaW9uIjoiMjAuNi4xLjE0OCIsIm1ham9yIjoiMjAifSwiZW5naW5lIjp7Im5hbWUiOiJCbGluayIsInZlcnNpb24iOiI4MS4wLjQwNDQuMTM4In0sIm9zIjp7Im5hbWUiOiJXaW5kb3dzIiwidmVyc2lvbiI6IjEwIn0sImRldmljZSI6e30sImNwdSI6eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCJ9fSwiY2xpZW50Ijp7InJpZCI6IjhhMDBlYWYwLTBiN2MtNGVjOC1hNzkyLWQ4OTI5NzFiZjY4MSIsInNpZCI6IjJjYzFiNzViLTYzNjEtNDNiZC1hZjFiLWI5MDkwOTRlNWZlMCIsImlwIjoiMTU0LjE2MC4zLjI4IiwicmVmIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vIiwiaG9zdCI6InNvbGlkc3RhdGUuZmZtLnRvIiwibGFuZyI6ImVuLVVTIiwiaXBDb3VudHJ5IjoiR0gifSwiaXNGcm9tRVUiOmZhbHNlLCJjb3VudHJ5Q29kZSI6IkdIIiwiaWQiOiI1ZWU3YmNjMTQ1MDAwMDZjNDVmM2IxNmEiLCJ0em8iOjQyMCwiY2giOm51bGwsImFuIjpudWxsLCJkZXN0VXJsIjoiaHR0cHM6Ly9nZW8ubXVzaWMuYXBwbGUuY29tL2doL2FsYnVtL2Fib3ZlLXRoZS13YXZlcy8xNTE0Nzg1MTE4P2FwcD1tdXNpYyZjdD1GRk1fZDYxMWEwYmFjY2RkZTUwZGMwZjhmMWRjNGMzMGM2M2QmYXQ9MTAwMGxSWTUiLCJ2aWQiOiI0ZjIyOThkNS1jOWI3LTQyOWYtYTljMS1mYzc0MWU0NzdiOGEiLCJzcnZjIjoiYXBwbGUiLCJwcm9kdWN0Ijoic21hcnRsaW5rIiwic2hvcnRJZCI6ImFib3ZlIiwiaXNBdXRob3JpemF0aW9uUmVxdWlyZWQiOmZhbHNlLCJvd25lciI6IjVjZGRjMDViMTMwMDAwZjg1ODA0MjA5ZSIsImFyIjoiNWVlN2JjOGQyMzAwMDBhYzdjYTZkYjJiIn0)
 
@@ -32,6 +56,8 @@ Lifelong’s Above the Waves is a fantastic album. It marries hardcore and pop-p
 
 [Deezer](https://api.ffm.to/sl/e/c/above?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84MS4wLjQwNDQuMTM4IFlhQnJvd3Nlci8yMC42LjEuMTQ4IFlvd3Nlci8yLjUgWXB0cC8xLjIzIFNhZmFyaS81MzcuMzYiLCJicm93c2VyIjp7Im5hbWUiOiJZYW5kZXgiLCJ2ZXJzaW9uIjoiMjAuNi4xLjE0OCIsIm1ham9yIjoiMjAifSwiZW5naW5lIjp7Im5hbWUiOiJCbGluayIsInZlcnNpb24iOiI4MS4wLjQwNDQuMTM4In0sIm9zIjp7Im5hbWUiOiJXaW5kb3dzIiwidmVyc2lvbiI6IjEwIn0sImRldmljZSI6e30sImNwdSI6eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCJ9fSwiY2xpZW50Ijp7InJpZCI6IjhhMDBlYWYwLTBiN2MtNGVjOC1hNzkyLWQ4OTI5NzFiZjY4MSIsInNpZCI6IjJjYzFiNzViLTYzNjEtNDNiZC1hZjFiLWI5MDkwOTRlNWZlMCIsImlwIjoiMTU0LjE2MC4zLjI4IiwicmVmIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vIiwiaG9zdCI6InNvbGlkc3RhdGUuZmZtLnRvIiwibGFuZyI6ImVuLVVTIiwiaXBDb3VudHJ5IjoiR0gifSwiaXNGcm9tRVUiOmZhbHNlLCJjb3VudHJ5Q29kZSI6IkdIIiwiaWQiOiI1ZWU3YmNjMTQ1MDAwMDZjNDVmM2IxNmEiLCJ0em8iOjQyMCwiY2giOm51bGwsImFuIjpudWxsLCJkZXN0VXJsIjoiaHR0cHM6Ly93d3cuZGVlemVyLmNvbS9hbGJ1bS8xNDk4MzYxNzIiLCJ2aWQiOiI0ZjIyOThkNS1jOWI3LTQyOWYtYTljMS1mYzc0MWU0NzdiOGEiLCJzcnZjIjoiZGVlemVyIiwicHJvZHVjdCI6InNtYXJ0bGluayIsInNob3J0SWQiOiJhYm92ZSIsImlzQXV0aG9yaXphdGlvblJlcXVpcmVkIjpmYWxzZSwib3duZXIiOiI1Y2RkYzA1YjEzMDAwMGY4NTgwNDIwOWUiLCJhciI6IjVlZTdiYzhkMjMwMDAwYWM3Y2E2ZGIyYiJ9)
 
-https://youtu.be/OEP3-oAdt8I
 
-https://open.spotify.com/album/1D7esfrpTZYcOnyr39nGxY
+
+<hr>
+
+<iframe src="https://open.spotify.com/embed/album/1D7esfrpTZYcOnyr39nGxY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

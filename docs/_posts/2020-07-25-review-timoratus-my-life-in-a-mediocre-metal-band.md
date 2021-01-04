@@ -1,18 +1,32 @@
 ---
 title: "Review: TIMŌRĀTUS – My Life in a Mediocre Metal Band"
 date: "2020-07-25"
-coverImage: "timoratus.jpg"
+tags:
+- Reviews
+- Experimental Metal
+author: Anonymous
+featuredimg: "timoratus.jpg"
 ---
 
-**Band:** TIMŌRĀTUS **Album:** My Life in a Mediocre Metal Band (Full-length) **Record Label:** Independent **Release Date:** July 29, 2020
+**Record Label:** Independent 
+**Release Date:** July 29, 2020
 
 **Album-length:** 41 Minutes
 
 **Genre:** Experimental Metal
 
-**Track-list****:**
+**Track-list:**
 
-1.Best Show 2.Are We There Yet? 3.Biggest Fan 4.Day Jobs 5.Chasing Trends 6.Band Meeting 7.Creative Control 8.(Don't Be) That Guy 9.Christmas Present Chaos 10.Record Deal
+1. Best Show 
+2. Are We There Yet? 
+3. Biggest Fan 
+4. Day Jobs
+5. Chasing Trends 
+6. Band Meeting 
+7. Creative Control 
+8. (Don't Be) That Guy 
+9. Christmas Present Chaos 
+10.Record Deal
 
  
 
@@ -28,11 +42,11 @@ coverImage: "timoratus.jpg"
 
 **Overall:** I'm very pleased with this album. I think that if you have someone curious about Metal, this is the perfect album for them. Nicely executed tracks.
 
-### Rating: 9/10
+### <h3 style="text-align:center;">Rating: 9/10<h3>
 
 * * *
 
-#### BTG Alternative Opinion
+#### <h2 style="text-align:center;">BTG Alternative Opinion</h2>
 
 **Lyrically** the album is entertaining. As a metal enthusiast, some lyrics are very relatable. They're very creative and clever, taking the theme into account. Through the decades, metal has seemed to become synonymous with being stone cold, so it's refreshing to see a band take a laid back approach for a change.
 
