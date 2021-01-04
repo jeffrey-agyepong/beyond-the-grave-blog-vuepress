@@ -48,11 +48,11 @@ featuredimg: https://i.ibb.co/pnmRVV6/reddeclaration.jpg
 
 **Overall:** So yeah this was a good album, not a chart maker in my opinion but still one good album! I wish they incorporated a bit more variety in their sound, though.
 
-<h3 tstyle="text-align:center;"> Rating: 7.5/10</h3>
+<h3 style="text-align:center;"> Rating: 7.5/10</h3>
 
 * * *
 
-<h2 tstyle="text-align:center;"> BTG Staff's Additional Thoughts</h2>
+<h2 style="text-align:center;"> BTG Staff's Additional Thoughts</h2>
 
 **Declaration is** the seventh full-length studio effort from **RED. They're** a post-hardcore/hard rock act that almost doesn't need an introduction at this point. Declaration is a return to the RED we all know and love. Their previous record, **_Gone_** was a departure from their signature sound and is my least favorite album in their discography. Without the constraints of a record label, Declaration picks up right where that album left off with **"Of Beauty and Rage".** This is hands down one of their best albums to date. Red has been around for close to 20 years now, and with this album, they’re _declaring_ that there’s more still left in the tank.
 

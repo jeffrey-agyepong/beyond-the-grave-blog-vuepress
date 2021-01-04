@@ -8,12 +8,15 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/z2LgDns/angel-7.jpg
 ---
 
-**Release Date:** August 13, 2020 **Record Label:** Vision of God Records
+**Release Date:** August 13, 2020 
 
-**Genre:** Melodic Death Metal **Album length:** 13 minutes
+**Record Label:** Vision of God Records
 
-1\. Genghis Khan 07:08 <br>
+**Genre:** Melodic Death Metal 
 
+**Album length:** 13 minutes
+
+1. Genghis Khan 07:08 <br>
 2. Victims of Evolution Theory 05:01
 
 > Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. (Romans 1:24,25)
