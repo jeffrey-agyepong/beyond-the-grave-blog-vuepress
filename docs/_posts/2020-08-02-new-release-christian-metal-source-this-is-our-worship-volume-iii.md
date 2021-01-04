@@ -3,9 +3,9 @@ title: "New Release:  Christian Metal Source - This Is Our Worship: Volume III"
 date: "2020-08-02"
 tags:
 - New Releases
-- Post Hardcore
+- Metal
 author: Jeffrey Agyepong
-coverImage: "cmsjpg.jpg"
+featuredimg: https://i.ibb.co/mBB4M34/cmsjpg.jpg
 ---
 
 **Bands:** _Rise, My King, A Secret Ending, Luther’s Hammer, Diamonds To Dust, White Robe Nation, Context, Prevailer, No Lower Place to Fall, Then It Ends, Diatheke, Crucify The Flesh, ChainBreaker Band, Aliens Ate My Setlist, Redeemed By The Blood, Surebol, RAID, Sight Received, TAKE, Tundra, Ritual Servant, Beyond Vision, Forerunner Band, Assay, Dreaded Dale, Forgiven You, Verdant Catacomb, Fire From Heaven, Tax Collector, Adorned in Ash, River of Pure Blood, Outrage AD, TIMŌRĀTUS, En El Trono, Nathan Arthur Music, Dominus Dominantium, They Wither, Elgibbor, Defenders Of The Cross, Life Renewed, Whom I Serve, The Lighthouse Society, Poieo_
@@ -14,11 +14,15 @@ coverImage: "cmsjpg.jpg"
 
 **Release Date:** August 1, 2020 **Record Label:** Independent
 
-**Genre:** Metal/Metalcore/Deathcore/Black Metal/Death Metal/Progressive Metal **Album length:** 3 Hours 27 Minutes
+**Genre:** Metal/Metalcore/Deathcore/Black Metal/Death Metal/Progressive Metal 
 
-1.Rise, My King - Genesis 06:09 2.A Secret Ending - A New Dawn 03:17 3.Luther's Hammer - Yahweh Saves 02:47 4.Diamonds To Dust - Dissonant Truth 03:12 5.White Robe Nation - Pandemic 04:23 6.Context - Stricken Smitted & Afflicted 03:55 7.Prevailer - Malady 03:43 8.No Lower Place to Fall - Lost in Sinai 09:53 9.Then It Ends - It Is Well 04:41 10.Diatheke - Magnify 13:01 11.Crucify The Flesh - Final Adam 04:37 12.Chain Breaker - Arising Hope 04:51 13.Aliens Ate My Setlist - Keep Us Alive 05:20 14.Redeemed By The Blood - Glorify 04:13 15.Surebol - Pathfinder 05:15 16.R.A.I.D - Unbreakable 03:42 17.Sight Received - Anguish 03:08 18.TAKE - Leach 03:42 19.Tundra - Corruption 03:50 20.Ritual Servant - The Sacrifice 05:38 21.Beyond Vision - The Light Inside 03:30 22.Forerunner - Common 04:48 23.Assay - Distance 05:31 24.Dreaded Dale - Kingslayer 03:29 25.Forgiven You - Licensed Imperfection 06:21 26.Verdant Catacomb - Let's Talk About It Over Coffee 03:12 27.Fire From Heaven - The Missionary's Anthem 05:20 28.Tax Collector - Deconstructing My Sin 07:06 29.Adorned in Ash - Defy Your God 02:56 30.River of Pure Blood - Comfort in Darkness 03:31 31.Outrage AD - Death Crow 06:48 32.TIMŌRĀTUS - The Root of Unity 06:10 33.En El Trono - La Salvación (The Salvation) 03:31 34.Nathan Arthur - Chase the Light 04:55 35.Dominus Dominantium - ​Fall Ov Lucifer (Corrupted Wisdom Ov Thy Splendor) 06:31 36.They Wither - Reap 06:40 37.Elgibbor - Corruptus Vindicta 06:37 38.Defenders Of The Cross - Thief In The Night 03:45 39.Life Renewed - By Faith 03:32 40.Whom I Serve - Burn Me Alive 03:27 41.The Lighthouse Society - Occultation 03:21 42.Poieo - Forever 05:52
+**Album length:** 3 Hours 27 Minutes
 
-\[bandcamp width=350 height=470 album=266149645 size=large bgcol=ffffff linkcol=0687f5 tracklist=false\]
+<hr>
+
+<iframe style="border: 0; width: 340px; height: 776px;" src="https://bandcamp.com/EmbeddedPlayer/album=266149645/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://christianmetalsource.bandcamp.com/album/this-is-our-worship-volume-iii">This Is Our Worship: Volume III by Various Artists</a></iframe>
+
+<hr>
 
 This Is Our Worship: Volume III was put together with YOU in mind. We pray this album provides encouragement, hope, and love in Jesus' name. Our main theme is built around worship, but that comes in many forms. While we have worship songs in the traditional sense, we acknowledge that we live our lives in worship to the King of Kings.
 

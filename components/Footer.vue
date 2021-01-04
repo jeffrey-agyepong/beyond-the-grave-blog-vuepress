@@ -1,112 +1,49 @@
 <template>
-  <footer class="themefooter">
-    <div class="container">
-      <div class="row justify-content-between">
-        <div class="col">
-          <a href="/"
-            ><img class="logofooter" :src="$withBase($themeConfig.logo)"
-          /></a>
+  <footer>
+    <div class="center">
+      <div class="footer-col s12 m4 footer_links  font">
+        <div>
+          <a href="https://web.facebook.com/Beyondthegrave777">Facebook</a>
         </div>
-        <div class="row text-right">
-          <ul v-if="contact" class="list-unstyled flex">
-            <li
-              v-for="item in contact"
-              :key="item.iconComponent"
-              class="contact-item"
-            >
-              <NavLink :link="item.link">
-                <component :is="item.iconComponent"></component>
-                {{ item.text }}
-              </NavLink>
-            </li>
-          </ul>
-          <ul v-if="copyright" class="list-unstyled">
-            <li
-              v-for="item in copyright"
-              :key="item.text"
-              class="copyright-item"
-            >
-              <NavLink :link="item.link">{{ item.text }}</NavLink>
-            </li>
-          </ul>
+        <div>
+          <a href="https://www.instagram.com/beyond_the_grave777/">Instagram</a>
         </div>
+        <div>
+          <a
+            href="https://www.youtube.com/channel/UCCXafO-fbIZnTHNoRlx2QWg?view_as=subscriber"
+            >Youtube</a
+          >
+        </div>
+      </div>
+    </div>
+    <hr />
+    <div class="footer-col s12 m4 footer_links">
+      <div class="center">
+        Developed by
+        <a href="https://concisewebdesign.site123.me/"> Concise Web Design</a>
+      </div>
+      <div class="center">
+        Licensed by <a href="https://bootstrapstarter.com/license/"> MIT</a>
+      </div>
+      <div class="center">
+        <a
+          href="https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/"
+          >Made with Mediumish - free Vuepress theme</a
+        >
       </div>
     </div>
   </footer>
 </template>
 
-<script>
-import {
-  CodepenIcon,
-  FacebookIcon,
-  GithubIcon,
-  GitlabIcon,
-  GlobeIcon,
-  InstagramIcon,
-  LinkedinIcon,
-  MailIcon,
-  MessageSquareIcon,
-  PhoneIcon,
-  TwitterIcon,
-} from 'vue-feather-icons'
-
-export default {
-  components: {
-    CodepenIcon,
-    FacebookIcon,
-    GithubIcon,
-    GitlabIcon,
-    GlobeIcon,
-    InstagramIcon,
-    LinkedinIcon,
-    MailIcon,
-    MessageSquareIcon,
-    PhoneIcon,
-    TwitterIcon,
-  },
-
-  computed: {
-    contact() {
-      return (
-        (this.$themeConfig.footer && this.$themeConfig.footer.contact) ||
-        []
-      )
-        .map(({ type, link }) => {
-          return {
-            iconComponent: this.getIconComponentName(type),
-            link,
-          }
-        })
-        .filter(({ iconComponent }) => iconComponent)
-    },
-
-    copyright() {
-      return (
-        (this.$themeConfig.footer && this.$themeConfig.footer.copyright) || []
-      )
-    },
-  },
-
-  methods: {
-    getIconComponentName(contactType) {
-      switch (contactType) {
-        case 'facebook':
-          return 'FacebookIcon'
-          break
-        case 'instagram':
-          return 'InstagramIcon'
-          break
-        case 'twitter':
-          return 'TwitterIcon'
-          break
-      }
-    },
-  },
-}
-</script>
-
-<style scoped>
-.themefooter {
-  background-color: #242424;
-}
+<style lang="stylus">
+footer
+  padding 20px
+  background #312f2f
+.footer_links
+    display grid
+    grid-template-columns: 1fr 1fr 1fr
+.font
+    font-size 20px
+.center
+    text-align center
 </style>
