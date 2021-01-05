@@ -17,6 +17,8 @@
 </template>
 
 <script>
+import Vue from 'vue'
+import dayjs from 'dayjs'
 import GlobalLayout from '@app/components/GlobalLayout.vue'
 import Header from '@theme/components/Header.vue'
 import MobileHeader from '@theme/components/MobileHeader.vue'
