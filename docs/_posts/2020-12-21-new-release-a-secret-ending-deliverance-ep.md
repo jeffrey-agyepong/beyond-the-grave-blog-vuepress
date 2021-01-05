@@ -1,7 +1,6 @@
 ---
 title: "New Release: A Secret Ending - Deliverance (EP)"
 date: "2020-12-21"
-type: post
 tags:
 - New Releases
 - Melodic Metal

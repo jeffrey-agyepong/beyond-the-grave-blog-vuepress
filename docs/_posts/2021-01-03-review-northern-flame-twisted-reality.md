@@ -1,7 +1,6 @@
 ---
 title: 'Review: Northern Flame - Twisted Reality'
 date: '2021-01-03'
-type: post
 tags:
   - Reviews
   - Power Metal

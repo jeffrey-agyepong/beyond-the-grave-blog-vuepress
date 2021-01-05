@@ -1,7 +1,6 @@
 ---
 title: "Review: Brotality – Prisoners of the Abyss (EP)"
 date: "2020-12-19"
-type: post
 tags: 
 - Reviews
 - Thrash Metal
