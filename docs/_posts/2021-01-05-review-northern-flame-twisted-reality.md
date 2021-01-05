@@ -3,7 +3,7 @@ title: 'Review: Northern Flame - Twisted Reality'
 date: '2021-01-05'
 tags:
   - Reviews
-  - Power Metal
+  - Melodic Metal
 author: Ton Ringenier
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---

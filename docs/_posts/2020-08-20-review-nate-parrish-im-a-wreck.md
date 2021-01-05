@@ -4,7 +4,7 @@ date: "2020-08-20"
 tags:
 - Reviews
 - Punk
-author: Zachary Van Dyke
+author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/vDCf08d/im-a-wreck.jpg
 ---
 

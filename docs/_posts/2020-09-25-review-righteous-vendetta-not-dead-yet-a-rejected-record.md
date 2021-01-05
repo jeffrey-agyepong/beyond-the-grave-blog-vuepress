@@ -4,7 +4,7 @@ date: "2020-09-25"
 tags:
 - Reviews
 - Hard Rock
-author: Jeffrey Agyepong
+author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/12dqnJV/righteousvendetta.jpg
 ---
 

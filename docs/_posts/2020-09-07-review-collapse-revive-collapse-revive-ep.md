@@ -4,7 +4,7 @@ date: "2020-09-07"
 tags:
 - Reviews
 - Metalcore
-author: Jeffrey Agyepong
+author: Gabriel Mesones
 featuredimg: https://i.ibb.co/Gpf5Rvk/collapse.jpg
 ---
 

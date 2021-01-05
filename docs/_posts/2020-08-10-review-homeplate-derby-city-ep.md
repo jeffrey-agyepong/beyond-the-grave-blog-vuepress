@@ -5,7 +5,7 @@ date: "2020-08-10"
 tags:
 - Reviews
 - Pop Punk
-author: Zachary Van Dyke
+author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/0jjtYzQ/homeplate.jpg
 ---
 

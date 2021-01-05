@@ -4,7 +4,7 @@ date: "2020-11-18"
 tags:
 - Reviews
 - Death Metal
-author: Jeffrey Agyepong
+author: Hezekiah Rose
 featuredimg: https://i.ibb.co/DDkTPgt/every-knee-shall-bowremixed-remastered.jpg
 ---
 

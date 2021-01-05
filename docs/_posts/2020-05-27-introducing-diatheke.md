@@ -2,7 +2,7 @@
 title: "Introducing: Diatheke"
 date: "2020-05-27"
 tags:
-- Reviews
+- Introducing
 - Progressive Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/C7fcpQH/Diatheke.jpg
