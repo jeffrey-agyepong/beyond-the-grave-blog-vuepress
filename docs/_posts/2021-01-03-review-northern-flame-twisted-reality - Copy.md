@@ -1,10 +1,10 @@
 ---
-title: 'Review: Northern Flame - Twisted Reality'
+title: 'Review: Northern Flame - Twisted Reality 2'
 date: '2021-01-03'
 tags:
   - Reviews
   - Power Metal
-author: Ton Ringenier
+author: Anonymous
 featuredimg: https://i.ibb.co/8D85Ph8/northern-flame.jpg
 ---
 
