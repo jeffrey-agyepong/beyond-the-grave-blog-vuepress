@@ -37,11 +37,12 @@ Track list:
 
 Northern Flame is a melodic metal band from Finland. They have released two demos in 2013 and 2015, and then a full length called a Glimpse of Hope in 2014. That was a very good album by any means. So if this is the first time you have heard of Northern Flame, check out that album immediately, you won't be disappointed. After that, you can listen to the new full-length Twisted Reality. Most of the members are also involved in the melodic death metal band Hilastherion, also Niclas has a melodic black metal project with the name Parakletos. And between those projects also a band called In Divina, female-fronted metal, also a recommendation. And his guest appearance in Jernlov was in my opinion a very good match. I think the guys are very proud of this release and I will try to explain why I think that.
 
-The album Twisted Reality starts off with the epic and somewhat majestic instrumental song Twisted Reality. It's evidence of good musicianship because with a duration of more than 3 minutes it's, in my opinion, a great thing to start with.
+The album Twisted Reality starts off with the epic and somewhat majestic instrumental song **Twisted Reality**. It's evidence of good musicianship because with a duration of more than 3 minutes it's, in my opinion, a great thing to start with.
 
-The second song is called Sanctification of the World, a nice follow-up. Lovely track with a fairly fast tempo. What is also striking is that the singer Simon Granlund is not afraid to sing high notes. Daring and very well executed, I had to get used to it but I like it very much after a few listens.
+The second song is called **Sanctification of the World**, a nice follow-up. Lovely track with a fairly fast tempo. What is also striking is that the singer Simon Granlund is not afraid to sing high notes. Daring and very well executed, I had to get used to it but I like it very much after a few listens.
 
 **To the Throne** is the third song on this album. It has a somewhat more calm atmosphere on it. The vocals are more middle ranged, also there is much room for a good solo and those galloping guitar loops... Very well done.
+
 Then we have **Shimmering Solstice**, it's a kind of ballad between Simon and Emma Backman, who was the lead vocalist of In Divinia, but she does also guest vocals on the Parakletos latest EP. I like this song very much, they are both doing a perfect job.
 
 **Glowing Flower** is the fifth track on this album, All I can say of this song that it's almost perfect. I think one of the best tracks on this album without a doubt. All of the instruments are very good hearable thanks to the good production. Those shredding guitars and keyboards on the background and not forget to mention those perfectly executed vocals. Again there is much room for a good keyboard solo.
