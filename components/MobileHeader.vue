@@ -14,9 +14,9 @@
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
         <hr class="menu-divider" />
         <ul v-if="$themeConfig.nav" class="mobile-nav">
-          <li :items="items" class="mobile-nav-item">
+          <!--<li :items="items" class="mobile-nav-item">
             <NavLink :link="items.url">{{ items.text }}</NavLink>
-          </li>
+          </li>-->
           <!--<li :items="items2" class="mobile-nav-item">
             <NavLink :link="items2.url">{{ items2.text }}</NavLink>
           </li>
@@ -106,7 +106,7 @@ export default {
       color #f8f9fa
 
 .mobile-nav-item
-  font-family fantasy
+  font-family cursive
   font-size 20px
   padding 10px 0
   list-style none
