@@ -10,6 +10,10 @@ module.exports = themeConfig => {
   themeConfig = Object.assign(themeConfig, {
     nav: themeConfig.nav || [
       {
+        text: 'Introducing',
+        link: '/tag/Introducing/',
+      },
+      {
         text: 'Interviews',
         link: '/tag/Interviews/',
       },
