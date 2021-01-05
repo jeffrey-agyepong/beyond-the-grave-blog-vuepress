@@ -41,13 +41,13 @@ module.exports = {
 	    {
         name: 'Nick Ptak',
         avatar: '',
-        link: 'https://bootstrapstarter.com/',
+        link: '',
         linktext: 'Follow',
       },
 	    {
         name: 'Jeremy Prince',
         avatar: '',
-        link: 'https://bootstrapstarter.com/',
+        link: '',
         linktext: 'Follow',
       },
 	    {
@@ -71,13 +71,13 @@ module.exports = {
 	  {
         name: 'Anonymous',
         avatar: '',
-        link: 'https://bootstrapstarter.com/',
+        link: '',
         linktext: 'Follow',
       },
 	  {
         name: 'Erik Morgan',
         avatar: '',
-        link: 'https://bootstrapstarter.com/',
+        link: '',
         linktext: 'Follow',
       },
       {
