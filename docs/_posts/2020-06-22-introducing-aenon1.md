@@ -1,5 +1,5 @@
 ---
-title: "Introducing: ÆNON"
+title: "Introducing: ÆNON 1"
 date: "2020-06-22"
 tags:
 - Introducing
