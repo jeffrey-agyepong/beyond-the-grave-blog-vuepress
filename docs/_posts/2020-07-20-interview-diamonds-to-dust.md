@@ -2,7 +2,7 @@
 title: "INTERVIEW: DIAMONDS TO DUST"
 date: "2020-07-20"
 tags: 
-- Reviews
+- Interviews
 - Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/GcKnfgX/diamonds-to-dust2.jpg
@@ -168,6 +168,7 @@ Barry: Just that we pray everyone to stay blessed and safe in Jesus' name!
 
 <hr>
 [iTunes](https://music.apple.com/ca/artist/diamonds-to-dust/935640098)
+
 
 <hr>
 
