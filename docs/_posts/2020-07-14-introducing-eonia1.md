@@ -1,5 +1,5 @@
 ---
-title: "Introducing: Eonia"
+title: "Introducing: Eonia 1"
 date: "2020-07-14"
 tags:
 - Introducing

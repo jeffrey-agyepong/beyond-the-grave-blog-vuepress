@@ -1,5 +1,5 @@
 ---
-title: "Introducing: Luther's Hammer"
+title: "Introducing: Luther's Hammer 1"
 date: "2020-06-24"
 tags:
 - Introducing
