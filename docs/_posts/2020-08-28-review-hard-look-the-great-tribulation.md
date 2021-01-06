@@ -8,10 +8,10 @@ author: Anonymous
 featuredimg: https://i.ibb.co/jfxcfZD/a1132292348-16.jpg
 ---
 
-**Release Date:** August 18, 2020 
-**Record Label:** Independent
-**Genre:** Industrial Metal/Metalcore 
-**Album length:** 26 minutes
+**Release Date:** August 18, 2020 <br>
+**Record Label:** Independent <br>
+**Genre:** Industrial Metal/Metalcore <br>
+**Album length:** 26 minutes <br>
 
 1. Prelude (01:06) 
 2. Genesis (04:32) 
