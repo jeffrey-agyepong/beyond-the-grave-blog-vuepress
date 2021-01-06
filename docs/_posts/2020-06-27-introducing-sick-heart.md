@@ -1,5 +1,5 @@
 ---
-title: "Introducing: Sick Heart 1"
+title: "Introducing: Sick Heart"
 date: "2020-06-27"
 tags:
 - Introducing

@@ -1,5 +1,5 @@
 ---
-title: "Introducing: Context 1"
+title: "Introducing: Context"
 date: "2020-07-20"
 tags:
 - Introducing
