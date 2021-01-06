@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: WEEPING HOUR 1"
+title: "INTERVIEW: WEEPING HOUR"
 date: "2020-07-27"
 tags:
 - Interviews
