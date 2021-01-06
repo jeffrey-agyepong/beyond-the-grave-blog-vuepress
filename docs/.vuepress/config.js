@@ -3,6 +3,7 @@ module.exports = {
   publicPath: 'https://beyondthegrave.netlify.app/',
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
+  head:[  ],
   plugins:{ 
     '@vuepress/google-analytics': {
       ga: 'G-B652H7R518',
