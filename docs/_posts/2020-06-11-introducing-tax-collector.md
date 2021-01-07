@@ -5,7 +5,7 @@ tags:
 - Introducing
 - Metalcore
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/C7fcpQH/Diatheke.jpg
+featuredimg: https://i.ibb.co/ynKy4xn/tax-collector.jpg
 ---
 
 [Tax Collector](https://web.facebook.com/taxcollectortunes/) is a djent/progressive metalcore solo project by multi-instrumentalist & producer ***Joshua Beckman***.

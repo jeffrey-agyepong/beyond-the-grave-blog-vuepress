@@ -5,7 +5,7 @@ tags:
 - Introducing
 - Progressive Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/C7fcpQH/Diatheke.jpg
+featuredimg: https://i.ibb.co/ggYgFxZ/roots-of-tragedy.jpg
 ---
 
  "**[Roots of Tragedy](https://web.facebook.com/rootsoftragedy)** is a name that I came up with after Sjelehøst project. I had earlier played in a Death Metal band called Aspired (I was on the Lead Vocals). We played a couple of concerts and of unknown reasons we split and never played again. In winter 2005 I started Sjelehøst, it was a kind of melancholic black metal. <br>

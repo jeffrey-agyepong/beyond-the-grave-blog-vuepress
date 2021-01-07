@@ -5,7 +5,7 @@ tags:
 - Introducing
 - Death Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/C7fcpQH/Diatheke.jpg
+featuredimg: https://i.ibb.co/vLJ6vF0/astillian.png
 ---
 
 Born from Chicago melodic  death metal veterans(_Mike & Dan Gleason_ of _**[Afterimage](https://www.youtube.com/watch?v=kA6UWU_evJM)**_), _**Âstillian**_ began to cast a vision for the Dark Age inspired metal project in late 2016\. Their debut album, _**Waves at Dusk**_, is a concept album inspired by _G.K. Chesterton’s, “The Ballad of the White Horse_." It captures the inescapable misery and undeniable hope of the early middle ages; raiding hordes, mass migrations, and kingdoms rising through the discord. 
