@@ -5,7 +5,7 @@ tags:
 - New Releases 
 - Deathcore
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/1Tqvc9d/unseen-faith.jpg
+featuredimg: https://i.ibb.co/cChWSnM/ezgif-com-gif-maker-1.webp
 ---
 
 **Release Date:** November 13, 2020
