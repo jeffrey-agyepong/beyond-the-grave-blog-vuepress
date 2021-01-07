@@ -5,7 +5,7 @@ tags:
 - Reviews
 - Metalcore
 author: Gabriel Mesones
-featuredimg: https://i.ibb.co/v1w70NF/bfh-ep-cover-artwork.jpg
+featuredimg: https://i.ibb.co/2yd4tQ1/ezgif-com-gif-maker.webp
 ---
 
 **Band:** Blue Fire Horizon
