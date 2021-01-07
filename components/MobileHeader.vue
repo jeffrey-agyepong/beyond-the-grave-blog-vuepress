@@ -106,7 +106,7 @@ export default {
       color #f8f9fa
 
 .mobile-nav-item
-  font-family cursive
+  font-family serif
   font-size 20px
   padding 10px 0
   list-style none
