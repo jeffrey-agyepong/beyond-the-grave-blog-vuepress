@@ -33,7 +33,8 @@ featuredimg:  https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 
 <hr>
 
-A little while back I was asked to write a review for **His Kingdom Suffers**’ latest single **Spiritual Warfare**. I was a big fan of the song and commented on how much I was looking forward to hearing more material. Well, I didn’t have to wait very long. Andrew Harrison, the sole member, and brainchild behind the band remastered his older material and re-released **The Aether & The Veil**. The release contains 12 remastered songs, two new tracks (one instrumental and the aforementioned **Spiritual Warfare**) as well as all the instrumental versions of the songs. For this review, I’ll be looking at the remastered songs. So does this re-release live up to the single? Let’s find out.
+A little while back I was asked to write a review for **His Kingdom Suffers**  latest single **Spiritual Warfare**. I was a big fan of the song and commented on how much I was looking forward to hearing more material. Well, I didn’t have to wait very long. Andrew Harrison, the sole member, and brainchild behind the band remastered his older material and re-released **The Aether & The Veil**. The release contains 12 remastered songs, two new tracks (one instrumental and the aforementioned **Spiritual Warfare**) as well as all the instrumental versions of the songs. For this review, I’ll be looking at the remastered songs. So does this re-release live up to the single? Let’s find out.
+
 
 So let me get my main (only?) complaint out of the way at the start. This is a long album with long songs. The songs average 5 plus minutes. I will admit that on my first listen it didn’t really strike me, but when you sit down to listen more intensely for a review and have a notoriously short attention span, you feel the length. All that said, outside of a couple of moments, this album wastes no time. It opens fast and doesn’t let up.
 
