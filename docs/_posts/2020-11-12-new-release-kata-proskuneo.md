@@ -2,7 +2,7 @@
 title: "New Release: Kata - Proskuneo"
 date: "2020-11-12"
 tags:
-- New Releases
+- News
 - Grindcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/wS6c8St/kata.jpg

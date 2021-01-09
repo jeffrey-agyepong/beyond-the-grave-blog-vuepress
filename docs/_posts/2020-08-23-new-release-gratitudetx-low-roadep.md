@@ -2,7 +2,7 @@
 title: "New Release: GratitudeTX - Low Road(EP)"
 date: "2020-08-23"
 tags:
-- New Releases
+- News
 - Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rHyRP0c/gratitudetx.jpg

@@ -2,7 +2,7 @@
 title: "New Release:  Christian Metal Source - This Is Our Worship: Volume III"
 date: "2020-08-02"
 tags:
-- New Releases
+- News
 - Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/mBB4M34/cmsjpg.jpg

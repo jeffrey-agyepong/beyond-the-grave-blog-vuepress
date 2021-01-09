@@ -2,7 +2,7 @@
 title: "New Release: The Arbiter - My Messenger"
 date: "2020-08-27"
 tags:
-- New Releases
+- News
 - Black Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/wyK5HKn/thearbiter-the-messenger.jpg

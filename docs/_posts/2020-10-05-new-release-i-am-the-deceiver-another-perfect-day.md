@@ -2,7 +2,7 @@
 title: "New Release: I Am The Deceiver - Another Perfect Day"
 date: "2020-10-05"
 tags:
-- New Releases
+- News
 - Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg

@@ -2,7 +2,7 @@
 title: "New Release: Within Thy Wounds/daygraves - Nocturns (Split)"
 date: "2020-12-05"
 tags:
-- New Releases
+- News
 - Black Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/CwCJFKr/within-thy-wounds-daygraves.jpg

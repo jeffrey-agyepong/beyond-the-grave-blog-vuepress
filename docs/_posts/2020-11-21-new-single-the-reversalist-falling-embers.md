@@ -2,7 +2,7 @@
 title: "New Single: The Reversalist – Falling Embers"
 date: "2020-11-21"
 tags:
-- New Releases
+- News
 - Metalcore 
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/8PryP7B/the-reversalist.jpg

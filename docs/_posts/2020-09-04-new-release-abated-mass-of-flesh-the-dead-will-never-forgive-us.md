@@ -2,7 +2,7 @@
 title: "New Release: Abated Mass of Flesh - The Dead Will Never Forgive Us [EP]"
 date: "2020-09-04"
 tags:
-- New Releases
+- News
 - Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/LSh1yHM/abated.jpg

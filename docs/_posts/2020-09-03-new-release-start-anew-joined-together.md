@@ -2,7 +2,7 @@
 title: "New Release: Start Anew - Joined Together"
 date: "2020-09-03"
 tags:
-- New Releases
+- News
 - Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/n35QZ0k/start-anew.jpg

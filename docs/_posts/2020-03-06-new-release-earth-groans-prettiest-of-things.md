@@ -2,7 +2,7 @@
 title: "New Release: Earth Groans - Prettiest Of Things"
 date: "2020-03-06"
 tags:
-- New Releases
+- News
 - Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rGjmZMw/137140-Earth-Groans-Prettiest-of-Things.jpg

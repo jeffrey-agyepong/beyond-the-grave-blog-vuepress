@@ -2,7 +2,7 @@
 title: "New Release: Everything In Slow Motion - Influence"
 date: "2020-10-17"
 tags:
-- New Releases
+- News
 - Post Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/mSq0jBZ/eism.png

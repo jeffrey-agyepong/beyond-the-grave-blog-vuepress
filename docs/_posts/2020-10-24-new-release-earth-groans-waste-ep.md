@@ -2,7 +2,7 @@
 title: "New Release: Earth Groans - Waste EP"
 date: "2020-10-24"
 tags:
-- New Releases
+- News
 - Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg

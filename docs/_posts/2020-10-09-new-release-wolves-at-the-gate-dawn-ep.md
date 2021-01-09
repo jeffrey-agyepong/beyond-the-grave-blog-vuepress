@@ -2,7 +2,7 @@
 title: "New Release: Wolves At the Gate - Dawn EP"
 date: "2020-10-09"
 tags:
-- New Releases
+- News
 - Post Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg

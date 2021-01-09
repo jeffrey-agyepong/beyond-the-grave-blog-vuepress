@@ -2,7 +2,7 @@
 title: "New Release: A Secret Ending - Deliverance (EP)"
 date: "2020-12-21"
 tags:
-- New Releases
+- News
 - Melodic Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg

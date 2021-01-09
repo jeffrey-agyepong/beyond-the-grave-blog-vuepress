@@ -2,7 +2,7 @@
 title: "New Release: Incarnate Deity - Theodicy"
 date: "2020-08-22"
 tags:
-- New Releases
+- News
 - Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W0QfVYq/theodicy.jpg

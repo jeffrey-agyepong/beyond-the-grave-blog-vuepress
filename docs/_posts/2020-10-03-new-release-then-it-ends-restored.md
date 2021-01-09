@@ -2,7 +2,7 @@
 title: "New Release: Then It Ends - Restored"
 date: "2020-10-03"
 tags:
-- New Releases
+- News
 - Metalcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/k5SJnZw/restored.jpg
