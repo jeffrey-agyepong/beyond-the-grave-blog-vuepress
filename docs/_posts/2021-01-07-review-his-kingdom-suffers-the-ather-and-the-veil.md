@@ -1,5 +1,5 @@
 ---
-ntitle: "Review: His Kingdom Suffers - Spiritual Warfare"
+title: "Review: His Kingdom Suffers - Spiritual Warfare"
 date: "2021-01-08"
 tags:
 - Reviews
