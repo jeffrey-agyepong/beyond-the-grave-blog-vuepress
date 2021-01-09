@@ -8,7 +8,7 @@ author: Jeremy Prince
 featuredimg:  https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---
 
-**Genre:** Progressive Deathcore
+**Genre:** Progressive/Technical Deathcore
 
 **Release Date:** December 25, 2020
 
