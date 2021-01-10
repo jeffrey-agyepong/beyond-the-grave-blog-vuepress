@@ -8,10 +8,6 @@ author: Alberto
 featuredimg:  https://i.ibb.co/0F3Ftsx/weeping-hour.jpg
 ---
 
-**Band:** Weeping Hour 
-
-**Album:** Hunger & Thirst (Deluxe Edition) 
-
 **Record Label:** Independent 
 
 **Release Date:** May 29, 2020
@@ -46,7 +42,7 @@ featuredimg:  https://i.ibb.co/0F3Ftsx/weeping-hour.jpg
 
 In a dark world, filled with pain and suffering, _Weeping Hour_ unashamedly points listeners to the _eternal hope_ that can _only_ be found in _Christ_, and this is exactly what the metal scene needs. It is more than just entertainment for these guys. Be sure to check out this masterpiece and stayed tuned for their future endeavors.
 
-### <h3 style="text-align:center;">Rating:  **9.0/10**</h3>
+<h3 style="text-align:center;">Rating: 9.0/10</h3>
 
 **Favorite tracks:** _Weeping Hour, Foreign Flame, Outlier, In Medias Res and Winter's Hymn_
 

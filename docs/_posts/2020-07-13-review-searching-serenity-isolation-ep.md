@@ -8,10 +8,6 @@ author: Anonymous
 featuredimg:  https://i.ibb.co/dkcwx50/isolation.jpg
 ---
 
-**Band:** Searching Serenity 
-
-**Album:** Isolation \[EP\] 
-
 **Record Label:** Independent 
 
 **Release Date:** March 20, 2020
@@ -41,7 +37,7 @@ Serving straight-up deathcore from Jacksonville, Florida, **Searching Serenity*
 
 **Overall:** This EP is a solid presentation of deathcore. I just love the aggressiveness of it and how they can grab the listener and not let go until the end. I have to say that I'm not a fan of acoustic songs, but the acoustic version of Never Alone was pretty good.
 
-### <h3 style="text-align:center;">Rating: 9.0/10</h3>
+<h3 style="text-align:center;">Rating: 9.0/10</h3>
 
 <hr>
 

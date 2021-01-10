@@ -8,10 +8,6 @@ author: Anonymous
 featuredimg:  https://i.ibb.co/8cRXpsr/skald.jpg
 ---
 
-**Band:** Skald In Veum 
-
-**Album:** Stridslysten (Full-length) 
-
 **Record Label:** Rottweiler Records 
 
 **Release Date:** April 12, 2019

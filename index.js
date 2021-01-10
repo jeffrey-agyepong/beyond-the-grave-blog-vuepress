@@ -18,9 +18,12 @@ module.exports = themeConfig => {
         link: '/tag/Interviews/',
       },
       {
+        text: 'News',
+        link: '/tag/News/',
+      },
+      {
         text: 'Reviews',
         link: '/tag/Reviews/',
-        permalink: '/slug/',
       },
       {
         text: 'Submit Music',
