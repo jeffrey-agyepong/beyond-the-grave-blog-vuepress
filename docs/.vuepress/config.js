@@ -99,7 +99,7 @@ module.exports = {
 
         {
           type: 'instagram',
-          link: 'https://www.instagram.com/beyond_the_grave777/',
+          link: 'https://www.instagram.com/beyond.the.grave_/',
         },
         {
           type: 'linkedin',
