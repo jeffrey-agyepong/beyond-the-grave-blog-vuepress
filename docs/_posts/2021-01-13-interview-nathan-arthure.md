@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/n6HH17d/arthure.jpg
 ---
 
-I had the opportunity to chat with extreme metal solo-artist Nathan Arthur formerly known as Arthure. We discussed his project's history, his love for Extol, the name change, and his faith, among other things. Enjoy!
+I had the opportunity to chat with progressive extreme metal solo-artist, Nathan Arthur, formerly known as Arthure. We discussed his project's history, his love for Extol, the name change, and his faith, among other things. Enjoy!
 
 <br>
 
@@ -125,6 +125,10 @@ I had the opportunity to chat with extreme metal solo-artist Nathan Arthur forme
 *Nathan: Thanks for having me. And thanks to everyone who gives my music a shot. It truly means a lot to me.*
 
 <hr>
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0M6XOWnaDDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <iframe style="border: 0; width: 340px; height: 710px;" src="https://bandcamp.com/EmbeddedPlayer/album=304738797/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://arthureofficial.bandcamp.com/album/a-new-journey">A New Journey by Arthure</a></iframe>
 <hr>
