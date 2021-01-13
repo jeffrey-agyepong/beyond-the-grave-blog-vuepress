@@ -114,9 +114,9 @@ I had the opportunity to chat with progressive extreme metal solo-artist, Nathan
 
 **Where can your music be found and how can fans support you?**
 
-*Nathan: My music is found on any streaming platform. I suggest Spotify. I expect no money for my works. The best way to support is by spreading the word. I hope that if you, the listener, like my music, there are others out there who might too. My Facebook page is www.facebook.com/NathanArthurOfficial, and my Instagram page is www.instagram.com/nathanarthurmusic/.* 
+*Nathan: My music is found on any streaming platform. I suggest Spotify. I expect no money for my works. The best way to support is by spreading the word. I hope that if you, the listener, like my music, there are others out there who might too. My Facebook page is [NathanArthurOfficial](www.facebook.com/NathanArthurOfficial), and my Instagram page is [NathanArthurMusic](www.instagram.com/nathanarthurmusic/).* 
 
-*I am also working on an official Nathan Arthur Production website, found at nathanarthurproduction.com. I will have a bunch of free goodies, tips, and tricks for music producers, musicians, and music fans alike. Feel free to stop by if you’re interested.*
+*I am also working on an official Nathan Arthur Production website, found at [NathanArthurProduction](nathanarthurproduction.com). I will have a bunch of free goodies, tips, and tricks for music producers, musicians, and music fans alike. Feel free to stop by if you’re interested.*
 
 
 
