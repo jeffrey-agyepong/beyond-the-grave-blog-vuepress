@@ -5,7 +5,7 @@ tags:
 - News
 - Post Hardcore
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/n6HH17d/arthure.jpg
+featuredimg: https://i.ibb.co/W3L84w0/this-surrender.jpg
 ---
 
 This Surrender fronted by "The Metal Worship Leader" James Franchise have released their debut original single. Check it out down below.
