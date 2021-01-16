@@ -5,7 +5,7 @@ tags:
 - News
 - Death Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/vzYsVQs/songs-of-death-and-resurrection.jpg
+featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---
 
 Progressive Death/Doom metal band, ***Crowned in Sorrow*** has released the first single off their forthcoming album, **"In Memoriam"**.
