@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---
 
-Progressive Death/Doom metal band, ***Crowned in Sorrow*** has released the first single off their forthcoming album, **"In Memoriam"**.
+Progressive Death/Doom metal band, ***Crowned in Sorrow*** has released the first single off their forthcoming album, **"In Memoriam"**. The album is set to be released on the 29th of January.
 
 <hr>
 
