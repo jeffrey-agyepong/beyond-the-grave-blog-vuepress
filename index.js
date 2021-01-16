@@ -35,7 +35,7 @@ module.exports = themeConfig => {
       },
       {
         text: 'Contact',
-        link: '/contact/',
+        link: '/contact.html/',
       },
       {
         text: 'Tags',
