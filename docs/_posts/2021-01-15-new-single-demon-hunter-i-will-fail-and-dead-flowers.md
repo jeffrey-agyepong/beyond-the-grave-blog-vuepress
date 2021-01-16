@@ -14,3 +14,8 @@ Demon Hunter has released the first two singles off their forthcoming album, **"
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/81HaDsaUFFY" width="560" height="315" frameborder="0"></iframe></div>
 
+<hr>
+
+<iframe src="https://open.spotify.com/embed/album/7d1MTQzJtNKQbTmHsKIBBi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
