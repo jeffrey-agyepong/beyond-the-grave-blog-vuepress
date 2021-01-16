@@ -1,12 +1,23 @@
-<form method="POST" data-netlify="true">
-        <input name="name" type="text" class="feedback-input" placeholder="Name" />
-        <input name="email" type="text" class="feedback-input" placeholder="Email" />
-        <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
-        <input type="submit" value="SUBMIT" />
-</form>
+<template>
+  <form method="POST" data-netlify="true">
+    <input name="name" type="text" class="feedback-input" placeholder="Name" />
+    <input
+      name="email"
+      type="text"
+      class="feedback-input"
+      placeholder="Email"
+    />
+    <textarea
+      name="text"
+      class="feedback-input"
+      placeholder="Comment"
+    ></textarea>
+    <input type="submit" value="SUBMIT" />
+  </form>
+</template>
 
 <style>
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400, 700);
 
 form {
   max-width: 420px;
@@ -58,6 +69,4 @@ textarea {
 [type='submit']:hover {
   background: #cc4949;
 }
-
-
 </style>
