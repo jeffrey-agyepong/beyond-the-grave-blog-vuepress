@@ -1,4 +1,5 @@
 ---
+
 title: "Introducing: Blue Fire Horizon"
 date: "2020-09-21"
 tags:
@@ -22,9 +23,15 @@ featuredimg: https://i.ibb.co/pZZTFmj/blue-fire-horizon2.jpg
 
 **Band Members:**
 
-Zachariah Turnage - lead vocals, lyricist Keagan Lee - lead guitar, composer, backing vocals Hunter Chapin - rhythm guitar, backing vocals Rock Arellano - drums, backing vocals Maddy Cornils - bass
+Zachariah Turnage - lead vocals, lyricist 
 
-![ Blue Fire Horizon](https://beyondthegrave777.files.wordpress.com/2020/09/blue-fire-horizon.jpg?w=300)
+Keagan Lee - lead guitar, composer, backing vocals 
+
+Hunter Chapin - rhythm guitar, backing vocals 
+
+Rock Arellano - drums, backing vocals 
+
+Maddy Cornils - bass
 
 * * *
 
