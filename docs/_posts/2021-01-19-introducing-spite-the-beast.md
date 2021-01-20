@@ -1,11 +1,11 @@
 ---
 title: "Introducing: Spite The Beast - Accuser"
-date: "2021-01-20"
+date: "2021-01-19"
 tags:
 - Introducing
 - Beatdown
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/9pcRLBm/spite-the-beast.jpg
+featuredimg: https://i.ibb.co/vBGSRM8/spite-the-beast.webp
 ---
 
 *Christopher Johnson* of the industrial metalcore band [HARD LOOK](https://beyondthegrave.netlify.app/2020/08/28/review-hard-look-the-great-tribulation/) has formed a new beatdown side project with *Derek Elran*. They just released their first single, *"Accuser."* Check it out down below.
