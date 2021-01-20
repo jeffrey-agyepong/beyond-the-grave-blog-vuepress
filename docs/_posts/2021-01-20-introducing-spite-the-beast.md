@@ -1,8 +1,8 @@
 ---
-title: "New Single: Spite The Beast - Accuser"
+title: "Introducing: Spite The Beast - Accuser"
 date: "2021-01-20"
 tags:
-- News
+- Introducing
 - Beatdown
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/9pcRLBm/spite-the-beast.jpg
