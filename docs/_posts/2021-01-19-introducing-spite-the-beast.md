@@ -1,5 +1,5 @@
 ---
-title: "Introducing: Spite The Beast - Accuser"
+title: "Introducing: Spite The Beast"
 date: "2021-01-19"
 tags:
 - Introducing
