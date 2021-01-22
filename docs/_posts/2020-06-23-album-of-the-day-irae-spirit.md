@@ -5,7 +5,7 @@ tags:
 - Introducing
 - Metalcore
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/C7fcpQH/Diatheke.jpg
+featuredimg: https://i.ibb.co/zsHzxcm/iraespirit.jpg
 ---
 
 **Irae** is a metalcore band from Washington D.C and they exist to spark thought, encourage conversation, and promote cultural and societal change. In 2018, they self-released their debut album, "Spirit". Below is a bit of insight on the album.
