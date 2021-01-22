@@ -68,6 +68,18 @@ When I listen to Dalit, I know I´m going to find thoughtfully written lyrics, b
 
 <h3 style="text-align:center">WRITTEN BY: Gorship777</h3>
 
+<hr>
+
+<iframe style="border: 0; width: 340px; height: 710px;" src="https://bandcamp.com/EmbeddedPlayer/album=2571941520/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dalitofficial.bandcamp.com/album/moksha">Moksha by DALIT</a></iframe>
+
+<hr>
+
+<iframe src="https://open.spotify.com/embed/album/6oCEwkuYo0A8OKDUVtdsX7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
+
+
 
 
  
