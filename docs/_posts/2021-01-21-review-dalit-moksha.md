@@ -1,6 +1,6 @@
 ---
 title: "Review: Dalit - Moksha"
-date: "2021-01-22"
+date: "2021-01-21"
 tags:
 - Reviews
 - Doom Metal
@@ -8,7 +8,7 @@ author: Ton Ringenier
 featuredimg: https://i.ibb.co/ZYxLCNd/dalit-moksha.webp
 ---
 Genre: Doom/Death Metal<br>
-Release Date: December 18, 2020<br>
+Release Date: January 15, 2021<br>
 Album Length: 42 Minutes<br>
 Record Label: Independent<br>
 
