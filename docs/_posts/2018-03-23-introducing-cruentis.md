@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5rRrzWf/cruentis.webp
 ---
 
-_**Cruentis**_ is a **_melodic death meta_l** band originating in _British Columbia_, on the west coast of Canada. **_Cruentis_** never shy away from exploring other genres of metal and each piece of work is unique in its own way, while maintaining dark melodic chord progressions and bone-crushing riffs. The lyrics are deeply rooted in the personal life experiences of the band members and the harsh realities of life often left unspoken.
+_**Cruentis**_ is a melodic death metal band originating in _British Columbia_, on the west coast of Canada. **_Cruentis_** never shy away from exploring other genres of metal and each piece of work is unique in its own way, while maintaining dark melodic chord progressions and bone-crushing riffs. The lyrics are deeply rooted in the personal life experiences of the band members and the harsh realities of life often left unspoken.
 
 <hr>
 
