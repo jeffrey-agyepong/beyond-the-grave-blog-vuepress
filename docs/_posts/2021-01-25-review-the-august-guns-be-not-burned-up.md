@@ -10,7 +10,7 @@ featuredimg: https://i.ibb.co/jzWdqjz/be-not-burned.webp
 
 Genre: Post Hardcore/Punk/Emo<br>
 Release Date: January 1, 2021<br>
-Album Length: 4 Minutes<br>
+Song Length: 4 Minutes<br>
 Record Label: Independent<br>
 
 <hr>
