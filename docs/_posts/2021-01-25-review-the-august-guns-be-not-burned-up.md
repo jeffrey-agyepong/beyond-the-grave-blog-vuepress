@@ -1,5 +1,5 @@
 ---
-title: "Review: August Guns - Be Not Burned Up(Single)"
+title: "Review: The August Guns - Be Not Burned Up(Single)"
 date: "2021-01-25"
 tags:
 - Reviews
@@ -15,9 +15,9 @@ Record Label: Independent<br>
 
 <hr>
 
-All right, quiet night at home who’s up next to review? **August Guns**, well this should be interesting. Going to assume there’s some August Burns Red influence here (seriously tell me that didn’t come to mind when you saw the band name). Well let’s see what we have…so that’s…well…okay that was great but clearly, I wasn’t prepared for it. 
+All right, quiet night at home who’s up next to review? **The August Guns**, well this should be interesting. Going to assume there’s some August Burns Red influence here (seriously tell me that didn’t come to mind when you saw the band name). Well let’s see what we have…so that’s…well…okay that was great but clearly, I wasn’t prepared for it. 
 
-So the above is an accurate depiction of my thought process when I started prepping for this review. In all seriousness though, **August Guns** recently released their latest single **Be Not Burned Up**. Looking a little into the band they’re tagged as a punk/emo (I’d say that’s an oversimplification). So I have to say if this is emo, I no longer have any idea of what the genre means. I’d personally guess that this particular song is a bit of a departure for the band and finds them looking to stretch themselves.
+So the above is an accurate depiction of my thought process when I started prepping for this review. In all seriousness though, **The August Guns** recently released their latest single **Be Not Burned Up**. Looking a little into the band they’re tagged as a punk/emo (I’d say that’s an oversimplification). So I have to say if this is emo, I no longer have any idea of what the genre means. I’d personally guess that this particular song is a bit of a departure for the band and finds them looking to stretch themselves.
 
 The song opens with a rocking guitar that settles into a dreamy and kind of fuzzy sounding beat. Think the distortion of a shoegaze band. We progress through the verse in a steady drone. Please don’t think boring as the word drone might typically imply, but more of a steady atmospheric build. The vocals are well matched to the music with a clear and steady delivery. There is a heaviness and passion that underlies the seeming simplicity. The drums are the stand out in the verse, and honestly throughout the whole song. They are prominent and driving, with a lot going on but without being overbearing or excessive. They really push the pace. When the chorus hits we get to hear where this band excels. The energy level goes way up and the tempo speeds up considerably. It is a wonderful release from the tension built during the verse. The passion in the vocals also amplifies with the singer almost yelling the words, a nice continuation of the build for what is to come. A bit more back and forth between verse and chorus till after the chorus is repeated they don’t go back into a softer verse but continue to push the energy higher. We get a backup vocal to further accentuate the change. The song shifts with about a minute left and pushes into heavier territory that keeps the build going till the final repetition of the chorus has someone screaming lines in the background. This hits hard as nothing in the rest of the song hints that this is coming.
 
