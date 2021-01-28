@@ -5,7 +5,7 @@ tags:
 - Interviews
 - Industrial Metal
 author: Jeffrey Agyepong
-featuredimg: https://i.ibb.co/jzWdqjz/be-not-burned.webphttps://i.ibb.co/YpYP3q7/hard-look.webp
+featuredimg: https://i.ibb.co/YpYP3q7/hard-look.webp
 ---
 
 HARD LOOK is a Christian Metalcore/Deathcore/Industrial Metal band from Fort Worth, Texas. The band is comprised solely of Christopher Johnson on vocals, guitars, bass, drums, synth etc. The purpose of the band is to bring the Gospel to the darker corners of the earth. I had the pleasure to chat with Christopher about his debut full-length, his conversion, theology, among other things. 
