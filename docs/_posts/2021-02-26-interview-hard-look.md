@@ -10,6 +10,8 @@ featuredimg: https://i.ibb.co/YpYP3q7/hard-look.webp
 
 HARD LOOK is a Christian Metalcore/Deathcore/Industrial Metal band from Fort Worth, Texas. The band is comprised solely of Christopher Johnson on vocals, guitars, bass, drums, synth etc. The purpose of the band is to bring the Gospel to the darker corners of the earth. I had the pleasure to chat with Christopher about his debut full-length, his conversion, theology, among other things. 
 
+<hr>
+
 **What is your musical background and how long have you been involved in the metal scene?**
 
 --  *I have been in several small bands growing up, but nothing really stuck or went very far. The most successful project I did was on vocals for a band called Monarch, from Waco, Texas. I have been a guitarist, with skills on other instruments as well, for nearly two decades, so I really wanted to showcase my musicianship as well as my vocals. HARD LOOK has been a band for only one year, but there will be more years ahead.* 
@@ -45,11 +47,19 @@ HARD LOOK is a Christian Metalcore/Deathcore/Industrial Metal band from Fort Wor
 
 **How would you describe your theology? You’ve mentioned to me in passing being a bit of a Lutheran and a Baptist.**  
 
--- *I think this is still accurate. I consider myself a hybrid of Lutheran and Baptist. It seems like the main argument comes down to infant baptism[[paedobaptism]()]. versus adult full-immersion baptism[[credobaptism]()]. The Lutheran will argue that infant baptism is valid and holds true for life, and that if one wants to publicly show allegiance to Christ and be renewed in Spirit, they can participate in the Lord’s Table. The Baptist will argue that a cognizant believer should show their allegiance to Christ and be renewed in Spirit by full-immersion baptism as an adult, and that infant baptism by sprinkling is not accurate to Scripture because of the specific examples of full-immersion baptisms in the Bible. My personal take on this is “Why not both?” I believe in the validity of infant baptism and also the validity and merit of adult baptism by immersion. I see no reason why we cannot adopt both practices and see no scriptural argument against this stance. Also, I don’t necessarily see much of a need to align with one specific denomination other than to maintain traditions, which are important, but not an absolute reason to pick one denomination and stick with it. This may or may not change as I grow in faith. Only God knows and I trust Him to lead my steps.* 
+-- *I think this is still accurate. I consider myself a hybrid of Lutheran and Baptist. It seems like the main argument comes down to infant baptism[[paedobaptism](https://www.gotquestions.org/infant-baptism.html)]. versus adult full-immersion baptism[[credobaptism](https://www.gotquestions.org/believers-baptism.html)]. The Lutheran will argue that infant baptism is valid and holds true for life, and that if one wants to publicly show allegiance to Christ and be renewed in Spirit, they can participate in the Lord’s Table. The Baptist will argue that a cognizant believer should show their allegiance to Christ and be renewed in Spirit by full-immersion baptism as an adult, and that infant baptism by sprinkling is not accurate to Scripture because of the specific examples of full-immersion baptisms in the Bible. My personal take on this is “Why not both?” I believe in the validity of infant baptism and also the validity and merit of adult baptism by immersion. I see no reason why we cannot adopt both practices and see no scriptural argument against this stance. Also, I don’t necessarily see much of a need to align with one specific denomination other than to maintain traditions, which are important, but not an absolute reason to pick one denomination and stick with it. This may or may not change as I grow in faith. Only God knows and I trust Him to lead my steps.* 
 
 **What are some of your favorite passages of Scripture?**
 
--- *Some of my very favorites are [Acts 16:31](), [Romans 12:2](), [Proverbs 3:5-6](), [Proverbs 16:9](), [John 3:16](), [John 14:6](), [Matthew 24:9](), [Ephesians 6:11](), [Ephesians 6:16-17](), and [1 Peter 5:7](). These are the favorites that come to mind, but there are endless verses that important and amazing.*
+-- *Some of my very favorites are [Acts 16:31](https://www.biblegateway.com/passage/?search=acts+16%3A31&version=CSB), [Romans 12:2](https://www.biblegateway.com/passage/?search=romans+12%3A2&version=ESV), [Proverbs 3:5-6](https://www.biblegateway.com/passage/?search=proverbs+3%3A5-6&version=ESV), [Proverbs 16:9](https://www.biblegateway.com/passage/?search=proverbs+16%3A9&version=ESV), [John 3:16](), [John 14:6](https://www.biblegateway.com/passage/?search=john+3%3A16&version=ESV), [Matthew 24:9](https://www.biblegateway.com/passage/?search=matthew+24%3A9&version=ESV), [Ephesians 6:11](https://www.biblegateway.com/passage/?search=ephesians+6%3A11&version=ESV), [Ephesians 6:16-17](https://www.biblegateway.com/passage/?search=ephesians+6%3A16-17&version=ESV), and [1 Peter 5:7](https://www.biblegateway.com/passage/?search=1+peter+5%3A7&version=ESV). These are the favorites that come to mind, but there are endless verses that important and amazing.*
+
+ Acts 16:37 - And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.”
+
+Romans 12:2 - Do not be conformed to this world,[[a](https://www.biblegateway.com/passage/?search=romans+12%3A2&version=ESV#fen-ESV-28232a)] but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect
+
+Proverbs 3:5-6 - Trust in the Lord with all your heart, and do not lean on your own understanding.  In all your ways acknowledge him, and he will make straight your paths
+
+John 14:6 - Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
 
 **You’re currently attending Bible College. How has the experience been for you thus far and what’s the long-term plan?**
 
