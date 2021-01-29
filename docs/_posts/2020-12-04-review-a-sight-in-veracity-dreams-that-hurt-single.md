@@ -43,7 +43,7 @@ There must be something in the water because every band that I have heard from A
 <div class="video-container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/KDyr08GFoEI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://tr3ndygirl.com/">Ultimate web Traffic</a></small></div></iframe>
 </div>
-Nostalgia stares me in the eye I’m in your vision on repeat Fond of the reminiscence Sometimes we’re out of sorts Caught myself up on details Now weak and threadbare But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Adding up It’s a sin Close my eyes Upright Insight But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Take my dreams Feels like we’ve only got minutes I hope this goes on forever But I’m still not sure God, I’m still not sure My head hurts My heart hurts You know I can’t do this These dreams They shouldn’t hurt Sorry, but they do Take my dreams You can have them I don’t like them Tonight I won’t dream
+
 
 * * *
 

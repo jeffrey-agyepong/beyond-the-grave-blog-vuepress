@@ -46,7 +46,7 @@ Reason: I rate this album 8.5 out of 10, only because it's 20 minutes too short.
 <hr>
 
  <h2 style="text-align:center"> BTG Staff's Second Opinion</h2>
-<br>
+<hr>
 
 **Dalit** is a Norwegian Death/Doom band with notorious Blackened Doom Metal influences. Two of its members are Christians, which shows on its contemplative and spiritual lyrics. 
 
