@@ -6,7 +6,7 @@
       itemtype="https://schema.org/BlogPosting"
     >
       <div class="row justify-content-center">
-        <div class="col-md-8">
+        <div class="col-md-8 mg-c">
           <header>
             <span class="text-muted"
               ><PostMeta :date="$frontmatter.date"
@@ -21,7 +21,7 @@
       </div>
 
       <div class="row justify-content-center text-center mt-4 mb-40">
-        <div class="col-md-7">
+        <div class="col-md-7 mg-c">
           <img class="featuredimg" :src="$frontmatter.featuredimg" />
         </div>
       </div>
@@ -66,4 +66,8 @@ export default {
 
 <style lang="stylus" scoped>
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700&display=swap')
+
+.mg-c
+   text-align: center
+   margin: auto
 </style>
