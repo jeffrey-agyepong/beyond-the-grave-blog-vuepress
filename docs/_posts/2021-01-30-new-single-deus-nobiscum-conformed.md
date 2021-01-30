@@ -1,6 +1,6 @@
 ---
 title: "New Single: Deus Nobiscum - Conformed(feat. Andrew of Fire From Heaven)"
-date: "2021-01-15"
+date: "2021-01-30"
 tags:
 - News
 - Deathcore
