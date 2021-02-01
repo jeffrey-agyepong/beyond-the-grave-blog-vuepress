@@ -1,9 +1,5 @@
 <template>
   <div id="vuepress-theme-blog__global-layout">
-    <!--<aside class="sidebar">
-    <h1>Reviews</h1>
-    
-    </aside>-->
     <Header />
     <MobileHeader
       :is-open="isMobileHeaderOpen"
