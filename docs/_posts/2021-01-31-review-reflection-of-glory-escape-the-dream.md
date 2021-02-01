@@ -1,6 +1,6 @@
 ---
 title: "Review: Reflections of Glory - Escape the Dream"
-date: "2021-01-30"
+date: "2021-01-31"
 tags:
 - Reviews
 - Symphonic Metal
