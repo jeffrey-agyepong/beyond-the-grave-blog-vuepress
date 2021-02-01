@@ -6,7 +6,7 @@
       itemtype="https://schema.org/BlogPosting"
     >
       <div class="row justify-content-center">
-        <div class="col-md-8 mg-c">
+        <div class="col-md-8">
           <header>
             <span class="text-muted"
               ><PostMeta :date="$frontmatter.date"
