@@ -20,3 +20,6 @@ Praise Him with clashing cymbals!</p>
 Is there something wrong with a Christian listening to metal? Find out [here](https://www.gotquestions.org/Christian-heavy-metal-music.htmlhttps://www.gotquestions.org/Christian-heavy-metal-music.html).
 
 NOTE: Any link shared on this site has been approved by the band/label.
+
+
+
