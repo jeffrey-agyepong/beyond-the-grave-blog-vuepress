@@ -29,17 +29,18 @@ Track list:
 12. Escape the Dream 8:58
 
 <hr>
-Reflection of Glory is a solo project, the music is written, recorded, and produced by Barry Dreier. Escape the Dream is his latest effort. What came to mind was that Theocracy also began as a solo project by Matt Smith. So what can we expect from this project? At least quality symphonic power metal.
+**Reflection of Glory** is a solo project, the music is written, recorded, and produced by *Barry Dreier*. **Escape the Dream** is his latest effort. What came to mind was that Theocracy also began as a solo project by Matt Smith. So what can we expect from this project? At least quality symphonic power metal.
 
-This is the sophomore album of Reflection of Glory, the other debut being Reborn. The quality of this album is impressive, especially for this is a one-man project. The sound but also the instrumentation is from a high level. I had to get used to the vocals because it is somewhat different compared to many other power metal bands. Barry has a more tenor sound and it's less high-pitched than many other bands. But this is maybe a great way to distinguish yourself from other bands in this genre. And actually, he has a pleasant voice. Certain parts sound heavenly.
 
-The opener of this album is an extremely long one. It is called The Hound of Heaven, a song with a majestic opener. And many various instrumental passages without sounding repetitive. A great song to set the mood for the album. You will hear some more orchestral parts later on this album. The Hound of Heaven and the Battle of the Alphas are the songs with the more orchestral passages and influences.
+This is the sophomore album of **Reflection of Glory**, the other debut being **Reborn**. The quality of this album is impressive, especially for this is a one-man project. The sound but also the instrumentation is from a high level. I had to get used to the vocals because it is somewhat different compared to many other power metal bands. Barry has a more tenor sound and it's less high-pitched than many other bands. But this is maybe a great way to distinguish yourself from other bands in this genre. And actually, he has a pleasant voice. Certain parts sound heavenly.
 
-Escape the Dream also contains faster and power metal songs like Demons In Me, Graves of Craving, and Beyond Evermore, the more ballad-like or more mellow songs, like the Folly of the Fall, Sleep with the Lie (an excellent one, to be honest) and the Mirror. Dreams is an instrumental song with a passage that sounds a bit dissonant, by the way, I do not mean that it is a false tone. The last song, Escape the Dream is also an instrumental one, and I have to admit a fantastic one. Besides listening to metal, I also like film music or military marching music. So it's not that bad to end a song like this reminds a little of a fragment of *Epica's The Score An Epic Journey*.
+The opener of this album is an extremely long one. It is called **The Hound of Heaven**, a song with a majestic opener. And many various instrumental passages without sounding repetitive. A great song to set the mood for the album. You will hear some more orchestral parts later on this album. **The Hound of Heaven** and **Battle of the Alphas** are the songs with the more orchestral passages and influences.
 
-As a fan of the more extreme metal genres, I would have liked to hear some faster and power-driven songs. This does not detract from the quality of this album. Beyond Evermore one of the most enjoyable songs on the album. With some very nice heavy riffs with great orchestral passages, and also some better vocal passages. The Curse Within My Blood is also a highlight of this album. I think the best song on Escape the Dream. It has an awesome guitar solo at the end, which is the icing on the cake. 
+**Escape the Dream** also contains faster and power metal songs like **Demons In Me**, **Graves of Craving**, and **Beyond Evermore**, the more ballad-like or more mellow songs, like the **Folly of the Fall**, **Sleep with the Lie** (an excellent one, to be honest) and **The Mirror**. **Dreams** is an instrumental song with a passage that sounds a bit dissonant, by the way, I do not mean that it is a false tone. The last song, **Escape the Dream** is also an instrumental one, and I have to admit a fantastic one. Besides listening to metal, I also like film music or military marching music. So it's not that bad to end a song like this reminds a little of a fragment of *Epica's The Score An Epic Journey.*
 
- Lyrically, Barry deals with the concept of how humanity lavishes in this “dream” world. Here is all there is to live for, and there is nothing beyond. However, beyond our eyes, there is a true spiritual reality. God sovereignly works in our lives, through trials and tribulations, to help us Escape the Dream. This album is exceptionally rich in Biblical and theological truths.
+As a fan of the more extreme metal genres, I would have liked to hear some faster and power-driven songs. This does not detract from the quality of this album. **Beyond Evermore** one of the most enjoyable songs on the album. With some very nice heavy riffs with great orchestral passages, and also some better vocal passages. **The Curse Within My Blood** is also a highlight of this album. I think the best song on **Escape the Dream**. It has an awesome guitar solo at the end, which is the icing on the cake. 
+
+ **Lyrically**, Barry deals with the concept of how humanity lavishes in this “dream” world. Here is all there is to live for, and there is nothing beyond. However, beyond our eyes, there is a true spiritual reality. God sovereignly works in our lives, through trials and tribulations, to help us **Escape the Dream**. This album is exceptionally rich in Biblical and theological truths.
 
 > "How can I rail against the gates of hell 
 >
@@ -62,29 +63,16 @@ As a fan of the more extreme metal genres, I would have liked to hear some faste
 Reason: In my opinion, the album could have had a slightly rougher approach, but that is a personal preference and it doesn’t greatly affect the score.
 
  <hr>
+[Reflection of Glory Website](https://www.reflection-music.com/) | [Facebook](http://www.facebook.com/reflection.of.glory) | [Instagram](https://www.instagram.com/reflection.of.glory/) | [iTunes](https://music.apple.com/us/artist/reflection-of-glory/293492516)
 
-[Reflection of Glory Website]() | [Facebook]() | Instagram | iTunes
+<hr>
 
+ <div class="video-container"><iframe src="https://www.youtube.com/embed/j7QWc6QyUWE" width="516" height="300" frameborder="0"></iframe></div>
 
+<hr>
 
+ <iframe src="https://open.spotify.com/embed/album/0rZiTgzOK6TkUvKqpdwama" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
+<hr>
 
  
