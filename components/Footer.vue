@@ -42,7 +42,7 @@
       <div class="center">
         <a
           href="https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/"
-          >Made with Mediumish - free Vuepress theme</a
+          >Made with Mediumish - Vuepress theme</a
         >
       </div>
     </div>
