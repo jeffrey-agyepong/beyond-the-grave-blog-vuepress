@@ -29,12 +29,9 @@ Track list:
 12. Escape the Dream 8:58
 
 <hr>
-
 **Reflection of Glory** is a solo project, the music is written, recorded, and produced by *Barry Dreier*. **Escape the Dream** is his latest effort. What came to mind was that Theocracy also began as a solo project by Matt Smith. So what can we expect from this project? At least quality symphonic power metal.
 
-
-
-This is the sophomore album of **Reflection of Glory**, the other debut being **Reborn**. The quality of this album is impressive, especially for this is a one-man project. The sound but also the instrumentation is from a high level. I had to get used to the vocals because it is somewhat different compared to many other power metal bands. Barry has a more tenor sound and it's less high-pitched than many other bands. But this is maybe a great way to distinguish yourself from other bands in this genre. And actually, he has a pleasant voice. Certain parts sound heavenly.
+This is the sophomore original album of **Reflection of Glory**, with the debut being **Reborn**. The quality of this album is impressive, especially for this is a one-man project. The sound but also the instrumentation is from a high level. I had to get used to the vocals because it is somewhat different compared to many other power metal bands. Barry has a more tenor sound, it's less high-pitched than many other bands. But this is maybe a great way to distinguish yourself from other bands in this genre. And actually, he has a pleasant voice. Certain parts sound heavenly.
 
 The opener of this album is an extremely long one. It is called **The Hound of Heaven**, a song with a majestic opener. And many various instrumental passages without sounding repetitive. A great song to set the mood for the album. You will hear some more orchestral parts later on this album. **The Hound of Heaven** and **Battle of the Alphas** are the songs with the more orchestral passages and influences.
 
