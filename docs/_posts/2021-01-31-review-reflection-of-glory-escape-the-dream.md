@@ -39,9 +39,7 @@ Escape the Dream also contains faster and power metal songs like Demons In Me, G
 
 As a fan of the more extreme metal genres, I would have liked to hear some faster and power-driven songs. This does not detract from the quality of this album. Beyond Evermore one of the most enjoyable songs on the album. With some very nice heavy riffs with great orchestral passages, and also some better vocal passages. The Curse Within My Blood is also a highlight of this album. I think the best song on Escape the Dream. It has an awesome guitar solo at the end, which is the icing on the cake. 
 
-
-
- Lyrically, the album deals with the concept of how humanity lavishes in this “dream” world. Here is all there is to live for, and there is nothing beyond. However, beyond our eyes, there is a true spiritual reality. God sovereignly works in our lives, through trials and tribulations, to help us Escape the Dream. 
+ Lyrically, Barry deals with the concept of how humanity lavishes in this “dream” world. Here is all there is to live for, and there is nothing beyond. However, beyond our eyes, there is a true spiritual reality. God sovereignly works in our lives, through trials and tribulations, to help us Escape the Dream. This album is exceptionally rich in Biblical and theological truths.
 
 > "How can I rail against the gates of hell 
 >
