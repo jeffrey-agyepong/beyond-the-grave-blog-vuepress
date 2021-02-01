@@ -42,17 +42,17 @@ As a fan of the more extreme metal genres, I would have liked to hear some faste
 
  **Lyrically**, Barry deals with the concept of how humanity lavishes in this “dream” world. Here is all there is to live for, and there is nothing beyond. However, beyond our eyes, there is a true spiritual reality. God sovereignly works in our lives, through trials and tribulations, to help us **Escape the Dream**. This album is exceptionally rich in Biblical and theological truths.
 
-> "How can I rail against the gates of hell 
+> *"How can I rail against the gates of hell* 
 >
-> When I can't defeat the evil in myself?
+> *When I can't defeat the evil in myself?*
 >
-> Yet still, this Savior fights for me 
+> *Yet still, this Savior fights for me* 
 >
-> Cancelling the debt of my iniquity 
+> *Cancelling the debt of my iniquity* 
 >
-> Pierced by the scales of justice to set me free 
+> *Pierced by the scales of justice to set me free* 
 >
-> Oh my God help me believe" - Holy War
+> *Oh my God help me believe" - Holy War*
 
 ﻿This album was a pleasure to listen to. Barry is a talented guy with a great future. Many great songs, enough variation, and the production is phenomenal. If you are a fan of bands like Theocracy and Northern Flame or Divinefire, this is an album you have to listen to. Symphonic power metal at its finest.
 
@@ -63,7 +63,11 @@ As a fan of the more extreme metal genres, I would have liked to hear some faste
 Reason: In my opinion, the album could have had a slightly rougher approach, but that is a personal preference and it doesn’t greatly affect the score.
 
  <hr>
-[Reflection of Glory Website](https://www.reflection-music.com/) | [Facebook](http://www.facebook.com/reflection.of.glory) | [Instagram](https://www.instagram.com/reflection.of.glory/) | [iTunes](https://music.apple.com/us/artist/reflection-of-glory/293492516)
+
+[R.O.G Website](https://www.reflection-music.com/) |[Facebook](http://www.facebook.com/reflection.of.glory) | [Instagram](https://www.instagram.com/reflection.of.glory/) | [iTunes](https://music.apple.com/us/artist/reflection-of-glory/293492516)
+
+
+
 
 <hr>
 
@@ -75,4 +79,3 @@ Reason: In my opinion, the album could have had a slightly rougher approach, but
 
 <hr>
 
- 
