@@ -4,7 +4,7 @@
       <div class="header-wrapper">
         <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
           <NavLink link="/" class="navbar-brand"
-            ><img :src="$withBase($themeConfig.logo)" />
+            ><!--<img :src="$withBase($themeConfig.logo)" />-->
             {{ $site.title }}
           </NavLink>
           <div class="container">
