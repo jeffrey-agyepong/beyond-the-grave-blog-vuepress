@@ -11,7 +11,6 @@ featuredimg: https://i.ibb.co/9rPwBmm/p-m-o-o-b.webp
 Swedish melodic death metal veterans **Pantokrator**, have finally released their fourth studio album, after six long years of writing, riffing, and perfecting. **Marching Out of Babylon** features a couple of noteworthy artists in the Christian extreme metal scene; *C.J Grimmark (Narnia), Jani Stefanovic (The Waymaker, Miseration & Solution .45)*, and last but certainly not the least *Mund (Skald in Veum)*. 
 
 <hr>
-
 Record Label: Independent
 
 Release Date: January 29, 2021
