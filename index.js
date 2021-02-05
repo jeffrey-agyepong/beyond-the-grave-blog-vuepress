@@ -26,8 +26,8 @@ module.exports = themeConfig => {
         link: '/tag/Reviews/',
       },
       {
-        text: 'Submit Music',
-        link: '/submit-music/',
+        text: 'Contact',
+        link: '/contact/',
       },
       {
         text: 'About',
@@ -66,7 +66,7 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 24,
+      lengthPerPage: 12,
     },
   }
 
