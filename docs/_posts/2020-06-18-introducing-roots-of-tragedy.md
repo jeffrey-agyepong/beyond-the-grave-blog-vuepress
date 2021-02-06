@@ -38,6 +38,12 @@ Sjelehøst produced nearly 30 songs and ended at the start of 2006. Then I got s
 
  **[Doctrines](https://rootsoftragedy.bandcamp.com/album/doctrines-deluxe-edition-2) (Full-length) \[2018\]**
 
+<hr>
+
+
+<iframe style="border: 0; width: 340px; height: 743px;" src="https://bandcamp.com/EmbeddedPlayer/album=2758328307/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://rootsoftragedy.bandcamp.com/album/doctrines-deluxe-edition-2">Doctrines - Deluxe Edition by Roots of Tragedy</a></iframe>
+
+
  <hr>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/m84PqMp5ME0" width="560" height="315" frameborder="0"></iframe></div>
