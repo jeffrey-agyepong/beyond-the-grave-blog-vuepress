@@ -1,5 +1,5 @@
 ---
-title: "Review: Tortured Conscience - Every Knee Shall Bow [Remixed & Remastered] 1"
+title: "Review: Tortured Conscience - Every Knee Shall Bow [Remixed & Remastered]"
 date: "2020-11-18"
 tags:
 - Reviews
