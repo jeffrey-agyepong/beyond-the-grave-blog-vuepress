@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/GcTFVMG/conformed.jpg
 ---
 
-Progressive deathcore solo-project, Deus Nobiscum has just released their first single in four years entitled, Conformed featuring Andrew Hopper([Fire From Heaven](https://firefromheavenmetal.bandcamp.com/album/deathcore-symphony)).
+Progressive death metal/djent solo-project, Deus Nobiscum has just released their first single in four years entitled, Conformed featuring Andrew Hopper([Fire From Heaven](https://firefromheavenmetal.bandcamp.com/album/deathcore-symphony)).
 
 <hr>
 
