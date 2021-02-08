@@ -38,7 +38,7 @@ The first track on their final EP is _**Degenerate**_. **Degenerate** is one 
 
 > *“All things, every trial and pain One day will all fade away We know the narrow path leads to redemption Though all shall fade, hope still remains”*
 
-**Overall**, this is a great EP, though I wished it would have been a full-length album. I won't complain too much as they've ended in perfect style with a meticulously written record.
+**Overall**, this is a great EP, though I wished it would have been a full-length album. This is not a serious complaint as they've ended in perfect style with a meticulously written record.
 
 <hr>
 
