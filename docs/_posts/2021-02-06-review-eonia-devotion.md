@@ -25,7 +25,8 @@ featuredimg: https://i.ibb.co/7NnN5mx/eonia.webp
 5. Promise to Reflect 02:41
 
 <hr>
-Eonia is a melodic metalcore band from Grand Rapids, Michigan, and, to my knowledge at least, it only consists of Gabriel Smith right now. With Kenny Flores featuring as a vocalist on two tracks. Eonia releases music independently.
+
+Eonia is a melodic metalcore band from Grand Rapids, Michigan, and, to my knowledge at least, it only consists of Gabriel Smith right now. With Kenny Flores featuring as a vocalist on two tracks. 
 
 **Sound and Mixing**: The production quality of this EP is some of the best I have heard in a long while. Everything is very crisp, clear, and has a chance to shine. The guitars are what drive **Devotion** forward almost entirely. However, the drums, while simple, really do get the job done and you would be hard-pressed to find something wrong with how everything sounds here, especially since this is one person making music. The vocals, when there are lyrics in songs (we will get to that shortly), are clear and easy to understand, while sounding raw. Almost as if the lyrics were being sung to you while you were in the same room.
 
