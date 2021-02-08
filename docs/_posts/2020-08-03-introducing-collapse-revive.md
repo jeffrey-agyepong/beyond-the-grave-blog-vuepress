@@ -16,7 +16,7 @@ featuredimg: https://i.ibb.co/N2gjCQZ/collapse2.jpg
 
 **Genre:** Progressive Metalcore
 
-**Record Label:** Sancrosanct Records
+**Record Label:** Independent
 
 * * *
 
@@ -35,6 +35,8 @@ Joshua Nathaniel Racine – Drummer
 **Discography:**
 
 Collapse​/​/​Revive - EP(2020)
+
+
 
 <hr>
 

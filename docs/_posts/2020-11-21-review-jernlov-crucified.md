@@ -53,5 +53,7 @@ So, in the end, we have here one of the best Christian extreme metal releases in
 
 #### [Purchase CD](https://www.nordicmission.net/en/products/jernlov-crucified-cd-pre-order)
 
+
+
 <hr>
 
