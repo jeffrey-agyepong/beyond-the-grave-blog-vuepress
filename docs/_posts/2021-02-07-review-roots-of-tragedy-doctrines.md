@@ -51,7 +51,7 @@ The lyrics maintain a sense of responsibility throughout the album, warning us i
 **Favorite tracks:**  Possibly a controversial choice, but I really love the opening track *Preludium*. A combination of what’s to come. Would have loved to hear a little more of the industrial sounds hinted at in this track through the album. 
 
 <hr>
-<h2 style="text-align: center">Additional Thoughts</h2>
+<h2 style="text-align: center">ADDITIONAL THOUGHTS</h2>
 
 After being in a few projects, David Sandvik purchased advanced equipment, intending to start a serious project called **Roots of Tragedy**. Song-writing and recording were the focus, and this is clear in his debut full-length Doctrines. With solo-projects, one instrument usually outshines the rest. However, this is not the case with **Roots of Tragedy**. The musicianship is outstanding, with dynamic drumming, heavy breakdowns, technical riffs, groovy bass parts, and a few guitar solos sprinkled in for good measure. If no one told you, it would be easy to believe this is a full band. I would classify this album as progressive death metal with an underlying djent influence. David's vocal delivery is magnificent. He can smoothly transition from ferocious low gutturals to high-pitched shrieks to melodic singing. It is rare that one vocalist can handle screaming and singing so eloquently. His lows are reminiscent of *Jason Wisdom*, former vocalist of the legendary band, *Becoming the Archetype(now in Death Therapy and The Reversalist)*. <br><br>
 
@@ -77,5 +77,12 @@ As the title suggests, the concepts in this album are rooted in the teachings of
 
 
 <hr>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/mFQc-yPMJlc" width="560" height="315" frameborder="0"></iframe>
+</div>
+
+
 
 <iframe style="border: 0; width: 340px; height: 743px;" src="https://bandcamp.com/EmbeddedPlayer/album=2758328307/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://rootsoftragedy.bandcamp.com/album/doctrines-deluxe-edition-2">Doctrines - Deluxe Edition by Roots of Tragedy</a></iframe>
+
+<hr>
