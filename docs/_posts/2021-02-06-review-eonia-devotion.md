@@ -12,6 +12,8 @@ featuredimg: https://i.ibb.co/7NnN5mx/eonia.webp
 
 **Record Label:** Independent
 
+**EP Length:** 20 Minutes
+
 **Track List**: 
 
 1. Devotion 03:54
