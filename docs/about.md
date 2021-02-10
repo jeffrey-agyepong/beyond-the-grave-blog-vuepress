@@ -21,5 +21,20 @@ Is there something wrong with a Christian listening to metal? Find out [here](ht
 
 NOTE: Any link shared on this site has been approved by the band/label.
 
+<hr>
 
+ Jeffrey A. - Founder | Editor | Writer 
 
+ Jeremy P - Writer
+
+Hezekiah R. - Writer
+
+Gabriel M.  - Writer
+
+Erik M. - Writer
+
+Ton R. - Writer
+
+Zachary Van D. - Writer
+
+<hr>
