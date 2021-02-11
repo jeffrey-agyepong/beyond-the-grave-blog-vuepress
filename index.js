@@ -26,8 +26,8 @@ module.exports = themeConfig => {
         link: '/tag/Reviews/',
       },
       {
-        text: 'Contact',
-        link: '/contact/',
+        text: 'Submit Music',
+        link: '/submit-music/',
       },
       {
         text: 'About',
