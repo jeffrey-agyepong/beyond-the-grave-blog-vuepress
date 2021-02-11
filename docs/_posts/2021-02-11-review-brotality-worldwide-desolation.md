@@ -21,26 +21,28 @@ Album-length: 57 Minutes
 
 Track Listing:
 
-1....And Then There Was One 01:20
-2.Foxhole 04:43
-3.Salting The Wound 04:13
-4.I Am Fire I Am Death 04:36
-5.Biohazard 03:51
-6.Empty Existence 06:54
-7.Prisoners Of The Abyss 05:05
-8.Dirtnap 04:30
-9.Spiral Out 05:32
-10.Legion Falls 04:13
-11.Garden 02:09
-12.The Way Of Suffering 08:58
+1....And Then There Was One 01:20 <br>
+2.Foxhole 04:43 <br>
+3.Salting The Wound 04:13 <br>
+4.I Am Fire I Am Death 04:36 <br>
+5.Biohazard 03:51 <br>
+6.Empty Existence 06:54 <br>
+7.Prisoners Of The Abyss 05:05 <br>
+8.Dirtnap 04:30 <br>
+9.Spiral Out 05:32 <br>
+10.Legion Falls 04:13 <br>
+11.Garden 02:09 <br>
+12.The Way Of Suffering 08:58 <br>
 
 <hr>
 
 **Brotality** is an American thrash/ groove metal band from Narrowsburg, NY, and Clarks Summit, PA. It consists of brothers Bryce (guitar and vocals), Reece (bass and vocals) Maopolski, and Liam Fenton (drums). 
 
-**Sound and Mixing:** Sonically **Brotality** gives me vibes of Metallica and Lamb of God, with their own twist on the thrash/ groove metal formula. As far as mixing goes, this sounds like a band that has been doing this for years. Guitar, bass, vocals, and drums all have a chance to shine while not overtaking any of the songs, even when it comes to the solos that are on this record. 
+**Sound and Mixing:** Sonically, **Brotality** gives me vibes of Metallica and Lamb of God, with their own twist on the thrash/ groove metal formula. As far as mixing goes, this sounds like a band that has been doing this for years. Guitar, bass, vocals, and drums all have a chance to shine while not overtaking any of the songs, even when it comes to the solos that are on this record. 
 
-**Highlights:** The tracks that I found to be the real standouts were “Foxhole,” “Salting the Wound,” and “Prisoners of The Abyss,” with the latter being my favorite. “…And Then There Was One,” does its job as an opening instrumental track and hypes up “Foxhole.” “Prisoners of The Abyss,” stands out to me because, while the whole of **Worldwide Desolation** has this, it does have the best mix of both the groove and thrash aspects of the record in my opinion. 
+**Lyrically:** Brotality is not afraid to confront modern issues. In the song "**Prisoners of the Abyss**" Reese Maopolski, the main songwriter writes about how the use of technology can lead us to addictions that rob us of enjoying our lives. Although technology has many good uses in today’s lives, if there isn’t balance then one can spend way too much time using it leading to less time with family and friends and as the lyrics say “…oblivious to who you’re missing”. It is a great reminder that there must be a balance in everything, including the Christian walk. 
+
+**Highlights:** The tracks that I found to be the real standouts were “**Foxhole**,” “**Salting the Wound**,” and “**Prisoners of The Abyss**,” with the latter being my favorite. “**…And Then There Was One**,” does its job as an opening instrumental track and hypes up “**Foxhole**.” “**Prisoners of The Abyss**,” stands out to me because, while the whole of **Worldwide Desolation** has this, it does have the best mix of both the groove and thrash aspects of the record in my opinion. 
 
 **Final Thoughts and Rating:** **Worldwide Desolation** is a very solid outing by **Brotality** and fans of the genre (thrash/groove metal) will find something to love here. 
 
