@@ -2,7 +2,7 @@
 title: "New Release: Brotality - Worldwide Desolation"
 date: "2021-02-05"
 tags:
-- Reviews
+- News
 - Trash Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/FBF0mQD/ezgif-com-gif-maker.webp
