@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/fMh4C0j/symphony.jpg
 ---
 
-Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the opportunity to talk with the band about their recent EP, the faith that drives their music and the upcoming full-length album. 
+Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the opportunity to talk with the band about their history, recent EP, the faith that drives their music and the upcoming full-length album. 
 
 <hr>
 
@@ -24,7 +24,7 @@ Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the oppor
 
 <br>
 
-What are some of your biggest musical, vocal, and lyrical influences?
+*What are some of your biggest musical, vocal, and lyrical influences?*
 
 **Logan:** Some of my biggest influences overall I'd have to say are bands such as Dimmu Borgir, Fear Factory, Metallica, Sepultura, Nile, Behemoth, Darkthrone and anything Devin Townsend has done.
 
@@ -64,7 +64,7 @@ What are some of your biggest musical, vocal, and lyrical influences?
 
 <br>
 
-You recently transitioned from being a solo project to a full band. What was the reasoning behind the decision?
+*You recently transitioned from being a solo project to a full band. What was the reasoning behind the decision?*
 
 **Logan:** Well, I couldn't play live by myself, and I love playing music live and with others. So, I needed band members. Thankfully David and Mason came on board in time for the first Audiofeed show we played in 2019. They were already good friends of mine and lived in the same state so we were able to get together and make music.
 
@@ -166,7 +166,7 @@ Logan, I know you enjoy reading material from the early church. Who are your fav
 
 
 
-When you're not doing music, what do you like to do in your free time?
+*When you're not doing music, what do you like to do in your free time?*
 
 **Logan:** We are a gaming household. We play our xboxes probably a little too much. I'm a huge Skyrim fan, along with Fallout 4, Resident Evil 2, and Assassin's Creed Odyssey. We also enjoy shooting the boy's BeeBee Guns and grilling out when it's warmer outside. 
 
