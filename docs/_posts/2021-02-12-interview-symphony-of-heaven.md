@@ -106,7 +106,7 @@ You recently transitioned from being a solo project to a full band. What was the
 
 *What are your favorite recent album releases from other bands?*
 
-**Logan:** I've been big on Enslaved's latest release "Utgard", also Mayhem's latest album is really good. Everything released so far from Pantokrator's next release is just absolutely amazing! There really is so many good albums out there I couldn't list them all lol. 
+**Logan:** I've been big on Enslaved's latest release "Utgard", also Mayhem's latest album is really good. Pantokrator's "Marching Out of Babylon" is just absolutely amazing! There really is so many good albums out there I couldn't list them all lol. 
 
 **David:** Well, I’ve been in a much more mellow mood the last year or so when casually listening to music (probably from starting a shoegaze/dreampop band with my wife), but for me Hundredth’s latest album, Somewhere Nowhere has been on repeat for me. Also, ‘68’s new EP, Love Is Ain’t Dead has been a big uplifter to me in the cold winter months. 
 
