@@ -42,7 +42,7 @@ What are some of your biggest musical, vocal, and lyrical influences?
 
 **David:** Justin K. Broadrick for being such a visionary for bands like Napalm Death, Godflesh and Jesu. Also, I’ve always loved Peter Espevoll from Extol (especially Undeceived) vocally as the layered approach really hit my ear pleasingly.
 
-**Mason** For me, first off, I will always have a place in my heart for Bruce Fitzhugh of Living Sacrifice. The man can do no wrong, vocally, in my eyes. Chuck Shuldiner (Death), Max Cavalera (Sepultura, Cavalera Conspiracy), Kris McCaddon (The Famine, Embodyment), Matt Plunkett (Abated Mass of Flesh), Tom Araya (Slayer), and Elisha Mullins (The Burial) are probably my all-time, as of this interview, favorite vocalists. I believe all of them play an instrument as well.
+**Mason:** For me, first off, I will always have a place in my heart for Bruce Fitzhugh of Living Sacrifice. The man can do no wrong, vocally, in my eyes. Chuck Shuldiner (Death), Max Cavalera (Sepultura, Cavalera Conspiracy), Kris McCaddon (The Famine, Embodyment), Matt Plunkett (Abated Mass of Flesh), Tom Araya (Slayer), and Elisha Mullins (The Burial) are probably my all-time, as of this interview, favorite vocalists. I believe all of them play an instrument as well.
 
 <br>
 
@@ -70,13 +70,13 @@ You recently transitioned from being a solo project to a full band. What was the
 
 **David:**  Logan and I were in the same boat at the same time, we both wanted to play with our own bands in a live setting and lived (fairly) close to each other. So, we all wanted to get together and help each band achieve that goal. I’m so glad to be friends with all the other members and be apart of something with such a great message behind it!
 
-**Mason** I basically hounded Logan for the year and a half that SOH existed about playing drums live if the opportunity ever arose. So, for some reason, I was his first choice. Even though, at the time, I had never played live and barely played with anyone outside of my church worship team. I’m truly honored that I made the cut and I’ve worked very hard to match the talent of each member’s musical proficiency. More of a journey than a destination.
+**Mason:** I basically hounded Logan for the year and a half that SOH existed about playing drums live if the opportunity ever arose. So, for some reason, I was his first choice. Even though, at the time, I had never played live and barely played with anyone outside of my church worship team. I’m truly honored that I made the cut and I’ve worked very hard to match the talent of each member’s musical proficiency. More of a journey than a destination.
 
 <br>
 
 *What is the inspiration behind the  The Ascension of Extinction artwork?*
 
-**Logan-** The artwork for TAOE is based off of old Soviet propaganda, but almost as if the mask is removed and you see the true nature of the ideologies of marxists, Communists and humanists. They show themselves as liberators and heroes, but in reality they are demons and horrific monsters that come to devour, destroy and enslave.
+**Logan:** The artwork for TAOE is based off of old Soviet propaganda, but almost as if the mask is removed and you see the true nature of the ideologies of marxists, Communists and humanists. They show themselves as liberators and heroes, but in reality they are demons and horrific monsters that come to devour, destroy and enslave.
 
 <br>
 
@@ -148,15 +148,15 @@ You recently transitioned from being a solo project to a full band. What was the
 
 <br>
 
-*Favorite book of the Bible and why?*
+*Favorite book of the Bible?*
 
-**Logan-** That goes back and forth between Ecclesiastes, Proverbs, Psalms, Job and then as far as New Testament goes, I'd have to say Romans, Colossians, and Revelation, especially the individual letters to the individual churches in the first few chapters.
+**Logan:** That goes back and forth between Ecclesiastes, Proverbs, Psalms, Job and then as far as New Testament goes, I'd have to say Romans, Colossians, and Revelation, especially the individual letters to the individual churches in the first few chapters.
 
-**David-** My name is David so I might be a little biased haha, but it will always be the Psalms and Proverbs.
+**David:** My name is David so I might be a little biased haha, but it will always be the Psalms and Proverbs.
 
-**Mason-** Proverbs, Job, Isaiah, Daniel, and Matthew. To me, a lot of wisdom can be derived from these. Of course that does not exclude the others, but these are the ones that have meant the most to me.
+**Mason:** Proverbs, Job, Isaiah, Daniel, and Matthew. To me, a lot of wisdom can be derived from these. Of course that does not exclude the others, but these are the ones that have meant the most to me.
 
-**Eero-** I think I have read Proverbs most.
+**Eero:** I think I have read Proverbs most.
 
 <br>
 
@@ -176,7 +176,7 @@ When you're not doing music, what do you like to do in your free time?
 
 *Now that your EP is out, what’s next for Symphony of Heaven?*
 
-**Logan** We are finishing up the next full length album as we speak. It's super close to being done and so we will be releasing that as we get everything done.
+**Logan:** We are finishing up the next full length album as we speak. It's super close to being done and so we will be releasing that as we get everything done.
 
 **David:** Get everything in place for the new album and practice up for some live shows… hopefully.
 
@@ -186,11 +186,11 @@ When you're not doing music, what do you like to do in your free time?
 
 *Any other projects, you'd like to shed light on?*
 
-**Logan-** I'd like everyone to check out all the other groups that us members are apart of. David's bands Timōrātus and Color Crush, Mason's projects Mystic Winter and The Thilipsis, and Eero's bands Renascent, The Slave Eye and Angel of Sodom to name a few.
+**Logan:** I'd like everyone to check out all the other groups that us members are apart of. David's bands Timōrātus and Color Crush, Mason's projects Mystic Winter and The Thilipsis, and Eero's bands Renascent, The Slave Eye and Angel of Sodom to name a few.
 
-**David-** As Logan’s said, I’d really love for everything to check out all the other projects we are all a part of, Renascent, Elgibbor, Mystic Winter, The Thilipsis, The Slave Eye, and Angel of Sodom.
+**David:** As Logan’s said, I’d really love for everything to check out all the other projects we are all a part of, Renascent, Elgibbor, Mystic Winter, The Thilipsis, The Slave Eye, and Angel of Sodom.
 
-**Mason-** Definitely want to push Timōrātus, Renascent, and Elgibbor as David, Eero, and Logan’s main projects. I’ve been writing a new Mystic Winter EP and The Thlipsis’ new EP, which will both hopefully come out this year. Logan and I also have a project with Jarek Pozarycki (Elgibbor, Pozar, Frost Like Ashes) and Ravn Furfjord (Frosthardr, A Hill to Die Upon) called Koronatizor, which also may be writing new material here soon.
+**Mason:** Definitely want to push Timōrātus, Renascent, and Elgibbor as David, Eero, and Logan’s main projects. I’ve been writing a new Mystic Winter EP and The Thlipsis’ new EP, which will both hopefully come out this year. Logan and I also have a project with Jarek Pozarycki (Elgibbor, Pozar, Frost Like Ashes) and Ravn Furfjord (Frosthardr, A Hill to Die Upon) called Koronatizor, which also may be writing new material here soon.
 
 <br>
 
@@ -206,7 +206,7 @@ When you're not doing music, what do you like to do in your free time?
 
 [Facebook](https://web.facebook.com/symphonyofheaven) | [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fsymphony_of_heaven%3Figshid%3D11414gycdhtjb%26fbclid%3DIwAR3tA8Eu8OppoPIXPebuVSEjIFBuFq4MJ2DzQrgwtjBXb6gV29FEVcGeaIs&h=AT0qaw3TgJFUEUdQYLAgI8wwy2Fa5ol_GQnurHjzLModVwLvi77Y2qmSeOb_n7A4I5ZJgKFd1xRAMGeFfhY20vzsvHZScokW6EdDFQ86DeY0D7iuUrxa6jwT7m-la9V80EumEA) | [Itunes](https://music.apple.com/ca/artist/symphony-of-heaven/1297842477) | [Youtube](https://www.youtube.com/user/loganathompson)
 
- [The Season of Death](https://symphonyofheaven.bandcamp.com/album/the-season-of-death-2) (Full-length) \[2017\]
+ [The Season of Death](https://symphonyofheaven.bandcamp.com/album/the-season-of-death-2) \[2017\]
 
 <hr>
 
