@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: Symphony of Heaven"
+title: "INTERVIEW: SYMPHONY OF HEAVEN"
 date: "2021-02-12"
 tags:
 - Interviews
