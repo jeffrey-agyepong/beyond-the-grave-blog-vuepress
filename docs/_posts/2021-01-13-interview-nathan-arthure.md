@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: NATHAN ARTHURE (formerly ARTHURE)"
+title: "INTERVIEW: NATHAN ARTHUR (formerly ARTHURE)"
 date: "2021-01-13"
 tags:
 - Interviews
