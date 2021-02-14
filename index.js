@@ -27,7 +27,7 @@ module.exports = themeConfig => {
       },
       {
         text: 'Submit Music',
-        link: '/submit-music/',
+        link: '/submit/',
       },
       {
         text: 'About',
