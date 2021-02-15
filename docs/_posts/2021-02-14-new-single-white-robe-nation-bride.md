@@ -1,5 +1,5 @@
 ---
-title: "New Single: White Robe Nation - Bride "
+title: "New Single: White Robe Nation - Bride"
 date: "2021-02-14"
 tags:
 - News
@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gVHTCQr/bride.jpg
 ---
 
-Internet-based Christian metal project has released a new single entitled "Bride". "Bride" is a call to husbands to love their bride as Christ first loved his (the church). 
+Internet-based Christian metalcore project, White Robe Nation has released a new single entitled "Bride". "Bride" is a call to husbands to love their bride as Christ first loved his (the church). 
 
 <hr>
 
