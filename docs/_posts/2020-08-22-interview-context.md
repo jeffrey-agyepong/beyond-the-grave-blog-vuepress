@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/B6SFX5s/context2.jpg
 ---
 
-**Context** is a Christian Metal Band from Morgantown, West Virginia. They're gearing up to release a full-length record. Let's have a chat with the band.
+**Context** is a Christian Metal Band from Morgantown, West Virginia. They set aside some time from their busy schedule to discuss the history of the band, Reformed theology, and their upcoming full-length album.
 <hr>
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/nWXEX0EC7rY" width="560" height="315" frameborder="0"></iframe>
