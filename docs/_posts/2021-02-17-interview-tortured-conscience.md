@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rGBmfR1/Jeff.png
 ---
 
-Tortured Conscience is a Christian death metal band, who deal with deeper theological issues as well as social issues. Jeff Leonard took some time out of his schedule, to discuss the history of the band, the story behind remixing & remastering Every Knee Shall Bow, Reformed theology and the upcoming release "Death to False Gods".
+Tortured Conscience is a Christian death metal band, who deal with deeper theological issues as well as social issues. Jeff Lenormand took some time out of his schedule, to discuss the history of the band, the story behind remixing & remastering Every Knee Shall Bow, Reformed theology and the upcoming release "Death to False Gods".
 
 <hr>
 
