@@ -8,7 +8,7 @@ author: Ton Ringenier
 featuredimg: https://i.ibb.co/6nrmjLk/sop.png
 ---
 
-**Record Label:** Independent
+**Record Label:** Svartskog Productions
 
 **Genre:** Black Metal
 
@@ -36,7 +36,7 @@ Currently, the band comprises the following members:
 
 > *David Rönland - Vocals*
 >
-> *Linus Bergman - Guitars and aggressive vocals*
+> *Linus Bergman - Guitars and ingressive vocals*
 >
 > *Zharlie Sambeko - Bass Guitar*
 >
