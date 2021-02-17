@@ -11,10 +11,13 @@ featuredimg: https://i.ibb.co/rGBmfR1/Jeff.png
 Tortured Conscience is a Christian death metal band, who deal with deeper theological issues as well as social issues. Jeff Leonard took some time out of his schedule, to discuss the history of the band, the story behind remixing & remastering Every Knee Shall Bow, Reformed theology and the upcoming release "Death to False Gods".
 
 <hr>
+
+
 **Introduce yourself and tell us your role in Tortured Conscience.**
 
-
 Jeff: I’m Jeff. I write all the lyrics and music for Tortured Conscience and play both guitar and bass on the recordings. TC isn’t a full band yet, so I have to pull quadruple duty. Haha.
+
+<br>
 
 **What is the history behind the Tortured Conscience?**
 
@@ -26,45 +29,67 @@ I met Berto Salas through a metal chat room (this was back when AOL was a thing)
 
 After EKSB came out, we started working on the follow-up, but life happened and that was put on hold. John and I, along with Benumb singer Pete Ponitkoff, started a secular band called Agenda of Swine. After that petered out, I became disillusioned with music as a whole and almost gave it up entirely. But Charles Powell called me and asked me if I would put out another TC album on his new label. I honestly didn’t want to do it. At the time I felt music was painful. It was soul-crushing. Whenever I sucked, whether it was live or on tape (yep, I just dated myself with that one. Haha), it was just an overwhelming feeling. I felt EKSB really didn’t come out the way I wanted it to and I was almost embarrassed by how bad the recording was. I didn’t want to make that same mistake. But Charles convinced me to give it another go. This time, I told myself, I was going to do it differently. Tighter performances, heavier music, and deeper lyrics.
 
+<br>
+
 **What are your main influences musically and lyrically?**
 
 Jeff: Musically my main influences are bands like Cannibal Corpse, Misery Index, Nile, First Fragment, Malevolent Creation, Hate Eternal, etc. Lyrically I’m inspired by writers and apologists like Greg Bahnsen, James White, Sye Ten Bruggencate, Jeff Durbin, RC Sproul, John McCarthur, Scott Oliphant, Douglas Wilson, etc.
+
+<br>
 
 **Every Knee Shall Bow was originally recorded in 2006, what was the mindset behind remixing and remastering it?** 
 
 Jeff: Actually, the idea came from Duane Keith from Vision of God records. He suggested we do it. He found out that Bombworks Records, who originally released the CD, didn’t have ownership, so I was free to do it. Keith wanted to put it out on VOG, but I told him I’d have to talk to Charles to see if Battlefrost wanted to put it out. If he didn’t want to, then VOG was free to do it. Charles said he did want to do it, and we got to work. I tracked down the original artwork from Joshua Croft and the original tracks from Adam Bove’. Charles took what he had, cleaned it up, and released it digitally. We’re still working on the bonus track, a re-writing and recording of the song No Ambiguity, and when that’s done he’ll release the physical CD.
 
+<br>
+
 **What is the theme of the record and the concept behind the artwork?**
 
 Jeff: The artwork was an idea I had where you had Satan bowing down to Jesus, showing that yes…every knee will bow down before Him, even Satan.
+
+<br>
 
 **What was your inspiration for writing the lyrics?**
 
 Jeff: At the time I was into apologetics, but I hadn’t discovered presuppositionalism yet, so my inspiration came from evidentialists like William Lane Craig, Hank Hanegraaff, Frank Turek, Lee Strobel, etc. So a lot of the lyrics reflected that theological worldview, as well as an Arminian position. Since then I’ve embraced both Reformed Theology and presuppositional apologetics. 
 
+<br>
+
 **How is the writing and recording process going for Death to False Gods? You’ve talked online about having a couple of mishaps along the way.**
 
 Jeff: “A couple” would be an understatement. Haha. Charles and I are trying to get a home recording situation set up for me, but every time there is progress, something happens. For instance, I have already recorded 5 songs for the album, which means it theoretically should almost be done. However, when I was recording the new No Ambiguity, Charles noticed a popping sound coming from the recording. Now, I hadn’t heard it and still couldn’t make it out, but Charles has much more tuned-in ears than I do and caught it. So what that means is all those other songs that I had already finished could possibly be no good which means I might have to start all over again. See what I mean by how music is painful?
+
+<br>
 
 **What's the theme of the record?**
 
 Jeff: I set out with two goals in mind – one, to write lyrics to get the listener/reader to think; to put a stone in their shoe, as it were. Two, to perhaps inspire other Christian metal bands and musicians to get deeper into theology and apologetics. I think that a lot of Christian music just lacks the depth of, say, the old hymn writers had. I’ve also noticed a trend in the Christian rap scene where their lyrics are much richer than ours. If you think about it, back in the day it was the Christian artists that led the way in artwork, poetry, sculpting, etc. But now we’ve fallen behind. Christian movies, for instance, generally suck and are subpar. I believe we should all strive to change that. Now, none of this is to say that I’m claiming to be some wordsmith of any kind. Far from it. But I’m hoping that the lyrics just might inspire someone who is to reach deeper into themselves and pull out their God-given talents. If I ultimately fail, well…at least I gave it the ol’ college try, as they say. Haha.
 
+<br>
+
 **What's it like working with Charles Powell of Battlefrost Productions?**
 
 Jeff: It’s a freakin’ nightmare!! Haha! Just kidding. Actually, Battlefrost Productions is the most logical choice any Christian band could make. With BP you get not only a record label but access to recording facilities, making the cost of recording an album much lower. Charles has always been available to talk and make plans and to basically get the best product. I’ve never had a similar experience before. 
+
+<br>
 
 **How did you come to faith in Christ? Were you raised in a Christian home?**
 
 Jeff: No, not at all. In fact, I believe I’m the only Christian in my family, or at least within throwing distance. I’m also the only politically conservative as well. As far as how I came to faith, the easy answer is by saying, “By God choosing me in eternity past.” But basically at 17 or so I smoked too much pot at a Judas Priest concert, got paranoid, and thought I was going to die. Haha. Obviously, I didn’t, but I wondered what would have happened had I died. So reached out to a friend of mine that I knew went to church and asked him a bunch of questions, the first being, “What does it mean that you have to believe that Jesus died for your sins?” I had heard that before, but never understood what it meant.
 
+<br>
+
 **Do you have an affinity to a certain branch of the Christian faith? How did you come to that position?** 
 
 Jeff: The church I go to now, Zion United Reformed Church in Ripon, California, bases its structure around Reformed Presbyterianism, which includes infant baptism. When I started going I told them that was the only issue I was still struggling with. I was a credobaptist and didn’t agree with paedobaptism. I’ve since come to appreciate the position of the paedobaptists and, while it’s not a hill I’m willing to die on, I’m leaning more towards it. But I still understand the objections the credobaptists have. So don’t expect any debate on the subject from me. Haha. (Not yet, anyway.)
 
+<br>
+
  **How much of your lyrics come from knowledge and how much from divine intervention and the need to get the message out there? (Question from Hezekiah R.)** 
 
 Jeff: I’m certainly not in the position to speak for God, so I couldn’t comment on any divine intervention. I write about what I study. I have a passion for Reformed theology and presuppositional apologetics so that’s what I write on. When an issue comes up that I feel I should address, I suppose one could say that the idea was inspired by the Holy Spirit, but I don’t want to go too far with that for fear of tying something to Him that may or may not have come from Him. Too many Christians are too flippant with saying things like, “The Lord told me…” or “I feel that God is saying/telling me to do X, Y, and Z.” When you put things in God’s mouth that He never said, that’s blasphemy. That’s not a road I want to go down.
+
+<br>
 
 **How did you come to embrace Reformed theology? And could you expound on some of the major tenants for our readers who might not be familiar with this particular school of thought?** 
 
@@ -90,21 +115,31 @@ I also began to realize that my initial objections to Calvinism based on misunde
 
 I would watch countless scholarly debates on the subject, listen to lecture after lecture, sermon after sermon, trying to make sense of everything (or at least somethings). To my surprise, I kept seeing that it was the Calvinists who were the ones exegeting Scripture and walking through it, while the Arminians tended to rifle off passages without breaking them down, or they were taking entire sections and going in various directions with it instead of walking through it. I began to see that it was the Calvinists who were the consistent ones Scripturally and made more sense of it. So I ended up fully embraced it. I’m still learning, but my love for God has grown beyond all measure as compared to when I was an Arminian. I have been more challenged intellectually and spiritually than ever before.
 
+<br>
+
 **Reformed Theology tends to have a bad reputation, especially in our modern context. How has the general reception been to your lyrical content? Have you received any backlash?**
 
 Jeff: Since Death to False Gods hasn’t been finished yet, I haven’t seen any backlash towards the overtly Reformed nature of the lyrics. However, I have had some backlash in general when speaking/writing on the subject. But I find that a lot of the objections to what I’m saying stems from an assumption of what I’m saying, not on what I’m actually saying. For instance, it gets assumed that I’m saying God “makes” someone do evil, which I reject. It’s assumed that I’m saying that no action is done freely, which I do not believe. (I believe all actions are done freely, but done with a fallen nature, which is ultimately selfish and self-serving. Only a freed nature can any action be towards the glory of God and not of self.) I’m sympathetic to those that are making those objections because, at one time, I made those same objections when I was an Arminian. 
+
+<br>
 
 **What’s the progress on the upcoming release from your side project Arterial Atrophy?** 
 
 Jeff: All the guitars, bass, and drums are completed. I’m only waiting for Pete to finish recording the vocals. Unfortunately, because of Covid, a lot of studios in his area of Oregon are closed. But he finally found one and is making plans to record there. Fingers crossed!
 
+<br>
+
 **What are some of your favorite bands in the Christian metal scene? And what are some recent albums you’ve particularly enjoyed?**
 
 Jeff: I really dig Broken Flesh. Taking the Head of Goliath is also another one I’m digging. In-Conquest and Brotality have recently sparked my interest. I’m just waiting for Luke Renno, Steve Reishus, and Miles Sunde to put out another Crimson Thorn album!
 
+<br>
+
 **What's the best way fans can support you in your musical endeavors?** 
 
 Jeff: Buy the merch, I suppose. Lol
+
+<br>
 
 **Thank you for taking the time to do this. Any last words you’d like to share?** 
 
