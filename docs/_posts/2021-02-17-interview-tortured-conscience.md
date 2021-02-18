@@ -131,7 +131,7 @@ Jeff: All the guitars, bass, and drums are completed. I’m only waiting for Pet
 
 **What are some of your favorite bands in the Christian metal scene? And what are some recent albums you’ve particularly enjoyed?**
 
-Jeff: I really dig Broken Flesh. Taking the Head of Goliath is also another one I’m digging. In-Conquest and Brotality have recently sparked my interest. I’m just waiting for Luke Renno, Steve Reishus, and Miles Sunde to put out another Crimson Thorn album!
+Jeff: I really dig Broken Flesh, Frost Like Ashes and Crushing the Deceiver. Taking the Head of Goliath is also another one I’m digging. In-Conquered and Brotality have recently sparked my interest. I’m just waiting for Luke Renno, Steve Reishus, and Miles Sunde to put out another Crimson Thorn album!
 
 <br>
 

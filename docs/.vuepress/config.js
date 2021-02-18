@@ -1,6 +1,6 @@
 module.exports = {
   title: 'BEYOND THE GRAVE',
-  publicPath: 'https://beyondthegrave.netlify.app/',
+  publicPath: 'https://www.beyondthegravemusic.com/',
   description: 'Christian Metal/Hardcore Online Magazine',
   logo: './assets/img/logo.png',
   head: [
@@ -145,7 +145,7 @@ module.exports = {
     },
 
     sitemap: {
-      hostname: 'https://beyondthegrave.netlify.app/'
+      hostname: 'https://www.beyondthegravemusic.com/'
     },
     comment: {
       service: 'disqus',
@@ -155,7 +155,7 @@ module.exports = {
       endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
-      canonical_base: 'https://beyondthegrave.netlify.app/',
+      canonical_base: 'https://www.beyondthegravemusic.com/',
     },
     smoothScroll: true
   },
