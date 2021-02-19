@@ -28,6 +28,8 @@ Sjelehøst produced nearly 30 songs and ended at the start of 2006. Then I got s
 
 **Demo (Demo) \[2010\]**
 
+**[Repentance](https://www.youtube.com/watch?v=eb38LFl__BA) (Single) [2017]**
+
  **[Day](https://rootsoftragedy.bandcamp.com/track/day) (Single) \[2018\]**
 
  **[Game Over](https://rootsoftragedy.bandcamp.com/track/game-over) (Single) \[2018\]** 
