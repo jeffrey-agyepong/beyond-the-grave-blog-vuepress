@@ -110,7 +110,6 @@ export default {
   font-size 20px
   padding 10px 0
   list-style none
-  border solid #fff
   border-radius 25px
   text-align center
   width 250px
