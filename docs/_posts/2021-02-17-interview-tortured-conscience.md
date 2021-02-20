@@ -146,8 +146,7 @@ Jeff: Buy the merch, I suppose. Lol
 Jeff: I would encourage every Christian musician to make sure they’re in a healthy, well-balanced church where they can be discipled and held accountable and be fed. Get deeper into your love for God and learning more about Him. Strive to become examples for others to follow through with your art. 
 
 <hr>
-
-[Digital Download(Pre-order)](https://battlefrost.com/product/every-knee-shall-bow-download/) | [CD (Pre-order)](https://battlefrost.com/product/every-knee-shall-bow-cd/)
+[Digital Download](https://battlefrost.com/product/every-knee-shall-bow-download/) | [CD (Pre-order)](https://battlefrost.com/product/every-knee-shall-bow-cd/)
 
 
 
