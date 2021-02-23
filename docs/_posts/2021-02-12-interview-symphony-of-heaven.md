@@ -24,7 +24,7 @@ Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the oppor
 
 <br>
 
-*What are some of your biggest musical, vocal, and lyrical influences?*
+*What are some of your biggest musical and lyrical influences?*
 
 **Logan:** Some of my biggest influences overall I'd have to say are bands such as Dimmu Borgir, Fear Factory, Metallica, Sepultura, Nile, Behemoth, Darkthrone and anything Devin Townsend has done.
 
@@ -92,7 +92,7 @@ Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the oppor
 
 *What's the story behind each guest vocalist on The Ascension of Extinction?*
 
-**Logan:** Well, Karl of Pantokrator and I have become best of friends over the internet over the last year or two, we talk all the time and share alot of the same views. So being I was a Pantokrator fan even before I met him, it was a natural thing to have him do a guest spot, especially for the content of this EP, which he also contributed quite a few lyrical ideas as well. As far as MUND of Skald In Veum goes, that is even a mystery to me to this day. I believe Karl might've been able to pass the word along to Skald that I was interested in having MUND appear, and eventually the word got to Mund. That band is quite the mystery as you know, so I believe they delivered the finished vocal file to Karl which then passed it back to me. From what I understand that was a joint effort of the vocals of MUND and the lyrics of HETH.
+**Logan:** Well, Karl of Pantokrator and I have become best of friends over the internet over the last year or two, we talk all the time and share a lot of the same views. So being I was a Pantokrator fan even before I met him, it was a natural thing to have him do a guest spot, especially for the content of this EP, which he also contributed quite a few lyrical ideas as well. As far as MUND of Skald In Veum goes, that is even a mystery to me to this day. I believe Karl might've been able to pass the word along to Skald that I was interested in having MUND appear, and eventually the word got to MUND. That band is quite the mystery as you know, so I believe they delivered the finished vocal file to Karl which then passed it back to me. From what I understand that was a joint effort of the vocals of MUND and the lyrics of HETH.
 
 <br>
 
@@ -166,9 +166,9 @@ Logan, I know you enjoy reading material from the early church. Who are your fav
 
 
 
-*When you're not doing music, what do you like to do in your free time?*
+*When you're not creating music, what do you like to do in your free time?*
 
-**Logan:** We are a gaming household. We play our xboxes probably a little too much. I'm a huge Skyrim fan, along with Fallout 4, Resident Evil 2, and Assassin's Creed Odyssey. We also enjoy shooting the boy's BeeBee Guns and grilling out when it's warmer outside. 
+**Logan:** We are a gaming household. We play our Xboxes probably a little too much. I'm a huge Skyrim fan, along with Fallout 4, Resident Evil 2, and Assassin's Creed Odyssey. We also enjoy shooting the boy's BeeBee Guns and grilling out when it's warmer outside. 
 
 **Mason:** I like writing stories a lot. I’ve been diving into writing short stories lately, so I’ve been working on those here a lot. Aside from that, I help manage The Metal Onslaught Magazine, which also helps scratch the writing itch. I love promoting other bands’ material the best I can. Hosting the Life of Defiance Podcast with my close friend Roland Street has also been a lot of fun as of late. But overall, whenever I get the opportunity, I really enjoy spending time with my friends and just shooting the breeze. 
 

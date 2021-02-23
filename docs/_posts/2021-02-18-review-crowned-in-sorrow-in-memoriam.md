@@ -14,7 +14,7 @@ featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 
 **Album length:** 1 hour 3 minutes
 
-**Genre:** Epic/Melodic/Progressive/Doom Metal
+**Genre:** Epic/Melodic/Progressive Doom Metal
 
 **Track listing:**
 

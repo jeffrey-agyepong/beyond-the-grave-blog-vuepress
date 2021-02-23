@@ -3,7 +3,7 @@ title: "New Release: Crowned In Sorrow - In Memoriam"
 date: "2021-01-29"
 tags:
 - News
-- Death Metal
+- Doom Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---

@@ -3,7 +3,7 @@ title: "New Single: Crowned In Sorrow - We Carried Your Body(feat. Luke Renno) -
 date: "2021-01-25"
 tags:
 - News
-- Death Metal
+- Doom Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---

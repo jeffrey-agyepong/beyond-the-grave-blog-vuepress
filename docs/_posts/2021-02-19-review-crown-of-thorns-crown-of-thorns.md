@@ -14,9 +14,10 @@ featuredimg: https://i.ibb.co/FBNmqrF/crown-of-thorns.webp
 
 **Album length:** 11:00 
 
-**Genre:** Christian Melodic/symphonic Unblackend Slamming Lifecore
+**Genre:** Blackened Death Metal
 
 **Tracklist:**
+
 1. Luxuria
 2. Desperationis
 3. Wake Up Sleeper
