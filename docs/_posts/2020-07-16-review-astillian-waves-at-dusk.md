@@ -47,7 +47,7 @@ Tracklist:
 
 **Overall:** The album packs a real punch that is sure to break any boredom the listener may have been experiencing beforehand. So raise the anchor and set sail into this album!
 
- <h3 style="text-align:center;">Rating: 9.0/10</h3>
+ <h3 style="text-align:center;">Rating: 8.5/10</h3>
 
 <hr>
 
