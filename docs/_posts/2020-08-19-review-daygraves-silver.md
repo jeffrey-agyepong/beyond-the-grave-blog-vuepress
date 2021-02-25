@@ -58,11 +58,13 @@ When a Christian artist gets his music inspired by the Lord and uses it this way
 Loved it, caught my attention, and my heart, and left me wanting to listen more daygraves. Perfectly made Blackgaze.
 
 <hr>
+
 **Favorite Tracks:** The Headache. The Heartache, Morning Stars, and Oh Gates.
+
 
 <h3 style="text-align:center;">Rating: 9.5/10</h3> 
 
-**Written by:** Gabriel Mesones ([Gorship777](https://www.instagram.com/gorship777/))
+​                                                         **Written by:** Gabriel Mesones ([Gorship777](https://www.instagram.com/gorship777/))
 
 * * *
 
