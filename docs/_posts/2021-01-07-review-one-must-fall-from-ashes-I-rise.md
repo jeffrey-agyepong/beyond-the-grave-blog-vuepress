@@ -18,7 +18,7 @@ Record Label: Independent<br>
 
  They have released their first single, it's called **From Ashes I Rise**. When you listen to this song you can hear that this is a very professional debut song. The band contains two members of the melodic metal band **Gloriam Dei**, and all of the members have contributed to other projects, so this is a very experienced line-up.   What I really like is the keyboard-driven sound and also the solo is awesome, it gives the song an extra bit. The song is beautifully balanced and the vocalist has an outstanding voice. I must admit I don't listen to many secular bands these days but I have listened to Stratovarius quite a bit and this reminds me a little bit of their style, without sounding the same, and this song has a more mid-tempo than most of the songs of Stratovarius.
 
- I am pretty much looking forward to hearing some more material. And it's so good to have another faith based band in the melodic metal scene. My guess is we will also have some more uptempo songs to look forward to!
+ I am excited to hear some more material from them. And it's so good to have another faith based band in the melodic metal scene. My guess is we will also have some more up-tempo songs to look forward to!
 
 <hr>
 
