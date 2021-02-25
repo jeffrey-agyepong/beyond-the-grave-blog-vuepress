@@ -28,6 +28,8 @@ I got to read the lyrics before listening to the song, and honestly, I’m glad 
 
 I did go and listen to their other recent single **Suffering of the Mind** and found that this song seems to be a bit of an anomaly, as they play a more standard (albeit great) Deathcore fare. I’ll be interested to hear what else is coming and how this song fits in the grander scheme. Some issues with the lyrical content and needing to get over the shock to the system this was initially was, I greatly enjoyed it and highly recommend it to anyone who needs the aural assault you’re going to get.
 
+<hr>
+
 **Rating:** I’m not sure what to go with here. I think I’ll wait to hear more and hear it in context. Just know that it is a great song.
 
 <hr>
