@@ -20,7 +20,7 @@ The **sound** of the EP is very beautiful and peaceful, the acoustic guitar mixe
 
 **Overall** this is one of the best discoveries of the year of a new band and singer-songwriter. This EP has such a beautiful raw sound, makes you feel so vulnerable and emotional. Such deep and raw feelings. With deep and relatable lyrics for a lot of people and in a relationship. The vocals are amazing and make you feel more emotional and feel the emotions of the songs. Amazing EP hope to see more soon.
 
-  <h3 style="text-align:center;">Rating: 9.5/10</h3>
+  <h3 style="text-align:center;">Rating: 8.5/10</h3>
 
 **Favorite tracks:** Nothing Wrong, Home, Wild Eyes, Rain, Outcast.
 
