@@ -7,7 +7,7 @@ module.exports = {
     ['link', { rel: 'icon', sizes: '32x32', href: './assets/img/favicon.ico' }],
   ],
   plugins:{ 
-    '@vuepress/google-analytics': {
+    '@vuepress/plugin-google-analytics': {
       ga: 'G-B652H7R518',
     },
     'seo':{
