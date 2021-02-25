@@ -40,8 +40,7 @@ The man behind **Cybil** has a powerful testimony: "I got my life together and h
 **Overall:** I believe that Cybil has a good future in the Metal community. You can tell that a lot and time was put into this EP. I will be looking forward to what Cybil offers us in the future.
 
 <hr>
-
-<h3 style="text-align:center;">Rating: 7/10</h3>
+<h3 style="text-align:center;">Rating: 6.5/10</h3>
 
 <hr>
 
