@@ -21,7 +21,7 @@ featuredimg: https://i.ibb.co/5szHnDn/capa-frente-angels-fire.jpg
 **Track List:** 
 1. O Conto
 2. Anjo de Luz 
-3. <h3 style="text-align:center;">Rating: 9.5/10</h3>
+3. Sacrificio
 
 4. Guardiao   
 5. Alem do Horizonte 
@@ -32,7 +32,6 @@ featuredimg: https://i.ibb.co/5szHnDn/capa-frente-angels-fire.jpg
 10. Angel’s Fire
 11. Meu Desejo - Instrumental
 <hr>
-
 **Band members:**  
 Priscila Lira - Vocals  
 Israel Lira - Guitar  
@@ -54,7 +53,9 @@ André Lima - Drums
 **Final Thoughts:** Overall, I had a lot of fun listening to **Angel’s Fire**’s album “**O Conto**”. It was impressed by their musical talents in a variety of instruments and the vocal abilities of Priscila. The soothing vocals along with the amazing choir and orchestra really brought a theatrical presence that isn’t heard much in the Christian Metal scene much. I would definitely recommend this album to those who enjoy metal and symphony in general.
 
 <hr>
+
 **Favorite Tracks:** Anjo de Luz, Guardiao, Pensamentos emu ma Lindo Noite
+
 
 <h3 style="text-align: center">Rating: 8.5/10</h3>
 

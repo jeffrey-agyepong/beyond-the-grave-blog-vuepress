@@ -48,7 +48,7 @@ This EP has 4 songs and an intro. The length of the songs is short as with most 
 
 **Favorite Tracks:** Strength to Stand, Repent & Believe.
 
-<h3 style="text-align:center;">Rating: 8.5/10</h3>
+<h3 style="text-align:center;">Rating: 8/10</h3>
 
 * * *
 
