@@ -54,11 +54,9 @@ The musicianship of TIMŌRĀTUS is obvious, with their ability to play a wide va
 
 **Overall**, this is a solid and unique album. I would recommend this album to anyone who wants to explore the metal genre. It's something different, entertaining, and the subject is realistic in the current metal scene. It's very cohesive, so this album is best listened to as a whole, instead of standalone tracks. The only setback for me was the style of electronica they used, a little overbearing at times but if you don't mind it, you'll thoroughly enjoy this record.
 
-**Favorite tracks:** Chasing Trends, Creative Control, Christmas Present Chaos
+ <h3 style="text-align:center;">Rating: 7.5/10</h3>
 
- <h3 style="text-align:center;">Rating: 8/10</h3>
-
- Written by: [Alberto](https://www.instagram.com/knights_in_darkness/?hl=en) and Jeffrey A.
+<h3 style="text-align:center;">Written by: Alberto and Jeffrey A.</h3>
 
 * * *
 

@@ -48,7 +48,9 @@ featuredimg: https://i.ibb.co/hgZs3B6/eternalafterdeath.jpg
 
 **Overall:** This album is a raging, powerful display of Brutal Deathcore. Listen, and you will not be disappointed.
 
-### <h3 style="text-align:center;">Rating: 8/10</h3>
+<hr>
+
+ <h3 style="text-align:center;">Rating: 7.5/10</h3>
 
 <hr>
 
