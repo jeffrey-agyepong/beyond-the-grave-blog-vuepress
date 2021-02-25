@@ -42,7 +42,6 @@ I’m going to pause here for a second and give an overall opinion on the two so
 All in all, this review may have come across as particularly negative, but I do recommend going and giving this a try. We have a new band experimenting and largely succeeding at carving out a place for themselves. They are good musicians with a clear passion to preach Jesus’ good news. A little of a budget and a bit of work on their song structures, and we have a new addition to the pantheon of Christian Death metal.
 
 <hr>
-
 [Instagram](https://www.instagram.com/crownofthornsband/) | [Facebook](https://www.facebook.com/CrownOfThornsBand421)
 
 <hr>
