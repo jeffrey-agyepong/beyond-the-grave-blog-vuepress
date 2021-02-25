@@ -21,7 +21,8 @@ featuredimg: https://i.ibb.co/5szHnDn/capa-frente-angels-fire.jpg
 **Track List:** 
 1. O Conto
 2. Anjo de Luz 
-3. Sacrificio 
+3. <h3 style="text-align:center;">Rating: 9.5/10</h3>
+
 4. Guardiao   
 5. Alem do Horizonte 
 6. Meu Desejo  
@@ -53,17 +54,10 @@ André Lima - Drums
 **Final Thoughts:** Overall, I had a lot of fun listening to **Angel’s Fire**’s album “**O Conto**”. It was impressed by their musical talents in a variety of instruments and the vocal abilities of Priscila. The soothing vocals along with the amazing choir and orchestra really brought a theatrical presence that isn’t heard much in the Christian Metal scene much. I would definitely recommend this album to those who enjoy metal and symphony in general.
 
 <hr>
-
-<h3 style="text-align:center">Rating: 8.5/10</h3>
-
-
-<hr>
-**Favorite tracks:** The entire album. Short enough to enjoy in a single sitting.
 **Favorite Tracks:** Anjo de Luz, Guardiao, Pensamentos emu ma Lindo Noite
 
-
-<hr>
 <h3 style="text-align: center">Rating: 8.5/10</h3>
+
 <hr>
 
 [iTunes](https://music.apple.com/ca/album/o-conto/1348813326) | [ONErpm ](https://www.onerpm.com/disco/album&album_number=1729111158)

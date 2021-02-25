@@ -1,9 +1,9 @@
-<h1 style="font-size: 35px;">Contact Us</h1>
+<h1 style="font-size: 45px;">Contact Us</h1>
 <p style="font-size: 20px;">For all enquires send us an email at:</p>
 <p style="font-size: 20px;">beyondthegrave777@gmail.com</p>
-<br> <br>
 
 <h2 style="font-size: 30px;">Review Request</h2>
+
 <hr>
 Want us to review your new EP/album?
 
