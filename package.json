@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
-    "@vuepress/plugin-google-analytics": "^1.7.1",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
     "babel-eslint": "^10.0.3",
     "conventional-changelog-cli": "^2.0.1",
     "eslint": "^6.8.0",
@@ -81,6 +81,7 @@
     "lint-staged": "^9.5.0",
     "sort-package-json": "^1.31.0",
     "vuepress": "^1.2.0",
+    "vuepress-plugin-google-adsense": "^0.1.1",
     "vuepress-plugin-seo": "^0.1.4"
   },
   "peerDependencies": {
