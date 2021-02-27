@@ -154,7 +154,7 @@ _Jeffrey: Awesome! That’s all I’ve got for you guys. Thanks so for doing thi
 
 **Craig: Yes, if you have a dream, push on, persevere, be relentless.**
 
-> ### _**Your faith will be rewarded. Don’t ever sell yourself short; don’t ever sell your God short. You are capable of some incredibly amazing things with Him at your helm! Do it – even if others think you’re crazy! Give them something to talk about!**_
+> _**Your faith will be rewarded. Don’t ever sell yourself short; don’t ever sell your God short. You are capable of some incredibly amazing things with Him at your helm! Do it – even if others think you’re crazy! Give them something to talk about!**_
 
 <hr>
 
