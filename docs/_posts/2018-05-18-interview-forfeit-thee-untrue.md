@@ -46,7 +46,7 @@ _Jeffrey: I know Craig you’re a psychologist, how does that affect how you wri
 
 **Craig: When it comes to writing lyrics, I always like to write in a way that could challenge someone’s perceptions and even beliefs - you know, make them think and question things. I also often like to incorporate the element of “stories” into certain songs.**
 
-> ### _**We all live our lives according to certain scripts – the way things are, the way things have been, the way things should be, etc. It’s about learning to find peace within that or to rebel against it – to find and write our own scripts of an alternative story against or in comparison to the dominant one.**_
+>  _**We all live our lives according to certain scripts – the way things are, the way things have been, the way things should be, etc. It’s about learning to find peace within that or to rebel against it – to find and write our own scripts of an alternative story against or in comparison to the dominant one.**_
 
 **These scripts are everywhere. For example, metalheads should wear black, or Christians shouldn’t have tattoos, etc. I like to write lyrics to rebel against and challenge those scripts – so that the “me” can be empowered. Other than that, I don’t think me being a psychologist “effects” how I write lyrics or interact with fans. Being a psychologist and being in FTU is about reaching out and hopefully empowering others in some or other way – that’s the common ground – but my music life, lyrics, etc is my passion and separate from my profession and professional identity as a psychologist. For example, at a gig, I don’t need to advertise that I’m a psychologist and can “counsel” people. At the same time, as a psychologist, I don’t need to advertise that “I’m also in a band”. If it comes up, then cool.**
 
@@ -74,7 +74,7 @@ _Jeffrey: Could you share the story behind Cradled in Black Arms, it seems like 
 
 **Craig: Cradled in Black Arms is about being trapped in something evil, but the fact that it is so familiar, makes it feel comfortable and often hard to walk away from, for example, those caught up in drug abuse/addiction. The verses are written from the perspective of the devil who is ‘singing’ to the person – bringing an onslaught of fear, doubt, and destruction. The chorus is written from the perspective of the person to whom the devil is singing to – questioning what it would be like to break away from these “things” that have such a hold on him. He acknowledges their comfort, his familiarity with them. He also acknowledges them to be his undoing and his ultimate end.**
 
-> ### _**He subsequently calls out to God. The bridge of the song sees the man become empowered and realize the path of his destruction. He then speaks directly to the devil, telling him to let go of him because he is in God’s arms now. The final chorus sees the resolution of the story and the man safe in God’s arms, and he knows this to be true and good for him.**_
+>  _**He subsequently calls out to God. The bridge of the song sees the man become empowered and realize the path of his destruction. He then speaks directly to the devil, telling him to let go of him because he is in God’s arms now. The final chorus sees the resolution of the story and the man safe in God’s arms, and he knows this to be true and good for him.**_
 
  
 
@@ -150,7 +150,7 @@ _Jeffrey: Awesome! That’s all I’ve got for you guys. Thanks so for doing thi
 
 **Mitch: It was never about fame.**
 
-> ### _**It was and is only about Jesus and serving Him with the talents and passions He gave us.**_
+> _**It was and is only about Jesus and serving Him with the talents and passions He gave us.**_
 
 **Craig: Yes, if you have a dream, push on, persevere, be relentless.**
 
