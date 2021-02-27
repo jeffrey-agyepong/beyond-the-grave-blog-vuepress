@@ -2,7 +2,7 @@
 title: "Album Spotlight: The Beckoning - The Desolation of War"
 date: "2020-07-08"
 tags:
-- Introducing
+- Spotlight
 - Extreme Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/7kYZ2Yd/the-beckoning.jpg

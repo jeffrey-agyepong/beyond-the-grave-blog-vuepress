@@ -2,6 +2,7 @@
 title: "Band Spotlight: Your Hands Write History"
 date: "2020-06-20"
 tags:
+- Spotlight
 - Introducing
 - Progressive Metal
 author: Jeffrey Agyepong

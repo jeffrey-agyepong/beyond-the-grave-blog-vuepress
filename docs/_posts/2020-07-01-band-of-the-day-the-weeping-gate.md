@@ -2,6 +2,7 @@
 title: "Band Spotlight: The Weeping Gate"
 date: "2020-07-01"
 tags:
+- Spotlight
 - Introducing
 - Death Metal
 author: Jeffrey Agyepong

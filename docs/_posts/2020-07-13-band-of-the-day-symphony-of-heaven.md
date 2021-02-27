@@ -2,6 +2,7 @@
 title: "Band Spotlight: Symphony of Heaven"
 date: "2020-07-13"
 tags:
+- Spolight
 - Introducing
 - Progressive Metal
 author: Jeffrey Agyepong

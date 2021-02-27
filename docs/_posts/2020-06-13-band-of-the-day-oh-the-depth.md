@@ -2,6 +2,7 @@
 title: "Band Spotlight: Oh, The Depth"
 date: "2020-06-13"
 tags:
+- Spotlight
 - Introducing
 - Deathcore
 author: Jeffrey Agyepong

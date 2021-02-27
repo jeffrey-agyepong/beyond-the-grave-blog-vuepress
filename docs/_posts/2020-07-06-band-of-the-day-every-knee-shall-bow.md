@@ -2,6 +2,7 @@
 title: "Band Spotlight: Every Knee Shall Bow"
 date: "2020-07-06"
 tags:
+- Spotlight
 - Introducing
 - Death Metal
 author: Jeffrey Agyepong

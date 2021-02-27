@@ -2,7 +2,7 @@
 title: "Album Spotlight: Mortal Treason - A Call to the Martyrs (FREE DOWNLOAD)"
 date: "2020-06-16"
 tags:
-- Introducing
+- Spotlight
 - Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/BPwLrbH/mortal-treason.jpg

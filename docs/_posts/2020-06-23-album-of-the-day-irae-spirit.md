@@ -2,7 +2,7 @@
 title: "Album Spotlight: IRAE - Spirit"
 date: "2020-06-23"
 tags:
-- Introducing
+- Spotlight
 - Metalcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/zsHzxcm/iraespirit.jpg

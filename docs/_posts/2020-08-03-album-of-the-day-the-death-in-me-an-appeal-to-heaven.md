@@ -2,7 +2,7 @@
 title: "Album Spotlight: The Death in Me - An Appeal to Heaven"
 date: "2020-08-03"
 tags:
-- Album Spotlight
+- Spotlight
 - Melodic Hardcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/RyrMkHb/the-death-in-me-an-appeal-to-heaven.jpg

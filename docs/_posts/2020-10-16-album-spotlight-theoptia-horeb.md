@@ -2,7 +2,7 @@
 title: "Album Spotlight: Theoptia - Horeb"
 date: "2020-10-16"
 tags:
-- Album Spotlight
+- Spotlight
 - Death Metal
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
