@@ -146,7 +146,7 @@ _Jeffrey: In early April, you posted on social media about having 3 people at on
 
  
 
-_Jeffrey: Awesome! That’s all I’ve got for you guys. Thanks so for doing this. Any final words you’d like to share._
+_Jeffrey: Awesome! That’s all I’ve got for you guys. Thanks so much for doing this. Any final words you’d like to share._
 
 **Mitch: It was never about fame.**
 
