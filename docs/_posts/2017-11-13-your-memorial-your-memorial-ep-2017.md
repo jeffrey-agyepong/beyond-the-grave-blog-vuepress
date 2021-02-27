@@ -42,7 +42,7 @@ The first track on their final EP is _**Degenerate**_. **Degenerate** is one 
 
 <hr>
 
-<h3 style="text-align:center">Rating: 9.0/10</h3>
+<h3 style="text-align:center">Rating: 8.5/10</h3>
 
 <hr>
 

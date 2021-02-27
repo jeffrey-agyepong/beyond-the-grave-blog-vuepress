@@ -76,9 +76,9 @@ After 2016’s _Types & Shadows_, they quickly became one of my favorite bands. 
 
 * * *
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PL9hYR5qRkc2xQ78OUErrvUBs5lW9lOSqa" width="560" height="315" frameborder="0"></iframe></h3>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PL9hYR5qRkc2xQ78OUErrvUBs5lW9lOSqa" width="560" height="315" frameborder="0"></iframe></div></h3>
 
-* * *
+<hr>
 
  <iframe src="https://open.spotify.com/embed/album/6L8gLKCluioceYP7WNmcol" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="encrypted-media"></iframe>
 

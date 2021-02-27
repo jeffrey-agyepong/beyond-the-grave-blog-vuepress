@@ -62,7 +62,7 @@ This has never slowed me down though.
 
 Jethro: I was mostly raised with Judeo-Christian values, but I was truly born again close to when I started playing music. It was funnily enough from reading a Jack Chick comic I had a personal experience with God, but bands like Impending Doom, Antestor, and Crimson Moonlight made me examine myself and my beliefs more thoroughly.
 
-> ### From there I have simply been uncovering as much as I can about God and the Bible. I came to the understanding that Christ is the only answer in this broken world.
+>  From there I have simply been uncovering as much as I can about God and the Bible. I came to the understanding that Christ is the only answer in this broken world.
 
 **Jeffrey: What’s next for Be Not Betrayed? You've spoken about writing an EP and full-length, how’s that going?**
 

@@ -38,7 +38,7 @@ Jeffrey: What is the meaning of the band’s name Those Who Endure?
 
 Peter: I derived the name from James chapter 1 verse 12 in the Bible.
 
-> #### King James Version (KJV)12 "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+>  King James Version (KJV)12 "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
 
 So, it's saying that we choose to stand for Him even when trials come.
 
@@ -64,7 +64,7 @@ Jeffrey: You are a Christ-centered band, and I know that you might also get some
 
 Peter: Yeah, we have honestly encountered more opposition from Christians like you described than from unbelievers. We prefer to be more involved in the regular scene after such interactions from Christians.
 
-> ### Outreach is something that takes wisdom and kindness and on top of that genuine friendship.
+> Outreach is something that takes wisdom and kindness and on top of that genuine friendship.
 
 Jeffrey: Would you mind briefly sharing how you came to have faith in Jesus?
 

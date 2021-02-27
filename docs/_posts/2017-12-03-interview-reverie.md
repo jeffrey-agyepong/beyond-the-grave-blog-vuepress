@@ -78,7 +78,7 @@ Bryson: For me when I was growing up religion, in general, is just something tha
 
 Jacob:  I was raised in a Christian home and have had a relationship with Jesus since I was young. I fell into the typical late high school/early college slump and became heavily involved in pornography and chasing unhealthy relationships. God brought me through that and has restored me in those areas and blessed me with an amazing wife. I think God has given us each a testimony and that we can share that through music and through our interactions with others.
 
-> ### God brought me through that and has restored me in those areas and blessed me with an amazing wife. I think God has given us each a testimony and that we can share that through music and through our interactions with others.
+> God brought me through that and has restored me in those areas and blessed me with an amazing wife. I think God has given us each a testimony and that we can share that through music and through our interactions with others.
 
 Chic: I grew up in a Christian home and going to church and youth group, but I started getting really serious about my relationship with Jesus when I was in high school and going to church camp every summer.
 

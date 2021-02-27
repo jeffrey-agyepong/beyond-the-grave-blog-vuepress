@@ -10,7 +10,7 @@ h1, h4, p{
   text-align:center;
 }
 p{
-  font-size: 20px;
+  font-size: 1.8;
 }
 </style>
 <h4 >Psalm 150:5 </h4>
@@ -23,13 +23,13 @@ NOTE: Any link shared on this site has been approved by the band/label.
 
 <hr>
 
- Jeffrey A. - Founder | Editor | Writer 
+Jeffrey A. - Founder | Editor | Writer
 
- Jeremy P - Writer
+Jeremy P - Writer
 
 Hezekiah R. - Writer
 
-Gabriel M.  - Writer
+Gabriel M. - Writer
 
 Erik M. - Writer
 
