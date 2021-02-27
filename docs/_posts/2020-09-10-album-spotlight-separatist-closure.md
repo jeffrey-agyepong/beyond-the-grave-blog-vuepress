@@ -1,6 +1,6 @@
 ---
 title: "Album Spotlight: Separatist - Closure [FREE DOWNLOAD]"
-date: "2021-02-26"
+date: "2020-09-10"
 tags:
 - Spotlight
 - Deathcore
