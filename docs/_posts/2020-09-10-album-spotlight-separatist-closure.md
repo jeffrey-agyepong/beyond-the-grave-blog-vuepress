@@ -1,8 +1,8 @@
 ---
 title: "Album Spotlight: Separatist - Closure [FREE DOWNLOAD]"
-date: "2020-09-10"
+date: "2021-02-26"
 tags:
-- Album Spotlight
+- Spotlight
 - Deathcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/qs1m3vP/closure.jpg
