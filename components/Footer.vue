@@ -34,7 +34,7 @@
     <div class="footer-col s12 m4 footer_links">
       <div class="center">
         Developed by
-        <a href="https://concisewebdesign.site123.me/"> Concise Web Designs</a>
+        <a href="https://conciseweb.netlify.app/"> Concise Web Designs</a>
       </div>
       <div class="center">
         Licensed by <a href="https://bootstrapstarter.com/license/"> MIT</a>
