@@ -5,33 +5,29 @@ module.exports = {
   logo: './assets/img/logo.png',
   head: [
     ['link', { rel: 'icon', sizes: '32x32', href: './assets/img/favicon.ico' }],
+    ['script', {
+      src: 'https://config.metomic.io/config.js?id=prj:79c6192b-4005-4261-89c2-430b39551375', 
+      crossorigin: 'anonymous',
+      charset: 'utf-8'
+  }],
+  ['script', {
+      src: 'https://consent-manager.metomic.io/embed.js', 
+      crossorigin: 'anonymous',
+      charset: 'utf-8'
+  }],
+  ['script', {
+      async: true,
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-455B6ESQJK'
+  }],
+  ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'G-455B6ESQJK');
+  `],
   ],
   plugins:{ 
-    head: [
-      ['script', {
-          src: 'https://config.metomic.io/config.js?id=prj:79c6192b-4005-4261-89c2-430b39551375', 
-          crossorigin: 'anonymous',
-          charset: 'utf-8'
-      }],
-      ['script', {
-          src: 'https://consent-manager.metomic.io/embed.js', 
-          crossorigin: 'anonymous',
-          charset: 'utf-8'
-      }],
-      ['script', {
-          async: true,
-          src: 'https://www.googletagmanager.com/gtag/js?id=G-455B6ESQJK'
-      }],
-      ['script', {}, `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-      
-          gtag('config', 'G-455B6ESQJK');
-      `],
- 
-  ],
-
     'seo':{
       siteTitle: (_, $site) => $site.title,
       title: $page => $page.title,
