@@ -161,6 +161,10 @@ _Jeffrey: Awesome! That’s all I’ve got for you guys. Thanks so for doing thi
 [Facebook](https://www.facebook.com/ForfeitTheeUntrue/)
 
  <hr>
+<iframe style="border: 0; width: 340px; height: 460px;" src="https://bandcamp.com/EmbeddedPlayer/album=2343868274/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://forfeittheeuntrue.bandcamp.com/album/cremationem-jesus-lacrimam">Cremationem Jesus Lacrimam by Forfeit Thee Untrue</a></iframe>
+
+<hr>
+
 
 <iframe src="https://open.spotify.com/embed/album/5R9z2OEYvDIY8Upft2VXiG" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="encrypted-media"></iframe>
 
