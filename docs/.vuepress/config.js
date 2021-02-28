@@ -5,7 +5,7 @@ module.exports = {
   logo: './assets/img/logo.png',
   head: [
     ['link', { rel: 'icon', sizes: '32x32', href: './assets/img/favicon.ico' }],
-    ['script', {
+    /*['script', {
       src: 'https://config.metomic.io/config.js?id=prj:79c6192b-4005-4261-89c2-430b39551375', 
       crossorigin: 'anonymous',
       charset: 'utf-8'
@@ -14,7 +14,7 @@ module.exports = {
       src: 'https://consent-manager.metomic.io/embed.js', 
       crossorigin: 'anonymous',
       charset: 'utf-8'
-  }],
+  }],*/
   ['script', {
       async: true,
       src: 'https://www.googletagmanager.com/gtag/js?id=G-455B6ESQJK'
