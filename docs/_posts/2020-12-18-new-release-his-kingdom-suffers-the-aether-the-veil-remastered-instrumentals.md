@@ -12,9 +12,11 @@ featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 
 **Release Date:** December 25, 2020
 
+**Record Label:** Independent
+
 **Album Length:** 2 hour 14 Minutes
 
-**Label:** Independent
+<hr>
 
 1. The Aether (Remastered) 05:12 
 2. Indoctrination Stations (Remastered) 05:45 

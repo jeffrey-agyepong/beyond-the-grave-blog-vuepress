@@ -3,17 +3,16 @@ title: "New Release: PRDGMS - Shift (EP)"
 date: "2021-02-08"
 tags:
 - News
-- Metal
+- Metalcore
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/4dkkMPP/prdgms.jpg
 ---
 
-Progressive metalcore band fronted by [James Franchise](https://web.facebook.com/jamesfranchisemusic?__cft__[0]=AZXjtFpiIvAYBQx3SeOJFG9jjzpsAg8f6-V-fqqQAbrNknq43OfkCEz9818nDYpYGZUM4hidm24VfP3jtJ5lQ2VUlAlHiqx2UmMRsYcHFwzzF6iErwhgxN6CLI69DY3bZwzHT1WwfOPxl4zk82-iAEvIEEPOmkfApuSWlO4OSsQuG7_AVE5R2At8A8kLTHyaP4U&__tn__=-]K-R)([This Surrender](https://web.facebook.com/ThisSurrender/?__cft__[0]=AZXjtFpiIvAYBQx3SeOJFG9jjzpsAg8f6-V-fqqQAbrNknq43OfkCEz9818nDYpYGZUM4hidm24VfP3jtJ5lQ2VUlAlHiqx2UmMRsYcHFwzzF6iErwhgxN6CLI69DY3bZwzHT1WwfOPxl4zk82-iAEvIEEPOmkfApuSWlO4OSsQuG7_AVE5R2At8A8kLTHyaP4U&__tn__=kK-R)), has put out their debut EP entitled SHIFT.
-
-<hr>
-
+**Genre:** Progressive metalcore <br>
 **Release Date:** February 1, 2020<br>
 **Record label:** Independent<br>
+**Album length:** 25 Minutes 
+
 
 * * *
 
