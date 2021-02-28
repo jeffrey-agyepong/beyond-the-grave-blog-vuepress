@@ -96,21 +96,17 @@ We all have our side outlets and all try to stay creative/busy with music-relate
 
 **\-** Yes. Courier is done at this point. Weeping Hour has become our focus.
 
-**Thanks for taking the time to do this. It’s been an honor to interview one of my favorite bands. Anything else you’d like to share?**
+**Thanks for taking the time to do this. Anything else you’d like to share?**
 
 **\-** First off, I’d like to say thank you for reaching out to us and we appreciate you giving our music a listen. Secondly, I just want to say to everyone who supports us to bear with us as we go into this next phase of writing and that we desperately miss seeing you all. Stay safe and show compassion during these odd times.
 
 * * *
 
-#### [Apple Music](https://music.apple.com/ca/album/hunger-thirst-deluxe-edition/1510713404)
 
-#### [Amazon](https://www.amazon.com/Hunger-Thirst-Deluxe-Weeping-Hour/dp/B087P37QKF)
 
-#### [Facebook](https://web.facebook.com/WeepingHour)
+#### [Apple Music](https://music.apple.com/ca/album/hunger-thirst-deluxe-edition/1510713404) | [Amazon](https://www.amazon.com/Hunger-Thirst-Deluxe-Weeping-Hour/dp/B087P37QKF) | [Facebook](https://web.facebook.com/WeepingHour) | [Instagram](https://www.instagram.com/weepinghour/?hl=en) | [Twitter](https://twitter.com/HourWeeping)
 
-#### [Instagram](https://www.instagram.com/weepinghour/?hl=en)
 
-#### [Twitter](https://twitter.com/HourWeeping)
 
 * * *
 
