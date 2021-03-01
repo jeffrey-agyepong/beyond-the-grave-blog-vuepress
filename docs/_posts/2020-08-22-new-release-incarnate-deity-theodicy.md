@@ -1,5 +1,5 @@
 ---
-title: "New Release: Incarnate Deity - Theodicy"
+title: "Incarnate Deity - Theodicy[LP]"
 date: "2020-08-22"
 tags:
 - News
@@ -15,6 +15,10 @@ featuredimg: https://i.ibb.co/W0QfVYq/theodicy.jpg
 **Genre:** Blackened Symphonic Death Metal 
 
 **Album length:** 28 minutes
+
+<hr>
+
+**Tracklist:**
 
 1. Darkest Night (01:26) 
 2. Plaguebearer (04:16) 

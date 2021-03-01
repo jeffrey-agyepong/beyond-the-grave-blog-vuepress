@@ -1,5 +1,5 @@
 ---
-title: "New Release:  Christian Metal Source - This Is Our Worship: Volume III"
+title: "Christian Metal Source - This Is Our Worship: Volume III(Compilation)"
 date: "2020-08-02"
 tags:
 - News

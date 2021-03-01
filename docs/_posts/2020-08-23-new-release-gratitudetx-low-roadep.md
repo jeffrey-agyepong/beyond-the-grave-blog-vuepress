@@ -1,5 +1,5 @@
 ---
-title: "New Release: GratitudeTX - Low Road(EP)"
+title: "GratitudeTX - Low Road(EP)"
 date: "2020-08-23"
 tags:
 - News
@@ -26,11 +26,9 @@ featuredimg: https://i.ibb.co/rHyRP0c/gratitudetx.jpg
 
 * * *
 
+
+
 ### [Facebook](https://web.facebook.com/GratitudeTXband)
-
-* * *
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ydkjUCldEkQ" width="560" height="315" frameborder="0"></iframe></div>
 
 * * *
 

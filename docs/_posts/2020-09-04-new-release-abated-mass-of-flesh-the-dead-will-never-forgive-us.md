@@ -1,5 +1,5 @@
 ---
-title: "New Release: Abated Mass of Flesh - The Dead Will Never Forgive Us [EP]"
+title: "Abated Mass of Flesh - The Dead Will Never Forgive Us [EP]"
 date: "2020-09-04"
 tags:
 - News

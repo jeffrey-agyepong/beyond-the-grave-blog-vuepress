@@ -1,5 +1,5 @@
 ---
-title: "New Release: Angel 7 - Victims of Evolution Theory[EP]"
+title: "Angel 7 - Victims of Evolution Theory[EP]"
 date: "2020-08-14"
 tags:
 - News

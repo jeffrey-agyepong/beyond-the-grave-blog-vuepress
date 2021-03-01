@@ -1,5 +1,5 @@
 ---
-title: "His Kingdom Suffers - The Aether & The Veil [Remastered & Instrumentals](LP)"
+title: "His Kingdom Suffers - The Aether & The Veil[Remastered & Instrumentals](LP)"
 date: "2020-12-18"
 tags:
 - News
@@ -17,7 +17,6 @@ featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 **Album Length:** 2 hour 14 Minutes
 
 <hr>
-
 **Tracklist:**
 
 1. The Aether (Remastered) 05:12 
@@ -49,12 +48,11 @@ featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 27. Spiritual Warfare (Instrumental) 04:32
 
 <hr>
+**Lineup**:
 
-Lineup:
+Andrew Harrison - Vocals, Drums
 
-
-
-
+<hr>
 
 ##### FFO:  In the Midst of Lions, Saving Grace, Abated Mass of Flesh, Impending Doom
 

@@ -1,5 +1,5 @@
 ---
-title: "New Release: Amongst the Ruin - My Dear, My Love"
+title: "Amongst the Ruin - My Dear, My Love[LP]"
 date: "2020-09-28"
 tags:
 - News

@@ -1,5 +1,5 @@
 ---
-title: "New Release: Then It Ends - Restored"
+title: "Then It Ends - Restored[LP]"
 date: "2020-10-03"
 tags:
 - News
@@ -8,10 +8,9 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/k5SJnZw/restored.jpg
 ---
 
-**Release Date:** October 2, 2020  
+**Release Date:** October 2, 2020 
 **Record Label:** Flourish Records
-
-**Genre:** Metalcore  
+**Genre:** Metalcore 
 **Album length:** 39 minutes
 
 1. Depravity

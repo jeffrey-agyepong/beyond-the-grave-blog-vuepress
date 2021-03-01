@@ -1,5 +1,5 @@
 ---
-title: "New Release: Searching Serenity -  Soundtrack To Your Christmas[EP]"
+title: "Searching Serenity -  Soundtrack To Your Christmas[EP]"
 date: "2020-11-27"
 tags:
 - News
@@ -14,12 +14,24 @@ featuredimg: https://i.ibb.co/FhJRCvJ/searching-serenity.jpg
 
 **Genre:** Deathcore
 
+<hr>
+
+**Tracklist:**
+
 1. Away In A Manger  01:50 
 2. O Holy Night  04:42 
 3. Carol Of The Bells  02:37 
 4. Hark The Herald Angels Sing  03:10 
 5. The 12 Days Of Metal-Mas  04:24 
 6. Winter Solace  04:00
+
+<hr>
+
+Lineup:
+
+Robert Manzone - Vocals, All instruments
+
+
 
 * * *
 

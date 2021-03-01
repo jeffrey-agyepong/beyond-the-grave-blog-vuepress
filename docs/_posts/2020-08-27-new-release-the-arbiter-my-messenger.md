@@ -1,5 +1,5 @@
 ---
-title: "New Release: The Arbiter - My Messenger"
+title: "The Arbiter - My Messenger[LP]"
 date: "2020-08-27"
 tags:
 - News

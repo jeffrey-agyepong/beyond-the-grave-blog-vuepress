@@ -1,5 +1,5 @@
 ---
-title: "New Release: Start Anew - Joined Together"
+title: "Start Anew - Joined Together[LP]"
 date: "2020-09-03"
 tags:
 - News
