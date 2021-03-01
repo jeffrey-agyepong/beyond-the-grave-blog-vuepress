@@ -1,5 +1,5 @@
 ---
-title: "New Release: Brotality - Worldwide Desolation"
+title: "Brotality - Worldwide Desolation"
 date: "2021-02-05"
 tags:
 - News

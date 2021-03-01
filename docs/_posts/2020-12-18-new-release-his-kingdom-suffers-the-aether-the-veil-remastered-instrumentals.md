@@ -1,5 +1,5 @@
 ---
-title: "New Release: His Kingdom Suffers - The Aether & The Veil (Remastered & Instrumentals)"
+title: "New Release: His Kingdom Suffers - The Aether & The Veil [Remastered & Instrumentals](LP)"
 date: "2020-12-18"
 tags:
 - News

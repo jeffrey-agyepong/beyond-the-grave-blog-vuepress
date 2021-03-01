@@ -1,5 +1,5 @@
 ---
-title: "New Release: Crowned In Sorrow - In Memoriam"
+title: "Crowned In Sorrow - In Memoriam(LP)"
 date: "2021-01-29"
 tags:
 - News

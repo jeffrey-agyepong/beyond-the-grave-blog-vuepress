@@ -1,5 +1,5 @@
 ---
-title: "New Release: Earth Groans - Prettiest Of Things"
+title: "Earth Groans - Prettiest Of Things(EP)"
 date: "2020-03-06"
 tags:
 - News

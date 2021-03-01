@@ -1,5 +1,5 @@
 ---
-title: "New Release: Jonava - Steel Skies"
+title: "Jonava - Steel Skies(EP)"
 date: "2021-02-26"
 tags:
 - News

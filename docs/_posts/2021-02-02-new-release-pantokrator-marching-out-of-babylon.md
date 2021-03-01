@@ -1,5 +1,5 @@
 ---
-title: "New Release: Pantokrator - Marching Out of Babylon"
+title: "Pantokrator - Marching Out of Babylon(LP)"
 date: "2021-02-02"
 tags:
 - News

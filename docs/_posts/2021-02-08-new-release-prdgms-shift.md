@@ -1,5 +1,5 @@
 ---
-title: "New Release: PRDGMS - Shift (EP)"
+title: "PRDGMS - Shift (EP)"
 date: "2021-02-08"
 tags:
 - News
