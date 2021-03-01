@@ -1,5 +1,5 @@
 ---
-title: "New Singles: Demon Hunter - I Will Fail You (Resurrected) & Dead Flowers(Resurrected)"
+title: "Demon Hunter - I Will Fail You (Resurrected) & Dead Flowers(Resurrected)(Single)"
 date: "2021-01-15"
 tags:
 - News

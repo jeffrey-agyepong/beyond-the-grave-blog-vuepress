@@ -12,10 +12,14 @@ featuredimg: https://i.ibb.co/ZXMZ1nn/colder.webp
 
 **Record Label:** Facedown Records
 
+**Origin:** USA
+
 **Release Date:** February 5th, 2021
 
 <hr>
+
 **Lineup:**
+
 
 Alexis Rodriguez – Vocals
 

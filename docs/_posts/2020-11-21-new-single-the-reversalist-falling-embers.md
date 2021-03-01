@@ -1,5 +1,5 @@
 ---
-title: "New Single: The Reversalist – Falling Embers"
+title: "The Reversalist – Falling Embers(Single)"
 date: "2020-11-21"
 tags:
 - News

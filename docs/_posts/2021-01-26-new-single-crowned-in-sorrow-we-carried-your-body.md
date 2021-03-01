@@ -1,5 +1,5 @@
 ---
-title: "New Single: Crowned In Sorrow - We Carried Your Body(feat. Luke Renno) - Single"
+title: "Crowned In Sorrow - We Carried Your Body(feat. Luke Renno)(Single)"
 date: "2021-01-25"
 tags:
 - News

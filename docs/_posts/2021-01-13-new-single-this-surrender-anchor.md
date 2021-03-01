@@ -1,5 +1,5 @@
 ---
-title: "New Single: This Surrender - Anchored"
+title: "This Surrender - Anchored(Single)"
 date: "2021-01-13"
 tags:
 - News

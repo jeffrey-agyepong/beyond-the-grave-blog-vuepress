@@ -1,5 +1,5 @@
 ---
-title: "New Single: Crowned In Sorrow - Far Beyond Death"
+title: "Crowned In Sorrow - Far Beyond Death(Single)"
 date: "2021-01-15"
 tags:
 - News
