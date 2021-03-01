@@ -1,6 +1,6 @@
 <h1> About Us</h1>
 
-<p style="text-align:center;">Beyond the Grave is a platform that focuses primarily on underground metal/hardcore bands <br>
+<p style="text-align:center;">Beyond the Grave is a platform that focuses primarily on promoting underground metal/hardcore bands <br>
 with a Christ-centered message or Christian members.</p>
 <style>
 h1{
@@ -38,3 +38,4 @@ Ton R. - Writer
 Zachary Van D. - Writer
 
 <hr>
+
