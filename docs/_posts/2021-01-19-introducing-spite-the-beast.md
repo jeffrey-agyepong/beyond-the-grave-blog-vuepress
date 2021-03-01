@@ -8,11 +8,30 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/vBGSRM8/spite-the-beast.webp
 ---
 
-*Christopher Johnson* of the industrial metalcore band [HARD LOOK](https://beyondthegrave.netlify.app/2020/08/28/review-hard-look-the-great-tribulation/) has formed a new beatdown side project with *Derek Elran*. They just released their first single, *"Accuser."* Check it out down below.
+**Band:** Spite The Beast
+
+**Genre:** Beatdown Hardcore
+
+**Record Label:** Independent 
+
+**Origin:** USA
 
 <hr>
 
+Christopher Johnson([HARD LOOK](https://beyondthegrave.netlify.app/2020/08/28/review-hard-look-the-great-tribulation/)) - Vocals
+
+Derek Elran - All instruments
+
+
+
+<hr>
 [Facebook](https://web.facebook.com/SpiteTheBeast/)
+
+<hr>
+
+<iframe style="border: 0; width: 340px; height: 432px;" src="https://bandcamp.com/EmbeddedPlayer/track=732599525/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://spitethebeast.bandcamp.com/track/accuser">Accuser by Spite The Beast</a></iframe>
+
+
 
 <hr>
 
