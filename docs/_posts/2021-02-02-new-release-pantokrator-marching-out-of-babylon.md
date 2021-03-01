@@ -8,12 +8,12 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/9rPwBmm/p-m-o-o-b.webp
 ---
 
-Swedish melodic death metal veterans **Pantokrator**, have finally released their fourth studio album, after six long years of writing, riffing, and perfecting. **Marching Out of Babylon** features a couple of noteworthy artists in the Christian extreme metal scene; *C.J Grimmark (Narnia), Jani Stefanovic (The Waymaker, Miseration & Solution .45)*, and last but certainly not the least *Mund (Skald in Veum)*. 
 
-<hr>
-Record Label: Independent
+Record Label: Nordic Mission
 
 Release Date: January 29, 2021
+
+Origin: Sweden
 
 Album-length: 42 Minutes
 
@@ -33,14 +33,21 @@ Track Listing:
 7. WE THE PEOPLE
 
 8. PHOENIX RISING (feat. Mund)
+<hr>
+**Lineup:**
 
-   
+Karl Walfridsson - Vocals
+Mattias Johansson - Guitar 
+Ricke Gustafsson - Drums
+Jonas Wallinder - Bass 
+Johnathan Jansson - Guitar
 
-   <hr>
 
-   FFO: In Flames, At The Gates, Demon Hunter
+<hr>
 
-   <hr>
+FFO: In Flames, At The Gates, Demon Hunter
+
+<hr>
 
    <iframe style="border: 0; width: 340px; height: 460px;" src="https://bandcamp.com/EmbeddedPlayer/album=2394117014/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://officialpantokrator.bandcamp.com/album/marching-out-of-babylon-3">MARCHING OUT OF BABYLON by PANTOKRATOR</a></iframe>
 
