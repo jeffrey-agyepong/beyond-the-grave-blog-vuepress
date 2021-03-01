@@ -18,6 +18,12 @@ featuredimg: https://i.ibb.co/vBGSRM8/spite-the-beast.webp
 
 <hr>
 
+**Discography:**
+
+Accuser(Single)[2020]
+
+<hr>
+
 Christopher Johnson([HARD LOOK](https://beyondthegrave.netlify.app/2020/08/28/review-hard-look-the-great-tribulation/)) - Vocals
 
 Derek Elran - All instruments

@@ -18,9 +18,15 @@ _**Cruentis**_ is a melodic death metal band originating in _British Columbia_, 
 
 **_Record Label:_** _Nosral Recordings_
 
+<hr>
+
  **_Members:_**
 
-_Jesse Dean - Vocals, Bass_ _Tyler DeMerchant - Vocals, Rhythm Guitars,  Lead Guitars_
+_Jesse Dean - Vocals, Bass_ 
+
+_Tyler DeMerchant - Vocals, Rhythm Guitars,  Lead Guitars_
+
+<hr>
 
 _**Discography:**_
 
@@ -31,8 +37,9 @@ _[Cold Stone](https://cruentis.bandcamp.com/album/cold-stone) (EP)\[2016\]_
 [Reclaimed](https://cruentishr.bandcamp.com/) (Single) [2020]
 
 <hr>
+_**For fans of**_: Extol, Becoming The Archetype, Fearscape, Fleshkiller
 
-_**For fans of**_: _**Extol, Becoming The Archetype, Fearscape, Fleshkiller**_
+<hr>
 
 [Facebook](https://www.facebook.com/CruentisBand/)
 
