@@ -1,5 +1,5 @@
 ---
-title: "New Single: White Robe Nation - Bride"
+title: "White Robe Nation - Bride(Single)"
 date: "2021-02-14"
 tags:
 - News
@@ -9,6 +9,16 @@ featuredimg: https://i.ibb.co/gVHTCQr/bride.jpg
 ---
 
 Internet-based Christian metalcore project, White Robe Nation has released a new single entitled "Bride". "Bride" is a call to husbands to love their bride as Christ first loved his (the church). 
+
+<hr>
+
+**Lineup:**
+
+Christopher Adams - Vocals
+
+Andrew Hopper - Guitar, Bass
+
+
 
 <hr>
 

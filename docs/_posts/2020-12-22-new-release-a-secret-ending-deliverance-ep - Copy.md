@@ -1,5 +1,5 @@
 ---
-title: "New Release: A Secret Ending - Deliverance (EP)"
+title: "A Secret Ending - Deliverance (EP)"
 date: "2020-12-21"
 tags:
 - News
@@ -13,6 +13,7 @@ featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 **Record label:** Independent<br>
 
 * * *
+**Tracklist:**
 
 1. Fraudulent Heart 03:09
 2. God Has Control 03:32

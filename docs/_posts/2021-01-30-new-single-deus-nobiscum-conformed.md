@@ -1,5 +1,5 @@
 ---
-title: "New Single: Deus Nobiscum - Conformed(feat. Andrew of Fire From Heaven)"
+title: "Deus Nobiscum - Conformed[feat. Andrew of Fire From Heaven](Single)"
 date: "2021-01-30"
 tags:
 - News
@@ -8,7 +8,17 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/GcTFVMG/conformed.jpg
 ---
 
-Progressive death metal/djent solo-project, Deus Nobiscum has just released their first single in four years entitled, Conformed featuring Andrew Hopper([Fire From Heaven](https://firefromheavenmetal.bandcamp.com/album/deathcore-symphony)).
+**Genre:** Progressive death metal/djent
+
+**Record Label:** Independent
+
+**Release Date:** January 30, 2021
+
+<hr>
+
+**Lineup:**
+
+Arnaud - Vocals, Guitar, Bass, Drums
 
 <hr>
 

@@ -8,28 +8,44 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---
 
-**Crowned in Sorrow** has released their debut full-length album, **"In Memoriam"**. The album is about dealing with grief and loss. "In Memoriam" features a couple guest artist, notably *DC Mills(Vials of Wrath & formerly Bloodline Severed)*, *Luke Renno(Crimson Thorn & Taking the Head of Goliath)* and *Hunter Routh(Bloodline Severed)*.
+**Genre:** Progressive Doom/Death Metal
+
+**Record Label:** Independent
+
+**Release Date:** January 29, 2021
+
+**Album-length:** 62 Minutes
 
 <hr>
 
-Genre: Progressive Doom/Death Metal
 
-Record Label: Independent
 
-Album-length: 62 Minutes
+**Tracklist:**
 
-Track List:
-
-1. Far Beyond Death
+1. Far Beyond Death (feat. DC Mills of Vials of Wrath)
 2. Ending It All 
-3. Slipping Away
-4. Ashes
+3. Slipping Away (feat. Hunter Routh of Bloodline Severed)
+4. Ashes (feat. Courtney Johnson, Joel Goodwin and Carolina Teruel)
 5. Rememberance
 6. Blue to Grey
 7. Only Memories
-8. We Carried Your Body
+8. We Carried Your Body (feat. Luke Renno of Crimson Thorn & Taking the Head of Goliath)
 9. Eternity Upon Your Grave (album version)
 10. Rememberance(piano version)
+
+<hr>
+
+**Lineup:**
+
+Derek Corzine - Vocals, Guitars, Bass, Mandolin, Piano, Keys, Drums
+
+
+
+<hr>
+
+Read our review [here](https://beyondthegravemusic.com/2021/02/19/review-crowned-in-sorrow-in-memoriam/)
+
+
 
 <hr>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/febTg3fKM9k" width="560" height="315" frameborder="0"></iframe></div>

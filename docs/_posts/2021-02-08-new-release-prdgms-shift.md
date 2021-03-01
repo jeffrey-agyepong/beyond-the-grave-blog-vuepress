@@ -15,6 +15,7 @@ featuredimg: https://i.ibb.co/4dkkMPP/prdgms.jpg
 
 
 * * *
+**Tracklist:**
 
 1. Familiar 01:54
 2. Exodus 04:33
@@ -22,6 +23,20 @@ featuredimg: https://i.ibb.co/4dkkMPP/prdgms.jpg
 4. Magic Messiah 03:38
 5. Dreamers 2.0 04:50
 6. My Sweet Departure 05:09
+
+<hr>
+
+**Lineup:**
+
+James Franchise - Vocals
+
+Josué Perez - Lead Guitar
+
+ Joshuah Filemon - Rhythm Guitar
+
+Jasiel Rodriguez - Bass/Keys 
+
+Gabe Mercedes - Drums
 
 ***
 

@@ -17,7 +17,10 @@ Origin: Sweden
 
 Album-length: 42 Minutes
 
-Track Listing:
+<hr>
+
+**Tracklist:**
+
 1. DAY OF WRATH
 
 2. WEDLOCK (feat. C.J Grimmark)
@@ -34,18 +37,28 @@ Track Listing:
 
 8. PHOENIX RISING (feat. Mund)
 <hr>
+
 **Lineup:**
 
 Karl Walfridsson - Vocals
+
 Mattias Johansson - Guitar 
+
 Ricke Gustafsson - Drums
+
 Jonas Wallinder - Bass 
+
 Johnathan Jansson - Guitar
 
 
 <hr>
-
 FFO: In Flames, At The Gates, Demon Hunter
+
+
+
+<hr>
+
+Read our review [here](http://localhost:8080/2021/02/03/review-pantokrator-marching-out-of-babylon/)
 
 <hr>
 
@@ -54,10 +67,7 @@ FFO: In Flames, At The Gates, Demon Hunter
    <hr>
 
 
-
-[Facebook](https://web.facebook.com/Pantokrator?_rdc=1&_rdr) | [Instagram](https://www.instagram.com/pantokratorsweofficial/) | [Twitter](https://twitter.com/PantokratorSwe) | [Youtube](https://www.youtube.com/channel/UCx6_htPQXIVHfiyEG_Onqqw)
-
-[iTunes](https://music.apple.com/us/album/marching-out-of-babylon/1544078484) | [Spotify](https://open.spotify.com/album/2S8LfjWVYhuKVuYVJSoCus?si=7gWyThHBQleiCB4Pb2TDew)
+[Facebook](https://web.facebook.com/Pantokrator?_rdc=1&_rdr) | [Instagram](https://www.instagram.com/pantokratorsweofficial/) | [Twitter](https://twitter.com/PantokratorSwe) | [Youtube](https://www.youtube.com/channel/UCx6_htPQXIVHfiyEG_Onqqw) | [iTunes](https://music.apple.com/us/album/marching-out-of-babylon/1544078484) | [Spotify](https://open.spotify.com/album/2S8LfjWVYhuKVuYVJSoCus?si=7gWyThHBQleiCB4Pb2TDew)
 
 
 

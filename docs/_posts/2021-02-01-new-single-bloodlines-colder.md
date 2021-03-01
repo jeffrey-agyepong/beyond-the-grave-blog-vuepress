@@ -1,5 +1,5 @@
 ---
-title: "New Single: Bloodlines - Colder"
+title: "Bloodlines - Colder(Single)"
 date: "2021-02-04"
 tags:
 - News
@@ -8,7 +8,26 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/ZXMZ1nn/colder.webp
 ---
 
-Texas-based core band **Bloodlines**, formerly known as God's Will and Seeds of Hope(they've come a long way), has signed a record deal with Facedown Records and released a new single entitled "Colder". They plan on releasing "HEVEL", a 5-song EP in the spring/summer. Listen to their new track down below.
+**Genre:** Metalcore
+
+**Record Label:** Facedown Records
+
+**Release Date:** February 5th, 2021
+
+<hr>
+**Lineup:**
+
+Alexis Rodriguez – Vocals
+
+Daniel Camacho – Guitar
+
+Aldo Mayorga- Bass
+
+Matthew Benavides- Drums
+
+<hr>
+
+[Facebook](https://web.facebook.com/BloodlinesTexas/) | [Instagram](https://www.instagram.com/bloodlinestexas) | [iTunes](https://music.apple.com/ca/album/colder-single/1547561500)
 
 <hr>
 
