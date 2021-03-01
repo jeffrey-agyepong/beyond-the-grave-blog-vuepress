@@ -57,10 +57,14 @@ Young thrash metal band, Brotality has just released their debut full length thr
 **Lineup:**
 
 Reece Maopolski - Bass, Vocals 
+
 Bryce Maopolski - Guitars, Vocals 
+
 Liam Fenton - Drums 
 
+<hr>
 
+Read our review [here](https://beyondthegravemusic.com/2021/02/05/review-brotality-worldwide-desolation/)
 
 <hr>
 
