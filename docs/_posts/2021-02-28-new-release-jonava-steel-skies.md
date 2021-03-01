@@ -8,16 +8,22 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5np0x4V/jonava.jpg
 ---
 
-Record Label: Independent
+**Band:** Jonava
 
-Genre: Black Metal
+**EP:** Steel Skies
 
-Release Date: January 10, 2021
+**Record Label:** Independent
 
-Album-length: 29 Minutes
+**Genre:** Black Metal
+
+**Release Date:** January 10, 2021
+
+**Album-length:** 29 Minutes
 
 <hr>
+
 **Tracklist:**
+
 
 1. Nothing I Suffer 04:23 <br>
 2. Fire 03:55  <br>

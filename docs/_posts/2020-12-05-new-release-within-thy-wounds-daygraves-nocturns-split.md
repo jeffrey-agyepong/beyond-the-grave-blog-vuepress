@@ -1,5 +1,5 @@
 ---
-title: "New Release: Within Thy Wounds/daygraves - Nocturns (Split)"
+title: "Within Thy Wounds/Daygraves - Nocturns (Split EP)"
 date: "2020-12-05"
 tags:
 - News
@@ -8,11 +8,21 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/CwCJFKr/within-thy-wounds-daygraves.jpg
 ---
 
+**Band:** Within Thy Wounds, Daygraves
+
+**EP:** Nocturns
+
 **Record Label:** Independent
 
 **Release Date:** December 4, 2020
 
+**Origin:** USA
+
 **Genre:** Atmostpheric Black Metal/Post Black Metal
+
+<hr>
+
+**Tracklist:**
 
 1. Within Thy Wounds - Hymn to the Divine Master 07:09 
 2. Within Thy Wounds - Haunted by Spiritual Agony 07:30 

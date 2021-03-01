@@ -1,5 +1,5 @@
 ---
-title: "New Release: Wolves At the Gate - Dawn EP"
+title: "Wolves At the Gate - Dawn(EP)"
 date: "2020-10-09"
 tags:
 - News
@@ -8,9 +8,18 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 ---
 
-**Release Date:** October 9, 2020<br>
-**Record Label:** Solidstate Records<br>
-**Genre:** Acoustic/Singer-songwriter<br>
+**Band:** Wolves At the Gate 
+
+**EP:** Dawn EP
+
+**Release Date:** October 9, 2020
+
+**Record Label:** Solidstate Records
+
+**Genre:** Acoustic/Singer-songwriter
+
+**Origin:** USA
+
 **Album length:** 26 minutes
 
 **Tracklist:**

@@ -1,5 +1,5 @@
 ---
-title: "New Release: Unseen Faith - Evoke"
+title: "Unseen Faith - Evoke(LP)"
 date: "2020-11-14"
 tags:
 - News 
@@ -8,13 +8,21 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/cChWSnM/ezgif-com-gif-maker-1.webp
 ---
 
+**Band:** Unseen Faith
+
+**Album:** Evoke
+
 **Release Date:** November 13, 2020
 
  **Genre:** Deathcore/Progressive Metalcore 
 
 **Record label:** Independent 
 
-**Origin:** Aarhus, Denmark
+**Origin:** Denmark
+
+<hr>
+
+**Tracklist**:
 
 1. Downfall 03:31 
 2. New Era 03:34 

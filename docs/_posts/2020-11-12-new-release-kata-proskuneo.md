@@ -1,5 +1,5 @@
 ---
-title: "New Release: Kata - Proskuneo"
+title: "Kata - Proskuneo(EP)"
 date: "2020-11-12"
 tags:
 - News
@@ -8,11 +8,19 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/wS6c8St/kata.jpg
 ---
 
+**Band:** Kata 
+
+**Album:** Proskuneo
+
 **Release Date:** November 11, 2020
 
 **Record Label:** [Coleiosis Media](https://coleiosis.bandcamp.com)
 
 **Genre:** Symphonic Grindcore
+
+**Origin:** USA
+
+<hr>
 
 **Tracklist:**
 

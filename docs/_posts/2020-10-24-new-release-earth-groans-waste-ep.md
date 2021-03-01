@@ -1,5 +1,5 @@
 ---
-title: "New Release: Earth Groans - Waste EP"
+title: "Earth Groans - Waste(EP)"
 date: "2020-10-24"
 tags:
 - News
@@ -8,9 +8,15 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg
 ---
 
+**Band:** Earth Groans
+
+**EP:** Waste
+
 **Release Date:** October 23, 2020
 
 **Record Label:** Solid State Records
+
+**Origin:** USA
 
 **Genre:** Chaotic Hardcore/Mathcore
 

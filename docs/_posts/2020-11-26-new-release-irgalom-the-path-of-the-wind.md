@@ -1,5 +1,5 @@
 ---
-title: "New Release: Irgalom -  The Path Of The Wind [EP]"
+title: "Irgalom -  The Path Of The Wind [EP]"
 date: "2020-11-26"
 tags:
 - News
@@ -8,6 +8,10 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/nQMg9fS/irgalom.jpg
 ---
 
+**Band:** Irgalom
+
+**EP:** The Path Of The Wind
+
 **Record Label:** Abran Records
 
 **Release Date:** November 25, 2020
@@ -15,6 +19,10 @@ featuredimg: https://i.ibb.co/nQMg9fS/irgalom.jpg
 **Genre:** Black Metal
 
 **Origin:** Hungary
+
+<hr>
+
+**Tracklist:**
 
 1. Deep Waters (05:34) 
 2. Könyörülj rajtam (05:00) 

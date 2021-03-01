@@ -1,5 +1,5 @@
 ---
-title: "New Release: Everything In Slow Motion - Influence"
+title: "Everything In Slow Motion - Influence[LP]"
 date: "2020-10-17"
 tags:
 - News
@@ -8,13 +8,19 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/mSq0jBZ/eism.png
 ---
 
+**Band:** Everything In Slow Motion 
+
+**Album:** Influence
+
 **Release Date:** October 16, 2020 
 
 **Record Label:** Facedown Records
 
 **Genre:** Post-Hardcore/Post-Rock
 
- **Album length:** 43 minutes
+**Origin:** USA
+
+**Album length:** 43 minutes
 
 **Tracklist:**
 1. Apollo 
