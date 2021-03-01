@@ -12,30 +12,55 @@ Young thrash metal band, Brotality has just released their debut full length thr
 
 <hr>
 
-Record Label: Rottweiler Records
+**Record Label:** Rottweiler Records
 
-Genre: Thrash Metal
 
-Release Date: February 5, 2021
+**Genre:** Thrash Metal
 
-Album-length: 57 Minutes
+**Release Date:** February 5, 2021
+
+**Origin:** USA
+
+**Album-length:** 57 Minutes
 
 <hr>
 
-Track Listing:
 
-1....And Then There Was One 01:20
-2.Foxhole 04:43
-3.Salting The Wound 04:13
+**Tracklist:**
+
+1....And Then There Was One 01:20 
+
+2.Foxhole 04:43 
+
+3.Salting The Wound 04:13 
+
 4.I Am Fire I Am Death 04:36
+
 5.Biohazard 03:51
+
 6.Empty Existence 06:54
+
 7.Prisoners Of The Abyss 05:05
+
 8.Dirtnap 04:30
+
 9.Spiral Out 05:32
+
 10.Legion Falls 04:13
+
 11.Garden 02:09
+
 12.The Way Of Suffering 08:58
+
+<hr>
+
+**Lineup:**
+
+Reece Maopolski - Bass, Vocals 
+Bryce Maopolski - Guitars, Vocals 
+Liam Fenton - Drums 
+
+
 
 <hr>
 

@@ -1,5 +1,5 @@
 ---
-title: "His Kingdom Suffers - The Aether & The Veil[Remastered & Instrumentals](LP)"
+title: "His Kingdom Suffers - The Aether & The Veil(Remastered & Instrumentals)(LP)"
 date: "2020-12-18"
 tags:
 - News
@@ -8,16 +8,24 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/Hp9vJ6Y/his-kingdom-suffers.jpg
 ---
 
+**Band:** His Kingdom Suffers
+
+**Album:** The Aether & The Veil(Remastered & Instrumentals)
+
 **Genre:** Progressive Deathcore
 
 **Release Date:** December 25, 2020
 
 **Record Label:** Independent
 
+**Origin**: USA
+
 **Album Length:** 2 hour 14 Minutes
 
 <hr>
+
 **Tracklist:**
+
 
 1. The Aether (Remastered) 05:12 
 2. Indoctrination Stations (Remastered) 05:45 
