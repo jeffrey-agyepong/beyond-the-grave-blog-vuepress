@@ -34,6 +34,10 @@ Kyle Powers - Guitar/Bass
 
 [Stricken Smitten & Afflicted (Single)\(2020\)](https://cntxt.bandcamp.com/track/stricken-smitten-afflicted)
 
+Mamoth(The Devil Wears Prada Cover)[2020]
+
+God Rest Ye Little Gentlemen(Single)[2020]
+
 * * *
 
 [Facebook](https://web.facebook.com/cntxtband)

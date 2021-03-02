@@ -12,6 +12,8 @@ featuredimg: https://i.ibb.co/vBGSRM8/spite-the-beast.webp
 
 **Genre:** Beatdown Hardcore
 
+**Formed:** 2021
+
 **Record Label:** Independent 
 
 **Origin:** USA

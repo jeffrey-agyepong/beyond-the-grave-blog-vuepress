@@ -9,6 +9,8 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/pZZTFmj/blue-fire-horizon2.jpg
 ---
 
+**Band:** Blue Fire Horizon
+
 **Formed:** 2020
 
 **Status:** Active

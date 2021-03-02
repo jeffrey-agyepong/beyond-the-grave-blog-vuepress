@@ -8,6 +8,8 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/z5y5mq6/elephant-watcher2.jpg
 ---
 
+**Band:** Elephant Watchtower
+
 **Formed:** 2019
 
 **Status:** Active

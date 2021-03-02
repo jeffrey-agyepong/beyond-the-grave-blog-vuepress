@@ -8,6 +8,8 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/LvGrtMJ/jernlov.png
 ---
 
+**Band: Jernlov**
+
 **Formed:** 2020
 
 **Status:** Active

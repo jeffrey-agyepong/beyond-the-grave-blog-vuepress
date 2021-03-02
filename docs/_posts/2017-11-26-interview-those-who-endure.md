@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/PTrGF1K/those-who-endure.jpg
 ---
 
-**Those Who Endure is a 5-piece progressive death metal/deathcore band from Queensland, Australia. I took time out on Saturday night to talk with their frontman to discuss his band's history, faith, and upcoming music.**
+**Those Who Endure is a 5-piece progressive death metal/deathcore band from Queensland, Australia. I got the opportunity on a Saturday night to talk with their frontman to discuss his band's history, faith, and upcoming music.**
 
 <hr>
 
@@ -89,8 +89,6 @@ Jeffrey: Awesome! That’s all the questions I've got for you! It's been a grea
 Peter:  I just like to express my gratitude to you for reaching out and for the support of the fans and scene. Finally, to Christ for the opportunity to do what we love most.
 
 Thank you so much.
-
-Jeffrey: My absolute pleasure! Thank you for taking the time out of your schedule to talk. Greatly appreciated. I couldn't more stoked about new music for you guys!
 
  <hr>
 
