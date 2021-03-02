@@ -16,6 +16,8 @@ featuredimg: https://i.ibb.co/1mqDNcG/Epoch-of-Exile-Black-Metal-Unblack-Metal.j
 
 **Genre:** Black Metal
 
+**Single Release Date:** March 3, 2021
+
 **EP Release Date:** March 26, 2021
 
 <hr>
