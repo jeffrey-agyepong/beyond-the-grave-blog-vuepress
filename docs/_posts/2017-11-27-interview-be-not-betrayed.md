@@ -87,7 +87,23 @@ Jethro: I appreciate you having me, it has been my pleasure doing this. The deb
 **Jeffrey: My pleasure. For sure, I'd be happy to have you again. God bless you as well.**
 
 <hr>
+
+
 [Facebook](https://www.facebook.com/BeNotBetrayed/)
+
+<hr>
+
+**Discography:**
+
+In Spirit and in Truth(EP)[2014]	 
+
+The Model Prayer(Single)[2015]
+
+
+Void(Single)[2019]	 
+
+Pillars of Deceit(Single)[2020]
+
 
 <hr>
 
