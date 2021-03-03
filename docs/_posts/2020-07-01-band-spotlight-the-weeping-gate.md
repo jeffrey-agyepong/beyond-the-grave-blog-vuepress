@@ -13,23 +13,25 @@ featuredimg: https://i.ibb.co/0jP0wQ5/weeping-gate.jpg
 
 **Formed:** 2007
 
+**Status:** Active
+
+**Record label:** Independent
+
 **Origin:** Arkansas, USA
 
-**Record-label:** Independent
-
-**Status:** Active
+<hr>
 
 **Band members:**
 
-_Jamie Garza - Bass/vocals_
+Jamie Garza - Bass/Vocals
 
-_Christian Whitehead - Drums_
+Christian Whitehead - Drums
 
-_Jason Grunwald - Guitar/vocals_
+Jason Grunwald - Guitar/Vocals
 
-_Robert Halcumb - Guitar/vocals_
+Robert Halcumb - Vocals, Guitar
 
-_Sydney Halcumb - Keyboard/vocals_
+Sydney Halcumb - Vocals, Keyboard
 
 <hr>
 
