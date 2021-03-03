@@ -8,13 +8,26 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/42Z2wRP/context.jpg
 ---
 
-**Context** is a Christian Metal Band from Morgantown, WV. **Context** was founded in 2014 under the name Gatsby by former members of I Killed Medusa. The band recorded their demo "As Bold As Lions", a two-song EP shortly after formation. Gatsby went on a hiatus due to numerous lineup changes until 2017 when founding members James "Jam" Watkins, and Kodey "Chow" Watkins met Kyle Powers at their local church. The band then began writing their new EP and changed their name to **Context**. Their first single **"Castaway"** came out on Jun 23rd, 2018. The full EP titled **"Heart Journal"** was independently recorded, produced, and released on July 1st, 2018. This EP was based on Bible Journal entries from vocalist Jam Watkins during his early years as a Christian. Context remixed the EP and added three new songs to create the **Heart Journal Deluxe Edition**. \[[¹\]](https://cntxtband.wixsite.com/contextband/bio)
+**Band**: Context
+
+**Formed:** 2018
+
+**Status:** Active
+
+**Genre:** Progressive metalcore
+
+**Record label:** Independent
+
+**Origin:** West Virginia, USA
 
 <hr>
 
-**Genre:** Progressive Metalcore/Spoken-Word
+**Bio:**
 
-**Record label:** Independent
+> **Context** is a Christian Metal Band from Morgantown, WV. **Context** was founded in 2014 under the name Gatsby by former members of I Killed Medusa. The band recorded their demo "As Bold As Lions", a two-song EP shortly after formation. Gatsby went on a hiatus due to numerous lineup changes until 2017 when founding members James "Jam" Watkins, and Kodey "Chow" Watkins met Kyle Powers at their local church. The band then began writing their new EP and changed their name to **Context**. Their first single **"Castaway"** came out on Jun 23rd, 2018. The full EP titled **"Heart Journal"** was independently recorded, produced, and released on July 1st, 2018. This EP was based on Bible Journal entries from vocalist Jam Watkins during his early years as a Christian. Context remixed the EP and added three new songs to create the **Heart Journal Deluxe Edition**. \[[¹\]](https://cntxtband.wixsite.com/contextband/bio)
+
+<hr>
+
 
 **Band Members:**
 
