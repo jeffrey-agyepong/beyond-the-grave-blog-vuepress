@@ -17,7 +17,9 @@ Born from Chicago melodic  death metal veterans(_Mike & Dan Gleason_ of _**[Afte
 **Record-Label:** Independent
 
 <hr>
+
 **Members:**
+
 
 Nick Daniels - Guitars 
 
