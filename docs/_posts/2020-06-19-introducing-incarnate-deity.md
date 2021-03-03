@@ -8,11 +8,17 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W0QfVYq/theodicy.jpg
 ---
 
-Genre: Blend of death and black metal(with symphonic orchestration)
+**Band:** Incarnate Deity
 
-Origin: South Africa
+**Formed:** 2020
 
-Record label: [Christian Metal Underground Records](https://web.facebook.com/ChristianMetalUndergroundRecords/) 
+**Status:** Active
+
+**Genre:** Blend of death and black metal(with symphonic orchestration)
+
+**Origin:** South Africa
+
+**Record label:** Christian Metal Underground Records
 
 <hr>
 

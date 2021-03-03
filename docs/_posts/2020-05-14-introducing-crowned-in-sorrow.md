@@ -12,9 +12,13 @@ _**Crowned in Sorrow**_ is a _progressive atmospheric doom metal_ band, formed b
 
 **Genre:** Progressive Atmospheric Doom Metal
 
-**Origin:** Amarillo, Texas
+**Origin:** Texas(USA)
 
-**Band Member(s):** Derek Corzine - All instruments + vocals
+<hr>
+
+**Band Member(s):** 
+
+Derek Corzine - All instruments + vocals
 
 **Discography:**
 

@@ -16,7 +16,9 @@ featuredimg: https://i.ibb.co/ggYgFxZ/roots-of-tragedy.jpg
 
 **Genre:** Progressive death/black/doom metal
 
-**Country of origin:** Norway
+**Record label:** Independent
+
+**Origin:** Norway
 
 <hr>
 
