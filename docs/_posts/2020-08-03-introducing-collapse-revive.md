@@ -8,6 +8,8 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/N2gjCQZ/collapse2.jpg
 ---
 
+**Band**: Collapse//Revive
+
 **Formed:** 2019
 
 **Status:** Active
