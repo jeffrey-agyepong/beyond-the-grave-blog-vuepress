@@ -8,21 +8,23 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/n6HH17d/arthure.jpg
 ---
 
-**Formed:** 2015
+**Band:** Nathan Arthur(formerly Arthure)
+
+**Formed:** 2015 - Present
 
 **Status:** Active
-
-**Origin:** _Chicago, Illinois_ (USA)
 
 **Genre:** Progressive Death Metal/Deathcore
 
 **Record Label:** Independent
 
+**Origin:** Illinois,USA 
+
 <hr>
 
 **Band Member(s):**
 
-Nathan Arthur – All instruments
+Nathan Arthur – Vocals, All instruments
 
 <hr>
 
