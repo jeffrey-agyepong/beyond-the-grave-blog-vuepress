@@ -21,7 +21,9 @@ featuredimg: https://i.ibb.co/5rRrzWf/cruentis.webp
 **Origin:** British Colombia, Canada
 
 <hr>
+
 **Bio:**
+
 
 > _**Cruentis**_ is a melodic death metal band originating in _British Columbia_, on the west coast of Canada. *Cruentis* never shy away from exploring other genres of metal and each piece of work is unique in its own way, while maintaining dark melodic chord progressions and bone-crushing riffs. The lyrics are deeply rooted in the personal life experiences of the band members and the harsh realities of life often left unspoken.
 
@@ -44,7 +46,9 @@ _[Cold Stone](https://cruentis.bandcamp.com/album/cold-stone) (EP)\[2016\]_
 [Alpha and Omega](https://cruentis.bandcamp.com/album/alpha-and-omega) (EP) \[2018\]
 
 <hr>
+
 **For fans of**: Extol, Becoming The Archetype, Fearscape, Fleshkiller
+
 
 
 
