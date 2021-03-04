@@ -24,13 +24,13 @@ featuredimg: https://i.ibb.co/xSWj6zK/bloodlines.webp
 
 **Band Members:**
 
-##### Alexis Rodriguez – Vocals
+Alexis Rodriguez – Vocals
 
-##### Daniel Camacho – Guitar
+Daniel Camacho – Guitar
 
-##### Aldo Mayorga- Bass
+Aldo Mayorga- Bass
 
-##### Matthew Benavides- Drums
+Matthew Benavides- Drums
 
 <hr>
 
@@ -45,7 +45,9 @@ Hostile Minds[Full-Length] (2019)
 Colder[Single] (2021)
 
 <hr>
+
 _**For fans of**_: Impending Doom, Reformers, For Today, Creations, Those Who Fear
+
 
 <hr>
 

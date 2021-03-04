@@ -53,13 +53,7 @@ Asaph - Drums \[Timōrātus (live), Risen\]
 
 * * *
 
-[Facebook](https://web.facebook.com/symphonyofheaven)
-
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fsymphony_of_heaven%3Figshid%3D11414gycdhtjb%26fbclid%3DIwAR3tA8Eu8OppoPIXPebuVSEjIFBuFq4MJ2DzQrgwtjBXb6gV29FEVcGeaIs&h=AT0qaw3TgJFUEUdQYLAgI8wwy2Fa5ol_GQnurHjzLModVwLvi77Y2qmSeOb_n7A4I5ZJgKFd1xRAMGeFfhY20vzsvHZScokW6EdDFQ86DeY0D7iuUrxa6jwT7m-la9V80EumEA)
-
-[Itunes](https://music.apple.com/ca/artist/symphony-of-heaven/1297842477)
-
-[Youtube](https://www.youtube.com/user/loganathompson)
+[Facebook](https://web.facebook.com/symphonyofheaven) | [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fsymphony_of_heaven%3Figshid%3D11414gycdhtjb%26fbclid%3DIwAR3tA8Eu8OppoPIXPebuVSEjIFBuFq4MJ2DzQrgwtjBXb6gV29FEVcGeaIs&h=AT0qaw3TgJFUEUdQYLAgI8wwy2Fa5ol_GQnurHjzLModVwLvi77Y2qmSeOb_n7A4I5ZJgKFd1xRAMGeFfhY20vzsvHZScokW6EdDFQ86DeY0D7iuUrxa6jwT7m-la9V80EumEA) | [Itunes](https://music.apple.com/ca/artist/symphony-of-heaven/1297842477) | [Youtube](https://www.youtube.com/user/loganathompson)
 
 * * *
 
