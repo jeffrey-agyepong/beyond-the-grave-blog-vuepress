@@ -14,7 +14,7 @@ featuredimg: https://i.ibb.co/ynKy4xn/tax-collector.jpg
 
 **Status:** Active
 
-**Genre:** Progressive metalcore/djent
+**Genre:** Progressive metalcore/Djent
 
 **Origin:** USA
 

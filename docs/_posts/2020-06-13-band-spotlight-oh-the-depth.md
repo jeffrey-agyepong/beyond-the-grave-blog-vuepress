@@ -9,15 +9,27 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/G2rp3cf/oh-the-depth.jpg
 ---
 
-**Genre:** Blackened Deathcore
+**Band:** Oh, The Depth
 
 **Formed:** 2019
 
-**Label:** Independent
-
 **Status:** Active
 
+**Genre:** Blackened Deathcore
+
+**Record Label:** Independent
+
+**Origin:** USA
+
+<hr>
+
+
+
+**Bio:**
+
 > **_WE PREACH CHRIST AND HIM CRUCIFIED (1 CORINTHIANS 1:23)_**
+
+<hr>
 
 **Band Members:**
 
@@ -38,8 +50,9 @@ Bring Me To Death (Single)\[2019\]
 Nail-Scarred Feet (Single)\[2019\]
 
 <hr>
-
 _FFO: [Darkness Before Dawn](https://www.youtube.com/watch?v=SKpfCEWTjeA), [This Divided World](https://www.youtube.com/watch?v=7zLoAHb_DFc), [Eyes of the Defiled](https://www.reverbnation.com/play_now/song_12298550)_
+
+<hr>
 
 [Facebook](https://web.facebook.com/ohthedepth)
 

@@ -9,15 +9,30 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/MfgT5Y6/yourhandswritehistory.jpg
 ---
 
-_**Your Hands Write History**_ is a _progressive metal_ outfit established in the evergreen reaches of southern Oregon, with sounds blending elements of ethereal atmospheric melody with pulse-pounding rhythmic chaos.
+**Band**: Your Hands Write History
+
+**Formed**: 
+
+**Status**: Active
+
+**Genre**: Progressive metal
+
+**Record label**: Independent
+
+**Origin:** Washington, USA 
 
 <hr>
 
-**Record Label:** Independent
+**Bio:**
+
+> _**Your Hands Write History**_ is a _progressive metal_ outfit established in the evergreen reaches of southern Oregon, with sounds blending elements of ethereal atmospheric melody with pulse-pounding rhythmic chaos.
+
+<hr>
+
 
 **_Band Members:_**
 
-_Taylor Bates_ 
+_Taylor Bates_ - Vocals
 
 _Morgan Hoehne_ 
 
@@ -27,8 +42,11 @@ _Anthony Panter_
 
 _Jobe Fredericksen_
 
- <hr>
+<hr>
+
+
 **Discography:**
+
 
 [_Rest / Eternal \(2015\)_](https://yourhandswritehistory.bandcamp.com/album/rest-eternal)
 

@@ -8,30 +8,55 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/vLJ6vF0/astillian.png
 ---
 
-Born from Chicago melodic  death metal veterans(_Mike & Dan Gleason_ of _**[Afterimage](https://www.youtube.com/watch?v=kA6UWU_evJM)**_), _**Âstillian**_ began to cast a vision for the Dark Age inspired metal project in late 2016\. Their debut album, _**Waves at Dusk**_, is a concept album inspired by _G.K. Chesterton’s, “The Ballad of the White Horse_." It captures the inescapable misery and undeniable hope of the early middle ages; raiding hordes, mass migrations, and kingdoms rising through the discord. 
+**Band:** Âstillian
+
+**Formed:** 2016
+
+**Status:** Active
 
 **Genre:** Melodic Death Metal
 
-**Origin:** Chicago, Illinois(USA)
-
 **Record-Label:** Independent
+
+**Origin:** Chicago, Illinois(USA)
 
 <hr>
 
-**Members:**
+**Bio:**
+
+Born from Chicago melodic  death metal veterans(_Mike & Dan Gleason_ of _**[Afterimage](https://www.youtube.com/watch?v=kA6UWU_evJM)**_), _**Âstillian**_ began to cast a vision for the Dark Age inspired metal project in late 2016\. Their debut album, _**Waves at Dusk**_, is a concept album inspired by _G.K. Chesterton’s, “The Ballad of the White Horse_." It captures the inescapable misery and undeniable hope of the early middle ages; raiding hordes, mass migrations, and kingdoms rising through the discord. 
+
+<hr>
+
+**Band Members:**
+
+
+Mike Gleason - Vocals 
+
+Dan Gleason - Bass, Vocals 
 
 
 Nick Daniels - Guitars 
 
-Dan Gleason - Bass, Vocals 
+David DeStefano - Guitars 
 
-David DeStefano - Guitars Cody Bizeau - Guitars Mike Gleason - Vocals James Doyle - Drums
+Cody Bizeau - Guitars 
+
+James Doyle - Drums
 
 <hr>
-
 **_FFO: Afterimage, Extol, Soul Embraced, A Secret Ending_**
 
 <hr>
+
+**Discography:**
+
+Waves At Dusk(Full-Length)[2018]
+
+
+
+<hr>
+
 [Amazon](https://www.amazon.com/Waves-at-Dusk-Âstillian/dp/B077TLW6X6)
 
 [Youtube](https://www.youtube.com/channel/UCbqYW3FVJsXVElcrwSnQEJQ)

@@ -1,5 +1,5 @@
 ---
-title: "Album Spotlight: Mortal Treason - A Call to the Martyrs (FREE DOWNLOAD)"
+title: "Album Spotlight: Mortal Treason - A Call to the Martyrs"
 date: "2020-06-16"
 tags:
 - Spotlight
