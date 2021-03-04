@@ -1,5 +1,5 @@
 ---
-title: "Bloodlines - Colder(Single)"
+title: "Bloodlines - Colder (Single)"
 date: "2021-02-04"
 tags:
 - News

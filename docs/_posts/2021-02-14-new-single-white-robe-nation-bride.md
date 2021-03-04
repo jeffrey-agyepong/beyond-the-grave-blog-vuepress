@@ -1,5 +1,5 @@
 ---
-title: "White Robe Nation - Bride(Single)"
+title: "White Robe Nation - Bride (Single)"
 date: "2021-02-14"
 tags:
 - News

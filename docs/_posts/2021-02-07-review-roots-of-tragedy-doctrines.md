@@ -14,7 +14,7 @@ featuredimg: https://i.ibb.co/kxGtmdr/roots-of-tragedy.webp
 
 **Album length:** 41:00
 
-**Genre:** Progressive Death Metal/Djent
+**Genre:** Progressive Death Metal/Deathcore/Djent
 
 **Track listing:** 
 

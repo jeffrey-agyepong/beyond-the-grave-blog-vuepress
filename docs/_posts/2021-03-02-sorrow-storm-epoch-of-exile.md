@@ -1,5 +1,5 @@
 ---
-title: "SorrowStorm - Epoch of Exile(Single)"
+title: "SorrowStorm - Epoch of Exile (Single)"
 date: "2021-02-26"
 tags:
 - News

@@ -1,5 +1,5 @@
 ---
-title: "Album Spotlight: Separatist - Closure [FREE DOWNLOAD]"
+title: "Album Spotlight: Separatist - Closure"
 date: "2020-09-10"
 tags:
 - Spotlight

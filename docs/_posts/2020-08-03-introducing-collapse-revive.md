@@ -36,9 +36,9 @@ Joshua Nathaniel Racine – Drummer
 
 **Discography:**
 
-Collapse​/​/​Revive - EP(2020)
+Collapse​/​/​Revive - EP[2019]
 
-
+Arid(Single)[2020]
 
 <hr>
 

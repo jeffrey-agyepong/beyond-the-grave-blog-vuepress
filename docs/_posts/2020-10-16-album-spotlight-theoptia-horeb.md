@@ -8,6 +8,10 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 ---
 
+**Band:** Theoptia
+
+**Album:** Horeb
+
 **Release Date:** October 21, 2017
 
 **Record Label:** Independent
@@ -17,6 +21,8 @@ featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 **Genre:** Progressive Death Metal
 
 **Album length:** 9 tracks: 47 minutes
+
+<hr>
 
 **Tracklist:**
 
@@ -52,12 +58,8 @@ featuredimg: https://i.ibb.co/xsg32KR/horeb-1.jpg
 
 * * *
 
-#### [iTunes](https://music.apple.com/ca/album/horeb/1275753201)
 
-#### [Amazon](https://www.amazon.com/Horeb-Theoptia/dp/B0755S22V1/ref=sr_1_1?dchild=1&keywords=theoptia+horeb&qid=1602726805&sr=8-1)
 
-#### [FREE DOWNLOAD](https://mailchi.mp/65ecfd676a69/theoptia-free-album-download?fbclid=IwAR2bqAobLkSvJpVf7wyNsA1EtJebhs2Hhp9NcjYD2ucsNAKHxYoEuVczwLQ)
-
-#### [FREE CD](https://www.theoptiamusic.com/free-cds)
+[iTunes](https://music.apple.com/ca/album/horeb/1275753201) | [Amazon](https://www.amazon.com/Horeb-Theoptia/dp/B0755S22V1/ref=sr_1_1?dchild=1&keywords=theoptia+horeb&qid=1602726805&sr=8-1) | [FREE DOWNLOAD](https://mailchi.mp/65ecfd676a69/theoptia-free-album-download?fbclid=IwAR2bqAobLkSvJpVf7wyNsA1EtJebhs2Hhp9NcjYD2ucsNAKHxYoEuVczwLQ) | [FREE CD](https://www.theoptiamusic.com/free-cds)
 
 * * *

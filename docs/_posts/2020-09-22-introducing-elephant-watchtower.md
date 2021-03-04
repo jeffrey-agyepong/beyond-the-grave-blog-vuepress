@@ -14,17 +14,17 @@ featuredimg: https://i.ibb.co/z5y5mq6/elephant-watcher2.jpg
 
 **Status:** Active
 
-**Origin:** Ontario, Canada
-
 **Genre:** Progressive Death Metal
 
 **Record Label:** Independent
+
+**Origin:** Ontario, Canada
 
 * * *
 
 **Band Members:**
 
-Peter Watson - All instruments + Vocals
+Peter Watson - Vocals, All instruments
 
 * * *
 
@@ -36,11 +36,7 @@ Peter Watson - All instruments + Vocals
 
 * * *
 
-#### [Facebook](https://www.facebook.com/WatchtowerElephant/)
-
-#### [Twitter](https://twitter.com/ElphntWatchtwr)
-
-#### [Instagram](https://www.instagram.com/elephantwatchtower)
+[Facebook](https://www.facebook.com/WatchtowerElephant/) | [Twitter](https://twitter.com/ElphntWatchtwr) | [Instagram](https://www.instagram.com/elephantwatchtower)
 
 * * *
 

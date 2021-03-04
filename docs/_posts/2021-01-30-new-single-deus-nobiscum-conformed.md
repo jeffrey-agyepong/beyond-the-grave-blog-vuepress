@@ -1,5 +1,5 @@
 ---
-title: "Deus Nobiscum - Conformed(feat. Andrew of Fire From Heaven)(Single)"
+title: "Deus Nobiscum - Conformed(feat. Andrew of Fire From Heaven) (Single)"
 date: "2021-01-30"
 tags:
 - News
