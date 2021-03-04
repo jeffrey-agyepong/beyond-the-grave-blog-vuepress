@@ -8,7 +8,17 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/xSWj6zK/bloodlines.webp
 ---
 
-Bloodlines is a Christian Deathcore/Metalcore band from South Texas that wishes to spread the love and hope of Jesus Christ. 
+**Band:** Bloodlines
+
+**Formed:** 2013 
+
+**Status:** Active
+
+**Genre:** Metalcore/Deathcore/Nu-Metal
+
+**Record Label:** Facedown Records
+
+**Origin:** Texas,USA 
 
 <hr>
 
@@ -32,17 +42,14 @@ Deadlock [Single] (2017)
 
 Hostile Minds[Full-Length] (2019)
 
+Colder[Single] (2021)
+
+<hr>
+_**For fans of**_: Impending Doom, Reformers, For Today, Creations, Those Who Fear
+
 <hr>
 
-_**For fans of**_: Impending Doom, Reformers, Ark of the Covenant, Creations, Those Who Fear
-
-[Website](https://www.bloodlinestx.com/home)
-
-[Facebook](https://www.facebook.com/BloodlinesTexas/)
-
-[Bandcamp](https://bloodlinestx.bandcamp.com)
-
-[Youtube](https://www.youtube.com/channel/UCSsWx-MXWFzkhEJ-BaKCLQQ/videos)
+ [Facebook](https://www.facebook.com/BloodlinesTexas/) | [Bandcamp](https://bloodlinestx.bandcamp.com) | [Youtube](https://www.youtube.com/channel/UCSsWx-MXWFzkhEJ-BaKCLQQ/videos)
 
 <hr>
 
