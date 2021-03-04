@@ -9,15 +9,17 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/fMh4C0j/symphony.jpg
 ---
 
+**Band:** Symphony of Heaven
+
 **Formed:** 2017
 
-**Origin:** Owensville, Indiana(USA)
-
-**Record-label:** [Rottweiler Records](http://rottweilerrecords.bandcamp.com)
+**Status:** Active
 
 **Genre:** Melodic Black/Death Metal
 
-**Status:** Active
+**Record-label:** [Rottweiler Records](http://rottweilerrecords.bandcamp.com)
+
+**Origin:** Indiana(USA)
 
 <hr>
 
