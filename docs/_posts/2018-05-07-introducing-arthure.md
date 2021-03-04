@@ -30,6 +30,7 @@ Nathan Arthur – Vocals, All instruments
 
 **Discography:**
 
+
 [CAPSUL(EP)\(2015\)](https://arthureofficial.bandcamp.com/album/capsul)
 
 [Frail(Full-Length)\(2016\)](https://arthureofficial.bandcamp.com/album/frail)

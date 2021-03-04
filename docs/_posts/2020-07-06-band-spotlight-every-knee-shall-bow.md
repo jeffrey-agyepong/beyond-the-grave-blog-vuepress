@@ -13,7 +13,9 @@ featuredimg: https://i.ibb.co/GQ0Sk4m/eksb.jpg
 
 **Formed:** 2008
 
-**Genre:** Progressive Death Metal/Deathcore
+**Status:** Active
+
+**Genre:** Progressive Deathcore
 
 **Origin:** USA
 

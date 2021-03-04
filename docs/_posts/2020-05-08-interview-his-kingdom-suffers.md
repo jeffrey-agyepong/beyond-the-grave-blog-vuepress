@@ -10,6 +10,8 @@ featuredimg: https://i.ibb.co/JQPFQWR/his-kingdom-suffers-2.jpg
 
 Here's an interview with the brain behind His Kingdom Suffers, enjoy!
 
+<hr>
+
  **Hey, I hope you doing well, despite the current pandemic. Let's get started by introducing yourself and telling us your role in the band?**
 
 Everything is well so far, God willing! I hope the same for everyone else. My name is Andrew Harrison, and I am the creator and sole member of the band. My friend Ryan Reedy I consider part of the group, but he simply plays the guitar parts I kind of write but a whole lot better than I. He also records everything and mixes/masters for me.
@@ -69,6 +71,19 @@ I would love to get a band together in the near future, but till then, expect mo
  **Thanks for taking the time to do this interview, any final words?**
 
 I want to thank Jeffrey for interviewing me and all else for checking the band out, it means a lot! If you have any questions, feel free to ask on the bands [Facebook](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjmvvT8z6DpAhVRUcAKHfAfDWMQFjAAegQIBBAB&url=https%3A%2F%2Fwww.facebook.com%2FHKSisForGod%2F&usg=AOvVaw16dA4cgtZPRIFgSmyGNH2i) or our [Instagram.](https://www.instagram.com/hiskingdomsuffers/)
+
+<hr>
+
+**Discography:**
+
+The Aether & The Veil (Full Length) [2018]
+
+Suffering of the Mind(Single)[2020]
+
+Spiritual Warfare(Single)[2020]
+
+The Aether & The Veil (Remastered & Instrumentals) [2020]
+
 <hr>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/QflHaqqgfW8" width="560" height="315" frameborder="0"></iframe></div>

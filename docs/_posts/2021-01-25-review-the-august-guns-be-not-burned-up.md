@@ -1,5 +1,5 @@
 ---
-title: "Review: The August Guns - Be Not Burned Up(Single)"
+title: "Review: The August Guns - Be Not Burned Up (Single)"
 date: "2021-01-25"
 tags:
 - Reviews

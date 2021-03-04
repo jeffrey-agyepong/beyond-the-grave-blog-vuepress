@@ -14,7 +14,7 @@ featuredimg: https://i.ibb.co/42Z2wRP/context.jpg
 
 **Status:** Active
 
-**Genre:** Progressive metalcore
+**Genre:** Progressive Metalcore
 
 **Record label:** Independent
 

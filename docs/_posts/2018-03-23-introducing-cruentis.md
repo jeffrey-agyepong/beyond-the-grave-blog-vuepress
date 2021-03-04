@@ -8,19 +8,27 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5rRrzWf/cruentis.webp
 ---
 
-_**Cruentis**_ is a melodic death metal band originating in _British Columbia_, on the west coast of Canada. **_Cruentis_** never shy away from exploring other genres of metal and each piece of work is unique in its own way, while maintaining dark melodic chord progressions and bone-crushing riffs. The lyrics are deeply rooted in the personal life experiences of the band members and the harsh realities of life often left unspoken.
+**Band:** Cruentis
 
-<hr>
+**Formed:** 2014
+
+**Status:** Active
 
 **Genre:** Melodic Death Metal
 
+**Record Label:** Hagah Recordings
+
 **Origin:** British Colombia, Canada
 
-**_Record Label:_** _Nosral Recordings_
+<hr>
+**Bio:**
+
+> _**Cruentis**_ is a melodic death metal band originating in _British Columbia_, on the west coast of Canada. *Cruentis* never shy away from exploring other genres of metal and each piece of work is unique in its own way, while maintaining dark melodic chord progressions and bone-crushing riffs. The lyrics are deeply rooted in the personal life experiences of the band members and the harsh realities of life often left unspoken.
 
 <hr>
 
- **_Members:_**
+**Band Members:**
+
 
 _Jesse Dean - Vocals, Bass_ 
 
@@ -28,20 +36,22 @@ _Tyler DeMerchant - Vocals, Rhythm Guitars,  Lead Guitars_
 
 <hr>
 
-_**Discography:**_
+**Discography:**
+
 
 _[Cold Stone](https://cruentis.bandcamp.com/album/cold-stone) (EP)\[2016\]_
 
 [Alpha and Omega](https://cruentis.bandcamp.com/album/alpha-and-omega) (EP) \[2018\]
 
-[Reclaimed](https://cruentishr.bandcamp.com/) (Single) [2020]
-
 <hr>
-_**For fans of**_: Extol, Becoming The Archetype, Fearscape, Fleshkiller
+**For fans of**: Extol, Becoming The Archetype, Fearscape, Fleshkiller
+
+
 
 <hr>
 
 [Facebook](https://www.facebook.com/CruentisBand/)
+
 
 <hr>
 
