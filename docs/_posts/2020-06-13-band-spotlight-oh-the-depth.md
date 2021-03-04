@@ -50,10 +50,11 @@ Bring Me To Death (Single)\[2019\]
 Nail-Scarred Feet (Single)\[2019\]
 
 <hr>
+
 _FFO: [Darkness Before Dawn](https://www.youtube.com/watch?v=SKpfCEWTjeA), [This Divided World](https://www.youtube.com/watch?v=7zLoAHb_DFc), [Eyes of the Defiled](https://www.reverbnation.com/play_now/song_12298550)_
 
-<hr>
 
+<hr>
 [Facebook](https://web.facebook.com/ohthedepth)
 
 [Instagram](https://www.instagram.com/oh_the_depth/)

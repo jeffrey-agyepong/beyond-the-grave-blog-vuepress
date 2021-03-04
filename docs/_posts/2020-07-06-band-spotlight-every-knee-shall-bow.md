@@ -57,11 +57,7 @@ Rise(Single)[2020]
 
 * * *
 
-[Facebook](https://www.facebook.com/everykneeshallbow)
-
-[Instagram](https://www.instagram.com/eksbband/?hl=en)
-
-[iTunes](https://music.apple.com/ca/artist/every-knee-shall-bow/439199601)
+[Facebook](https://www.facebook.com/everykneeshallbow) | [Instagram](https://www.instagram.com/eksbband/?hl=en) | [iTunes](https://music.apple.com/ca/artist/every-knee-shall-bow/439199601)
 
 <hr>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dO5WlmbFmSE" width="560" height="315" frameborder="0"></iframe></div>
