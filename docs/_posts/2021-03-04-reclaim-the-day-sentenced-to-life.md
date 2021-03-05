@@ -23,6 +23,8 @@ featuredimg: https://i.ibb.co/hd1tzjt/reclaim-stl.jpg
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6yfN2NFkjaw" width="560" height="315" frameborder="0"></iframe></div>
 
 <hr>
+
+
 **About the song:** The song is about how we're longer *sentenced to a life* of shame due to past guilt but made to be alive in Christ.
 
 <hr>
