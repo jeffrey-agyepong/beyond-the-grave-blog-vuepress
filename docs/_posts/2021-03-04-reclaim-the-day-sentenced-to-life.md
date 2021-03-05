@@ -25,7 +25,7 @@ featuredimg: https://i.ibb.co/hd1tzjt/reclaim-stl.jpg
 <hr>
 
 
-**About the song:** The song is about how we're longer *sentenced to a life* of shame, due to past guilt but made alive in Christ.
+**About the song:** The song is about how we're no longer sentenced to a life of shame but made alive in Christ.
 
 <hr>
 
