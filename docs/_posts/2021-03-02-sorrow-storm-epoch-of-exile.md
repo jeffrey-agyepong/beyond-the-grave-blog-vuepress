@@ -10,7 +10,7 @@ featuredimg: https://i.ibb.co/1mqDNcG/Epoch-of-Exile-Black-Metal-Unblack-Metal.j
 
 **Band:** SorrowStorm
 
-**EP:** Epoch of Exile
+**Single:** Epoch of Exile
 
 **Record Label:** Vision of God Records
 
