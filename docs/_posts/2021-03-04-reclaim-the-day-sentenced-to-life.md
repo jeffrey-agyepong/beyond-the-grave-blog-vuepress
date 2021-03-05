@@ -32,8 +32,11 @@ featuredimg: https://i.ibb.co/hd1tzjt/reclaim-stl.jpg
 **Band Members:**
 
 Becca Sugg - Lead Vocalist/Rhythm Guitar
+
 Marcus Sugg - Lead Guitar
+
 Alex Beattie - Drums
+
 Logan Morehouse -Bass Guitar
 
 <hr>
