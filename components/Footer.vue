@@ -1,23 +1,12 @@
 <template>
   <footer>
     <div class="center">
+      <a href="https://www.buymeacoffee.com/beyondthegrave"
+        ><img
+          src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=beyondthegrave&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
+      /></a>
+      <hr />
       <div class="footer-col s12 m4 footer_links  font">
-        <!--<div>
-          <a href="https://web.facebook.com/Beyondthegrave777">Facebook</a>
-        </div>
-        <div>
-          <a href="https://www.instagram.com/beyond_the_grave777/">Instagram</a>
-        </div>
-        <div>
-          <img
-            src="docs\.vuepress\public\assets\favicons\apple-icon-57x57.png"
-            alt=""
-          /><a
-            href="https://www.youtube.com/channel/UCCXafO-fbIZnTHNoRlx2QWg?view_as=subscriber"
-            >Youtube</a
-          >
-        </div>-->
-
         <li
           v-for="item in contact"
           :key="item.iconComponent"

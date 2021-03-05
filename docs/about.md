@@ -17,6 +17,10 @@ p{
 <p >Praise Him with loud cymbals;<br>
 Praise Him with clashing cymbals!</p>
 
+<html>
+        <a href="https://www.buymeacoffee.com/beyondthegrave"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=beyondthegrave&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+</html>
+
 Is there something wrong with a Christian listening to metal? Find out [here](https://www.gotquestions.org/Christian-heavy-metal-music.html).
 
 NOTE: Any link shared on this site has been approved by the band/label.
@@ -38,4 +42,3 @@ Ton R. - Writer
 Zachary Van D. - Writer
 
 <hr>
-
