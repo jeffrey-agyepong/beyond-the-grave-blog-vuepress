@@ -4,6 +4,7 @@ date: "2020-11-12"
 tags:
 - News
 - Grindcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/wS6c8St/kata.jpg
 ---

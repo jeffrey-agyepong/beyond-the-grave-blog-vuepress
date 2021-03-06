@@ -4,6 +4,7 @@ date: "2020-08-23"
 tags:
 - News
 - Hardcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rHyRP0c/gratitudetx.jpg
 ---

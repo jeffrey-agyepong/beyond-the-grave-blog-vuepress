@@ -4,6 +4,7 @@ date: "2021-02-02"
 tags:
 - News
 - Death Metal
+- Full Length
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/9rPwBmm/p-m-o-o-b.webp
 ---

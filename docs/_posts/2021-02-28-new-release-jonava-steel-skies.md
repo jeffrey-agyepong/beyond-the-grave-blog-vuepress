@@ -4,6 +4,7 @@ date: "2021-02-26"
 tags:
 - News
 - Black Metal
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/5np0x4V/jonava.jpg
 ---

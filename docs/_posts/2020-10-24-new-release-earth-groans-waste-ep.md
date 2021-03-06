@@ -4,6 +4,7 @@ date: "2020-10-24"
 tags:
 - News
 - Hardcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/hYs0Rzw/earth-groans-waste.jpg
 ---

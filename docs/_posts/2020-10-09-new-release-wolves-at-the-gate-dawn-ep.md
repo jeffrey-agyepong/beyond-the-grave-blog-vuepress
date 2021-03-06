@@ -4,6 +4,7 @@ date: "2020-10-09"
 tags:
 - News
 - Post Hardcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/W5kfDj9/dawn.jpg
 ---

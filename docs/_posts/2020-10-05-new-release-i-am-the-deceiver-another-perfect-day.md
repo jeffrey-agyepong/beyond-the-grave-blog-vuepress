@@ -4,6 +4,7 @@ date: "2020-10-05"
 tags:
 - News
 - Deathcore
+- Full Length
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/KK2049p/another-perfect-day.jpg
 ---

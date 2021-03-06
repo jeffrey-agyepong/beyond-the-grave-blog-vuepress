@@ -4,6 +4,7 @@ date: "2020-12-21"
 tags:
 - News
 - Melodic Metal
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/gFh5YVf/a-secret-ending.jpg
 ---

@@ -4,6 +4,7 @@ date: "2020-03-06"
 tags:
 - News
 - Hardcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/rGjmZMw/137140-Earth-Groans-Prettiest-of-Things.jpg
 ---

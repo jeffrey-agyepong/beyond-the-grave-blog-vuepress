@@ -4,6 +4,7 @@ date: "2021-01-29"
 tags:
 - News
 - Doom Metal
+- Full Length
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---

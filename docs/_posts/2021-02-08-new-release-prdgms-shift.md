@@ -4,6 +4,7 @@ date: "2021-02-08"
 tags:
 - News
 - Metalcore
+- EP
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/4dkkMPP/prdgms.jpg
 ---
