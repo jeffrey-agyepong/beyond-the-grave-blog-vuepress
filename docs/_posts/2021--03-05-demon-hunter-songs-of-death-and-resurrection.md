@@ -6,7 +6,7 @@ tags:
   - Acoustic
   - Full Length
 author: Jeffrey Agyepong
-featuredimg:
+featuredimg: https://i.ibb.co/vzYsVQs/songs-of-death-and-resurrection.jpg
 ---
 
 **Band:** Demon Hunter
