@@ -41,7 +41,7 @@ Pathos - Drums
 **Other Bands:**
 
 
-Sabat - Frost Like Ashes
+Sabat, Fire - Frost Like Ashes
 
 Ruah - Ascending King
 
