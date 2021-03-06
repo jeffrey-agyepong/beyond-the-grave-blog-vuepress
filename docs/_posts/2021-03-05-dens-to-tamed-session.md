@@ -25,7 +25,16 @@ featuredimg: https://i.ibb.co/55HkPXZ/dens-tamed-tongues.webp
 
 **Band Member(s):**
 
+Shaun Hypes - Vocals, Guitar
+
+Brandon Osborne -  Drums
+
+Josh Tomlinson - Bass
+
+Josh Waltman - Guitar
 
 
 <hr>
+[Facebook](https://www.facebook.com/densnoise) | [ Twitter](https://twitter.com/DENSnoise) | [Spotify](https://open.spotify.com/track/7DzkmBTj6cZIlLNYHSLhvJ?si=21oLFsjQTNm95hkJizlvnQ)
 
+<hr>
