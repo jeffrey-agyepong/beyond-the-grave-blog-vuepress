@@ -32,7 +32,7 @@ Sabat - Guitar
 
 Ruah - Bass
 
-Fire -
+Fire - Guitar
 
 Pathos - Drums
 
