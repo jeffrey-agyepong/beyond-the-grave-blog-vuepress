@@ -5,7 +5,7 @@ tags:
 - News
 - Black Metal
 author: Jeffrey Agyepong
-featuredimg: 
+featuredimg: https://i.ibb.co/7CMR2WQ/tormented.jpg
 ---
 
 **Band:** El Gibbor
@@ -26,16 +26,20 @@ featuredimg:
 **Band Member(s):**
 
 
-Azhael - 
+Azhael - Vocals
 
-Sabat -
+Sabat - Guitar
 
-Ruah -
+Ruah - Bass
+
+Fire -
 
 Pathos - Drums
 
 <hr>
+
 **Other Bands:**
+
 
 Sabat - Frost Like Ashes
 
