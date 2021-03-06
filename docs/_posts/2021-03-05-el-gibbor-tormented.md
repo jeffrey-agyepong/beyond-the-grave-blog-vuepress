@@ -23,7 +23,7 @@ featuredimg: https://i.ibb.co/7CMR2WQ/tormented.jpg
 <hr>
 
 
-**Band Member(s):**
+**Band Members:**
 
 
 Azhael - Vocals

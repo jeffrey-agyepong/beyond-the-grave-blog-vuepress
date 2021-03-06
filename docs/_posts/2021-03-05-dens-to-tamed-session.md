@@ -22,8 +22,7 @@ featuredimg: https://i.ibb.co/55HkPXZ/dens-tamed-tongues.webp
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xvbRVw21M6c" width="560" height="315" frameborder="0"></iframe></div>
 
 <hr>
-
-**Band Member(s):**
+**Band Members:**
 
 Shaun Hypes - Vocals, Guitar
 
