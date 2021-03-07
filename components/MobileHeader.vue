@@ -122,6 +122,8 @@ export default {
 .menu-divider
   margin 0
 
+.feather.feather-rss
+   margin: auto;
 .mobile-menu-wrapper
   max-height 0
   overflow hidden
