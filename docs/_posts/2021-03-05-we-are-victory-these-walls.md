@@ -4,6 +4,11 @@ date: "2021-03-05"
 tags:
 - News
 - Post Hardcore
+meta:
+  - name: description
+    content: We Are Victory These Walls
+  - name: keywords
+    content: Christian metal post hardcore electronic 
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/0KX6c2k/wav-afterglow.webp
 ---

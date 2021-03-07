@@ -16,7 +16,7 @@ featuredimg: https://i.ibb.co/CVwgzsh/weatherlp2.webp
 
 **Album-length:** 40 Minutes
 
-<br>
+<hr>
 
 Track Listing:
 

@@ -8,9 +8,11 @@ author: Gabriel Mesones
 featuredimg: https://i.ibb.co/wyhVfRS/burythedemons.jpg
 ---
 
-**Record label:** Independent
+**Band:** Bury Thy Demons
 
-**Release date:** 2020
+**Record Label:** Independent
+
+**Release Date:** 2020
 
 **Length:** 9:00
 

@@ -14,6 +14,8 @@ featuredimg: https://i.ibb.co/6nrmjLk/sop.png
 
 **Release Date:** TBA
 
+<hr>
+
 **Track Listing:**
 
 1. Amendment of the Heart
