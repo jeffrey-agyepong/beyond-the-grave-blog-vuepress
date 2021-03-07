@@ -6,7 +6,7 @@ tags:
 - Thrash Metal
 meta:
   - name: description
-    content: Review: Brotality - Worldwide Desolation
+    content: Brotality - Worldwide Desolation
   - name: keywords
     content: Christian Metal, Brotality, Thrash Metal, Rottweiler Records
 author: Erik Morgan

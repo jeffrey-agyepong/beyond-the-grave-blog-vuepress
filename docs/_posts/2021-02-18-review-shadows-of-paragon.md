@@ -6,12 +6,16 @@ tags:
 - Black Metal
 meta:
   - name: description
-    content: Review: Shadows of Paragon - Amendment
+    content: Shadows of Paragon - Amendment
   - name: keywords
     content: Christian Metal, Shadows of Paragon, Black Metal, Swedish Metal
 author: Ton Ringenier  
 featuredimg: https://i.ibb.co/6nrmjLk/sop.png
 ---
+
+**Band:** Shadows of Paragon
+
+**Album:** Amendment
 
 **Record Label:** Svartskog Productions
 

@@ -6,7 +6,7 @@ tags:
 - Doom Metal
 meta:
   - name: description
-    content: Review: Crowned In Sorrow - In Memoriam
+    content: Crowned In Sorrow - In Memoriam
   - name: keywords
     content: Christian Metal, Crowned in Sorrow, Doom Metal, Solo project, progressive metal
 author: Hezekiah Rose

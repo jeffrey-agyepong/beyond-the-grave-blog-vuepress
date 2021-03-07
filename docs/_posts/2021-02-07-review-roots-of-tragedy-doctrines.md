@@ -6,7 +6,7 @@ tags:
 - Death Metal
 meta:
   - name: description
-    content: Review: Roots of Tragedy - Doctrines - Deluxe Edition
+    content: Roots of Tragedy - Doctrines - Deluxe Edition
   - name: keywords
     content: Christian Metal, Roots of Tragedy, Progressive Death Metal, Djent, Metalcore, Deathcore, Review
 author: Hezekiah Rose

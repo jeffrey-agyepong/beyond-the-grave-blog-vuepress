@@ -33,8 +33,8 @@
                   }}</NavLink>
                 </li>
 
-                <SearchBox />
                 <Feed />
+                <SearchBox />
               </ul>
             </div>
           </div>

@@ -6,7 +6,7 @@ tags:
 - Metalcore
 meta:
   - name: description
-    content: Review: Review: Eonia - Devotion[EP]
+    content: Review Eonia - Devotion[EP]
   - name: keywords
     content: Christian Metal, Eonia, Metalcore, Review
 author: Erik Morgan   

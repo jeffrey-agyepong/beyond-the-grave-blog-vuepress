@@ -6,7 +6,7 @@ tags:
 - Industrial Metal
 meta:
   - name: description
-    content: INTERVIEW: HARD LOOK
+    content: INTERVIEW HARD LOOK
   - name: keywords
     content: Christian metal, HARD LOOK, Industrial Metal, solo project
 author: Jeffrey Agyepong
