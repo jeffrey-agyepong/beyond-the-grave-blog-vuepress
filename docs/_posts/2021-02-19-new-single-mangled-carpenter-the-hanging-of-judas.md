@@ -11,7 +11,9 @@ featuredimg: https://i.ibb.co/sqnT3Pg/judas.jpg
 Deathgrind band [Mangled Carpenter](https://web.facebook.com/mangledcarpenter) has just released a 2-song D45 entitled "The Hanging of Judas" through [Hagah Recordings](https://hagahrecordings.bandcamp.com/)(sub-label of [Rottweiler Records](https://rottweilerrecords.bandcamp.com/)). Below you can also find a video of vocalist/guitarist Seth Metoyer briefly explaining the Scriptural references in the song.
 
 <hr>
+
 **Release Date:** 19th February, 2021
+
 
 **Length:** 4 Minutes
 

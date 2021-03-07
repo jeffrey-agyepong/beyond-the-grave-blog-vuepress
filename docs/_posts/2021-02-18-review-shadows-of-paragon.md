@@ -4,6 +4,11 @@ date: "2021-02-18"
 tags:
 - Reviews
 - Black Metal
+meta:
+  - name: description
+    content: Review: Shadows of Paragon - Amendment
+  - name: keywords
+    content: Christian Metal, Shadows of Paragon, Black Metal, Swedish Metal
 author: Ton Ringenier  
 featuredimg: https://i.ibb.co/6nrmjLk/sop.png
 ---
@@ -12,7 +17,7 @@ featuredimg: https://i.ibb.co/6nrmjLk/sop.png
 
 **Genre:** Black Metal
 
-**Release Date:** TBA
+**Release Date:** March 19, 2021
 
 <hr>
 

@@ -4,6 +4,11 @@ date: "2021-01-27"
 tags:
 - Interviews
 - Industrial Metal
+meta:
+  - name: description
+    content: INTERVIEW: HARD LOOK
+  - name: keywords
+    content: Christian metal, HARD LOOK, Industrial Metal, solo project
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/YpYP3q7/hard-look.webp
 ---

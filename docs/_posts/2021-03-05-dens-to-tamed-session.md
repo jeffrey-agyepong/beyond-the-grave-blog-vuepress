@@ -4,6 +4,11 @@ date: "2021-03-05"
 tags:
 - News
 - Acoustic
+meta:
+  - name: description
+    content: Dens - To (Tamed Session) [Single]
+  - name: keywords
+    content: Christian metal, Dens, Facedown Records, Acoustic
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/55HkPXZ/dens-tamed-tongues.webp
 ---
@@ -16,7 +21,7 @@ featuredimg: https://i.ibb.co/55HkPXZ/dens-tamed-tongues.webp
 
 **Genre:** Acoustic/Country
 
-**Release Date:** 5th March, 2021
+**Release Date:** March 5th, 2021
 
 <hr>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xvbRVw21M6c" width="560" height="315" frameborder="0"></iframe></div>

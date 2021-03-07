@@ -4,6 +4,11 @@ date: "2021-03-05"
 tags:
 - News
 - Black Metal
+meta:
+  - name: description
+    content: El Gibbor - Tormented(Single)
+  - name: keywords
+    content: Christian metal, El Gibbor, Vision of God Records
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/7CMR2WQ/tormented.jpg
 ---
@@ -16,7 +21,7 @@ featuredimg: https://i.ibb.co/7CMR2WQ/tormented.jpg
 
 **Genre:** Black Metal
 
-**Release Date:** 5th March, 2021
+**Release Date:** March 5th, 2021
 
 <hr>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/drZwQe0UH80" width="560" height="315" frameborder="0"></iframe></div>
