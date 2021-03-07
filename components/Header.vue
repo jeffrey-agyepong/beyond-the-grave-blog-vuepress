@@ -34,6 +34,7 @@
                 </li>
 
                 <SearchBox />
+                <Feed />
               </ul>
             </div>
           </div>
@@ -48,11 +49,12 @@ import Vue from 'vue'
 import { DropDownButtonPlugin } from '@syncfusion/ej2-vue-splitbuttons'
 import { enableRipple } from '@syncfusion/ej2-base'
 import SearchBox from '@SearchBox'
+import Feed from './Feed'
 
 enableRipple(true)
 Vue.use(DropDownButtonPlugin)
 export default {
-  components: { SearchBox },
+  components: { SearchBox, Feed },
   data() {
     return {
       items: [

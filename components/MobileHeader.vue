@@ -33,9 +33,9 @@
           >
             <NavLink :link="item.link">{{ item.text }}</NavLink>
           </li>
-          <!--<li class="mobile-nav-item">
+          <li class="mobile-nav-item">
             <Feed />
-          </li>-->
+          </li>
         </ul>
       </div>
     </div>
