@@ -4,6 +4,11 @@ date: "2021-02-06"
 tags:
 - Reviews
 - Death Metal
+meta:
+  - name: description
+    content: Review: Roots of Tragedy - Doctrines - Deluxe Edition
+  - name: keywords
+    content: Christian Metal, Roots of Tragedy, Progressive Death Metal, Djent, Metalcore, Deathcore, Review
 author: Hezekiah Rose
 featuredimg: https://i.ibb.co/kxGtmdr/roots-of-tragedy.webp
 ---
