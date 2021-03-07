@@ -25,23 +25,23 @@ featuredimg: https://i.ibb.co/7CMR2WQ/tormented.jpg
 
 **Lyrics:**
 
-“How long will you torment me
-and depress me with words? You have insulted me ten times now.
-You’re not even ashamed of mistreating me. Even if it were true that I’ve made a mistake without realizing it,
-my mistake would affect only me. If you are trying to make yourselves look better than me
-by using my disgrace as an argument against me, then I want you to know that Eloah has wronged me
-and surrounded me with his net. Indeed, I cry, ‘Help! I’m being attacked!’ but I get no response.
-I call for help, but there is no justice. “Eloah has blocked my path so that I can’t go on.
-He has made my paths dark."
+“How long will you torment me <br>
+and depress me with words? You have insulted me ten times now. <br>
+You’re not even ashamed of mistreating me. Even if it were true that I’ve made a mistake without realizing it, <br>
+my mistake would affect only me. If you are trying to make yourselves look better than me <br>
+by using my disgrace as an argument against me, then I want you to know that Eloah has wronged me <br>
+and surrounded me with his net. Indeed, I cry, ‘Help! I’m being attacked!’ but I get no response. <br>
+I call for help, but there is no justice. “Eloah has blocked my path so that I can’t go on. <br>
+He has made my paths dark." <br>
 
-Even after my skin has been stripped off my body,
-I will see Eloah in my own flesh. I will see him with my own eyes,
-not with someone else’s.
-My heart fails inside me! “You say,
-‘We will persecute him!
-The root of the problem is found in him.’ Fear death,
-because your anger is punishable by death.
-Then you will know there is a judge.”"
+Even after my skin has been stripped off my body, <br>
+I will see Eloah in my own flesh. I will see him with my own eyes, <br>
+not with someone else’s. <br>
+My heart fails inside me! “You say, <br>
+‘We will persecute him! <br>
+The root of the problem is found in him.’ Fear death, <br>
+because your anger is punishable by death. <br>
+Then you will know there is a judge.”
 
 <hr>
 
