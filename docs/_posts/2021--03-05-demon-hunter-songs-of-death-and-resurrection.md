@@ -5,6 +5,11 @@ tags:
   - News
   - Acoustic
   - Full Length
+meta:
+  - name: description
+    content: Demon Hunter Songs of Death and Resurrection
+  - name: keywords
+    content: Christian metal, Demon Hunter, Solid State Records
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/vzYsVQs/songs-of-death-and-resurrection.jpg
 ---
@@ -45,7 +50,7 @@ featuredimg: https://i.ibb.co/vzYsVQs/songs-of-death-and-resurrection.jpg
 
 11. The Tide Began To Rise
 
-12. My Heartstrings come Undone
+12. My Heartstrings Come Undone
 
 <hr>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtube.com/playlist?list=PLCslpjrb7cYiYT8_KvXJGmO49oOifA5UF" width="560" height="315" frameborder="0"></iframe></div>
