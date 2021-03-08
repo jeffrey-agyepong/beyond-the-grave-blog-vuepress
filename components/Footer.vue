@@ -5,6 +5,7 @@
         ><img
           src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=beyondthegrave&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
       /></a>
+
       <hr />
       <div class="footer-col s12 m4 footer_links  font">
         <li
@@ -20,6 +21,11 @@
       </div>
     </div>
     <hr />
+    <div class="center">
+      <a href="privacy-policy.html" target="_blank" rel="noopener noreferrer"
+        >Privacy Policy</a
+      >
+    </div>
 
     <div class="footer-col s12 m4 footer_links">
       <div class="center">
