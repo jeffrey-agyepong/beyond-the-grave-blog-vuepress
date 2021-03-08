@@ -4,11 +4,6 @@ date: "2021-02-19"
 tags:
 - Reviews
 - Doom Metal
-meta:
-  - name: description
-    content: Crowned In Sorrow - In Memoriam
-  - name: keywords
-    content: Christian Metal, Crowned in Sorrow, Doom Metal, Solo project, progressive metal
 author: Hezekiah Rose
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg
 ---

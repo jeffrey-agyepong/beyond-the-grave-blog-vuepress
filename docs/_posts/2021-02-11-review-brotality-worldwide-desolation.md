@@ -4,11 +4,6 @@ date: "2021-02-09"
 tags:
 - Reviews
 - Thrash Metal
-meta:
-  - name: description
-    content: Brotality - Worldwide Desolation
-  - name: keywords
-    content: Christian Metal, Brotality, Thrash Metal, Rottweiler Records
 author: Erik Morgan
 featuredimg: https://i.ibb.co/FBF0mQD/ezgif-com-gif-maker.webp
 ---

@@ -4,11 +4,6 @@ date: "2021-02-06"
 tags:
 - Reviews
 - Metalcore
-meta:
-  - name: description
-    content: Review Eonia - Devotion[EP]
-  - name: keywords
-    content: Christian Metal, Eonia, Metalcore, Review
 author: Erik Morgan   
 featuredimg: https://i.ibb.co/7NnN5mx/eonia.webp
 ---

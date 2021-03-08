@@ -5,11 +5,6 @@ tags:
   - News
   - Acoustic
   - Full Length
-meta:
-  - name: description
-    content: Demon Hunter Songs of Death and Resurrection
-  - name: keywords
-    content: Christian metal, Demon Hunter, Solid State Records
 author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/vzYsVQs/songs-of-death-and-resurrection.jpg
 ---
