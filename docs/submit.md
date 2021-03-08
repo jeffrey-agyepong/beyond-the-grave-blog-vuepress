@@ -14,7 +14,7 @@ Email subject: “Review Request” – “Artist Name” – “Album/EP Name�
 - Details about the album you’d like us to take into consideration while reviewing it (include release date and also any song stories/meanings/lyrics)
 - Social media links
 - A high quality photo of the album cover
-- And, most importantly, send us the album to download(mp3/wav).
+- And, most importantly, send us the album to download(mp3).
 
 Note:
 
