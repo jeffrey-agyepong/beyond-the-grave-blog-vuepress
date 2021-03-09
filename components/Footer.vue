@@ -22,7 +22,10 @@
     </div>
     <hr />
     <div class="center">
-      <a href="privacy-policy.html" target="_blank" rel="noopener noreferrer"
+      <a
+        href="https://beyondthegravemusic.com/privacy-policy.html"
+        target="_blank"
+        rel="noopener noreferrer"
         >Privacy Policy</a
       >
     </div>
