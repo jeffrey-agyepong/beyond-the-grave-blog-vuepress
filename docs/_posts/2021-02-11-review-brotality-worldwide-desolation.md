@@ -8,30 +8,44 @@ author: Erik Morgan
 featuredimg: https://i.ibb.co/FBF0mQD/ezgif-com-gif-maker.webp
 ---
 
+**Band:** Brotality
 
-Record Label: Rottweiler Records
+**Album:** Worldwide Desolation
 
-Genre: Thrash Metal
+**Genre:** Thrash Metal
 
-Release Date: February 5, 2021
+**Record Label:** Rottweiler Records
 
-Album-length: 57 Minutes
+**Release Date:** February 5, 2021
+
+**Album-length:** 57 Minutes
 
 <hr>
 
-Track Listing:
+**Track Listing:**
 
-1....And Then There Was One 01:20 <br>
-2.Foxhole 04:43 <br>
-3.Salting The Wound 04:13 <br>
-4.I Am Fire I Am Death 04:36 <br>
-5.Biohazard 03:51 <br>
-6.Empty Existence 06:54 <br>
-7.Prisoners Of The Abyss 05:05 <br>
-8.Dirtnap 04:30 <br>
-9.Spiral Out 05:32 <br>
-10.Legion Falls 04:13 <br>
-11.Garden 02:09 <br>
+1....And Then There Was One 01:20 
+
+2.Foxhole 04:43 
+
+3.Salting The Wound 04:13 
+
+4.I Am Fire I Am Death 04:36 
+
+5.Biohazard 03:51 
+
+6.Empty Existence 06:54 
+
+7.Prisoners Of The Abyss 05:05 
+
+8.Dirtnap 04:30 
+
+9.Spiral Out 05:32 
+
+10.Legion Falls 04:13 
+
+11.Garden 02:09 
+
 12.The Way Of Suffering 08:58 <br>
 
 <hr>

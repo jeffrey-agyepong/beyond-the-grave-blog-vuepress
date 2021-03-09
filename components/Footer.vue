@@ -26,7 +26,7 @@
         >Privacy Policy</a
       >
     </div>
-
+    <hr />
     <div class="footer-col s12 m4 footer_links">
       <div class="center">
         Developed by
