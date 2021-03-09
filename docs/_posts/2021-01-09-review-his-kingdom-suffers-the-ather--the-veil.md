@@ -1,6 +1,6 @@
 ---
 title: "Review: His Kingdom Suffers -  The Aether & The Veil (Remastered & Instrumentals)"
-date: "2021-01-08"
+date: "2021-01-09"
 tags:
 - Reviews
 - Deathcore
