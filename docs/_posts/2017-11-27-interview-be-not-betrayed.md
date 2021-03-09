@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: BE NOT BETRAYED"
+title: "INTERVIEW: BE Not Betrayed"
 date: "2017-11-27"
 tags:
 - Interviews
