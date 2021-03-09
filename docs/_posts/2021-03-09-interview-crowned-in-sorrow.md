@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/phqnHvj/derek-corzine.jpg
 ---
 
-**Crowned in Sorrow** is the solo project of multi-instrumentalist and producer Derek Corzine known, for his time in bands [Syringe](https://syringeministry.bandcamp.com/) and [Bloodline Severed](https://bloodlinesevered.bandcamp.com/) and by his other solo-projects [Blood Thirsty](https://bloodthirstymetal.bandcamp.com/) and [Cosyns](https://cosyns.bandcamp.com/). Derek set aside some time from his hectic schedule to discuss his new melodic doom metal album "In Memoriam", upcoming projects, and how being a producer affects his craft.
+**Crowned in Sorrow** is the epic melodic doom metal solo project of multi-instrumentalist and producer Derek Corzine, known for his time in bands [Syringe](https://syringeministry.bandcamp.com/) and [Bloodline Severed](https://bloodlinesevered.bandcamp.com/) and by his other solo-projects [Blood Thirsty](https://bloodthirstymetal.bandcamp.com/) and [Cosyns](https://cosyns.bandcamp.com/). Derek set aside some time from his hectic schedule to discuss his new album "In Memoriam", upcoming projects, and how being a producer affects his craft.
 
 <hr>
 
