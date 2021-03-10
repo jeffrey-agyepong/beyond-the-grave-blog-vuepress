@@ -46,10 +46,10 @@ Eonia is a melodic metalcore band from Grand Rapids, Michigan, and, to my knowle
 
 <hr>
 
-[Pre-Save]()
+<div class="video-container"><iframe src="https://www.youtube.com/embed/5hBHMLE2iBA" width="560" height="315" frameborder="0"></iframe></div>
 
 <hr>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/5hBHMLE2iBA" width="560" height="315" frameborder="0"></iframe></div>
+<iframe style="border: 0; width: 350px; height: 621px;" src="https://bandcamp.com/EmbeddedPlayer/album=927582454/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://eonia.bandcamp.com/album/devotion-ep">Devotion EP by Eonia</a></iframe>
 
 <hr>
