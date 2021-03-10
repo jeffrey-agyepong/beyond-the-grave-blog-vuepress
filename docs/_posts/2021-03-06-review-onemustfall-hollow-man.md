@@ -1,5 +1,5 @@
 ---
-title: "Review: OneMustFall - Hollow Man"
+title: "Review: OneMustFall - Hollow Man (Single)"
 date: "2021-03-09"
 tags:
 - Reviews
