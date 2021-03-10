@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: CONTEXT"
+title: "Interview: Context"
 date: "2020-08-22"
 tags:
 - Interviews

@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: HARD LOOK"
+title: "Interview: HARD LOOK"
 date: "2021-01-27"
 tags:
 - Interviews

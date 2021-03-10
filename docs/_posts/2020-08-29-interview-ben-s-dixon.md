@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: BEN S DIXON"
+title: "Interview: Ben S Dixon"
 date: "2020-08-29"
 tags:
 - Interviews

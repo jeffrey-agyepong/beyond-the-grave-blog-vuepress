@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: DAYGRAVES"
+title: "Interview: daygraves"
 date: "2020-09-13"
 tags:
 - Interviews
