@@ -22,7 +22,9 @@
             <div id="navbarsExampleDefault" class="collapse navbar-collapse">
               <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
                 <!-- <ejs-dropdownbutton :items="items">Bands</ejs-dropdownbutton>-->
-                <ejs-dropdownbutton :items="items2">Reviews</ejs-dropdownbutton>
+                <ejs-dropdownbutton :items="items2"
+                  ><a href="/tag/Reviews/">Reviews</a></ejs-dropdownbutton
+                >
                 <li
                   v-for="item in $themeConfig.nav"
                   :key="item.text"
