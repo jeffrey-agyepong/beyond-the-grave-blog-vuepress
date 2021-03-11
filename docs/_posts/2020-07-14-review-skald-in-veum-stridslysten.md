@@ -3,6 +3,7 @@ title: "Review: Skald In Veum - Stridslysten"
 date: "2020-07-14"
 tags:
 - Reviews
+- Album-Reviews
 - Black Metal
 author: Anonymous
 featuredimg:  https://i.ibb.co/8cRXpsr/skald.jpg

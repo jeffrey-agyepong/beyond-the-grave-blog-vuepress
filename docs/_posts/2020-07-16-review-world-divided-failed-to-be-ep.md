@@ -3,6 +3,7 @@ title: "Review: World Divided - Failed to Be [EP]"
 date: "2020-07-16"
 tags:
 - Reviews
+- Album-Reviews
 - Deathcore
 author: Jeremy Prince
 featuredimg: https://i.ibb.co/16fnpp1/world-divided.jpg

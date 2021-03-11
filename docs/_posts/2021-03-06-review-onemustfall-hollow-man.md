@@ -3,6 +3,7 @@ title: "Review: OneMustFall - Hollow Man (Single)"
 date: "2021-03-09"
 tags:
 - Reviews
+- Single Reviews
 - Melodic Metal
 author: Ton Ringenier  
 featuredimg: https://i.ibb.co/y03c0hh/hollow-man.webp

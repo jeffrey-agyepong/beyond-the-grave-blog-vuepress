@@ -3,6 +3,7 @@ title: 'Review: OneMustFall - From Ashes I Rise(Single)'
 date: '2021-01-07'
 tags:
   - Reviews
+  - Single-Reviews
   - Melodic Metal
 author: Ton Ringenier
 featuredimg: https://i.ibb.co/m6bJY88/one-must-fall.webp

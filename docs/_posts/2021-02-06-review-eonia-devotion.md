@@ -3,6 +3,7 @@ title: "Review: Eonia - Devotion[EP]"
 date: "2021-02-06"
 tags:
 - Reviews
+- Album-Reviews
 - Metalcore
 author: Erik Morgan   
 featuredimg: https://i.ibb.co/7NnN5mx/eonia.webp

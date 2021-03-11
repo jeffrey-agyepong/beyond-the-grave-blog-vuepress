@@ -3,6 +3,7 @@ title: "Review: TIMŌRĀTUS – My Life in a Mediocre Metal Band"
 date: "2020-07-25"
 tags:
 - Reviews
+- Album-Reviews
 - Experimental Metal
 author: Anonymous
 featuredimg: https://i.ibb.co/cgB2SSD/timoratus.jpg

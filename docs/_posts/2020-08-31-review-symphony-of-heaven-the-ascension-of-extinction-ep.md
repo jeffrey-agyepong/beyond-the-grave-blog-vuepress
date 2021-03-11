@@ -3,6 +3,7 @@ title: "Review: Symphony of Heaven - The Ascension Of Extinction [EP]"
 date: "2020-08-31"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Nick Ptak
 featuredimg: https://f4.bcbits.com/img/a2433952082_10.jpg

@@ -4,6 +4,7 @@ type: post
 date: "2020-08-08"
 tags:
 - Reviews
+- Album-Reviews
 - Trash Metal
 author: Anonymous
 featuredimg: https://i.ibb.co/8MwnRpb/brotality.jpg

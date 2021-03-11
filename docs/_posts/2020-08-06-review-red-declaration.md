@@ -4,6 +4,7 @@ date: "2020-08-06"
 type: post
 tags:
 - Reviews
+- Album-Reviews
 - Post Hardcore
 author: Anonymous
 featuredimg: https://i.ibb.co/pnmRVV6/reddeclaration.jpg

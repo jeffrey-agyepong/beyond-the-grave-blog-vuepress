@@ -3,6 +3,7 @@ title: "Review: Reflections of Glory - Escape the Dream"
 date: "2021-01-31"
 tags:
 - Reviews
+- Album-Reviews
 - Symphonic Metal
 author: Ton Ringenier    
 featuredimg: https://i.ibb.co/8gcmKNZ/escape-the-dream.webp

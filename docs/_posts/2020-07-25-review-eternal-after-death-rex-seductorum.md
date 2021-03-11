@@ -3,6 +3,7 @@ title: "Review: Eternal After Death - Rex Seductorum"
 date: "2020-07-25"
 tags:
 - Reviews
+- Album-Reviews
 - Deathcore
 author: Anonymous
 featuredimg: https://i.ibb.co/hgZs3B6/eternalafterdeath.jpg

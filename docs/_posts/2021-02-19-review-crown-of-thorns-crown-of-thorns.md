@@ -3,6 +3,7 @@ title: "Review: Crown of Thorns - Crown of Thorns(EP)"
 date: "2021-02-19"
 tags:
 - Reviews
+ - Album Reviews
 - Deathcore
 author: Jeremy Prince  
 featuredimg: https://i.ibb.co/FBNmqrF/crown-of-thorns.webp

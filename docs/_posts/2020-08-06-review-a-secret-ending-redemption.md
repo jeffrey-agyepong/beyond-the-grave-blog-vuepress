@@ -3,6 +3,7 @@ title: "Review: A Secret Ending - Redemption EP"
 date: "2020-08-06"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Nick Ptak
 featuredimg: https://i.ibb.co/74B7LFC/asecretending.jpg

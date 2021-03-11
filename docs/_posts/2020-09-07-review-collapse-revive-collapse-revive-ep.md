@@ -3,6 +3,7 @@ title: "Review: Collapse//Revive - Collapse//Revive EP"
 date: "2020-09-07"
 tags:
 - Reviews
+- Album-Reviews
 - Metalcore
 author: Gabriel Mesones
 featuredimg: https://i.ibb.co/Gpf5Rvk/collapse.jpg

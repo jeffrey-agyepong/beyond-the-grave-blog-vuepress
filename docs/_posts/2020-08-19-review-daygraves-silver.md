@@ -3,6 +3,7 @@ title: "Review: daygraves - Silver"
 date: "2020-08-19"
 tags:
 - Reviews
+- Album-Reviews
 - Black Metal
 author: Nick Ptak
 featuredimg: https://i.ibb.co/RDbWLxJ/silver-1.jpg

@@ -3,6 +3,7 @@ title: "Review: Weathered - Everything All At Once"
 date: "2021-02-12"
 tags:
 - Reviews
+- Album-Reviews
 - Rock
 author: Jeremy Prince  
 featuredimg: https://i.ibb.co/CVwgzsh/weatherlp2.webp

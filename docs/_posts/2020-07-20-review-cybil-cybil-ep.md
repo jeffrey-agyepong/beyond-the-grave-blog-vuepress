@@ -3,6 +3,7 @@ title: "Review: Cybil - Cybil EP"
 date: "2020-07-20"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Anonymous
 featuredimg: https://i.ibb.co/bmr7FhJ/cybil.jpg

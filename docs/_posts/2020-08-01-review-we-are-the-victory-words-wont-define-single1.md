@@ -3,6 +3,7 @@ title: "Review: We Are Victory - Words Won't Define (Single)"
 date: "2020-08-01"
 tags:
 - Reviews
+- Single-Reviews
 - Post Hardcore
 author: Anonymous
 featuredimg: https://i.ibb.co/qy11CQ9/wearevictory-o.jpg

@@ -3,6 +3,7 @@ title: "Review: Lifelong - Above the Waves"
 date: "2020-07-28"
 tags:
 - Reviews
+- Album-Reviews
 - Pop Punk
 author: Jeremy Prince
 featuredimg: https://i.ibb.co/zRDRTYb/lifelongabovethewaves.jpg

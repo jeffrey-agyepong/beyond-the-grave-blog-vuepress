@@ -3,6 +3,7 @@ title: "Review:  Brotality - Worldwide Desolation"
 date: "2021-02-09"
 tags:
 - Reviews
+- Album-Reviews
 - Thrash Metal
 author: Erik Morgan
 featuredimg: https://i.ibb.co/FBF0mQD/ezgif-com-gif-maker.webp

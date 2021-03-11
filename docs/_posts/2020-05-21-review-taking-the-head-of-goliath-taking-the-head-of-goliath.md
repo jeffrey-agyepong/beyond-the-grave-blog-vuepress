@@ -3,6 +3,7 @@ title: "Review: Taking The Head of Goliath - Taking The Head of Goliath [EP]"
 date: "2020-05-21"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Alberto
 featuredimg: https://i.ibb.co/2MC4vyX/27655284-1593424970693392-6601658974050778898-n.jpg

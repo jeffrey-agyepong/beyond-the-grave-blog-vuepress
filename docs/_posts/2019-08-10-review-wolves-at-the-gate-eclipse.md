@@ -3,6 +3,7 @@ title: "Review: Wolves At The Gate - Eclipse"
 date: "2019-08-10"
 tags:
 - Reviews
+- Album-Reviews
 - Post Hardcore
 author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/hZK978p/wolves-at-the-gate-eclipse.jpg

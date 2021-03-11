@@ -3,6 +3,7 @@ title: "Review: ÆNON - The Comforter [EP]"
 date: "2020-08-31"
 tags:
 - Reviews
+- Album-Reviews
 - Metalcore
 author: Erik Morgan
 featuredimg: https://i.ibb.co/Th9yvfw/aenon.jpg

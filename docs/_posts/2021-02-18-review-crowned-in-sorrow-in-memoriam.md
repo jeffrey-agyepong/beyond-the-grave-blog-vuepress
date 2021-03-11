@@ -3,6 +3,7 @@ title: "Review: Crowned In Sorrow - In Memoriam"
 date: "2021-02-19"
 tags:
 - Reviews
+- Album Reviews
 - Doom Metal
 author: Hezekiah Rose
 featuredimg: https://i.ibb.co/WPjBBgh/c-i-s-far-beyond-death.jpg

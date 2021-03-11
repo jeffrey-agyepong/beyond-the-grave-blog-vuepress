@@ -3,6 +3,7 @@ title: "Review: Searching Serenity - Isolation [EP]"
 date: "2020-07-13"
 tags:
 - Reviews
+- Album-Reviews
 - Deathcore
 author: Anonymous
 featuredimg:  https://i.ibb.co/dkcwx50/isolation.jpg

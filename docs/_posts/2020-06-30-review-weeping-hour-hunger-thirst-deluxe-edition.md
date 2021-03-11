@@ -3,6 +3,7 @@ title: "Review: Weeping Hour - Hunger & Thirst (Deluxe Edition)"
 date: "2020-06-30"
 tags:
 - Reviews
+- Album-Reviews
 - Deathcore
 author: Alberto
 featuredimg:  https://i.ibb.co/0F3Ftsx/weeping-hour.jpg

@@ -21,10 +21,10 @@ module.exports = themeConfig => {
         text: 'News',
         link: '/tag/News/',
       },
-      {
+      /*{
         text: 'Reviews',
         link: '/tag/Reviews/',
-      },
+      },*/
       {
         text: 'Submit Music',
         link: '/submit/',

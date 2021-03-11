@@ -3,6 +3,7 @@ title: "Review: Death Requisite - Threnody"
 date: "2020-05-20"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Alberto
 featuredimg: https://i.ibb.co/CJyYSNS/death-requisite.webp

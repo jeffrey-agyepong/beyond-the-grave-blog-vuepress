@@ -3,6 +3,7 @@ title: "Review: Astillian - Waves At Dusk"
 date: "2020-07-16"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Anonymous
 featuredimg:  https://i.ibb.co/0hrLcWG/astillian2.jpg

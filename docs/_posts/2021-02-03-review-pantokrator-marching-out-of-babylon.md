@@ -3,6 +3,7 @@ title: "Review: Pantokrator - Marching Out of Babylon"
 date: "2021-02-03"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Jeremy Prince  
 featuredimg:  https://i.ibb.co/9rPwBmm/p-m-o-o-b.webp

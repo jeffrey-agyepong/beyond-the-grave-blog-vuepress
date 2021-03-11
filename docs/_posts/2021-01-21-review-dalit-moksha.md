@@ -3,6 +3,7 @@ title: "Review: Dalit - Moksha"
 date: "2021-01-21"
 tags:
 - Reviews
+- Album-Reviews
 - Doom Metal
 author: Ton Ringenier   
 featuredimg: https://i.ibb.co/ZYxLCNd/dalit-moksha.webp

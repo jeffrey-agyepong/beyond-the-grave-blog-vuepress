@@ -3,6 +3,7 @@ title: "Review: Fallstar - Sunbreather"
 date: "2021-02-09"
 tags:
 - Reviews
+- Album-Reviews
 - Metalcore
 author: Zachary Tyler Van Dyke
 featuredimg: https://i.ibb.co/G56Dg7Q/fallstar.webp

@@ -3,6 +3,7 @@ title: "Review: Hard Look - The Great Tribulation"
 date: "2020-08-28"
 tags:
 - Reviews
+- Album-Reviews
 - Industrial Metal
 author: Anonymous
 featuredimg: https://i.ibb.co/jfxcfZD/a1132292348-16.jpg

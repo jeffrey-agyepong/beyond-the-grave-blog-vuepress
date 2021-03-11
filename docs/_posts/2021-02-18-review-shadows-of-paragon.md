@@ -3,6 +3,7 @@ title: "Review: Shadows of Paragon - Amendment"
 date: "2021-02-18"
 tags:
 - Reviews
+- Album Reviews
 - Black Metal
 author: Ton Ringenier  
 featuredimg: https://i.ibb.co/6nrmjLk/sop.png

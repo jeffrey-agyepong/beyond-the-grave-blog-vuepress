@@ -3,6 +3,7 @@ title: "Review: Implement - Bleeding Alone"
 date: "2020-09-03"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Ton Ringenier
 featuredimg: https://i.ibb.co/k2VbWvN/implement-bleeding-alone-1.png

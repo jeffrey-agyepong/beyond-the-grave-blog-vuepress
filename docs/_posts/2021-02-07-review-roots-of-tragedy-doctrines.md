@@ -3,6 +3,7 @@ title: "Review: Roots of Tragedy - Doctrines (Deluxe Edition)"
 date: "2021-02-06"
 tags:
 - Reviews
+- Album-Reviews
 - Death Metal
 author: Hezekiah Rose
 featuredimg: https://i.ibb.co/kxGtmdr/roots-of-tragedy.webp

@@ -3,6 +3,7 @@ title: "Review: Bareheart - In the Mo(u)rning"
 date: "2020-06-22"
 tags:
 - Reviews
+- Album-Reviews
 - Acoustic
 author: Alberto
 featuredimg: https://i.ibb.co/qNDyLgh/in-the-mourning.jpg

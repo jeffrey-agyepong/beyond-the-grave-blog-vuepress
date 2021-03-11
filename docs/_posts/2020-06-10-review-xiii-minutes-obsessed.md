@@ -3,6 +3,7 @@ title: "Review: XIII Minutes - Obsessed"
 date: "2020-06-10"
 tags:
 - Reviews
+- Album-Reviews
 - Metal
 author: Alberto
 featuredimg: https://i.ibb.co/3MTxLy7/xiii-minutes-obsessed-front-cover-hi-res.jpg
