@@ -16,16 +16,16 @@
         <ul v-if="$themeConfig.nav" class="mobile-nav">
           <!--<li :items="items" class="mobile-nav-item">
             <NavLink :link="items.url">{{ items.text }}</NavLink>
-          </li>-->
-          <!--<li :items="items2" class="mobile-nav-item">
-            <NavLink :link="items2.url">{{ items2.text }}</NavLink>
           </li>
+          <li :items="items2" class="mobile-nav-item">
+            <NavLink :link="items2.url">{{ items2.text }}</NavLink>
+          </li>-->
           <li :items="items3" class="mobile-nav-item">
             <NavLink :link="items3.url">{{ items3.text }}</NavLink>
           </li>
           <li :items="items4" class="mobile-nav-item">
             <NavLink :link="items4.url">{{ items4.text }}</NavLink>
-          </li>-->
+          </li>
           <li
             v-for="item in $themeConfig.nav"
             :key="item.text"
@@ -70,12 +70,12 @@ export default {
       },
 
       items3: {
-        text: 'New Releases',
-        url: '/tag/New Releases/',
+        text: 'Single Reviews',
+        url: '/tag/Single-Reviews/',
       },
       items4: {
-        text: 'Album Spotlight',
-        url: '/tag/Album Spotlight/',
+        text: 'Album Reviews',
+        url: '/tag/Album-Reviews/',
       },
     }
   },
