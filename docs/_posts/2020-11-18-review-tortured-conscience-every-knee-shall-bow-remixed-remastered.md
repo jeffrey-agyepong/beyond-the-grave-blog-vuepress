@@ -20,6 +20,8 @@ featuredimg: https://i.ibb.co/DDkTPgt/every-knee-shall-bowremixed-remastered.jpg
 
 **Genre:** Brutal Death Metal
 
+<hr>
+
 **Track listing:** 
 
 1. Blinded 5:13

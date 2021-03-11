@@ -24,7 +24,7 @@ Melodic metal band, **OneMustFall** are set to release a new single called **Hol
 
  I had also the privilege of doing the review of the first single called From Ashes I Rise. In that [review](https://beyondthegravemusic.com/2021/01/07/review-one-must-fall-from-ashes-i-rise/),  I guessed we will also hear songs with a higher tempo, and guess what, that's exactly the case here. The song starts with a nice keyboard interlude, and then the guitars kick in with a pretty aggressive but beautiful melodic riff. I completely understand why they have asked Olli to sing a song for them. The man has a delightful voice, a perfect fit for a melodic metal song like this.
 
- I have been listening to metal for about 18 years now and these days mostly to Christian metal acts. The thing is, we need Christian metal bands with a sound like this. Of course, we have bands like *Narnia, Gloriam Dei, Northern Flame* to name a few, but this is slightly different. Secular bands who came to mind are Stratovarius and I hear some *Children of Bodem* influences in the keyboard section.
+ I have been listening to metal for about 18 years now and these days mostly to Christian metal acts. The thing is, we need Christian metal bands with a sound like this. Of course, we have bands like *Narnia, Gloriam Dei, Northern Flame* to name a few, but this is slightly different. Secular bands who came to mind were Stratovarius and I hear some *Children of Bodem* influences in the keyboard section.
 
 I think we can say that we will have a nice EP to look forward to, so support this band!
 

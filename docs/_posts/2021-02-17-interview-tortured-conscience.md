@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: TORTURED CONSCIENCE"
+title: "Interview: Tortured Conscience"
 date: "2021-02-17"
 tags:
 - Interviews

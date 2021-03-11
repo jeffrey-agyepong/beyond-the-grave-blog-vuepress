@@ -1,5 +1,5 @@
 ---
-title: "INTERVIEW: SYMPHONY OF HEAVEN"
+title: "Interview: Symphony of Heaven"
 date: "2021-02-12"
 tags:
 - Interviews
@@ -11,7 +11,9 @@ featuredimg: https://i.ibb.co/fMh4C0j/symphony.jpg
 Symphony of Heaven is a Blackened Death Metal band from Indiana. I had the opportunity to talk with the band about their history, recent EP, the faith that drives their music and the upcoming full-length album. 
 
 <hr>
+
 **Introduce yourself and tell us your role in the band. How long has each of you guys been playing your various instruments/doing vocals?**
+
 
 **Logan:** I'm Logan Thompson, and I go by the moniker "PATHØS" for the band, which means "to invoke a sense of suffering". I am on rhythm guitar and vocals. I have been playing music all my life, started with drums at about 4th grade and learned guitar starting in about 7th grade. My mother is a music teacher so I was involved before I could even remember anything.
 

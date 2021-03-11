@@ -14,7 +14,7 @@ featuredimg: https://i.ibb.co/PTrGF1K/those-who-endure.jpg
 
 Jeffrey: Hey, I hope you’re doing well. I want to start this by you telling us your name and role in the band?
 
-Peter: Hi Jeffrey.Thanks for approaching me for the interview. My name's Peter, I'm the vocalist and lyricist as well as founder for Those Who Endure.
+Peter: Hi Jeffrey. Thanks for approaching me for the interview. My name's Peter, I'm the vocalist and lyricist as well as founder for Those Who Endure.
 
 Jeffrey: How long have you been doing vocals? Do you play any other instruments?
 
