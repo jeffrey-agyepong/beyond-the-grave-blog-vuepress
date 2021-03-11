@@ -8,7 +8,7 @@ author: Jeffrey Agyepong
 featuredimg: https://i.ibb.co/Mn0vcYS/charlespowell.jpg
 ---
 
-[Battlefrost Productions](https://battlefrost.com/) is a new independent metal record label founded by musician and producer Charles Powell. Charles recently remixed and remastered [Tortured Conscience](https://web.facebook.com/TorturedConscience2000/)'s [Every Knee Shall Bow](https://www.beyondthegravemusic.com/2020/11/18/review-tortured-conscience-every-knee-shall-bow-remixed-remastered/) and I got the opportunity to ask him some questions regarding the process, the vision of Battlefrost Productions, his band [Sylvan Fortress](https://web.facebook.com/sylvan.fortress/) (including members of Antestor, Crimson Thorn and Taking the Head of Goliath), and his upcoming book on Christian metal.
+[Battlefrost Productions](https://battlefrost.com/) is a new independent metal record label founded by musician and producer Charles Powell. Charles recently remixed and remastered [Tortured Conscience](https://web.facebook.com/TorturedConscience2000/)'s [Every Knee Shall Bow](https://www.beyondthegravemusic.com/2020/11/18/review-tortured-conscience-every-knee-shall-bow-remixed-remastered/) and I got the opportunity to ask him some questions regarding the production process, the vision of Battlefrost Productions, his band [Sylvan Fortress](https://web.facebook.com/sylvan.fortress/) (including members of Antestor, Crimson Thorn and Taking the Head of Goliath), and his upcoming book on Christian metal.
 
 
 
